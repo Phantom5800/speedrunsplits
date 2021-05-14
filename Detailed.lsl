@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2116</X>
-  <Y>142</Y>
-  <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1188</VerticalHeight>
+  <X>-1881</X>
+  <Y>138</Y>
+  <VerticalWidth>671</VerticalWidth>
+  <VerticalHeight>1168</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -15,8 +15,8 @@
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
     <PersonalBestColor>FF16A6FF</PersonalBestColor>
     <AheadGainingTimeColor>FF00CC36</AheadGainingTimeColor>
-    <AheadLosingTimeColor>FFAAF9BF</AheadLosingTimeColor>
-    <BehindGainingTimeColor>FFF4A6A0</BehindGainingTimeColor>
+    <AheadLosingTimeColor>FF52CC73</AheadLosingTimeColor>
+    <BehindGainingTimeColor>FFCC5C52</BehindGainingTimeColor>
     <BehindLosingTimeColor>FFCC1200</BehindLosingTimeColor>
     <BestSegmentColor>FFD8AF1F</BestSegmentColor>
     <UseRainbowColor>False</UseRainbowColor>
@@ -52,7 +52,7 @@
         <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></TitleFont>
         <SingleLine>False</SingleLine>
         <TitleColor>FFFFFFFF</TitleColor>
-        <BackgroundColor>002A2A2A</BackgroundColor>
+        <BackgroundColor>7E520669</BackgroundColor>
         <BackgroundColor2>00131313</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
         <DisplayGameIcon>False</DisplayGameIcon>
@@ -68,7 +68,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>11</VisualSplitCount>
+        <VisualSplitCount>12</VisualSplitCount>
         <SplitPreviewCount>4</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
@@ -86,9 +86,9 @@
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
         <LockLastSplit>True</LockLastSplit>
-        <IconSize>29</IconSize>
+        <IconSize>20</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>5.7</SplitHeight>
+        <SplitHeight>0</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
@@ -99,13 +99,20 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
+            <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>Segment</Name>
+            <Type>SegmentTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>

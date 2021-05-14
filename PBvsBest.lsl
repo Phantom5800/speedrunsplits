@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2116</X>
-  <Y>142</Y>
-  <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1188</VerticalHeight>
+  <X>-1327</X>
+  <Y>152</Y>
+  <VerticalWidth>987</VerticalWidth>
+  <VerticalHeight>1191</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
-    <BackgroundColor>FF5F417B</BackgroundColor>
-    <BackgroundColor2>FF523A6B</BackgroundColor2>
+    <BackgroundColor>FF7B4141</BackgroundColor>
+    <BackgroundColor2>FF6B3A3A</BackgroundColor2>
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
     <PersonalBestColor>FF16A6FF</PersonalBestColor>
     <AheadGainingTimeColor>FF00CC36</AheadGainingTimeColor>
-    <AheadLosingTimeColor>FFAAF9BF</AheadLosingTimeColor>
-    <BehindGainingTimeColor>FFF4A6A0</BehindGainingTimeColor>
+    <AheadLosingTimeColor>FF52CC73</AheadLosingTimeColor>
+    <BehindGainingTimeColor>FFCC5C52</BehindGainingTimeColor>
     <BehindLosingTimeColor>FFCC1200</BehindLosingTimeColor>
     <BestSegmentColor>FFD8AF1F</BestSegmentColor>
     <UseRainbowColor>False</UseRainbowColor>
@@ -68,7 +68,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>11</VisualSplitCount>
+        <VisualSplitCount>10</VisualSplitCount>
         <SplitPreviewCount>4</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
@@ -90,7 +90,7 @@
         <IconShadows>True</IconShadows>
         <SplitHeight>5.7</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
-        <BackgroundColor>8041197B</BackgroundColor>
+        <BackgroundColor>807B1919</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
@@ -99,7 +99,7 @@
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
@@ -111,9 +111,16 @@
           </Settings>
           <Settings>
             <Version>1.5</Version>
-            <Name>Time</Name>
-            <Type>SplitTime</Type>
+            <Name>PB</Name>
+            <Type>SegmentTime</Type>
             <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>Best</Name>
+            <Type>SegmentTime</Type>
+            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
