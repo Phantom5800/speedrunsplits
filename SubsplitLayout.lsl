@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2360</X>
-  <Y>66</Y>
+  <X>-2325</X>
+  <Y>78</Y>
   <VerticalWidth>665</VerticalWidth>
   <VerticalHeight>1161</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -55,11 +55,11 @@
         <BackgroundColor>002A2A2A</BackgroundColor>
         <BackgroundColor2>00131313</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <DisplayGameIcon>False</DisplayGameIcon>
+        <DisplayGameIcon>True</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
         <ShowVariables>True</ShowVariables>
-        <TextAlignment>0</TextAlignment>
+        <TextAlignment>2</TextAlignment>
       </Settings>
     </Component>
     <Component>
