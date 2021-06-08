@@ -12,10 +12,13 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>1</AttemptCount>
+  <AttemptCount>2</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="06/06/2021 00:00:00" isStartedSynced="True" ended="06/06/2021 04:43:33" isEndedSynced="True">
-      <RealTime>04:43:33.0000000</RealTime>
+      <RealTime>04:43:33</RealTime>
+    </Attempt>
+    <Attempt id="2" started="06/08/2021 01:40:41" isStartedSynced="True" ended="06/08/2021 04:49:10" isEndedSynced="True">
+      <RealTime>03:08:29.3730000</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -24,153 +27,252 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:20:34</RealTime>
+          <RealTime>00:17:47.6830000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:20:34</RealTime>
+        <RealTime>00:17:47.6830000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:20:34</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:17:47.6830000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Nap Time</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:30:48.2050000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:13:00.5220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="2">
+          <RealTime>00:13:00.5220000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Time to go Home</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:55:39</RealTime>
+          <RealTime>00:45:35.6990000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:35:05</RealTime>
+        <RealTime>00:14:47.4940000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:35:05</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:14:47.4940000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Zoomy Village</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:22.9210000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:09:47.2220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="2">
+          <RealTime>00:09:47.2220000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Boris is my Friend</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:21:25</RealTime>
+          <RealTime>01:06:22.8010000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:25:46</RealTime>
+        <RealTime>00:10:59.8800000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:25:46</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:10:59.8800000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Better Sniffing</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:58:14</RealTime>
+          <RealTime>01:34:46.4920000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:36:49</RealTime>
+        <RealTime>00:28:23.6910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:36:49</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:28:23.6910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Meet Tao</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>01:45:26.0970000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:10:39.6050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="2">
+          <RealTime>00:10:39.6050000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Snow Field</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:24:19</RealTime>
+          <RealTime>01:55:35.3030000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:26:05</RealTime>
+        <RealTime>00:10:09.2060000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:26:05</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:10:09.2060000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Sniff Master</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>02:17:56.0050000</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>00:22:20.7020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0" />
+        <Time id="2">
+          <RealTime>00:22:20.7020000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Gang Leader</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:00:02</RealTime>
+          <RealTime>02:34:55.3670000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:35:43</RealTime>
+        <RealTime>00:16:59.3620000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>01:35:43</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:16:59.3620000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Sniff Master Medal</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:17:51</RealTime>
+          <RealTime>02:48:10.8320000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:17:49</RealTime>
+        <RealTime>00:13:15.4650000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:17:49</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:13:15.4650000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Zombie T-Rex</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:36:57</RealTime>
+          <RealTime>03:03:56.5610000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:19:06</RealTime>
+        <RealTime>00:15:45.7290000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:19:06</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:15:45.7290000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Goodbye Friends</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>04:43:33</RealTime>
+          <RealTime>03:08:29.3730000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:36</RealTime>
+        <RealTime>00:04:32.8120000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:06:36</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:04:32.8120000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
