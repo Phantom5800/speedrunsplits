@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2318</X>
-  <Y>103</Y>
+  <X>-2319</X>
+  <Y>105</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1161</VerticalHeight>
+  <VerticalHeight>1158</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,6 +63,27 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.Counter.dll</Path>
+      <Settings>
+        <Version>1.0</Version>
+        <GlobalHotkeysEnabled>True</GlobalHotkeysEnabled>
+        <OverrideCounterFont>False</OverrideCounterFont>
+        <OverrideTextColor>False</OverrideTextColor>
+        <CounterFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></CounterFont>
+        <CounterTextColor>FFFFFFFF</CounterTextColor>
+        <CounterValueColor>FFFFFFFF</CounterValueColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>40000000</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <CounterText>Extra Scents (22):</CounterText>
+        <InitialValue>0</InitialValue>
+        <Increment>1</Increment>
+        <IncrementKey>Add</IncrementKey>
+        <DecrementKey>Subtract</DecrementKey>
+        <ResetKey>NumPad0</ResetKey>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
@@ -87,7 +108,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>7.2</SplitHeight>
+        <SplitHeight>5.7</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2318</X>
-  <Y>103</Y>
+  <X>-2274</X>
+  <Y>125</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1161</VerticalHeight>
+  <VerticalHeight>1224</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -126,7 +126,7 @@
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
         <SectionTimerColor>FF777777</SectionTimerColor>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
@@ -141,6 +141,13 @@
             <Name>Time</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>WR</Name>
+            <Type>SplitTime</Type>
+            <Comparison>WR - 7/2020</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
