@@ -75,7 +75,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <CounterText>Extra Scents (22):</CounterText>
+        <CounterText>Extra Scents (21):</CounterText>
         <InitialValue>0</InitialValue>
         <Increment>1</Increment>
         <IncrementKey>Add</IncrementKey>
