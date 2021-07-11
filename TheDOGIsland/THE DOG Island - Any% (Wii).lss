@@ -47,9 +47,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:15:17</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>00:14:50</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:15:17</RealTime>
@@ -89,7 +86,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:25:43</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:10:25.7700000</RealTime>
@@ -128,9 +124,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:39:08</RealTime>
-        </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>00:38:40</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -173,7 +166,6 @@
         <SplitTime name="Personal Best">
           <RealTime>00:47:56</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:08:20.4100000</RealTime>
@@ -212,9 +204,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>00:57:12</RealTime>
-        </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>00:56:28</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -257,9 +246,6 @@
         <SplitTime name="Personal Best">
           <RealTime>01:18:47</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>01:21:15</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:21:35</RealTime>
@@ -301,7 +287,6 @@
         <SplitTime name="Personal Best">
           <RealTime>01:28:33</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:09:46</RealTime>
@@ -338,9 +323,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>01:37:10</RealTime>
-        </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>01:39:50</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -383,9 +365,6 @@
         <SplitTime name="Personal Best">
           <RealTime>01:52:29</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>01:55:00</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:14:59.6500000</RealTime>
@@ -421,9 +400,6 @@
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>02:07:50</RealTime>
-        </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>02:11:07</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -463,9 +439,6 @@
         <SplitTime name="Personal Best">
           <RealTime>02:19:56</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>02:22:20</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:11:44.4400000</RealTime>
@@ -504,9 +477,6 @@
         <SplitTime name="Personal Best">
           <RealTime>02:32:18</RealTime>
         </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>02:35:00</RealTime>
-        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:12:22</RealTime>
@@ -540,38 +510,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:36:55.6800000</RealTime>
-        </SplitTime>
-        <SplitTime name="WR - 7/2020">
-          <RealTime>02:39:22.5600000</RealTime>
+          <RealTime>02:36:35.6800000</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:11</RealTime>
+        <RealTime>00:04:17.6800000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="0">
-          <RealTime>00:06:36</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:04:32.8120000</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:04:11.0060000</RealTime>
-        </Time>
-        <Time id="4">
-          <RealTime>00:04:39.4930000</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:04:56.5950000</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:04:17.2350000</RealTime>
-        </Time>
-        <Time id="10">
-          <RealTime>00:04:11</RealTime>
-        </Time>
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
   </Segments>
   <AutoSplitterSettings />
