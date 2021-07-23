@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2069</X>
-  <Y>123</Y>
-  <VerticalWidth>1020</VerticalWidth>
-  <VerticalHeight>1062</VerticalHeight>
+  <X>-2264</X>
+  <Y>92</Y>
+  <VerticalWidth>1070</VerticalWidth>
+  <VerticalHeight>1076</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>9</VisualSplitCount>
+        <VisualSplitCount>8</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -126,7 +126,7 @@
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
         <SectionTimerColor>FF777777</SectionTimerColor>
-        <ShowColumnLabels>False</ShowColumnLabels>
+        <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
@@ -141,6 +141,13 @@
             <Name>Time</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>Gold</Name>
+            <Type>SegmentDelta</Type>
+            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
