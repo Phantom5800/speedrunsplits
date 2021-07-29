@@ -4,7 +4,7 @@
   <X>-2319</X>
   <Y>105</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1158</VerticalHeight>
+  <VerticalHeight>1173</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -108,7 +108,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>5.7</SplitHeight>
+        <SplitHeight>1</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
@@ -120,7 +120,7 @@
         <DeltasColor>FFFFFFFF</DeltasColor>
         <HeaderComparison>Current Comparison</HeaderComparison>
         <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
-        <Display2Rows>False</Display2Rows>
+        <Display2Rows>True</Display2Rows>
         <IndentBlankIcons>True</IndentBlankIcons>
         <IndentSubsplits>True</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
