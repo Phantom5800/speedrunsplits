@@ -69,7 +69,7 @@
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
         <VisualSplitCount>12</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
@@ -80,7 +80,7 @@
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <BeforeTimesColor>FFFFFFFF</BeforeTimesColor>
+        <BeforeTimesColor>FFFF0000</BeforeTimesColor>
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
@@ -105,7 +105,7 @@
         <HideSubsplits>False</HideSubsplits>
         <ShowSubsplits>False</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
-        <OverrideSubsplitColor>False</OverrideSubsplitColor>
+        <OverrideSubsplitColor>True</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>

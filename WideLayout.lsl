@@ -2,7 +2,7 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>-2264</X>
-  <Y>92</Y>
+  <Y>91</Y>
   <VerticalWidth>1070</VerticalWidth>
   <VerticalHeight>1078</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -105,7 +105,7 @@
         <HideSubsplits>False</HideSubsplits>
         <ShowSubsplits>False</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
-        <OverrideSubsplitColor>False</OverrideSubsplitColor>
+        <OverrideSubsplitColor>True</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
