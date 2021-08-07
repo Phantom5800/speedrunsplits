@@ -4,7 +4,7 @@
   <X>-2319</X>
   <Y>105</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1166</VerticalHeight>
+  <VerticalHeight>1164</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -75,7 +75,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <CounterText>Extra Scents (21):</CounterText>
+        <CounterText>Extra Scents (22):</CounterText>
         <InitialValue>0</InitialValue>
         <Increment>1</Increment>
         <IncrementKey>Add</IncrementKey>
@@ -89,7 +89,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>12</VisualSplitCount>
+        <VisualSplitCount>13</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -210,51 +210,16 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Path>LiveSplit.CurrentComparison.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <BackgroundColor>001C1C1C</BackgroundColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>800D0D0D</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>False</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
-        <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -270,6 +235,37 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Delta.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <Accuracy>Tenths</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>800D0D0D</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <Comparison>Best Split Times</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <DropDecimals>True</DropDecimals>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>800D0D0D</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>

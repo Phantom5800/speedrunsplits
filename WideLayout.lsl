@@ -189,35 +189,16 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <BackgroundColor>001C1C1C</BackgroundColor>
-        <BackgroundColor2>800D0D0D</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>False</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.CurrentComparison.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -235,6 +216,21 @@
         <BackgroundGradient>Vertical</BackgroundGradient>
         <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Delta.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <Accuracy>Tenths</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <Comparison>Best Split Times</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <DropDecimals>True</DropDecimals>
       </Settings>
     </Component>
     <Component>
