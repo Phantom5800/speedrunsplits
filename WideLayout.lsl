@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2264</X>
-  <Y>91</Y>
+  <X>-2444</X>
+  <Y>131</Y>
   <VerticalWidth>1070</VerticalWidth>
-  <VerticalHeight>1078</VerticalHeight>
+  <VerticalHeight>1123</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -203,7 +203,24 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <Comparison>Current Comparison</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
+        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -214,7 +231,6 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -234,7 +250,7 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Path>LiveSplit.RunPrediction.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -245,6 +261,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>

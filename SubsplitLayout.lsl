@@ -4,7 +4,7 @@
   <X>-2318</X>
   <Y>103</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1167</VerticalHeight>
+  <VerticalHeight>1209</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -200,6 +200,23 @@
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundGradient>Vertical</BackgroundGradient>
+        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <Comparison>Current Comparison</Comparison>
+        <Display2Rows>False</Display2Rows>
+        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
+        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
       </Settings>
     </Component>
     <Component>
