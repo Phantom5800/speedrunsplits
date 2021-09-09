@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Super Mario World</GameName>
+  <CategoryName>11 Exit</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">SNES Classic Mini</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables>
+      <Variable name="11 Exit Run Type">Glitchless</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>-00:00:02.2000000</Offset>
+  <AttemptCount>12</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/08/2021 05:26:56" isStartedSynced="False" ended="09/08/2021 07:00:43" isEndedSynced="True">
+      <RealTime>01:33:44.7900000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/08/2021 12:57:28" isStartedSynced="True" ended="09/08/2021 13:34:12" isEndedSynced="True">
+      <RealTime>00:36:41.3120000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/08/2021 15:01:27" isStartedSynced="True" ended="09/08/2021 15:05:23" isEndedSynced="True" />
+    <Attempt id="4" started="09/08/2021 15:05:38" isStartedSynced="True" ended="09/08/2021 15:28:16" isEndedSynced="True" />
+    <Attempt id="5" started="09/08/2021 17:10:30" isStartedSynced="False" ended="09/08/2021 17:29:02" isEndedSynced="True">
+      <RealTime>00:18:28.9960000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="09/08/2021 19:01:36" isStartedSynced="False" ended="09/08/2021 19:03:04" isEndedSynced="True" />
+    <Attempt id="7" started="09/08/2021 19:03:24" isStartedSynced="True" ended="09/08/2021 19:16:08" isEndedSynced="True" />
+    <Attempt id="8" started="09/08/2021 19:16:28" isStartedSynced="True" ended="09/08/2021 19:18:14" isEndedSynced="True" />
+    <Attempt id="9" started="09/08/2021 19:18:32" isStartedSynced="True" ended="09/08/2021 19:25:12" isEndedSynced="True" />
+    <Attempt id="10" started="09/08/2021 20:46:15" isStartedSynced="True" ended="09/08/2021 20:47:57" isEndedSynced="True" />
+    <Attempt id="11" started="09/08/2021 20:48:13" isStartedSynced="True" ended="09/08/2021 20:49:56" isEndedSynced="True" />
+    <Attempt id="12" started="09/08/2021 20:50:15" isStartedSynced="True" ended="09/08/2021 21:07:06" isEndedSynced="True">
+      <RealTime>00:16:48.1380000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Yoshi's Island 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:56.9010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:56.8780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:04.2930000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:57.0670000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:57.6460000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:57.0090000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:57.1570000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:57.7920000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:57.3500000</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:01.7040000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:57.0160000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:56.8780000</RealTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:57.2030000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:56.9010000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Yoshi's Island 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:53.8250000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.8080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:06.7280000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:29.7070000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:12.3120000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:00.4880000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:56.7020000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:55.8440000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:55.8080000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:56.9240000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Yoshi's Island 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:35.7270000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:40.7450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:57.5190000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:07.2080000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:45.3600000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:40.7450000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:44.4540000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:41.7020000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:41.9020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Iggy's Castle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:54.3220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.7390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:13.9000000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:23.3420000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:13.7390000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:33.8820000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:41.7900000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:21.5280000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:18.5950000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Donut Plains 1 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:09.0450000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:09.3960000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:13.5640000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:05:40.4240000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:12.3900000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:28.0270000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:09.3960000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:01:33.5400000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:14.7230000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Donut Secret 1 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:10.5260000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:09.1600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:12.0690000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:04:45.1470000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:09.1600000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:11.7670000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:18.2140000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:03:01.4810000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Donut Secret House (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:35.6810000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:24.6480000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:05.9080000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:31.0970000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:32.7830000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:24.6480000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:30.3960000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:25.1550000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Star World 1 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:01.7480000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:26.0670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:41.7620000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:26.8480000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:28.7320000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:26.7800000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:26.3990000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:26.0670000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Star World 2 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:42.5200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:40.7720000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:14.0690000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:42.8810000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:07.9680000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:43.7420000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:44.4280000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:40.7720000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Star World 3 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:11:07.1120000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:24.5920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:59.2850000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:49.4900000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:41.0340000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:28.4410000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:51.7500000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:24.5920000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Star World 4 (Secret)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:03.0730000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.9610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:10.3920000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:06:42.3310000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:04:29.9940000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:04:09.4840000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:55.9610000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Front Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:16:48.1380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:27.6210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:50:45.3010000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:11:05.7700000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:04:27.6210000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:45.0650000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
