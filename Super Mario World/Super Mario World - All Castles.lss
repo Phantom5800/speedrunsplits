@@ -6,7 +6,7 @@
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">SNES Classic Mini</Platform>
-    <Region>JPN / NTSC</Region>
+    <Region>USA / NTSC</Region>
     <Variables />
   </Metadata>
   <Offset>-00:00:02.2000000</Offset>

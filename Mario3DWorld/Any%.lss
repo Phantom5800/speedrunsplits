@@ -9,6 +9,7 @@
     <Region>USA / NTSC</Region>
     <Variables>
       <Variable name="Categories">Any%</Variable>
+      <Variable name="Version">Digital</Variable>
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>

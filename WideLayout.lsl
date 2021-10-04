@@ -56,7 +56,7 @@
         <BackgroundColor2>00131313</BackgroundColor2>
         <BackgroundGradient>Vertical</BackgroundGradient>
         <DisplayGameIcon>True</DisplayGameIcon>
-        <ShowRegion>False</ShowRegion>
+        <ShowRegion>True</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
         <ShowVariables>True</ShowVariables>
         <TextAlignment>2</TextAlignment>
