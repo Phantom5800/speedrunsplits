@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Goombario</Name>
+      <Note>Jr.
+ 1. Jump
+ 2. Jump
+ 3. Jump
+ 4. Jump
+ 5. Jump
+
+* Grab Fire Flower</Note>
+    </Split>
+    <Split>
+      <Name>Prologue</Name>
+      <Note>Red &amp; Blue
+ 1. Power Jump (Red) / Headbonk (Red)
+ 2. Power Jump (Blue) / Do Nothing
+ 3. Fire Flower (Mash A)
+
+Goomba King
+ 1. Power Jump (Goomba King) / Headbonk (Tree)
+ 2. Power Jump / Headbonk</Note>
+    </Split>
+    <Split>
+      <Name>-Kooper</Name>
+      <Note>* Grab Fright Jar
+* Grab POW
+
+Shop
+ - 3 POW
+ - 1 Fire Flower</Note>
+    </Split>
+    <Split>
+      <Name>-Bombette</Name>
+      <Note>Fuzzies
+ 1. Fire Flower (Mash A)
+
+* Grab HP Plus
+* Grab Thunder Bolt
+* Grab Fire Flower
+* Heart Block
+
+Key Koopa
+ 0. Jump First Strike
+ 1. Power Jump (Koopa) / Shell Toss (Bomb)
+
+Level Up FP (10/10/3)
+
+Switch Koopa
+ 1. POW (Up 2) / Power Shell
+
+Pit 1
+ 0. First Strike
+ 1. POW (Up 2) / Power Shell
+
+Pit 2
+ 1. Fright Jar (Up 1)
+
+Pit 3
+ 1. POW (Up 2) / Power Shell
+</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 1</Name>
+      <Note>* Heart Block
+
+Jail
+ 1. Untimed Power Jump (Bomb) / Bomb (Koopa)
+ 2. Untimed Power Jump (Bomb)
+
+Koopa Bros
+ 1. Power Jump / Bomb
+ 2. Power Jump / Bomb
+ 3. POW (Up 1) / Do Nothing
+ 4. Fire Flower (Mash A)</Note>
+    </Split>
+    <Split>
+      <Name>-Parakarry</Name>
+      <Note>Jr.
+ 1. Power Jump / Bomb
+ 2. Power Jump / Bomb
+ 3. Hammer
+
+Level Up FP (10/15/3)
+
+* SPEEDY SPIN
+* Magical Seed (Toad Town)
+* 2 Wakka Bumps
+* Damage Dodge</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Ruins</Name>
+      <Note>* 9 coins from desert
+* Upgrade Bombette (Down 2)
+* Get Life Shroom
+
+Shop
+- Dried Shroom
+- Dusty Hammer
+- Thunder Bolt</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 2</Name>
+      <Note>* Spike Shield
+
+Pokey (Left)
+ 1. Power Bomb
+
+Pokey (Right)
+ 1. Power Bomb / Thunder Bolt (Mash A)
+
+Pokey (Middle)
+ 0. First Strike Bomb
+ 1. Switch to Parakarry / Shell Shot
+
+* Upgrade Parakarry (Up 1)
+
+Chomp (Star)
+ 1. Power Bomb
+
+Chomp (Pyramid)
+ 0. First Strike Bomb
+ 1. Bomb
+
+Chomp (Moon)
+ 1. Power Bomb
+
+* Heart Block
+
+Tutankoopa
+ 1. Power Jump / Shell Shot
+ 2. Power Jump / Shell Shot
+ 3. Power Jump / Shell Shot</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Mansion</Name>
+      <Note>* Thunder Rage in desert
+* Magical Seed
+
+Forest Movement:
+ - Right 2
+ - Left 1
+ - Left 1
+ - Left to seed and Left 2 more
+ - Left 1
+ - Right 1
+ - Right 1</Note>
+    </Split>
+    <Split>
+      <Name>-Bow</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Chapter 3</Name>
+      <Note>* Repel Gel by troll Goomba
+* Get peril from Clubba
+* Mega Rush
+
+=======
+EQUIPS
+=======
+Unequip Power Jump (Mash A)
+Equip Power Bounce (Down 1)
+Unequip Speedy (Down 5)
+Equip Mega Rush (Up 2)
+
+Tubba's Heart
+ 1. Power Bounce x6 / Shell Shot
+ 2. Power Bounce x4 / Shell Shot (if capped earlier)
+
+Tubba Blubba
+ 1. Jump x2
+
+Level Up BP (10/15/6)
+
+=======
+EQUIPS
+=======
+Equip Power Jump (Mash A)
+Equip Speedy Spin (Down 6)</Note>
+    </Split>
+    <Split>
+      <Name>-Gourmet Guy</Name>
+      <Note>Jr. (Block 1/2)
+ 1. Thunder Rage / Shell Shot
+ 2. Power Jump / Shell Shot
+ 3. Power Bounce x5 / Shell Shot
+
+* Grab Thunder Rage</Note>
+    </Split>
+    <Split>
+      <Name>-Watt</Name>
+      <Note>* Grab Volt Shroom
+
+Lantern Ghost (Block 1/2)
+ 1. Volt Shroom (Mash A) / Do Nothing
+ 2. Do Nothing / Switch to Goombario (Down 1)
+ 3. Headbonk / Power Bounce x5
+ 4. Headbonk / Power Bounce x4</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 4</Name>
+      <Note>General Guy
+ 1. Power Bounce x3
+ 2. Star Storm (Up 1)
+ 3. Jump x2 / Power Shock
+ 4. Jump x2
+ 5. Repel Gel / Electro Dash
+ 6. Power Bounce x4 / Electro Dash
+ 7. Jump x2 / Electro Dash
+
+Level Up FP (10/20/6)</Note>
+    </Split>
+    <Split>
+      <Name>-Sushie</Name>
+      <Note>Fuzzipede
+ 1. Volt Shroom (Down 1) / Do Nothing
+ 2. Do Nothing / Do Nothing
+ 3. Do Nothing / Do Nothing
+ 4. Power Bounce x4
+
+* Grab Repel Gel</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Volcano</Name>
+      <Note>* Grab Power Quake
+
+=======
+EQUIPS
+=======
+Unequip Power Jump (A)
+Equip Power Quake (Down 2)
+
+M Bush
+ 1. Power Quake
+
+Putrid Piranha (Yellow Yoshi)
+ 0. Bomb First Strike
+ 1. Jump x2 (right plant) / Bomb
+
+Putrid Piranha (Jungle)
+ 1. Untimed Power Quake / Power Bomb</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 5</Name>
+      <Note>* Grab Life Shroom
+* Upgrade Parakarry (Down 3)
+
+=======
+EQUIPS
+=======
+Unequip Power Quake (Down 2)
+Equip Ice Power (R, Up 2)
+
+* Heart Block
+
+Lava Piranha (Block 1/2)
+ 1. Thunder Rage / Air Raid
+ 2. Jump x2 / Shell Shot
+ 3. Bounce x4
+ 4. Bounce x6 / Shell Shot
+
+ 4. Bounce x5 / Switch to Bombette
+ 5. Jump x2
+
+ 4. Bounce x4 / Switch to Bombette
+ 5. Bounce x3
+
+ 4. Bounce x3 / Sky Dive
+ 5. Bounce x3</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Flower Fields</Name>
+      <Note>=======
+EQUIPS
+=======
+Equip Power Jump (A)
+Equip Power Quake (Down 2)
+Unequip Ice Power (Down 4)
+Equip Spike Shiel (Down 1)
+
+* Switch to Parakarry (Down 1)
+
+Jr. (Block 0/1)
+ 1. Power Jump / Shell Shot
+ 2. Power Jump / Shell Shot</Note>
+    </Split>
+    <Split>
+      <Name>-Water Stone</Name>
+      <Note>Mole (Top-Left)
+ 1. Do Nothing / Do Nothing
+ 2. Jump x2
+
+Mole (Bottom-Left)
+ 1. Untimed Power Quake / Air Raid
+
+* Eat Jammin'
+
+Mole (Bottom-Right)
+ 1. Untimed Power Quake / Air Raid
+
+* Level FP (10/25/9)
+
+Mole (Top-Right)
+ 1. Air Raid / Star Storm
+
+Maze Fight
+ 1. Air Raid / Star Storm</Note>
+    </Split>
+    <Split>
+      <Name>-Lakilester</Name>
+      <Note>* Eat Whacka and take spike damage before Laki (9hp)
+* Grab Shooting Star
+
+Laki (Block 0/2)
+ 1. Power Jump / Shell Shot
+ 2. Power Jump / Shell Shot
+ 3. Bounce x5 / Sky Dive (Shell Shot if 4 cap)
+
+* Eat Stinky Herb if 4 capped</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 6</Name>
+      <Note>Machine Fight
+ 1. Shooting Star / Air Raid
+
+* Grab S. Jump Charge
+
+Huff
+ 1. Charge / Do Nothing
+ 2. Charge / Do Nothing
+ 3. Charge / Swap to Parakarry
+ 4. Bounce x5 / Shell Shot</Note>
+    </Split>
+    <Split>
+      <Name>-Monstar</Name>
+      <Note>Blooper (Block 2/2)
+ 1. Charge / Do Nothing
+ 2. Charge / Switch to Laki
+ 3. Bounce x5
+
+Jr. (Block 1/2 at 15hp, 2/2 at 13hp)
+ 1. Charge / Sky Dive
+ 2. Charge
+ 3. Bounce x5 / Sky Dive
+
+Level up FP (15/30/9)
+
+Monstar
+ 1. Jump x2 / Shell Shot
+ 2. Shell Shot
+</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Palace</Name>
+      <Note>Duplighosts
+ 1. Switch to Parakarry / Air Life
+ 2. Air Lift
+
+* Get Shooting Star
+* Heart Block</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 7</Name>
+      <Note>Duplighosts
+ - Air Lift Both
+
+Clubba 1
+ 1. Jump x2 / Bomb
+
+Clubba 2
+ 1. Shooting Star / Power Bomb
+
+Clubba 3
+ 1. Power Bomb / Star Storm
+
+Crystal King (Block 5/6)
+ 1. Charge / Shell Shot
+ 2. Charge / Shell Shot
+ 3. Charge / Shell Shot
+ 4. Bounce x5 / Shell Shot
+
+Level Up BP (15/30/12)</Note>
+    </Split>
+    <Split>
+      <Name>-Door 1</Name>
+      <Note>=======
+EQUIPS
+=======
+Unequip S. Jump Charge (Down 1)
+Unequip Power Bounce (Down 1)
+Equip Power Quake (Down 1)
+Equip Dizzy Attack (R, Down 3)
+
+Koopatrol (Key)
+ 1. Untimed Power Quake / Power Bomb
+
+Basement Fight
+ 1. Untimed Power Quake / Air Raid</Note>
+    </Split>
+    <Split>
+      <Name>-Door 2</Name>
+      <Note>Quiz Door: 11211</Note>
+    </Split>
+    <Split>
+      <Name>-Jr. Troopa</Name>
+      <Note>Duplighosts
+ 1. Power Shell / Switch to Bombette
+ 2. Power Bomb / Star Storm (if &gt;1 transform)
+ 3. Jump x2
+ 4. Jump x1
+
+Level Up BP (15/30/15)
+
+=======
+EQUIPS
+=======
+ * Unequip Dizzy Attack (R, Down 3)
+ * Equip Power Jump (Z)
+ * Equip S. Jump Charge (Down 1)
+ * Equip Power Bounce (Down 1)
+ * Unequip Power Quake (Down 1)
+ * Equip HP Plus (Down ?)
+ * Equip P-Up D-Down (Down ?)
+
+* Swap to Bow (or Parakarry for risky)
+
+Jr. (Block 2/2)
+ 1. Charge / Outta Sight
+ 2. Charge
+ 3. Charge / Outta Sight
+ 4. Charge
+ 5. Bounce x4
+
+Risky (Block 2/2)
+ 1. Charge / Shell Shot
+ 2. Charge / Shell Shot
+ 3. Bounce x5</Note>
+    </Split>
+    <Split>
+      <Name>-Hallway Bowser</Name>
+      <Note>* Eat Jammin'
+* Swap to Bow (if not already)
+
+Bowser
+ 1. Bounce x5 / Outta Sight
+ 2. Bounce x5
+ 3. Power Jump / Outta Sight
+ 4. Power Jump</Note>
+    </Split>
+    <Split>
+      <Name>Star Rod</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>The End</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Paper Mario</Name>
+  <Category>Glitchless</Category>
+</Guide>

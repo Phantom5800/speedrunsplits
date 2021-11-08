@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Day 1</Name>
+      <Note>* Talk to Dad, then Mom
+* Talk to everyone in town (clockwise)
+* Tutorial virus battle
+
+Edit Folder:
+* CrkShot* as reg chip
+
+* Read newest email
+* Jack in at home
+* Get a Rflectr1 from Mettaur in Central Area 1
+* Go to Central Area 2
+* Talk to the three navi’s on the way to area 3
+* Jack out and go to sleep</Note>
+    </Split>
+    <Split>
+      <Name>Blastman</Name>
+      <Note>* Go to staff room, talk to Mach for StudentID
+* Go to 6-1
+   * Talk to everyone
+* Stove fight
+* Jack out and talk to everyone as Mega Man
+* Activate CopyBot after cutscene
+* Talk to bucket kid by room 1-2
+* Go back to 6-1
+* Talk to teacher for TeacherID
+* Go to staff room
+
+RobCtrlComp 1
+* Talk to all Mr. Prog’s that are on fire
+* HP Memory in top left near 3rd prog
+
+RobCtrlComp 2
+* Talk to Mick THREE times
+* Talk to station on desk with orange screen
+* Save the four Mr. Prog’s
+
+Edit Folder:
+* Swap out recovery chips and area steal with any better chips
+
+Fight Blastman
+</Note>
+    </Split>
+    <Split>
+      <Name>-Central Town Tasks</Name>
+      <Note>* Go home and jack in
+* Sub-Chip dealer in Central Area 1, buy 3 Sneakruns
+* Activate Sneakrun in Central Area 2
+* Examine middle of left tile under overhang for KeyData
+* Go to Central Area 3
+* Go to back of room and talk to beast statues
+* Jack out and sleep
+
+* Go to staff room and talk to lab coat teacher
+* Go to 6-2 and talk to student by windows
+* Go to old man by Lev Bus for virus fight
+* Go back to Mick in 6-1
+
+* Jack in at home, activate Sneakrun in Central Area 1
+* Talk to frantic navi before CA2
+* Go to CA3 and talk to girl on yellow Seaside entrance panels
+* Go back to frantic navi in CA1
+* Jack out and talk to mom in bathroom
+* Jack in to toilet and defeat virus
+
+* Go back to CA3 (use Sneakrun in CA1)
+* Talk to navi and go to Seaside 1
+* Go to BBS 
+  * Up at intersection and take warp panel
+  * Straight left from lower level warp panel
+* NOTE: Getting TrnArrw1 or LongSwrd S is good here if you get encounters
+
+* Jack out and go to Mick in School Lobby
+* Go to Lev Bus Station
+* Go to Aquarium entrance
+* Go home and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>-Aquarium Field Trip</Name>
+      <Note>* Read new email and do navicust tutorial
+  * UnderSht left 1 and down 1
+  * Atk+1 mash A
+  * Speed+1 right 1
+* Go to Seaside
+* Talk to Mick in front of Aquarium
+* Talk to every single exhibit (white/yellow panels and the three tubes in the first room)
+* Go to stage (top left exit of second room)
+* Go towards Lev Station (skip all cutscenes on the way)
+* Run back to Aquarium
+
+* Go to second part of Aquarium
+* Go back to reception desk and go behind to back stage
+* Talk to the big seal
+* Go to sun icon on floor
+* Run back through aquarium until cutscene
+* Go to CopyBot by the fountain outside
+* Talk to it again after the cutscene
+* Go back to seal room and go into pool with Mega Man to grab ball
+* Talk to the seal again
+* Go inside the room the seal was blocking
+</Note>
+    </Split>
+    <Split>
+      <Name>Diveman</Name>
+      <Note>* TrnArrw1 should be pretty easy to pick up here, it will be needed later
+* If you get WaveArm1 E, F and G, use it for the PA
+
+Comp1 
+* clockwise, start from middle right platform = left-&gt;right
+
+Comp2
+* clockwise, start from far right side = left-&gt;right
+
+Comp3
+* clockwise, start from top right = left-&gt;right
+
+* Put in any FireBrn1 chips if they weren't in already
+* Fight Diveman
+* Go back to Aquarium 2
+* Go home and sleep</Note>
+    </Split>
+    <Split>
+      <Name>HeatCross</Name>
+      <Note>* Go to staff room and talk to Mach
+* Back to 6-1 for Iris cutscene
+* Back to staff room and go through pink door
+* Talk to Mr. Match
+* Talk to computer next to Mr. Match
+* Grab BMD at top of this PC
+
+* Buy 4 Sneakruns in CA1 and activate one immediately
+* Talk to Kettle immediately left
+  * Crkshot counter a mettaur and HeatPress counter the second
+
+* Go to CA2, right before Kettle (near CA3 exit) go down and grab CopyDmg*
+* Swap Minibomb L’s for FireHit1 and CopyDmg*
+* Fight second Kettle
+  * Should be in full synchro, HeatPress and then counter the last enemy to get back in Synchro
+
+* Third Kettle by beast statues
+  * Counterhit the OldStove with HeatPress while in Synchro!!!
+
+* Go counter-clockwise to fourth Kettle
+  * CopyDmg front Kettle and HeatPress back 2
+  * HeatPress back 2 and use buster + fire chips on front
+
+* Slot in TrnArrw chips for HeatMan fight
+* Fight Mr. Match
+* Learn about HeatCross
+* Go home and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>-Upgrades and Puzzles</Name>
+      <Note>* Talk to mom
+* Go to park and talk to Iris
+
+* Go to Chip Shop
+  - 88674125
+  - 69544569
+  - 32310827
+  - 67520179
+  - 99910954
+  - 08749780
+  - 55031325
+  - 19790420
+  - 08789369
+
+* Add the five chips, remove recoveries &gt; areasteal &gt; swords &gt; wideswords &gt; vulcan
+* NaviCust: 
+  - Remove Atk+1
+  - Remove Speed+1
+  - Add HP+400
+  - Add Buster Pack
+
+* Go to Central Area 3, use Sneakrun
+* Go to Gregar cutscene (left side of pit)
+* Talk to dad and go back to net
+* Talk to first navi in CA1
+* Use soul weapons to clear ghosts in CA1, CA2, CA3
+* Go to Gregar by Seaside exit
+</Note>
+    </Split>
+    <Split>
+      <Name>{Circusman}Heatman</Name>
+      <Note>* Take control of Heatman in school
+* Sneakrun
+* Go to Seaside 1
+* Defeat more ghosts
+* Seaside2 (need TrnArrw to open gate)
+* Gate has 3 fights
+  * CrkShot + HeatPress, get counterhits all fights
+* Seaside3, more ghosts
+* Touch water (M Boomer clears instantly if lucky)
+* Jack out
+* Log back in and go to Lan’s Homepage
+* BeastOut tutorial
+
+* Jack in and go to CA3 beast statues (Sneakrun)
+* Fuck up Circusman with HeatCross (jfc)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Courtroom</Name>
+      <Note>* Go to CA1 subchip dealer and stock up
+* Up-Left and talk to yellow girl, jack out
+* Bus to Seaside &gt; Aquarium 2
+* Jack into monitor upstairs
+* Talk to yellow navi at top and jack out
+* Jack in to Fish Sticks store, talk, jack out
+  - Unlocker in bottom left of this computer
+
+* Class 6-1
+* Talk to fish tank near left side
+* Talk to security camera in right corner and jack in
+
+* Talk and jack out
+* Leave classroom, go right and talk to kid
+  - Quiz: 2, 3, 3, 1, 2
+
+* Bus to Green Town
+* Go to courthouse
+* Jack into Truth
+  - PMD at top
+* Talk to blue navi and warp
+* Warp orders:
+  - 2, 2, right stairs, go to gate (second branch and up)
+* Jack out and back in
+* Talk to blue navi, pay 1000z, then green navi
+* Go back to gate
+* In GA2, first right
+* Follow path to slider, up stairs and talk to navi behind desk
+* Jack out and go to courtroom
+* Talk to all NPCs, watch cutscene
+* Go home and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>Judgeman</Name>
+      <Note>* Talk to mom, then go to Green Town
+* Go to courtroom and talk to Ito
+* Go to school and talk to Mach
+* Go to 6-1 and jack in to camera
+* Talk to security terminal
+* Jack out and talk to lockers on left side
+
+* Go back to where Blastman was fought (talk to wall behind where he was)
+* Jack out and back to courtroom
+* Go to the punishment room to the right
+* Keep going left, skip cutscenes and left to blue door
+* Talk to blue navi in TRUTH
+* Back to brown door: 153
+* Climb tree and jack in
+
+* Solve all puzzles, don’t touch grass
+* BMD by Comp2 exit is HPMem
+* Pick up second BMD in Comp3
+
+* Shit on Judgeman with HeatCross
+</Note>
+    </Split>
+    <Split>
+      <Name>-Windcard Fights</Name>
+      <Note>* Go to Seaside
+* Go to Diveman comp and quiz
+  * 2 3 1 1 2 3 2 2 3 2
+* Folder Edits:
+  * ExpoFldr
+    - Remove Cannon*
+    - Remove Longsword S
+  * LanFldr
+    - Add BlkBomb
+    - Add Cannon*
+    - Add Longsword S
+    - Press Select and Tag Cannon* with Cannon B
+  * NaviCust
+    - Add Slip Runner
+
+* LevBus to Sky Town
+* Talk to brown suit man, then take elevator
+* Follow path to shower head, jack in
+* Hold up+right+b to zip
+* Buy one rush food and jack out
+* Enter building and talk to navi
+* Door on right after cutscene
+* Go left then up and talk to console
+* Go down right and follow path to elevator
+* Up-right and jack in to antenna
+* Talk to Mr Prog immediately right
+* Go to sky area 1
+* Take first stairs on right, talk to navi in back (three fights)
+* Slip right, down+right, down+left, run right and follow path
+* Talk to yellow navi for five fights
+* Slip up+left
+* SA2, slip forward and follow main path, place Rush Food at bone
+* Fight five more rounds
+* Slip up-left, down-left
+* Take stairs down and do 10 round fight
+* Go back to movement panels, cross and go down-right
+* Talk to blue navi
+* Go back to undernet arch
+</Note>
+    </Split>
+    <Split>
+      <Name>-Undernet</Name>
+      <Note>* Cross movement panel, slip up-left, down-left
+* Take teleporter
+* Grab BMD on right of comp
+* NaviCust
+  - Add HP+500
+* Go back and continue along path, talk to collapsed navi
+
+* Go get Heatman
+* Go to Lan’s computer and take warp to SA1
+* Go to Undernet Beast statues
+* Skip cutscenes, go home, skip cutscenes
+
+* Back to Sky Town
+* Right path, not elevator
+* Jack into panel
+* Top Left button (HeatCross buster kills)
+* Take elevator
+* Fix all the appliances (jack into back, top left of each comp)
+* Go past appliances
+* Examine lockers
+* Left door
+* Hold down until cutscene, back to copybot
+* Go back to appliance 3 offshoot path
+* Take elevator and go straight
+</Note>
+    </Split>
+    <Split>
+      <Name>{Elementman}WeatherComp</Name>
+      <Note>* Slip up-left and talk to Mr Prog
+* Collect all the rainbow macaroni 
+* Hold A and draw a circle around the storm when rainbow power is full
+* Comp1 has 1 storm, 2 and 3 both have 2
+* Elementman is a bitch and dies to HeatCross
+</Note>
+    </Split>
+    <Split>
+      <Name>-Backtracking</Name>
+      <Note>* Go to Undernet1
+* Talk to red navi
+* Cross first slide panel and slip forward
+* Take path to immediate left
+* Follow path to double sliders and cross
+* Talk to red navi
+
+* Jack out and go to punishment room
+* Talk to green shirt man
+* Go to Seaside fountain and talk to maid three times
+* Go to Undernet2 through previous locked gate
+* Slip up-left, up-right, down-right, up-right, up-left, down-left, down-right, down-left, down-left
+* Go left and up ramp
+* Left and slip up right
+* Invisible path in front of red navi
+* Grab moonstone, jack out and leave
+* Talk to everyone besides the judge
+* Go sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>{Blast/Dive EX}AC/DC</Name>
+      <Note>* Bus to ACDC
+* Talk to everyone except Dex, Mayl and Yai
+* Jack into squirrel
+* Slip forward and talk to Roll
+* Follow main path until warp
+* Talk to door and go back
+* Continue along path to shogi piece
+* Go back to door and open it
+* Talk to Mr Prog
+* Jack out, Jack in, talk to Roll
+* Go to yellow area of ACDC for cutscene
+* Go back to where gate was and go to next area
+* Slip along path to CA3
+* Go up ramp and talk to cloud to get to SA1
+
+* Go to Undernet2
+* Slip up-left, up-right, down-right, up-right, up-left, down-left
+* Don’t cross the far left slider! Go one up-right.
+* Walk to ramp and slip up-left
+
+* Fight Blastman EX and Diveman EX
+</Note>
+    </Split>
+    <Split>
+      <Name>Colonel</Name>
+      <Note>* Take bus to Central
+* Go home
+* Take bus to Seaside
+* Walk forward for cutscene
+* Read email from Mr. Mach
+* Bus to Sky
+* Go to deadend where copybot was used before
+
+* Go get Heatman
+* Sneakrun to CA3
+* Talk to official navi on left side of pit
+* Jack out, go through back door of staff room and talk to punishment bot
+* Talk to Mick in lobby
+* Back to previously blocked door
+* Heatman and sneak back to CA3 and go to overhang path
+* Soul weapon ghost fights for 2 rooms
+
+* GBeast SUCKS
+* Beat up Colonel
+</Note>
+    </Split>
+    <Split>
+      <Name>-Prep</Name>
+      <Note>* Go to ACDC
+* Jack in to squirrel
+* Get link in top left, take link’s to SA1
+* Go to Blastman EX / Diveman EX area in Undernet2
+* Fight black punk’s on the way (third one sucks)
+* BBS on top right of yellow area
+* Read top post and jack out
+
+* Go to Sky Town monitor where elevator was fixed before
+* Go to Central Park
+* Go home
+
+* Talk to Mick in top corner
+* Talk to Iris in lobby
+* Talk to Tab in chip shop
+* Go home and jack in
+* Go to ACDC and talk to Protoman, Roll, Gutsman and Glyde
+* Jack out and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>-Aquarium</Name>
+      <Note>* Talk to mom and meet friends in Central Park
+* Gate in left corner of Central
+* Go to the three buildings and get stamps
+* Go to Principal’s Office
+* Examine yellow book
+
+* Do aquarium (counter clockwise, top left first)
+* Hit panel at end
+</Note>
+    </Split>
+    <Split>
+      <Name>-Judgeman EX</Name>
+      <Note>* Walk over fish, jack in to tree
+* Solve tree puzzles and fuck up Judgeman
+</Note>
+    </Split>
+    <Split>
+      <Name>-Elementman EX</Name>
+      <Note>* Rainbow macaroni
+* Fuck up Elementman
+</Note>
+    </Split>
+    <Split>
+      <Name>{Boss Rush}Circusman EX</Name>
+      <Note>* Defeat three ghosts by talking to them and fighting viruses
+* Fuck up Circusman
+</Note>
+    </Split>
+    <Split>
+      <Name>Gregar</Name>
+      <Note>Tank Gregar hits and use HeatCross charge shots + strong chips and PAs</Note>
+    </Split>
+  </Splits>
+  <Name>Mega Man Battle Network 6</Name>
+  <Category>Any%</Category>
+</Guide>

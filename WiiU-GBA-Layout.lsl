@@ -3,7 +3,7 @@
   <Mode>Vertical</Mode>
   <X>-2381</X>
   <Y>56</Y>
-  <VerticalWidth>665</VerticalWidth>
+  <VerticalWidth>750</VerticalWidth>
   <VerticalHeight>1283</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -279,10 +279,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-1715</WindowPos.X>
-        <WindowPos.Y>58</WindowPos.Y>
-        <WindowSize.Width>461</WindowSize.Width>
-        <WindowSize.Height>719</WindowSize.Height>
+        <WindowPos.X>-1630</WindowPos.X>
+        <WindowPos.Y>56</WindowPos.Y>
+        <WindowSize.Width>587</WindowSize.Width>
+        <WindowSize.Height>994</WindowSize.Height>
       </Settings>
     </Component>
     <Component>
