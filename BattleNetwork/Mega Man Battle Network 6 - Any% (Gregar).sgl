@@ -22,6 +22,7 @@ Edit Folder:
       <Note>* Go to staff room, talk to Mach for StudentID
 * Go to 6-1
    * Talk to everyone
+   * Grab RegUp from blackboard by Tab
 * Stove fight
 * Jack out and talk to everyone as Mega Man
 * Activate CopyBot after cutscene
@@ -37,10 +38,12 @@ RobCtrlComp 1
 RobCtrlComp 2
 * Talk to Mick THREE times
 * Talk to station on desk with orange screen
+* RegUp2
 * Save the four Mr. Prog’s
 
 Edit Folder:
 * Swap out recovery chips and area steal with any better chips
+* Reg Reflect1
 
 Fight Blastman
 </Note>
@@ -49,7 +52,8 @@ Fight Blastman
       <Name>-Central Town Tasks</Name>
       <Note>* Go home and jack in
 * Sub-Chip dealer in Central Area 1, buy 3 Sneakruns
-* Activate Sneakrun in Central Area 2
+* Activate Sneakrun
+* RegUp2 off left path
 * Examine middle of left tile under overhang for KeyData
 * Go to Central Area 3
 * Go to back of room and talk to beast statues
@@ -57,6 +61,7 @@ Fight Blastman
 
 * Go to staff room and talk to lab coat teacher
 * Go to 6-2 and talk to student by windows
+* 6-2 blackboard comp has RegUp2
 * Go to old man by Lev Bus for virus fight
 * Go back to Mick in 6-1
 
@@ -82,7 +87,9 @@ Fight Blastman
     </Split>
     <Split>
       <Name>-Aquarium Field Trip</Name>
-      <Note>* Read new email and do navicust tutorial
+      <Note>* Reg Crackshot again
+* Slot in TrnArrw and CopyDmg
+* Read new email and do navicust tutorial
   * UnderSht left 1 and down 1
   * Atk+1 mash A
   * Speed+1 right 1
@@ -90,6 +97,7 @@ Fight Blastman
 * Talk to Mick in front of Aquarium
 * Talk to every single exhibit (white/yellow panels and the three tubes in the first room)
 * Go to stage (top left exit of second room)
+* RegUp in trash can after cutscene
 * Go towards Lev Station (skip all cutscenes on the way)
 * Run back to Aquarium
 
@@ -146,6 +154,7 @@ Comp3
   * Counterhit the OldStove with HeatPress while in Synchro!!!
 
 * Go counter-clockwise to fourth Kettle
+  * Reg CopyDmg
   * CopyDmg front Kettle and HeatPress back 2
   * HeatPress back 2 and use buster + fire chips on front
 
@@ -187,7 +196,7 @@ Comp3
 </Note>
     </Split>
     <Split>
-      <Name>{Circusman}Heatman</Name>
+      <Name>Circusman</Name>
       <Note>* Take control of Heatman in school
 * Sneakrun
 * Go to Seaside 1
@@ -202,8 +211,7 @@ Comp3
 * BeastOut tutorial
 
 * Jack in and go to CA3 beast statues (Sneakrun)
-* Fuck up Circusman with HeatCross (jfc)
-</Note>
+* Fuck up Circusman with HeatCross (jfc)</Note>
     </Split>
     <Split>
       <Name>-Courtroom</Name>
