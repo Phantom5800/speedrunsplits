@@ -1,0 +1,673 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Rival</Name>
+      <Note>Reset if -Atk or -SpAtk nature</Note>
+    </Split>
+    <Split>
+      <Name>Brock</Name>
+      <Note>* Pickup Lure before catching anything
+* Teach Double Kick over Quick Attack
+
+=====
+Brock
+=====
+Geodude
+   Double Kick (Pikachu) / Absorb (Oddish)
+Onix
+   Double Kick (Pikachu) / Absorb (Oddish)
+
+* No Pikachu version
+Geodude
+   Growth
+   Absorb
+Onix
+   Absorb (x2)
+</Note>
+    </Split>
+    <Split>
+      <Name>Mt Moon</Name>
+      <Note>====
+Shop
+====
+Sell
+   All BUT 10 Poké Balls
+Buy
+   9 Great Balls (v)
+   1 X-Defense (&gt;v)
+   1 X-SpAtk (v)
+   2 X-Attack (^^)
+   4 Antidotes (&lt;)
+   2 Awakenings (vvv)
+
+* Teach Headbutt over Growl
+
+==========
+Lass Evelyn
+==========
+Bellsprout: Headbutt + Thundershock
+
+* Grab Moon Stone and Nugget down second ladder
+
+============
+Youngster Josh
+============
+Sandshrew: Headbutt x2
+
+================
+Team Rocket Grunt
+================
+Drowzee: Headbutt + Thundershock (Headbutt if weak)
+
+================
+Team Rocket Grunt
+================
+Zubat: Thundershock
+
+===============
+Super Nerd Miguel
+===============
+Voltorb: Headbutt x2
+Magnemite:
+   Double Kick (if 15+)
+   Tail Whip + Double Kick
+
+* Heal if low
+
+==============
+Jessie and James
+==============
+Koffing: Thundershock x2 | X-SpAtk Pikachu
+Ekans: Thundershock x2 | Gust (Butterfree)</Note>
+    </Split>
+    <Split>
+      <Name>Cerulean</Name>
+      <Note>* Teach Zippy Zap over Thundershock
+
+=========
+Beauty Lily
+=========
+Goldeen: Zippy Zap
+
+====
+Misty
+====
+Psyduck: X-Attack + Zippy Zap
+Starmie: Zippy Zap
+
+====
+Rival
+====
+Pidgey: Zippy Zap
+Oddish:
+    Headbutt
+    Tail Whip (if Headbutt did &lt;50%)
+    Headbutt
+Eevee:
+    Tail Whip + Zippy Zap (if &lt;15)
+    Double Kick (if 36+ atk)
+    Zippy Zap (if 44+ atk)
+
+==============
+Bug Catcher Cale
+==============
+Zippy Zap
+
+======
+Lass Ali
+======
+Zippy Zap
+
+==============
+Youngster Timmy
+==============
+Headbutt x2
+
+=======
+Lass Reli
+=======
+Double Kick
+
+===========
+Camper Kevin
+===========
+Zippy Zap
+
+================
+Team Rocket Grunt
+================
+Zubat: Zippy Zap
+Koffing: Headbutt + Zippy Zap
+
+==============
+Fisherman Wayne
+==============
+Magikarp: Zippy Zap
+Krabby: Zippy Zap</Note>
+    </Split>
+    <Split>
+      <Name>Rival 3</Name>
+      <Note>* Need Growlithe before leaving route 6
+* Make sure Growlithe is slot 2
+
+====
+Rival
+====
+Pidgeotto: Zippy Zap | X-Attack
+Eevee: Zippy Zap | Helping Hand
+Oddish: Headbutt | Flamethrower</Note>
+    </Split>
+    <Split>
+      <Name>Rock Tunnel</Name>
+      <Note>====
+Shop
+====
+Sell
+    Nuggets
+    Fossil
+Buy
+    2 Escape Ropes (&gt;)
+    11 Lures (&gt;)
+    11 X-Attacks (v)
+    11 X-SpAtk (vv)
+    14 Super Potions (&lt;&lt;)
+    MAX Great Balls (^^)
+
+* Move Super Potions to slot 1
+* Thunderbolt replaces Headbutt
+
+=============
+Picknicker Alicia
+=============
+Eevee: Double Kick | X-Attack Pikachu
+Gloom: X-SpAtk Growlithe | Flamethrower
+
+===========
+Camper Drew
+===========
+Sandshrew: X-SpAtk Growlithe | Flamethrower
+Raticate: Zippy Zap | Flamethrower
+
+* Need a Nidoran, preferably male
+* Make sure Nidoran is 24 when evolving!!! (learn Poison Jab / Crunch)
+* Fight grunt early if grass has no good encounters
+
+================
+Team Rocket Grunt
+================
+Raticate: Thunderbolt | X-SpAtk
+
+* Krabby in second slot, 
+
+=================
+Poké Maniac Ashton
+=================
+Slowpoke: Thunderbolt
+
+==================
+Poké Maniac Winston
+==================
+Kangaskhan: X-SpAtk + Thunderbolt + Double Kick
+
+=========
+Hiker Claus
+=========
+Machop: Zippy Zap | X-Attack
+Rhyhorn:
+    Double Kick | Helping Hand (w/ Nido)
+    Super Potion | Bubblebeam (w/ Krabby)
+
+==============
+Ace Trainer Sofia
+==============
+Vulpix: X-Attack + Zippy Zap
+Kadabra: Zippy Zap
+
+=============
+Picknicker Dana
+=============
+Meowth: Zippy Zap
+Vulpix: Zippy Zap</Note>
+    </Split>
+    <Split>
+      <Name>Giovanni 1</Name>
+      <Note>* If Nidoking, put in slot 1
+
+====
+Rival
+====
+W/ Nidoking
+    Pidgeotto: X-Attack Nidoking | Thunderbolt
+    Gloom: Poison Jab | X-Attack Nidoking
+    Jolteon: Poison Jab | Super Potion (or Tail Whip)
+W/ Nidoqueen
+    Pidgeotto: Thunderbolt | X-Attack Nidoqueen
+    Gloom: 
+        Tail Whip | X-Attack Nidoqueen
+        Tail Whip | Crunch
+    Jolteon: Tail Whip | Crunch
+
+* Escape Rope from tower after cutscene
+
+============
+Beauty Aubrey
+============
+Clefairy (w/ Nidoking): Poison Jab
+Clefairy (w/ Pikachu): Zippy Zap x2
+
+* Pick up Fire Stone
+* Go to Game Corner
+
+=======================
+Team Rocket Grunt (Casino)
+=======================
+Raticate (w/ Nidoking): Poison Jab | Double Kick
+Raticate (w/ Nidoqueen): Zippy Zap | Double Kick
+
+================
+Team Rocket Grunt
+================
+Hypno (w/ Nidoking): 
+    Poison Jab | Tail Whip
+    Super Potion | Zippy Zap
+Hypno (w/ Nidoqueen):
+    Tail Whip | Crunch
+    Zippy Zap | Super Potion
+
+================
+Team Rocket Grunt
+================
+w/ Nidoking
+    Rattata: X-Attack + Poison Jab
+    Voltorb: Poison Jab x2
+w/ Pikachu
+    Rattata: Double Kick
+    Voltorb: Tail Whip + Double Kick
+
+* Move Pikachu to slot 1
+* Put Jigglypuff, Clefairy, or Paras in slot 2
+* Move Nido to slot 3
+
+================
+Team Rocket Grunt
+================
+Grimer: Thunderbolt x2
+
+==============
+Jessie and James
+==============
+Thunderbolt Arbok | X-SpAtk Pikachu
+Thunderbolt Arbok | Heal Pikachu
+Thunderbolt Weezing | Heal Pikachu
+Thunderbolt Weezing | Heal Pikachu
+
+* Call for help
+
+=====
+Archer
+=====
+Weezing:
+    Thunderbolt | X-SpAtk
+    Thunderbolt | Heal
+Golbat: Thunderbolt | Helping Hand
+
+=======
+Giovanni
+=======
+Persian:
+    X-Attack Pikachu | X-Attack Pikachu
+    Zippy Zap | X-Attack Pikachu
+Rhyhorn: Double Kick | Helping Hand</Note>
+    </Split>
+    <Split>
+      <Name>Pokémon Tower</Name>
+      <Note>* Learn Fly outside Game Corner
+* Use Lure
+* Fly to Lavender
+* 20 Great Balls from NPC south west of centre
+
+============
+Channeler Ruth
+============
+Zippy Zap
+
+===============
+Channeler Jennifer
+===============
+Zippy Zap
+
+* Ultra Balls behind Jennifer
+* Rare Candy after cutscene
+
+==============
+Jessie and James
+==============
+Thunderbolt Arbok | X-SpAtk
+Thunderbolt Arbok | Heal
+Thunderbolt Weezing | Heal
+Thunderbolt Weezing | Heal</Note>
+    </Split>
+    <Split>
+      <Name>Staryu</Name>
+      <Note>* Fly to Celadon
+* SET NATURES IN CENTRE (BLUE + RED)
+
+* Deposit all pokemon that won't evolve soon
+* Put Gastly in slot 1
+* Get Tea from Brock
+* Run from Snorlax
+* Use Lure
+* Catch Ponyta and Doduo
+* Evolve Ponyta with 1 rare candy
+* Grab Super Lure south of Flareon
+* Grab Elixir
+* Grab Rare Candy
+* Learn Surf
+* Use Super Lure
+* Fly to Pallet Town
+* Catch Staryu</Note>
+    </Split>
+    <Split>
+      <Name>Blaine</Name>
+      <Note>* Use 2 Rare Candies on Staryu
+    * Hydro Pump in slot 2
+* Get Water Stone
+    * Teach Scald in slot 1
+    * Evolve
+
+* Starmie in slot 1, Dodrio in slot 2
+* Cinnabar Mansion
+
+===========
+Scientist Ted
+===========
+Electrode: Psychic | X-SpAtk
+Muk: Psychic | Revive Doduo (or do anything)
+
+* Pickup Rare Candy (before switching doors last time)
+* Pickup Max Elixir (above key)
+* Secret Key
+* Escape Rope
+
+Blaine quiz: 1, 2, 2, 2, 1
+
+=====
+Blaine
+=====
+1x X-SpAtk
+Scald everything</Note>
+    </Split>
+    <Split>
+      <Name>Surge</Name>
+      <Note>* Top middle trash can, then trash can immediately below
+
+=====
+Surge
+=====
+Scald everything</Note>
+    </Split>
+    <Split>
+      <Name>Erika</Name>
+      <Note>* Teach Thunderbolt in slot 4
+
+====
+Erika
+====
+Psychic everything</Note>
+    </Split>
+    <Split>
+      <Name>Giovanni 2</Name>
+      <Note>* Fly to Celadon and go right to Saffron
+* Call for help before Blue
+
+====
+Blue
+====
+Exeggutor: X-Attack Dodrio | Drill Peck
+Charizard: Scald | X-SpAtk Starmie
+
+* Elevator to 5th floor, go left
+
+==========
+Double fight
+==========
+Psychic everything, heal on turns where you need to
+
+* Take teleporter to floor 3
+* Take teleporter in room with spinning scientist
+
+==============
+Jessie and James
+==============
+Psychic Arbok | Drill Peck
+Psychic Weezing | Super Potion or Drill Peck if Starmie took no damage
+
+=======
+Giovanni
+=======
+Persian: X-SpAtk + Scald
+Rhyhorn: Scald
+Nidoqueen: Scald</Note>
+    </Split>
+    <Split>
+      <Name>Sabrina</Name>
+      <Note>* Grab Lapras and Rare Candy on 7F
+* Grab Porygon near centre
+* Moon Stone by Copycat's bed if need an extra catch
+
+====
+Shop
+====
+11 Max Repels (&lt;&lt;^)
+11 X-Speed (&gt;^^)
+11 X-SpDef (^)
+31 X-SpAtk (^)
+11 Full Heals(^&lt;)
+MAX Hyper Potions (&lt;v)
+
+Sabrina gym:
+    * Bottom Left
+    * Top Right
+    * Bottom Right
+    * Bottom Right
+    * Top Right
+    * Top Left
+    * Top Left
+
+======
+Sabrina
+======
+Mr. Mime:
+    X-SpAtk x2
+    X-Speed (if Light Screen was used)
+    Hyper Potion (if Light Screen was used turn 2)
+    Scald
+Alakazam: Scald
+Slowbro: Thunderbolt
+Jynx: Scald</Note>
+    </Split>
+    <Split>
+      <Name>Koga</Name>
+      <Note>* Remove all pokemon except Starmie and Rapidash!!!
+* Move Hyper Potion to slot 1
+* Move X-SpAtk to last slot
+* Have 50 pokemon
+* Fly to Fuschia
+
+================
+Ace Trainer Kayden
+================
+Muk:X-SpAtk + Psychic
+Beedrill: Psychic
+
+====
+Koga
+====
+Weezing:
+    X-SpAtk
+    Scald (if 128+ spatk) or Psychic
+Venomoth:
+    Scald (if 127+ spatk) or Psychic
+Golbat: Thunderbolt
+Muk: Psychic</Note>
+    </Split>
+    <Split>
+      <Name>Giovanni 3</Name>
+      <Note>* Get Teeth and Strength
+* Heal to full
+* Max Elixir
+* Max Repel
+* Go to Viridian Gym (mash A through rival dialog)
+* Ride rapidash back to gym
+
+=========
+Tamer Cole
+=========
+Nidorino: Psychic
+Rhyhorn: Scald
+
+================
+Ace Trainer Samuel
+================
+Nidoking:
+    Psychic if 143+ spatk
+    Hydro Pump otherwise
+
+===============
+Black Belt Takashi
+===============
+Graveler: Scald
+
+=======
+Giovanni
+=======
+Dugtrio:
+   X-Defense
+   X-SpAtk
+   Scald
+Scald everything</Note>
+    </Split>
+    <Split>
+      <Name>Victory Road</Name>
+      <Note>* Heal if &lt; 27 hp
+* Call for help before rival
+
+====
+Rival
+====
+* Always X-Speed on 2nd pokemon
+Pidgeot: Thunderbolt | X-SpAtk
+Marowak: Scald | X-Speed
+Vileplume: Psychic | X-SpAtk
+Jolteon: Psychic | X-SpAtk
+
+===============
+Ace Trainer Naomi
+===============
+Kangaskhan: X-SpAtk + Hydro Pump
+Venusaur: Psychic
+
+* Heal to green
+
+============
+Juggler Nelson
+============
+Hypno: X-SpAtk + Scald x2
+Slowbro: Thunderbolt
+
+* Free heal from Jenny
+
+=========================
+Ace Trainer Caroline (top trainer)
+=========================
+Jynx: X-SpAtk + Hydro Pump
+Golbat: Thunderbolt
+Arcanine: Scald
+
+* heal to full
+
+==================
+Poké Maniac Dawson
+==================
+Lickitung: X-SpAtk + Scald
+Onix: Scald
+Blastoise: Thunderbolt
+
+* Heal to full
+* Pickup Full Restore</Note>
+    </Split>
+    <Split>
+      <Name>Lorelei</Name>
+      <Note>Dewgong: 
+    X-SpAtk x3 (x2 if risky)
+    Thunderbolt
+Lapras: Thunderbolt
+Jynx: Scald
+Cloyster: Thunderbolt
+Slowbro: Thunderbolt
+</Note>
+    </Split>
+    <Split>
+      <Name>Bruno</Name>
+      <Note>X-SpAtk + Psychic everything</Note>
+    </Split>
+    <Split>
+      <Name>Agatha</Name>
+      <Note>Arbok:
+    X-SpAtk
+    if 155+ speed: Psychic
+    if Glare and healed automatically: 
+         Psychic and X-Speed immediately on Weezing
+    if Crunch and can't take another: Psychic and Hyper Potion on Weezing
+    else:
+        X-Speed
+        Full Restore (if no power of love)
+        Psychic
+
+Weezing:
+    if killed Arbok before using X-Speed:
+        Heal
+        X-SpDef
+        Heal
+        X-Speed
+    Psychic
+
+Psychic the last three pokemon, scary part is over after Weezing
+</Note>
+    </Split>
+    <Split>
+      <Name>Lance</Name>
+      <Note>* Ether / Elixir Psychic
+
+Seadra:
+    X-SpDef
+    X-Speed
+    X-SpAtk x3
+
+Psychic everything, consider Thunderbolt on Gyarados if &lt;=52</Note>
+    </Split>
+    <Split>
+      <Name>Champion</Name>
+      <Note>Pidgeot:
+    X-SpDef
+    X-Speed
+    X-SpAtk x2
+    Thunderbolt
+
+Vileplume:
+    X-SpAtk
+    Psychic
+
+Jolteon:
+    Psychic (if +6, or +4 and &gt;144 spatk)
+    Hydro Pump (if +4)
+
+Rapidash: Psychic
+Marowak: Psychic
+Slowbro: Thunderbolt</Note>
+    </Split>
+  </Splits>
+  <Name>Pokémon Let's Go Pikachu/Eevee</Name>
+  <Category>Any%</Category>
+</Guide>
