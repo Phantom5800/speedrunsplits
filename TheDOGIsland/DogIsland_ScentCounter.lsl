@@ -87,8 +87,8 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
-        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
+        <CurrentSplitTopColor>FFA005B0</CurrentSplitTopColor>
+        <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>13</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>

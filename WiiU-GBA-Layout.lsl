@@ -66,8 +66,8 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
-        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
+        <CurrentSplitTopColor>FFA005B0</CurrentSplitTopColor>
+        <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>13</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
@@ -279,8 +279,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-1629</WindowPos.X>
-        <WindowPos.Y>55</WindowPos.Y>
+        <WindowPos.X>-1628</WindowPos.X>
+        <WindowPos.Y>58</WindowPos.Y>
         <WindowSize.Width>630</WindowSize.Width>
         <WindowSize.Height>1242</WindowSize.Height>
       </Settings>
