@@ -66,7 +66,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <CurrentSplitTopColor>FFA005B0</CurrentSplitTopColor>
+        <CurrentSplitTopColor>FF6E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>10</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
@@ -88,7 +88,7 @@
         <IconSize>38</IconSize>
         <IconShadows>True</IconShadows>
         <SplitHeight>3.3</SplitHeight>
-        <CurrentSplitGradient>Vertical</CurrentSplitGradient>
+        <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
@@ -110,8 +110,8 @@
         <ShowHeader>True</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
         <ShowIconSectionSplit>True</ShowIconSectionSplit>
-        <ShowSectionIcon>False</ShowSectionIcon>
-        <HeaderGradient>Vertical</HeaderGradient>
+        <ShowSectionIcon>True</ShowSectionIcon>
+        <HeaderGradient>Plain</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
@@ -119,9 +119,9 @@
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
         <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
-        <SubsplitTopColor>8D000000</SubsplitTopColor>
+        <SubsplitTopColor>69000000</SubsplitTopColor>
         <SubsplitBottomColor>00FFFFFF</SubsplitBottomColor>
-        <HeaderTopColor>2BFFFFFF</HeaderTopColor>
+        <HeaderTopColor>724A0148</HeaderTopColor>
         <HeaderBottomColor>474A0148</HeaderBottomColor>
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
