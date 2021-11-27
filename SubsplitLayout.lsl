@@ -4,7 +4,7 @@
   <X>-2381</X>
   <Y>56</Y>
   <VerticalWidth>665</VerticalWidth>
-  <VerticalHeight>1283</VerticalHeight>
+  <VerticalHeight>1287</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -31,7 +31,7 @@
     <ShowBestSegments>True</ShowBestSegments>
     <AntiAliasing>True</AntiAliasing>
     <DropShadows>True</DropShadows>
-    <BackgroundType>VerticalGradient</BackgroundType>
+    <BackgroundType>SolidColor</BackgroundType>
     <BackgroundImage />
     <ImageOpacity>1</ImageOpacity>
     <ImageBlur>0</ImageBlur>
@@ -90,7 +90,7 @@
         <SplitHeight>4.1</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>01FFFFFF</BackgroundColor2>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
         <DeltasAccuracy>Tenths</DeltasAccuracy>
@@ -154,6 +154,11 @@
       </Settings>
     </Component>
     <Component>
+      <Path>
+      </Path>
+      <Settings />
+    </Component>
+    <Component>
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
@@ -179,7 +184,7 @@
         <SplitNameColor>FFFFFFFF</SplitNameColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Personal Best</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
@@ -196,9 +201,9 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -210,7 +215,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <DeltaAccuracy>Tenths</DeltaAccuracy>
         <DropDecimals>True</DropDecimals>
         <Comparison>Current Comparison</Comparison>
@@ -228,9 +233,9 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -243,7 +248,7 @@
         <Accuracy>Tenths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Best Split Times</Comparison>
         <Display2Rows>False</Display2Rows>
         <DropDecimals>True</DropDecimals>
@@ -258,9 +263,9 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
