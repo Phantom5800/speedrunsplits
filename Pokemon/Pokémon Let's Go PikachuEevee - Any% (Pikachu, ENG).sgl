@@ -7,7 +7,17 @@
     </Split>
     <Split>
       <Name>Brock</Name>
-      <Note>* Pickup Lure before catching anything
+      <Note>Level 5 Stats:
+* &lt;12atk = bad
+* &lt;11spatk = bad
+* &lt;15spe = slow (maybe bad)
+
+Level 6 Stats:
+* &lt;13atk = bad
+* &lt;12spatk = bad
+* &lt;17spe = slow (maybe bad)
+
+* Pickup Lure before catching anything
 * Teach Double Kick over Quick Attack
 
 =====
@@ -140,6 +150,10 @@ Team Rocket Grunt
 Zubat: Zippy Zap
 Koffing: Headbutt + Zippy Zap
 
+Skip headbutt if:
+    Level 15-17 and &gt;48 atk
+    Level 18+ and &gt;42 atk
+
 ==============
 Fisherman Wayne
 ==============
@@ -219,6 +233,8 @@ Rhyhorn:
     Double Kick | Helping Hand (w/ Nido)
     Super Potion | Bubblebeam (w/ Krabby)
 
+Thunderbolt OHKO's machop @ 64 spatk
+
 ==============
 Ace Trainer Sofia
 ==============
@@ -239,7 +255,7 @@ Vulpix: Zippy Zap</Note>
 Rival
 ====
 W/ Nidoking
-    Pidgeotto: X-Attack Nidoking | Thunderbolt
+    Pidgeotto: X-Attack Nidoking | Thunderbolt (if 57+ spatk) / Zippy Zap (if 68+ atk)
     Gloom: Poison Jab | X-Attack Nidoking
     Jolteon: Poison Jab | Super Potion (or Tail Whip)
 W/ Nidoqueen
@@ -347,7 +363,12 @@ Jessie and James
 Thunderbolt Arbok | X-SpAtk
 Thunderbolt Arbok | Heal
 Thunderbolt Weezing | Heal
-Thunderbolt Weezing | Heal</Note>
+Thunderbolt Weezing | Heal
+
+
+Helping Hand + Thunderbolt OHKO Weezing:
+Level 28/29: 76 spatk
+Level 30+:     71 spatk</Note>
     </Split>
     <Split>
       <Name>Staryu</Name>
@@ -532,7 +553,9 @@ Rhyhorn: Scald
 Ace Trainer Samuel
 ================
 Nidoking:
-    Psychic if 143+ spatk
+    Psychic if 143+ spatk, 
+        140-142 is 15/16 (93%)
+        138-139 is 13/16 (81%)
     Hydro Pump otherwise
 
 ===============
@@ -547,7 +570,19 @@ Dugtrio:
    X-Defense
    X-SpAtk
    Scald
-Scald everything</Note>
+Scald everything
+
+Dugtrio Outspeed: 151+
+Dugtrio EQ Damage:
+   78 @ 97 def
+   76 @ 99 def
+   75 @ 101 def
+   73 @ 103 def
+   72 @ 105 def
+   70 @ 107 def
+   69 @ 110 def
+   67 @ 112 def
+   66 @ 115 def</Note>
     </Split>
     <Split>
       <Name>Victory Road</Name>
@@ -607,11 +642,19 @@ Lapras: Thunderbolt
 Jynx: Scald
 Cloyster: Thunderbolt
 Slowbro: Thunderbolt
+
+
+2x X-SpAtk if:
+  * SpAtk = 143 @ Level 51-52
+               = 137 @ Level 53
 </Note>
     </Split>
     <Split>
       <Name>Bruno</Name>
-      <Note>X-SpAtk + Psychic everything</Note>
+      <Note>X-SpAtk + Psychic everything
+
+Onix EQ + Hitmonlee Feint
+48 + 23 = 71 (absolute worst without crit) [97 defense]</Note>
     </Split>
     <Split>
       <Name>Agatha</Name>
@@ -635,7 +678,9 @@ Weezing:
     Psychic
 
 Psychic the last three pokemon, scary part is over after Weezing
-</Note>
+
+
+Golbat quick attack can do 21 damage (31 with def drop)</Note>
     </Split>
     <Split>
       <Name>Lance</Name>
@@ -661,12 +706,21 @@ Vileplume:
     Psychic
 
 Jolteon:
-    Psychic (if +6, or +4 and &gt;144 spatk)
-    Hydro Pump (if +4)
+    Psychic
+    Hydro Pump (if +4 and can't kill otherwise)
 
 Rapidash: Psychic
 Marowak: Psychic
-Slowbro: Thunderbolt</Note>
+Slowbro: Thunderbolt
+
+
+Jolteon Psychic Ranges (+4):
+Range                      Level 53/54            Level 55
+13/16 (81%)             144/145                  138/139
+14/16 (87%)             146                          140
+15/16 (93%)             147/148                  141
+100%                        149+                       143+
+</Note>
     </Split>
   </Splits>
   <Name>Pokémon Let's Go Pikachu/Eevee</Name>
