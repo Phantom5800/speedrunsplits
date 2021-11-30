@@ -8,14 +8,9 @@
     <Split>
       <Name>Brock</Name>
       <Note>Level 5 Stats:
-* &lt;12atk = bad
-* &lt;11spatk = bad
-* &lt;15spe = slow (maybe bad)
-
-Level 6 Stats:
-* &lt;13atk = bad
-* &lt;12spatk = bad
-* &lt;17spe = slow (maybe bad)
+* &lt;14atk = bad
+* &lt;14spatk = bad
+* &lt;18spe = slow (maybe bad)
 
 * Pickup Lure before catching anything
 * Teach Double Kick over Quick Attack
@@ -174,7 +169,7 @@ Eevee: Zippy Zap | Helping Hand
 Oddish: Headbutt | Flamethrower</Note>
     </Split>
     <Split>
-      <Name>Rock Tunnel</Name>
+      <Name>Enter Rock Tunnel</Name>
       <Note>====
 Shop
 ====
@@ -214,8 +209,11 @@ Team Rocket Grunt
 Raticate: Thunderbolt | X-SpAtk
 
 * Krabby in second slot, 
-
-=================
+</Note>
+    </Split>
+    <Split>
+      <Name>Rock Tunnel</Name>
+      <Note>=================
 Poké Maniac Ashton
 =================
 Slowpoke: Thunderbolt
