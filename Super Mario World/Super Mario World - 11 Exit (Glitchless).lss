@@ -3,6 +3,7 @@
   <GameIcon />
   <GameName>Super Mario World</GameName>
   <CategoryName>11 Exit</CategoryName>
+  <LayoutPath>C:\Git\Splits\WideLayout-WithNotes.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">SNES Classic Mini</Platform>

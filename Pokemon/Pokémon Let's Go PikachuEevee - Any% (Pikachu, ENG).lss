@@ -3,6 +3,7 @@
   <GameIcon />
   <GameName>Pokémon Let's Go Pikachu/Eevee</GameName>
   <CategoryName>Any%</CategoryName>
+  <LayoutPath>C:\Git\Splits\SubsplitLayout.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">Switch</Platform>

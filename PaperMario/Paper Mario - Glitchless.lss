@@ -3,6 +3,7 @@
   <GameIcon />
   <GameName>Paper Mario</GameName>
   <CategoryName>Glitchless</CategoryName>
+  <LayoutPath>C:\Git\Splits\WiiU-GBA-Layout.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">Nintendo 64</Platform>
