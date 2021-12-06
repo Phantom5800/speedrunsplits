@@ -171,15 +171,16 @@ Comp3
 * Go to park and talk to Iris
 
 * Go to Chip Shop
-  - 88674125
-  - 69544569
-  - 32310827
-  - 67520179
-  - 99910954
-  - 08749780
-  - 55031325
-  - 19790420
-  - 08789369
+  - 12110031 (HackJack* - JP Only)
+  - 88674125 (M-Boomer)
+  - 69544569 (Lance)
+  - 32310827 (Diveman*)
+  - 67520179 (Tomahawkman*)
+  - 99910954 (Unlocker)
+  - 08749780 (HP+400)
+  - 55031325 (HP+500)
+  - 19790420 (BusterPak)
+  - 08789369 (ElementTrap*)
 
 * Add the five chips, remove recoveries &gt; areasteal &gt; swords &gt; wideswords &gt; vulcan
 * NaviCust: 
@@ -279,13 +280,15 @@ Comp3
 * Go to Diveman comp and quiz
   * 2 3 1 1 2 3 2 2 3 2
 * Folder Edits:
-  * ExpoFldr
+  * ExpoFldr (-6)
     - Remove Cannon*
-    - Remove Longsword S
-  * LanFldr
+    - Remove 3 Vulkan
+    - Remove 2 DblShot
+  * LanFldr (+7)
     - Add BlkBomb
     - Add Cannon*
-    - Add Longsword S
+    - Add 3 Vulkan
+    - Add 2 DblShot
     - Press Select and Tag Cannon* with Cannon B
   * NaviCust
     - Add Slip Runner
@@ -434,7 +437,7 @@ Comp3
 * BBS on top right of yellow area
 * Read top post and jack out
 
-* Go to Sky Town monitor where elevator was fixed before
+* Go to Sky Town monitor where elevator was fixed before (bottom right levbus)
 * Go to Central Park
 * Go home
 

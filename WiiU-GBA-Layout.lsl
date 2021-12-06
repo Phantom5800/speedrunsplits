@@ -286,8 +286,8 @@
         </ActiveSplitTxtPath>
         <WindowPos.X>-1628</WindowPos.X>
         <WindowPos.Y>58</WindowPos.Y>
-        <WindowSize.Width>630</WindowSize.Width>
-        <WindowSize.Height>1242</WindowSize.Height>
+        <WindowSize.Width>637</WindowSize.Width>
+        <WindowSize.Height>1287</WindowSize.Height>
       </Settings>
     </Component>
     <Component>
