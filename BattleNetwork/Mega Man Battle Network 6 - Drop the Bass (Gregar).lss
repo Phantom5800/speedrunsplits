@@ -7,7 +7,7 @@
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">Wii U Virtual Console</Platform>
-    <Region>USA / NTSC</Region>
+    <Region>JPN / NTSC</Region>
     <Variables>
       <Variable name="Version">Gregar</Variable>
     </Variables>
