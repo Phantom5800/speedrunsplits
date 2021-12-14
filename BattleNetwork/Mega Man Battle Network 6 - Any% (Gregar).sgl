@@ -2,8 +2,12 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>-Day 1</Name>
-      <Note>* Talk to Dad, then Mom
+      <Name>Blastman</Name>
+      <Note>=====
+Day 1
+=====
+
+* Talk to Dad, then Mom
 * Talk to everyone in town (clockwise)
 * Tutorial virus battle
 
@@ -15,11 +19,13 @@ Edit Folder:
 * Get a Rflectr1 from Mettaur in Central Area 1
 * Go to Central Area 2
 * Talk to the three navi’s on the way to area 3
-* Jack out and go to sleep</Note>
-    </Split>
-    <Split>
-      <Name>Blastman</Name>
-      <Note>* Go to staff room, talk to Mach for StudentID
+* Jack out and go to sleep
+
+=====
+Day 2
+=====
+
+* Go to staff room, talk to Mach for StudentID
 * Go to 6-1
    * Talk to everyone
    * Grab RegUp from blackboard by Tab
@@ -50,7 +56,7 @@ Fight Blastman
 </Note>
     </Split>
     <Split>
-      <Name>-Central Town Tasks</Name>
+      <Name>-TrnArrw Pls</Name>
       <Note>* Go home and jack in
 * Sub-Chip dealer in Central Area 1, buy 3 Sneakruns
 * Activate Sneakrun
@@ -87,7 +93,7 @@ Fight Blastman
 </Note>
     </Split>
     <Split>
-      <Name>-Aquarium Field Trip</Name>
+      <Name>Diveman</Name>
       <Note>* Reg Crackshot again
 * Slot in TrnArrw and CopyDmg
 * Read new email and do navicust tutorial
@@ -116,11 +122,12 @@ Fight Blastman
 * Go back to seal room and go into pool with Mega Man to grab ball
 * Talk to the seal again
 * Go inside the room the seal was blocking
-</Note>
-    </Split>
-    <Split>
-      <Name>Diveman</Name>
-      <Note>* TrnArrw1 should be pretty easy to pick up here, it will be needed later
+
+=============
+Aquarium Comps
+=============
+
+* TrnArrw1 should be pretty easy to pick up here, it will be needed later
 * If you get WaveArm1 E, F and G, use it for the PA
 
 Comp1 
@@ -221,7 +228,7 @@ Comp3
 * Fuck up Circusman with HeatCross (jfc)</Note>
     </Split>
     <Split>
-      <Name>-Courtroom</Name>
+      <Name>Judgeman</Name>
       <Note>* Go to CA1 subchip dealer and stock up
 * Up-Left and talk to yellow girl, jack out
 * Bus to Seaside &gt; Aquarium 2
@@ -253,11 +260,12 @@ Comp3
 * Jack out and go to courtroom
 * Talk to all NPCs, watch cutscene
 * Go home and sleep
-</Note>
-    </Split>
-    <Split>
-      <Name>Judgeman</Name>
-      <Note>* Talk to mom, then go to Green Town
+
+========
+Next Day
+========
+
+* Talk to mom, then go to Green Town
 * Go to courtroom and talk to Ito
 * Go to school and talk to Mach
 * Go to 6-1 and jack in to camera
@@ -324,7 +332,7 @@ Comp3
 </Note>
     </Split>
     <Split>
-      <Name>-Undernet</Name>
+      <Name>-Heatman + Appliances</Name>
       <Note>* Cross movement panel, slip up-left, down-left
 * Take teleporter
 * Grab BMD on right of comp
