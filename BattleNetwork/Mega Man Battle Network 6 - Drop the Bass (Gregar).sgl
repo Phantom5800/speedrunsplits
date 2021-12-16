@@ -2,28 +2,31 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>-Day 1</Name>
-      <Note>* Talk to Dad, then Mom
+      <Name>Blastman</Name>
+      <Note># Day 1
+
+* Talk to Dad, then Mom
 * Talk to everyone in town (clockwise)
 * Tutorial virus battle
 
-Edit Folder:
-* CrkShot* as reg chip
-
+After Tutorial:
+* **Edit Folder:**
+  * _CrkShot*_ as reg chip
 * Read newest email
 * Jack in at home
 * Get a Rflectr1 from Mettaur in Central Area 1
 * Go to Central Area 2
 * Talk to the three navi’s on the way to area 3
-* Jack out and go to sleep</Note>
-    </Split>
-    <Split>
-      <Name>Blastman</Name>
-      <Note>* Go to staff room, talk to Mach for StudentID
+* Jack out and go to sleep
+
+# Day 2
+
+* Go to staff room, talk to Mach for StudentID
 * Go to 6-1
    * Talk to everyone
    * Grab RegUp from blackboard by Tab
 * Stove fight
+* Grab BMD (Zenny) right side of 6-1 comp
 * Jack out and talk to everyone as Mega Man
 * Activate CopyBot after cutscene
 * Talk to bucket kid by room 1-2
@@ -31,11 +34,11 @@ Edit Folder:
 * Talk to teacher for TeacherID
 * Go to staff room
 
-RobCtrlComp 1
+## RobCtrlComp 1
 * Talk to all Mr. Prog’s that are on fire
 * HP Memory in top left near 3rd prog
 
-RobCtrlComp 2
+## RobCtrlComp 2
 * Talk to Mick THREE times
 * Talk to station on desk with orange screen
 * RegUp2
@@ -49,8 +52,10 @@ Fight Blastman
 </Note>
     </Split>
     <Split>
-      <Name>-Central Town Tasks</Name>
-      <Note>* Go home and jack in
+      <Name>-TrnArrw Pls</Name>
+      <Note># Beast Statues
+
+* Go home and jack in
 * Sub-Chip dealer in Central Area 1, buy 3 Sneakruns
 * Activate Sneakrun
 * RegUp2 off left path
@@ -59,11 +64,15 @@ Fight Blastman
 * Go to back of room and talk to beast statues
 * Jack out and sleep
 
+# Penguin
+
 * Go to staff room and talk to lab coat teacher
 * Go to 6-2 and talk to student by windows
 * 6-2 blackboard comp has RegUp2
 * Go to old man by Lev Bus for virus fight
 * Go back to Mick in 6-1
+
+# Bathroom Splits
 
 * Jack in at home, activate Sneakrun in Central Area 1
 * Talk to frantic navi before CA2
@@ -72,12 +81,16 @@ Fight Blastman
 * Jack out and talk to mom in bathroom
 * Jack in to toilet and defeat virus
 
+# Get TrnArrw
+
 * Go back to CA3 (use Sneakrun in CA1)
 * Talk to navi and go to Seaside 1
 * Go to BBS 
   * Up at intersection and take warp panel
   * Straight left from lower level warp panel
 * NOTE: Getting TrnArrw1 or LongSwrd S is good here if you get encounters
+
+# Aquarium
 
 * Jack out and go to Mick in School Lobby
 * Go to Lev Bus Station
@@ -86,8 +99,10 @@ Fight Blastman
 </Note>
     </Split>
     <Split>
-      <Name>-Aquarium Field Trip</Name>
-      <Note>* Reg Crackshot again
+      <Name>Diveman</Name>
+      <Note># Look at Fish
+
+* Reg Crackshot again
 * Slot in TrnArrw and CopyDmg
 * Read new email and do navicust tutorial
   * UnderSht left 1 and down 1
@@ -101,62 +116,61 @@ Fight Blastman
 * Go towards Lev Station (skip all cutscenes on the way)
 * Run back to Aquarium
 
+# Copybot
+
 * Go to second part of Aquarium
 * Go back to reception desk and go behind to back stage
 * Talk to the big seal
 * Go to sun icon on floor
 * Run back through aquarium until cutscene
+* Grind **TrnArrow** in fish stix comp if needed still
+  * If you grind here, grab the **Unlocker**
 * Go to CopyBot by the fountain outside
 * Talk to it again after the cutscene
 * Go back to seal room and go into pool with Mega Man to grab ball
 * Talk to the seal again
 * Go inside the room the seal was blocking
+
+# Aquarium Comps
+
+## Comp1
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton1.png)
+
+## Comp2
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton2.png)
+
+## Comp3
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton3.png)
+* Fight Diveman
 </Note>
     </Split>
     <Split>
-      <Name>Diveman</Name>
-      <Note>* TrnArrw1 should be pretty easy to pick up here, it will be needed later
-* If you get WaveArm1 E, F and G, use it for the PA
-
-Comp1 
-* clockwise, start from middle right platform = left-&gt;right
-
-Comp2
-* clockwise, start from far right side = left-&gt;right
-
-Comp3
-* clockwise, start from top right = left-&gt;right
-
-* Put in any FireBrn1 chips if they weren't in already
-* Fight Diveman
-* Go back to Aquarium 2
-* Go home and sleep</Note>
-    </Split>
-    <Split>
       <Name>HeatCross</Name>
-      <Note>* Go to staff room and talk to Mach
+      <Note># School
+
+* Go to staff room and talk to Mach
 * Back to 6-1 for Iris cutscene
 * Back to staff room and go through pink door
 * Talk to Mr. Match
 * Talk to computer next to Mr. Match
-* Grab BMD at top of this PC
+
+# Kettle Fights
 
 * Buy 4 Sneakruns in CA1 and activate one immediately
 * Talk to Kettle immediately left
   * Crkshot counter a mettaur and HeatPress counter the second
-
 * Go to CA2, right before Kettle (near CA3 exit) go down and grab CopyDmg*
 * Swap Minibomb L’s for FireHit1 and CopyDmg*
 * Fight second Kettle
   * Should be in full synchro, HeatPress and then counter the last enemy to get back in Synchro
-
 * Third Kettle by beast statues
   * Counterhit the OldStove with HeatPress while in Synchro!!!
-
 * Go counter-clockwise to fourth Kettle
   * Reg CopyDmg
   * CopyDmg front Kettle and HeatPress back 2
   * HeatPress back 2 and use buster + fire chips on front
+
+# Fight Heatman
 
 * Slot in TrnArrw chips for HeatMan fight
 * Fight Mr. Match
@@ -169,14 +183,20 @@ Comp3
       <Note>* Talk to mom
 * Go to park and talk to Iris
 
-* Go to Chip Shop
-  - 88674125
-  - 69544569
-  - 32310827
-  - 67520179
-  - 08749780
-  - 19790420
-  - 08789369
+# Lotto Codes
+  - 12110031 (HackJack* - JP Only)
+  - 71757977 (AirWheel O)
+  - 88674125 (M-Boomer M)
+  - 69544569 (Lance*)
+  - 32310827 (Diveman*)
+  - 67520179 (Tomahawkman*)
+  - 99910954 (Unlocker)
+  - 08749780 (HP+400)
+  - 55031325 (HP+500)
+  - 19790420 (BusterPak)
+  - 08789369 (ElementTrap*)
+
+# Folder Edits
 
 * Add the five chips, remove recoveries &gt; areasteal &gt; swords &gt; wideswords &gt; vulcan
 * NaviCust: 
@@ -184,6 +204,8 @@ Comp3
   - Remove Speed+1
   - Add HP+400
   - Add Buster Pack
+
+# Soul Weapons
 
 * Go to Central Area 3, use Sneakrun
 * Go to Gregar cutscene (left side of pit)
@@ -195,25 +217,47 @@ Comp3
     </Split>
     <Split>
       <Name>Circusman</Name>
-      <Note>* Take control of Heatman in school
+      <Note># Heatman
+
+* Take control of Heatman in school
 * Sneakrun
 * Go to Seaside 1
 * Defeat more ghosts
 * Seaside2 (need TrnArrw to open gate)
-* Gate has 3 fights
-  * CrkShot + HeatPress, get counterhits all fights
 * Seaside3, more ghosts
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/SoulWeapon6.png)
+
 * Touch water (M Boomer clears instantly if lucky)
 * Jack out
 * Log back in and go to Lan’s Homepage
 * BeastOut tutorial
 
+# Mega Man
+
 * Jack in and go to CA3 beast statues (Sneakrun)
-* Fuck up Circusman with HeatCross (jfc)</Note>
+* Fuck up Circusman with HeatCross</Note>
     </Split>
     <Split>
       <Name>Bass Drop</Name>
-      <Note />
+      <Note>* Go to CA1 subchip dealer and stock up
+* Up-Left and talk to yellow girl, jack out
+* Bus to Seaside &amp;gt; Aquarium 2
+* Jack into monitor upstairs
+* Talk to yellow navi at top and jack out
+* Jack in to Fish Sticks store, talk, jack out
+  - Unlocker in bottom left of this computer
+* Class 6-1
+  * Talk to fish tank near left side
+  * Talk to security camera in right corner and jack in
+* Talk and jack out
+
+# Green Town
+
+* Bus to Green Town
+* Go to courthouse
+* Jack into Truth
+* Go through Green to fight Bass under tree</Note>
     </Split>
   </Splits>
   <Name>Mega Man Battle Network 6</Name>
