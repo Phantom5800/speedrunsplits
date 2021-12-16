@@ -275,7 +275,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
+        <FontSize>15</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -288,6 +288,7 @@
         <WindowPos.Y>58</WindowPos.Y>
         <WindowSize.Width>637</WindowSize.Width>
         <WindowSize.Height>1287</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
     <Component>

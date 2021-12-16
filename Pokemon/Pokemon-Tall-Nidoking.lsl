@@ -273,7 +273,7 @@
     <Component>
       <Path>SpeedGuidesLive.dll</Path>
       <Settings>
-        <Version>1.3.0</Version>
+        <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
         <FontSize>12</FontSize>
         <BGColor.R>16</BGColor.R>
@@ -288,6 +288,7 @@
         <WindowPos.Y>56</WindowPos.Y>
         <WindowSize.Width>476</WindowSize.Width>
         <WindowSize.Height>1284</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
     <Component>
