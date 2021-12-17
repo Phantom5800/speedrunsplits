@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Blastman</Name>
+      <Note># Day 1
+
+* Talk to Dad, then Mom
+* Talk to everyone in town (clockwise)
+* Tutorial virus battle
+
+After Tutorial:
+* **Edit Folder:**
+  * _CrkShot*_ as reg chip
+* Read newest email
+* Jack in at home
+* Get a Rflectr1 from Mettaur in Central Area 1
+* Go to Central Area 2
+* Talk to the three navi’s on the way to area 3
+* Jack out and go to sleep
+
+# Day 2
+
+* Go to staff room, talk to Mach for StudentID
+* Go to 6-1
+   * Talk to everyone
+   * Grab RegUp from blackboard by Tab
+* Stove fight
+* Grab BMD (Zenny) right side of 6-1 comp
+* Jack out and talk to everyone as Mega Man
+* Activate CopyBot after cutscene
+* Talk to bucket kid by room 1-2
+* Go back to 6-1
+* Talk to teacher for TeacherID
+* Go to staff room
+
+## RobCtrlComp 1
+* Talk to all Mr. Prog’s that are on fire
+* HP Memory in top left near 3rd prog
+
+## RobCtrlComp 2
+* Talk to Mick THREE times
+* Talk to station on desk with orange screen
+* RegUp2
+* Save the four Mr. Prog’s
+
+Edit Folder:
+* Swap out recovery chips and area steal with any better chips
+* Reg Reflect1
+
+Fight Blastman
+</Note>
+    </Split>
+    <Split>
+      <Name>Don't Need TrnArrw Wooo</Name>
+      <Note># Beast Statues
+
+* Go home and jack in
+* Sub-Chip dealer in Central Area 1, buy 3 Sneakruns
+* Activate Sneakrun
+* Examine middle of left tile under overhang for KeyData
+* Go to Central Area 3
+* Go to back of room and talk to beast statues
+* Jack out and sleep
+
+# Penguin
+
+* Go to staff room and talk to lab coat teacher
+* Go to 6-2 and talk to student by windows
+* 6-2 blackboard comp has RegUp2
+* Go to old man by Lev Bus for virus fight
+* Go back to Mick in 6-1
+
+# Bathroom Splits
+
+* Jack in at home, activate Sneakrun in Central Area 1
+* Talk to frantic navi before CA2
+* Go to CA3 and talk to girl on yellow Seaside entrance panels
+* Go back to frantic navi in CA1
+* Jack out and talk to mom in bathroom
+* Jack in to toilet and defeat virus
+
+# Get TrnArrw
+
+* Go back to CA3 (use Sneakrun in CA1)
+* Talk to navi and go to Seaside 1
+* Go to BBS 
+  * Up at intersection and take warp panel
+  * Straight left from lower level warp panel
+
+# Aquarium
+
+* Jack out and go to Mick in School Lobby
+* Go to Lev Bus Station
+* Go to Aquarium entrance
+* Go home and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>Diveman</Name>
+      <Note># Look at Fish
+
+* Reg Crackshot again
+* Slot in TrnArrw and CopyDmg
+* Read new email and do navicust tutorial
+  * UnderSht left 1 and down 1
+  * Atk+1 mash A
+  * Speed+1 right 1
+* Go to Seaside
+* Talk to Mick in front of Aquarium
+* Talk to every single exhibit (white/yellow panels and the three tubes in the first room)
+* Go to stage (top left exit of second room)
+* Go towards Lev Station (skip all cutscenes on the way)
+* Run back to Aquarium
+
+# Copybot
+
+* Go to second part of Aquarium
+* Go back to reception desk and go behind to back stage
+* Talk to the big seal
+* Go to sun icon on floor
+* Run back through aquarium until cutscene
+* Go to CopyBot by the fountain outside
+* Talk to it again after the cutscene
+* Go back to seal room and go into pool with Mega Man to grab ball
+* Talk to the seal again
+* Go inside the room the seal was blocking
+
+# Aquarium Comps
+
+## Comp1
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton1.png)
+
+## Comp2
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton2.png)
+
+## Comp3
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton3.png)
+* Fight Diveman
+</Note>
+    </Split>
+  </Splits>
+  <Name>Mega Man Battle Network 6</Name>
+  <Category>Delete DiveMan</Category>
+</Guide>
