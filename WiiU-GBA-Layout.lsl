@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2379</X>
-  <Y>57</Y>
-  <VerticalWidth>750</VerticalWidth>
-  <VerticalHeight>1287</VerticalHeight>
+  <X>-3681</X>
+  <Y>-318</Y>
+  <VerticalWidth>765</VerticalWidth>
+  <VerticalHeight>1310</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -284,8 +284,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-1628</WindowPos.X>
-        <WindowPos.Y>58</WindowPos.Y>
+        <WindowPos.X>-2912</WindowPos.X>
+        <WindowPos.Y>-317</WindowPos.Y>
         <WindowSize.Width>637</WindowSize.Width>
         <WindowSize.Height>1287</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
