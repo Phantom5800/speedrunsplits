@@ -2,9 +2,9 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>-3681</X>
-  <Y>5</Y>
-  <VerticalWidth>865</VerticalWidth>
-  <VerticalHeight>771</VerticalHeight>
+  <Y>-318</Y>
+  <VerticalWidth>800</VerticalWidth>
+  <VerticalHeight>1227</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -24,9 +24,9 @@
     <PausedColor>FF7A7A7A</PausedColor>
     <TextOutlineColor>00000000</TextOutlineColor>
     <ShadowsColor>80000000</ShadowsColor>
-    <TimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAGBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TimesFont>
+    <TimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAEBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TimesFont>
     <TimerFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAC9CBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAIAAAAL]]></TimerFont>
-    <TextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAGBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TextFont>
+    <TextFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AACBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TextFont>
     <AlwaysOnTop>False</AlwaysOnTop>
     <ShowBestSegments>True</ShowBestSegments>
     <AntiAliasing>True</AntiAliasing>
@@ -68,7 +68,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>FF6E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>10</VisualSplitCount>
+        <VisualSplitCount>12</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -80,14 +80,14 @@
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
         <AfterNamesColor>FFFFFFFF</AfterNamesColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <BeforeTimesColor>FFFFFFFF</BeforeTimesColor>
+        <BeforeTimesColor>FFFF0000</BeforeTimesColor>
         <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <LockLastSplit>True</LockLastSplit>
-        <IconSize>38</IconSize>
+        <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>3.3</SplitHeight>
+        <SplitHeight>3.4</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -146,7 +146,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Gold</Name>
-            <Type>SegmentDelta</Type>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
@@ -162,7 +162,7 @@
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>78</Height>
+        <Height>69</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
@@ -177,15 +177,15 @@
         <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
         <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
         <SegmentTimesFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentTimesFont>
-        <SplitNameFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAJBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></SplitNameFont>
+        <SplitNameFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAEBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></SplitNameFont>
         <DisplayIcon>True</DisplayIcon>
-        <IconSize>59</IconSize>
+        <IconSize>58</IconSize>
         <ShowSplitName>True</ShowSplitName>
         <SplitNameColor>FFFFFFFF</SplitNameColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Personal Best</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
         <TimingMethod>Current Timing Method</TimingMethod>
@@ -275,7 +275,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
+        <FontSize>15</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -284,10 +284,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2813</WindowPos.X>
-        <WindowPos.Y>8</WindowPos.Y>
-        <WindowSize.Width>503</WindowSize.Width>
-        <WindowSize.Height>766</WindowSize.Height>
+        <WindowPos.X>-2876</WindowPos.X>
+        <WindowPos.Y>-317</WindowPos.Y>
+        <WindowSize.Width>626</WindowSize.Width>
+        <WindowSize.Height>1244</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>

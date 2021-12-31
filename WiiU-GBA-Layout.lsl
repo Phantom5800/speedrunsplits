@@ -4,7 +4,7 @@
   <X>-3681</X>
   <Y>-318</Y>
   <VerticalWidth>765</VerticalWidth>
-  <VerticalHeight>1310</VerticalHeight>
+  <VerticalHeight>1245</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>FF6E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>13</VisualSplitCount>
+        <VisualSplitCount>12</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -271,27 +271,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>SpeedGuidesLive.dll</Path>
-      <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-2912</WindowPos.X>
-        <WindowPos.Y>-317</WindowPos.Y>
-        <WindowSize.Width>637</WindowSize.Width>
-        <WindowSize.Height>1287</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Sound.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -338,6 +317,27 @@
         <ResumeVolume>100</ResumeVolume>
         <StartTimerVolume>100</StartTimerVolume>
         <GeneralVolume>100</GeneralVolume>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>15</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>-2912</WindowPos.X>
+        <WindowPos.Y>-317</WindowPos.Y>
+        <WindowSize.Width>626</WindowSize.Width>
+        <WindowSize.Height>1244</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
   </Components>
