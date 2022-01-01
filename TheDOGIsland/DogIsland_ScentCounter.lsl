@@ -286,5 +286,26 @@
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
+    <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>12</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>-2926</WindowPos.X>
+        <WindowPos.Y>-287</WindowPos.Y>
+        <WindowSize.Width>637</WindowSize.Width>
+        <WindowSize.Height>1281</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
+      </Settings>
+    </Component>
   </Components>
 </Layout>
