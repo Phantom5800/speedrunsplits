@@ -218,12 +218,14 @@ Stuff that should have been picked up:
 * Quiz: 2311232232
 * Compress SlipRun: ALAAALLABR
 
+- Shower Comp: Buy 2 Rush Food (Up+Right) and BMD (Down+Right)
 - Observation Comp: RegUp (Up+Right) and Zenny (Down+Left)
 - Talk to Navi
 - Talk to Oxygen Tank then jack in:
   - Bugfrags (Up+Right)
   - BugFix PMD (Up+Left)
-- Shower Comp: Buy 2 Rush Food (Up+Right) and BMD (Down+Right)
+
+GO BACK TO ELECMAN, DO NOT DO WINDCARD FIGHTS
 
 * Sky Area 1 GMD - MegEnBom (keep trying every single time)
 * Sky Area 2 - GMD is bad
@@ -310,6 +312,7 @@ Stuff that should have been picked up:
 * ACDC HP, rightmost corner for BMD before talking to Roll
 
 - ACDC as normal
+- Grab **Atk+30** PMD in AC/DC main area
 - Get BMD in CA3 by cloud
 - In SkyArea1 go up ramp for request (212 3111)
 - Fight ElementManEX (directly behind him)
@@ -721,9 +724,13 @@ CHANGE FOLDERS BACK
 - Go through right door and talk to scientist for **ExptFldr**
 - Go to Central
 
+### Request: "Can't Open Safe"
+* Go to seaside, jack in to popcorn machine
+* Talk to navi, talk to safe (564)
+
 ### Request: "Get the chip!"
 * Jack in at home
-* NaviCust: Bug **Jungle**
+* NaviCust: Bug **Jungle** (ALARBRARLB)
 * Use a sneakrun, SAVE in Sky1
 * **ElementmanEX** and **ElementmanSP**, use a **LocEnemy** if after the first encounter
 
@@ -732,7 +739,7 @@ CHANGE FOLDERS BACK
   - **WaveArm2 L** - 10-S
   - **WaveArm2 M** - 10-S
   - **TimeBom2** - BGMD
-- **Battery** for BGMD and DolThndr, **Fish** for wavearms
+- **Battery** for BGMD and DolThndr, **Fish** for wavearms (ARAABARRBA)
 
 ### Under1
   - **SandWrm1** = **Fish**
@@ -808,7 +815,9 @@ Split when all these chips are checked off lol</Note>
     </Split>
     <Split>
       <Name>BassBX</Name>
-      <Note>* NaviCust: Remove **Oilbody**, add **SlipRun**
+      <Note>- Zenny grind! Pav4 with **Millions** in NaviCust (RBARALBBBL)
+
+* NaviCust: Remove **Oilbody**, add **SlipRun**
 * Buy **Static** and **DeltaRay** from Graveyard shop (44600z)
 * Jack out and back in, Sky1 trader and buy **PoisSeed**
 * Jack out and in, Seaside 3 shop and turn in request
