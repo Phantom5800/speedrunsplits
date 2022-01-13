@@ -2,17 +2,6 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>-Goombario</Name>
-      <Note>### Jr.
- 1. Jump
- 2. Jump
- 3. Jump
- 4. Jump
- 5. Jump
-
-* Grab Fire Flower</Note>
-    </Split>
-    <Split>
       <Name>Prologue</Name>
       <Note>### Red &amp; Blue
  1. Power Jump (Red) / Headbonk (Red)
@@ -24,23 +13,25 @@
  2. Power Jump / Headbonk</Note>
     </Split>
     <Split>
-      <Name>-Kooper</Name>
-      <Note>* Grab Fright Jar
+      <Name>-Bombette</Name>
+      <Note># Pleasant Path
+
+* Grab Fright Jar
 * Grab POW
 
 ### Shop
  - 3 POW
- - 1 Fire Flower</Note>
-    </Split>
-    <Split>
-      <Name>-Bombette</Name>
-      <Note>### Fuzzies
+ - 1 Fire Flower
+
+### Fuzzies
  1. Fire Flower (Mash A)
 
 * Grab HP Plus
 * Grab Thunder Bolt
 * Grab Fire Flower
 * Heart Block
+
+# Koopa Bros. Fortress
 
 ### Key Koopa
  0. Jump First Strike
@@ -280,7 +271,7 @@ if three capped:
 Level Up BP (10/20/9)</Note>
     </Split>
     <Split>
-      <Name>-Enter Flower Fields</Name>
+      <Name>-Moles</Name>
       <Note>## EQUIPS
 * Equip Power Jump (A)
 * Equip Power Quake (Down 2)
@@ -291,11 +282,11 @@ Level Up BP (10/20/9)</Note>
 
 ### Jr. (Block 0/1)
  1. Power Jump / Shell Shot
- 2. Power Jump / Shell Shot</Note>
-    </Split>
-    <Split>
-      <Name>-Water Stone</Name>
-      <Note>### Mole (Bottom-Left) [2 moles]
+ 2. Power Jump / Shell Shot
+
+# Flower Fields
+
+### Mole (Bottom-Left) [2 moles]
 1. Fright Jar / Air Lift if front runs
 
 if back runs:
@@ -320,9 +311,11 @@ If not peril:
 ### Mole (Bottom-Right)
 1. Untimed power quake / Air Raid
 
-Level Up FP (10/25/9)
-
-### Maze Fight
+Level Up FP (10/25/9)</Note>
+    </Split>
+    <Split>
+      <Name>-Water Stone</Name>
+      <Note>### Maze Fight
 1. Air Raid / Star Storm
 
 </Note>
@@ -345,6 +338,13 @@ Level Up FP (10/25/9)
  1. Shooting Star / Air Raid
 
 * Grab S. Jump Charge
+
+## Equips
+* Unequip Spike Shield (R, Up 1)
+* Unequip Power Jump (Z)
+* Equip S. Jump Charge (Down 1)
+* Unequip Power Quake (Down 2)
+* Equip Damage Dodge (Down ?)
 
 ### Huff
  1. Charge / Do Nothing
@@ -420,7 +420,6 @@ Level Up BP (15/30/12) (if using spook/hurricane)</Note>
  * Equip S. Jump Charge (Down 1)
  * Equip Power Bounce (Down 1)
  * Unequip Power Quake (Down 1)
- * Equip HP Plus (Down ?)
  * Equip P-Up D-Down (Down ?)
 
 - Swap to Bow (or Parakarry for risky)
