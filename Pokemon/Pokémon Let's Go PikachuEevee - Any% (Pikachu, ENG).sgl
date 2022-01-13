@@ -2,10 +2,6 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>Rival</Name>
-      <Note>Reset if -Atk or -SpAtk nature</Note>
-    </Split>
-    <Split>
       <Name>Brock</Name>
       <Note>Level 5 Stats:
 * &lt;14atk = bad
@@ -135,7 +131,7 @@ Skip headbutt if:
     * 2 Escape Ropes (&gt;)
     * 11 Lures (&gt;)
     * 11 X-Attacks (v)
-    * 11 X-SpAtk (vv)
+    * 14 X-SpAtk (vv)
     * 14 Super Potions (&lt;&lt;)
     * MAX Great Balls (^^)
 * Move Super Potions to slot 1

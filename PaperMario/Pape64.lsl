@@ -115,7 +115,7 @@
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
         <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <HeaderAccuracy>Seconds</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
         <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
@@ -166,13 +166,13 @@
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
-        <OverrideTimerColors>False</OverrideTimerColors>
+        <OverrideTimerColors>True</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
-        <TimerColor>FFAAAAAA</TimerColor>
-        <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
+        <TimerColor>FFFFFFFF</TimerColor>
+        <SegmentTimerColor>FFFFFFFF</SegmentTimerColor>
         <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
         <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
         <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
@@ -185,7 +185,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Personal Best</Comparison>
+        <Comparison>Current Comparison</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
         <TimingMethod>Current Timing Method</TimingMethod>
