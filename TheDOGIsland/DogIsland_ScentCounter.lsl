@@ -31,7 +31,7 @@
     <ShowBestSegments>True</ShowBestSegments>
     <AntiAliasing>True</AntiAliasing>
     <DropShadows>True</DropShadows>
-    <BackgroundType>VerticalGradient</BackgroundType>
+    <BackgroundType>SolidColor</BackgroundType>
     <BackgroundImage />
     <ImageOpacity>1</ImageOpacity>
     <ImageBlur>0</ImageBlur>

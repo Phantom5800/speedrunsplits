@@ -255,18 +255,22 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.Text.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
+        <Text1>World Record</Text1>
+        <Text2>3:42:44 by imglower</Text2>
+        <Font1><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></Font1>
+        <Font2><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></Font2>
+        <OverrideFont1>False</OverrideFont1>
+        <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -286,8 +290,8 @@
         </ActiveSplitTxtPath>
         <WindowPos.X>-2876</WindowPos.X>
         <WindowPos.Y>-317</WindowPos.Y>
-        <WindowSize.Width>626</WindowSize.Width>
-        <WindowSize.Height>1244</WindowSize.Height>
+        <WindowSize.Width>633</WindowSize.Width>
+        <WindowSize.Height>1232</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>

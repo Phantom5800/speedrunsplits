@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Plant a Tree</Name>
+      <Note>## Puroro Town
+* Immediately pause and set message speed to max
+* Exit house
+* Talk to Enzo by fountain
+  * Sniff opposite side of fountain for **Basket (1)**
+  * Sniff front of fountain for **Beautiful Stone (2)**
+  * Give basket to Enzo and receive **Milk (3)**
+* Mash through cutscenes
+* Talk to Gustavo and start **Spiral Shells (4)** quest
+  * Near fountain next to El Dorado
+  * SE corner of map by third fencepost from the left
+    * Pick up **Colored Glass (5)** nearby
+  * SW corner of map by corner fencepost
+  * Return to Gustavo
+* Mash through more cutscenes 
+  * Dialog
+## Boat
+* Clean up **Dirt (6)**
+  * East of mast
+  * Immediately south of mast
+  * South middle of 2nd stair
+  * Return to Philipo for cutscene
+* Learn to fish with your new **Fishing Rod (7)**
+  * Catch **Pacfic Saury (8)**
+  * Catch **Sea Bass (9)**
+  * Return to Bernard at south tip of ship for dialog and another cutscene
+* Clean up more dirt
+  * NE of the mast near edge of ship
+  * ESE on step right below postman
+  * W of mast near edge
+  * Middle of upper second step
+  * NW corner
+  * Talk to Philipo for 3 cutscenes
+## Pupsville
+* Mash through dialog and cutscenes
+* Go to Potan’s Clinic
+* Leave the clinic for 2 cutscenes
+* Go to your house
+  * Sniff fireplace to find **Petasi (10)**
+* Go to Noble’s house
+* Go to Anc Tree
+  * Split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Nap Time</Name>
+      <Note>* Go to Potan’s Clinic
+* Go to Green Meadows
+* Mash A and say no when Yi Lu asks for explanation
+  * **Ring Fragment 1 (11)** - left side middle of the path around bend
+  * Talk to Yi Lu for bark tutorial
+  * **Ring Fragment 2 (12)** - turn immediately right and scare the first snake
+  * Talk to Yi Lu and get **Medicinal Herb (13)**
+* Go to Potan’s Clinic
+  * Talk to Potan
+* Go to Green Meadows
+  * Sniff between yellow flowers after first snake for **Yellow Flower (14)**
+* Go to Potan’s Clinic
+  * Give Potan the flower and leave, cutscene when leaving
+* Go to Green Meadows
+  * Near broken bridge, collect **Brave Fruit (15)**
+  * Pick up and track optional scents on the way back as possible
+* Go inside Potan’s Clinic to end quest for Francis and start a new quest
+* Go to Treely Woods through Green Meadows (immediately turn right and follow the wall)
+  * Follow left path over bridge
+  * Talk to Goliath for **Axe Handle (16)** scent
+  * Go back across bridge and turn left, go left at the next fork and scare the Gorilla
+  * Go back to Goliath
+* Go down around the new path (do not go to next zone)
+  * Sniff by the cliff wall for **Blue Flower (17)**
+* Talk to Potan
+* Go back home and sleep, split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Time to go Home</Name>
+      <Note>* Mash through cutscene and dialog
+* Go talk to Alex (dog living under a book)
+* Go to Treely Woods (shortcut is open from Pupsville)
+  * Immediately turn right and go to Obaba’s house
+  * There is sometimes a Pumpkin outside her house
+* Go back home
+  * Sniff fireplace for **Ashes (18)**
+* Return to Obaba
+* Go to Anc Tree and talk to Francis
+* Go to Green Meadows
+* Go to Treely Woods
+* Go to Zoomy Lake (previous path opened by Goliath)
+  * Go to island in the middle and speak to Potan
+* Go to Yi Lu in Green Meadows
+* Back to Zoomy Lake
+  * Go down the slope and immediately turn left, hop across the islands for a cutscene
+  * Find **Hippo Food 1 (19)** near cliffside curve along with a possible Rosemary
+  * Place hippo food on stump and skip
+  * Jump across Hippo and climb hill for **Ring Fragment 2 (20)** and a common Morning Glory nearby
+* Go back to Yi Lu
+* Go to Potan
+* Go to Treely Woods (shortcut)
+  * Go forward to find **Deflungi (21)** along the convex part of land along river
+  * Return to Potan
+* Go to Green Meadows
+  * Go to signpost opposite the tree by the lake with the bear
+  * Sniff behind signpost for **White Flower (22)**
+* Go back to Potan and say yes to leaving
+  * Split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Zoomy Village</Name>
+      <Note>* Go up towards your house and skip/mash through all scenes
+* Go to the Anc Tree
+* Go home and skip cutscene
+* Go to Obaba
+  * Choose the second option for all of Petasi’s questions
+* Go to Yi Lu for a quest
+* Go to Treely Woods
+  * Go over bridge and take a right, then left at the fork
+  * Sniff concave cliff cutaway for **Ring Fragment 3 (23)**
+  * Sniff the grass by two trees for **Special Grape (24)**
+* Return to Yi Lu, say no when he asks about hearing his story
+  * Get the **Apprentice Ring (25)** from Yi Lu
+* Go to Zoomy Lake
+* Go to second stump for **Hippo Food 2 (26)** scent
+* Go to the center island (where Potan was before) for hippo food and sometimes a Green Apple
+* Place the hippo food
+* Cross over the new path to enter Zoomy Village, split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Boris is my Friend</Name>
+      <Note>* Talk to Rode for **Flower Vase (27)** scent
+* Go to Hoya Plains (oh boy)
+  * Sniff grass patch behind second snake for **Elephant Food 1 (28)**
+  * Place the elephant food on the stump in the back corner
+  * Scare the first boar to the north for the **Giraffe’s Note (29)**
+  * Cross the gap from the elephant that was moved and pick up **Lotus Flower (30)**
+    * Sometimes there is Spinach on this ledge
+  * Drop down and talk to the nearby giraffe
+  * Use giraffe to go up and follow path to Flower Vase
+* Return to Rode in Zoomy Village
+* Talk to Boris outside dojo for **Firewood (31)** delivery
+* Return to Pupsville (use shortcut in Treely)
+  * Talk to Noble and cutscene
+  * Talk to Alex for **Map Stone (32)** scent
+* Go to Hoya Plains
+  * Go to giraffe closer to entrance (not the same one as before)
+  * Follow path to pick up Map Stone
+* Return to Pupsville and speak to Boris
+  * Split on fade to black after dialog ends</Note>
+    </Split>
+    <Split>
+      <Name>Better Sniffing</Name>
+      <Note>* Go to Victory Gang Hideout and talk to Amalia
+* Go to Green Meadows beach
+  * Talk to Bill and get Bill’s Victory Gang Badge (33) scent
+* Go to Treely Woods, left over bridge, right, left at fork
+  * Sniff for badge near gorilla
+  * If gorilla grabs you, death warp is faster than walking back
+* Return to Bill
+* Go to Victory Gang Hideout for hide and seek
+  * Immediately east behind Amalia’s House (34)
+  * Behind Dorothy’s house (35)
+  * Flowers behind “A House” (36)
+------
+#### Go to Boris and fast travel to Zoomy Village (say no to explanation) [Mash A]
+------
+* Go to Hoya Plains
+  * Go all the way north to Kristina (should see the bee swarm)
+  * Place Lotus Flower from earlier on stump (scene warp to Noble’s house)
+* Sniff inside the current room for Silver (37) near Dougal
+* Go to opposite room and talk to Peter for Romantic Drop (38) scent
+* Go to Alex’s house, talk to Amalia and say yes for a cutscene
+* Go to VG Hideout and sniff Candle (39)
+* Give Candle to Alex
+  * Talk to Alex again, “Answer Riddle,” select “Nail” (option 2) in riddle
+* Go to Potan’s Clinic for scene with Francis
+------
+#### Boris to Zoomy Village [Mash A]
+------
+* Turn around and walk forward to meet Clark and get a Bug Cage (40)
+  * NOTE: bug catches are now a very good way to get extra scents
+* Go towards Zoomy Lake for Kurtis scene
+* Go to Zoomy Lake
+  * Fish at first dock for Black Bass (41)
+    * Track any extra fish you get here towards the 21 RNG scents
+  * Head towards the Treely Woods path, Cabbage Butterfly (42) can be found near the snake to the left
+* Return to Zoomy Village 
+  * Deliver Black Bass and Cabbage Butterfly to Kurtis and Clark
+  * Talk to Elaine near the dojo
+* Go to South Sandy Desert through Hoya Plains (where bees were before)
+  * Find Romantic Drop near middle of pyramid
+* Go to Gigili Village
+* Go to North Sandy Desert
+* Southern end of the second east dune should be a Special Flour (43)
+  * Go to the oasis and pick up Ash Tree (44) near the tree
+------
+#### Boris to Pupsville [Mash A]
+------
+* Go to Furniture Dealer and talk to Mary Theresa for Expensive Furniture (45)
+* Deliveries
+  * Give Ash Tree to Jeremy
+  * Give Romantic Drop to Peter
+  * Give Expensive Furniture to Noble
+* Go back to Furniture Dealer, leave and go to Anc Tree
+* Go talk to Bill in Green Meadows by first pier
+* Go pick up Crab (46) nearby and return it to Bill
+------
+#### Boris to Zoomy Village [Mash A]
+------
+* Talk to Rode and split
+* Mash through cutscenes / dialog
+</Note>
+    </Split>
+    <Split>
+      <Name>Meet Tao</Name>
+      <Note>## Cleaning up Some Stuff
+---
+#### Boris to Gigili Village [Down 2] &gt; South Sandy Desert
+---
+  * Go to sphinx for Ivory Key (47) scent
+  * Scare snake on the west side of the map for key
+  * Return to sphinx for Certificate (48) scent
+  * Sniff the glowing spot for the certificate
+---
+#### Boris to Zoomy Village [Down 1]
+---
+  * Talk to Rode
+---
+#### Boris to Pupsville [Mash A] &gt; Green Meadows
+---
+* Go to broken bridge and talk to Henry
+* Go to Goliath’s house in Treely Woods for Nail (49) scent
+* Go to Furniture Dealer to get nails from Mary Theresa
+* Return to bridge and talk to Goliath
+* Go to Gola Highlands (right across the bridge and then do a 180 up the hill)
+
+## Gola Highlands
+* Search cave up the hill for Elephant Food 2 (50)
+* Place food on stump then cross the gap
+* Talk to first giraffe for lift
+  * Sniff grass near right edge for Cork (51)
+  * Go forward and drop down twice, past another giraffe
+  * Sniff north of tree for Saffron Flower (52) and sometimes an Orchid nearby
+  * Lift up and go right, drop down past another giraffe
+  * Sniff nearby for Lapis Lazuli (53)
+* Follow wall on the right, up the slope and push boulder down
+* Go to dojo and talk to Tao
+* Split on fade to black when walking up to dojo
+* There is sometimes a Green Grape under the dojo windows
+</Note>
+    </Split>
+    <Split>
+      <Name>Snow Field</Name>
+      <Note>#### Boris to Pupsville [Mash A]
+---
+* Go to Noble’s house and talk to Alice for quest and Chiro Key (54)
+---
+#### Boris to Gola [Up 4] &gt; Chiro Village (path opened by boulder earlier)
+---
+* Through the village to Chiro Caves
+* This first room in the water is sometimes a Fig
+* Catch Black Swallowtail Butterfly (55) on the way to Chiro Caves B2
+* Take the left fork past the snake, open door to B2
+* Right fork, go right then sniff for Blue Rose (56)
+* Go back to Chiro Village
+---
+#### Boris to Pupsville [Mash A] and talk to Alice
+---
+* Safety heal at home if necessary
+---
+#### Boris to Chiro Village [Down 1] &gt; Chiro Caves
+---
+* Go to B2 and take left fork this time (be careful of bats)
+* In B3 talk to Henry for Heavy Stones (57) scent
+* Scare the gator in the middle of B3 for Cough Drops (58), sometimes there is Chrysanthemum to pick up near the gator’s body
+* Back on B2, collect the Heavy Stones (bats WILL make this painful)
+  * Mid right hall slightly left
+  * Follow cave wall left, middle before green patch
+  * Right side mid after the gap
+  * Wrap back around towards the door
+* Back to B3 and place the heavy stones
+  * NOTE: starting with the one on the right and going clockwise is fastest
+* Exit through the door to West Chilly Field
+* Split when screen is black</Note>
+    </Split>
+    <Split>
+      <Name>Sniff Master</Name>
+      <Note>## West Chilly Fields
+* Scare the southernmost polar bear for Golden Watch (59)
+* Get the Smelly Potato (60) scent from the stump
+* Talk to Siegfried by the ice wall for Firewood (61) scent
+* Search the NW brick polar bear house for Firewood
+* Return to Siegfried to melt ice wall
+* Go to Snow Village and try going east to meet Gordon
+  * Pause and exit tutorial
+  * Challenge normally for Gordon’s VG Badge (62)
+  * Do timed waggles and hope your Wii remote is working to win
+## Fetch Quests
+---
+#### Boris to Pupsville [Mash A] &gt; Furniture
+---
+* Give Cork to Mary Theresa
+* Go to Alex and do more riddles
+  * “Snail” (bottom answer)
+  * “Backpack” (top answer, just mash)
+* Deliver watch to Noble
+* Go to Jeremy’s house for Mana (63) scent
+  * Go to ocean at Green Meadows (walk into the water for scene)
+  * Go to a bulge in the river near the Gola Bridge
+  * Go to Zoomy Lake and follow path to Zoomy Village for another scene
+---
+### Boris to West Chilly Field [Up 3]
+---
+* Go to the cliff area near the water for the final Jeremy cutscene
+---
+#### Boris to Chiro Village [Down 2] (use WCF Boris, not Snow Village)
+---
+* Give cough drops to the guitar dog immediately behind you
+---
+### Boris to Gola [Up 4]
+---
+* Talk to Tao for the First Book of the Sniff Master (64) scent, just mash through all the dialog
+---
+#### Boris to Snow Village [Down 4] &gt; East Chilly Fields
+---
+* Follow the below path along the ice (you can bark at the penguin for a random path to follow, this is just the fastest path)
+![](C:/Git/Splits/TheDOGIsland/images/iceroute.png)
+* Sniff the Igloo for the book
+* Sniff near the polar bear for Cinnabar (65)
+* Death warp or just walk back to Snow Village
+  * NOTE: If you did not death warp to the gorilla early, do so here, inventory is probably close to being full at this point
+---
+#### Boris to Gola [Up 4]
+---
+* Split when talking to Tao</Note>
+    </Split>
+    <Split>
+      <Name>Gang Leader</Name>
+      <Note>#### Boris to Pupsville [Mash A]
+---
+* Anc Tree scene
+* Go home and rest
+---
+#### Boris to Gola [Up 4]
+---
+* Talk to Tao
+---
+#### Boris to Gigili Village [Down 3]
+---
+* Walk towards mailbox and challenge for Will’s VG Badge (66)
+  * Pause and exit tutorial immediately
+* Go to North Sandy Desert and get Quicksand Cane (67) scent from Sayir
+* Far west side, get the cane and return it to Sayir
+---
+#### Boris to Pupsville [Mash A]
+---
+* Talk to Wilbur for Burning Water (68) scent
+* Talk to Peter in Noble’s house for Premium Hibiscus (69) scent
+---
+#### Boris to Gigili Village [Down 2] &gt; North Sandy Desert
+---
+* North of oasis for premium hibiscus
+* Go forward to Dry Valley
+  * Center of triangle rock formation near vulture for burning water
+* Go forward to Rune Village
+  * Buy all items from shop (70-74)
+* Go to center of village and play Soccer for McCoy’s VG Badge (75)
+---
+#### Boris to Pupsville [Mash A]
+---
+* Talk to Wilbur
+* Talk to Peter
+* Go to Malshige’s Shop
+  * Talk to Malshige for Beautiful Feather (76) scent
+---
+#### Boris to Gigili Village [Down 2] &gt; North Sandy Desert
+---
+* Westernmost cactus for Beautiful Feather
+---
+#### Boris to Pupsville [Mash A]
+---
+* Deliver feather to Malshige
+* Go to VG Hideout for a cutscene
+  * Split when entering the door to the hideout</Note>
+    </Split>
+    <Split>
+      <Name>Sniff Master Medal</Name>
+      <Note>#### Boris to Rune Village [Down 4]
+---
+* Talk to Tancredi by Rune Caverns for Hat (77) scent
+* Go to Rune Caverns and scare cobra for Hat, return to Tancredi
+  * There is very often Star Fruit in this room as well
+---
+#### Boris to Gola [Up 4] 
+---
+* Talk to Tao for Second Book of the Sniff Master (78) scent
+---
+#### Boris to Rune Village [Up 4]
+---
+* Sniff the bushes near the Rune Caverns exit for the book
+---
+#### Boris to Gola [Up 4] and deliver book
+#### Boris to Pupsville [Mash A]
+---
+* Anc Tree scene
+---
+#### Boris to Gola [Up 4] and talk to Tao
+---
+* **NOTE: 100 SCENTS NEEDED BY THIS POINT, 22 ADDITIONAL SCENTS NOT NECESSARILY IN THE ROUTE**
+---
+#### Boris to Rune Village [Up 4] &gt; Rune Canyon
+---
+* Hug left wall and go forward, stop at fishing spot
+* Fish for Ancient Fish
+## Ruins
+* Enter ruins and follow path, place Ancient Fish on pedestal when prompted
+* Door opens in the same room to the left, go inside and down stairs
+* Follow path to NW corner, go through bush “wall” for Silver Dog Statue
+* Go back to the original door and then make your way to NE corner
+  * Dig at door for a switch scent
+* Go to SE room and sniff for switch in the NW corner
+* Return to door and sniff for Golden Dog Statue
+* Place the dog statues in the center of the map
+* Collect the Sniff Medal
+  * Split on fade to black
+</Note>
+    </Split>
+    <Split>
+      <Name>Zombie T-Rex</Name>
+      <Note>## Run Caverns
+---
+#### Boris to Rune Village [Up 4] &gt; Rune Caverns
+---
+* Place Sniff Medal and go forward to Ancient Grove
+* Sniff in a few spots for Legendary Flower Petals
+  * SE corner near the edge
+  * S middle near the edge of the flowers
+  * W middle near “W-shaped” indent in cliff
+* Go back to Rune Village
+---
+#### Boris to Pupsville [Mash A] &gt; Green Meadows
+---
+* Go to baobab tree and choose “transport”
+## Anc Road
+* Go right immediately
+* Sniff path occasionally to show the route
+* Go right into large room to the south
+  * Sniff for Red Flower near the wall (but not all the way in)
+* Place flower on small platform and teleport on large platform
+* Dig at small platforms in order:
+  * NE, NW, SE, SW
+  * Warp from center platform
+* Turn around and sniff near wall for a switch
+* Go north through teleporter
+* Stand on the platform immediately next to you
+* Jump down and go through door, talk to Anc Queen
+
+## Kunka Ruins B1
+
+* Go right and follow the path all the way, search leftmost hall at the end
+* Go back past the entrance and take a hard right
+* Follow semi-transparent path
+* Go down ramp to B2
+
+## Kunka Ruins B2
+* Go left and around, sniff the closed door
+* Sniff SW corner of big room to open door
+* Fish for Ancient Fish
+* Place fish on pedestal at end of hall (watch out for cobra in blindspot around corner)
+* Continue downstairs
+
+## T-Rex
+
+* Jump on the center platform to open the door
+* Sniff to find the correct button each time and jump on each of them
+* After all four buttons, dig in the middle of the room
+* Split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Goodbye Friends</Name>
+      <Note>* Game immediately puts you into a mine minigame. The current known optimal path is:
+  * Left, Left, Left, Right, Right, Left, Right, Middle, Left, Left, Middle
+* Mash through dialog and skip cutscenes
+* Leave house and go to Green Meadows, confirm you want to leave
+* Time ends on the first frame of the credits AFTER two short loading screens</Note>
+    </Split>
+  </Splits>
+  <Name>THE DOG Island</Name>
+  <Category>Any%</Category>
+</Guide>
