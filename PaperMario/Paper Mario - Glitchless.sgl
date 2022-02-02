@@ -322,7 +322,7 @@ Level Up FP (10/25/9)</Note>
     </Split>
     <Split>
       <Name>-Lakilester</Name>
-      <Note>* Eat Whacka and take spike damage before Laki (9hp)
+      <Note>* Spike damage before Laki (9hp)
 * Grab Shooting Star
 
 ### Laki (Block 0/2)
@@ -340,7 +340,7 @@ Level Up FP (10/25/9)</Note>
 * Grab S. Jump Charge
 
 ## Equips
-* Unequip Spike Shield (R, Up 1)
+* Unequip Spike Shield (R)
 * Unequip Power Jump (Z)
 * Equip S. Jump Charge (Down 1)
 * Unequip Power Quake (Down 2)
@@ -380,7 +380,7 @@ Level up FP (15/30/9)
     <Split>
       <Name>Chapter 7</Name>
       <Note>* Hurricane / Spook all fights
-
+* Jammin' Jelly
 
 ### Crystal King (Block 5/6)
  1. Charge / Shell Shot
