@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-2381</X>
-  <Y>56</Y>
+  <X>-3691</X>
+  <Y>-304</Y>
   <VerticalWidth>665</VerticalWidth>
   <VerticalHeight>1287</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -273,7 +273,7 @@
     <Component>
       <Path>SpeedGuidesLive.dll</Path>
       <Settings>
-        <Version>1.3.0</Version>
+        <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
         <FontSize>12</FontSize>
         <BGColor.R>16</BGColor.R>
@@ -284,10 +284,11 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-1715</WindowPos.X>
-        <WindowPos.Y>56</WindowPos.Y>
+        <WindowPos.X>-3022</WindowPos.X>
+        <WindowPos.Y>-302</WindowPos.Y>
         <WindowSize.Width>476</WindowSize.Width>
         <WindowSize.Height>1284</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
     <Component>
