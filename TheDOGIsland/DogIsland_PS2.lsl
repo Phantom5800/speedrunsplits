@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>-3618</X>
   <Y>-288</Y>
-  <VerticalWidth>625</VerticalWidth>
-  <VerticalHeight>1303</VerticalHeight>
+  <VerticalWidth>770</VerticalWidth>
+  <VerticalHeight>830</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -89,7 +89,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>FFA005B0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>13</VisualSplitCount>
+        <VisualSplitCount>6</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -108,7 +108,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>5.3</SplitHeight>
+        <SplitHeight>2.9</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
@@ -183,7 +183,7 @@
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>65</Height>
+        <Height>64</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
@@ -289,7 +289,7 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2982</WindowPos.X>
+        <WindowPos.X>-2819</WindowPos.X>
         <WindowPos.Y>-288</WindowPos.Y>
         <WindowSize.Width>647</WindowSize.Width>
         <WindowSize.Height>1307</WindowSize.Height>
