@@ -255,19 +255,21 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.WorldRecord.dll</Path>
       <Settings>
-        <Version>1.4</Version>
+        <Version>1.6</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
+        <CenteredText>False</CenteredText>
+        <FilterRegion>False</FilterRegion>
+        <FilterPlatform>False</FilterPlatform>
+        <FilterVariables>True</FilterVariables>
       </Settings>
     </Component>
     <Component>
