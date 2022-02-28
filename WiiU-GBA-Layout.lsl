@@ -165,9 +165,9 @@
         <Height>69</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
-        <TimerShowGradient>True</TimerShowGradient>
+        <TimerShowGradient>False</TimerShowGradient>
         <OverrideTimerColors>True</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <SegmentTimerShowGradient>False</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
