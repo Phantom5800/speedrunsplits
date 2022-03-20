@@ -114,8 +114,8 @@
         <HeaderGradient>Plain</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
-        <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <HeaderTimes>False</HeaderTimes>
+        <HeaderAccuracy>Seconds</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
         <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>
@@ -146,7 +146,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Gold</Name>
-            <Type>SegmentDelta</Type>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
@@ -166,13 +166,13 @@
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
-        <OverrideTimerColors>False</OverrideTimerColors>
+        <OverrideTimerColors>True</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
-        <TimerColor>FFAAAAAA</TimerColor>
-        <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
+        <TimerColor>FFFFFFFF</TimerColor>
+        <SegmentTimerColor>FFFFFFFF</SegmentTimerColor>
         <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
         <SegmentTimesColor>FFFFFFFF</SegmentTimesColor>
         <SegmentLabelsFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAIEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></SegmentLabelsFont>
@@ -269,7 +269,7 @@
         <CenteredText>False</CenteredText>
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>False</FilterVariables>
+        <FilterVariables>True</FilterVariables>
       </Settings>
     </Component>
     <Component>
@@ -287,9 +287,9 @@
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
         <WindowPos.X>-3022</WindowPos.X>
-        <WindowPos.Y>-302</WindowPos.Y>
-        <WindowSize.Width>476</WindowSize.Width>
-        <WindowSize.Height>1284</WindowSize.Height>
+        <WindowPos.Y>-303</WindowPos.Y>
+        <WindowSize.Width>587</WindowSize.Width>
+        <WindowSize.Height>1296</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>

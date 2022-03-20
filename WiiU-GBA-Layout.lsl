@@ -114,8 +114,8 @@
         <HeaderGradient>Plain</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
-        <HeaderTimes>True</HeaderTimes>
-        <HeaderAccuracy>Tenths</HeaderAccuracy>
+        <HeaderTimes>False</HeaderTimes>
+        <HeaderAccuracy>Seconds</HeaderAccuracy>
         <SectionTimer>True</SectionTimer>
         <SectionTimerGradient>True</SectionTimerGradient>
         <SectionTimerAccuracy>Tenths</SectionTimerAccuracy>

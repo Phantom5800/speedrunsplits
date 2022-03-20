@@ -1,0 +1,1949 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Marathon</GameName>
+  <CategoryName>Speedrunning Year 1</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>=Setup=</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:00</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-30" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-1-1 Super Bell Hill</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:04.4170000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.4020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-30">
+          <RealTime>00:01:04.4020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-1-2 Koopa Troopa Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:27.0660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:17.0910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-2-1 Conkdor Canyon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:08:55.2440000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:25.7070000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-2-3 Shadow-Play Alley</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:32.0450000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:34.6040000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-2-4 Really Rolling Hills</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:04.7370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.6920000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-2-MH Mystery House Melee</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:11.4580000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.3780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	2-A Big Galoomba Blockade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:41.4380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:28.8770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	2-5 Double Cherry Pass</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:02.3700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:14.8050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-2-Castle Bowser's Bullet Bill Brigade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:18.4610000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:12.9110000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-1 Snowball Park</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:19:44.0500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:22.1660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-3 Shifty Boo Mansion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:21:38.0460000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:53.9960000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	3-CT Captain Toad Makes a Splash</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:18.7170000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.2870000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	3-4 {1,2} Pretty Plaza Panic</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:14.1220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:55.1160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	3-A Magikoopa Blockade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:48.6090000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:33.0960000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-5 {1,3} Pipeline Lagoon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:45.6630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.3010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-7 {2,3} Switchboard Falls</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:28:31.3860000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:35.5500000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-Castle The Bullet Bill Express</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:00.1990000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:18.5540000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-3-B A Banquet with Hisstocrat</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:32:47.3560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:45.5420000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-1 Ant Trooper Hill</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:35.1570000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:44.4320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-2 Piranha Creeper Creek</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:35.0410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:53.1900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-A Brolder Blockade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:37:20.1490000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:45.1080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-4 Big Bounce Byway</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:04.4220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:38.1370000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-MH Mystery House Mad Dash</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:40:53.3670000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.4570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-4-2 Warp</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:42:00.4630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:06.1840000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	5-CT Captain Toad Plays Peek-a-Boo</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:22.7070000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:21.5360000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	1-CT Captain Toad Goes Forth</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:44:50.4560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:22.8080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-1 {1,3} Sunshine Seaside</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:47:03.9080000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.5730000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-3 Backstreet Bustle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:01.9080000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:58</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-A Chargin' Chuck Blockade is Back</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:42.1010000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:39.9010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-4 Sprawling Savanna</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:50:28.8700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:45.5010000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-6 {1,3} Cakewalk Flip</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:51:44.4060000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:13.3310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-5-7 Searchlight Sneak</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:53:17.6370000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:29.3760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	5-Castle King Ka-thunk's Castle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:55:43.3830000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:17.0850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-1 {1,2} Clear Pipe Cruise</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:57:54.1300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:05.3180000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-2 {1,3} Spooky Seaside Wreck</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:59:34.0360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.1850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-4 Deep Jungle Drift</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:01:35.0890000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:58.4220000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-A Prince Bully Blockade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:02:28.9250000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:51.0880000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-6 Bullet Bill Base</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:03:59.9550000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:30.7690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-7 Fuzzy Time Mine</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:01.6550000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:58.4670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-MH Mystery House Throwdown</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:59.7600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:58.1050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-Castle Bowser's Bob-omb Brigade</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:10:03.7380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:03.2300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-6-C Motley Bossblob's Big Battle</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:12:00.8690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:57.1310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-1 {1,3} Fort Fire Bros.</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:37.4530000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.5840000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-3 Red-Hot Run</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:14:56.2840000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:18.8310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	7-4 Boiling Blue Bully Belt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:51.4000000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:54.7600000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-A Brolder Blockade is Back</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:17:55.3050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:03.4390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-5 Trick Trap Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:19:47.6400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:48.5800000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-CT Captain Toad Gets Thwomped</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:21:08.3360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:20.6960000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-7 Simmering Lava Lake</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:22:46.1340000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:31.8160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-7-Castle Bowser's Lava Lake Keep</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:25:19.9560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:19.4670000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	8-1 {1,3} Spiky Spike Bridge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:28:18.2700000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:32.2620000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-3 {1,2} Cookie Cogworks</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:30:07.4970000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.1250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-T The Bowser Express</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:32:42.8850000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:28.3190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-4 Footlight Lane</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:34:36.9480000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.1060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-6 A Beam in the Dark</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:37:29.5330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:50.9210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-MH Mystery House Claw Climb</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:39:28.4200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:56.0390000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	8-7 Grumblump Inferno</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:42:27.5160000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:20.1910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-	8-A Motley Bossblob's Encore</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:44:17.0500000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.6070000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-8-B Hisstocrat Returns</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:45:44.9470000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.0240000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Super Mario 3D World - Any%} Meowser</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:50:41.4410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:40.9980000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>=Break=</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:55:41.4410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Plant A Tree</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:10:18.4610000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:27.7020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Nap Time</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:20:15.5690000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:57.1080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Time to go Home</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:33:13.2330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:57.3690000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Zoomy Village</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:41:18.2910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:05.0580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Boris is my Friend</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:50:14.0860000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:36.0070000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Better Sniffing</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:10:21.3910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:20:07.3050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Meet Tao</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:19:38.2040000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:45.9090000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Snow Field</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:27:54.2620000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:11.5000000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Sniff Master</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:41:33.9880000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:22.7990000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Gang Leader</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>03:56:17.8400000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:14:34.9520000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Sniff Master Medal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:07:12.6630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:36.1260000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Zombie T-Rex</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:19:08.9360000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:50.8570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{The DOG Island - Any%} Goodbye Forever</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:23:01.7410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.1380000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>=Break=</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:28:01.7410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Prologue</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>04:50:06.3170000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:22:03.0310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Bombette</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:00:44.5020000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:14.8480000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:07:20.0530000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:30.3210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Parakarry</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:16:12.4910000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:51.2970000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Ruins</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:21:27.3440000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:13.3070000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:31:20.2980000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:44.8990000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Mansion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:39:35.8560000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:14.5890000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Bow</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:44:29.2890000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:53.2940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>05:56:33.5590000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:04.3780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Gourmet Guy</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:20.4910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Watt</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:11:08.2350000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:06.7350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:15:53.9410000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:44.7240000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Sushie</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:26:16.4390000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:20.6610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Volcano</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:36:33.9930000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:05.5570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:44:12.8960000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:10.0660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Moles</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>06:57:03.9110000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:33.4700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Water Stone</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:04:20.7630000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:00.6190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Lakilester</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:08:46.5550000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:07.4150000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:15:25.3480000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:38.7930000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Monstar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:29:12.7480000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:44.6700000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Palace</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:35:29.1480000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:07.7280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Chapter 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>07:46:51.2380000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:26.6910000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Door 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:00:11.1300000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:57.6580000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Door 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:07:22.4050000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:11.2750000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Jr. Troopa</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:11:36.3240000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:13.9190000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Hallway Bowser</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:13:37.3330000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:01.0090000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Star Rod</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:20:26.3040000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:48.9710000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Paper Mario - Glitchless} The End</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:26:32.4100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:06.1060000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>=Break=</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:31:32.4100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Blastman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:43:45.7110000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:55.8250000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-TrnArrw Pls</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>08:54:26.9540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:34.1050000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Diveman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:07:22.7680000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:40.1290000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-HeatCross</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:14:14.0030000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:42.4020000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Upgrades and Puzzles</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:21:30.3190000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:09.6410000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Circusman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:30:52.9800000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:09:22.6610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Judgeman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>09:50:05.1580000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:02.2770000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Windcard Fights</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:03:00.6870000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:49.9510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Heatman + Appliances</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:12:04.6720000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:40.6320000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Elementman</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:17:30.6820000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:43.9160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Backtracking</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:22:45.2600000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:14.5780000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-AC/DC</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:28:32.2540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:46.9940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Colonel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:39:49.1220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:02.0280000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Prep</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:47:12.1950000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:18.4590000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Aquarium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:52:16.8940000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:38.1350000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Judgeman EX</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:54:17.4660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:46.4980000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Elementman EX</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>10:57:16.1660000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:20.3080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Circusman EX</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:00:15.9150000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:59.7490000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-15" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Mega Man Battle Network 6 - Any%} Gregar</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:02:01.2100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.1080000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-15">
+          <RealTime>00:01:42.1080000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>=Break=</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:07:01.2100000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:00</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Brock</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:24:50.2430000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:17:15.2160000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Mt. Moon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:41:58.7530000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:16:06.4570000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Cerulean</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>11:57:14.6290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:13:45.2270000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Rival 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:05:21.2670000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:50.6900000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Enter Rock Tunnel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:18:11.4880000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:50.2210000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Rock Tunnel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:30:15.7540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:04.2660000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Giovanni 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:49:24.3220000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:19:08.5680000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Pokémon Tower</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>12:58:18.9740000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:42.3610000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Staryu</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:11:41.4470000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:11:36.1440000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Blaine</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:22:05.3290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:32.2510000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Surge</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:25:27.3540000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:58.6760000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Erika</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:29:22.8670000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:51.8100000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Giovanni 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:41:20.9750000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:31.4940000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Sabrina</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:48:01.3790000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:06:34.0170000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Koga</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>13:53:20.6250000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:51.5400000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Giovanni 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:01:36.2200000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:07:55.7300000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Victory Road</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:14:18.9030000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:12:33.5420000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Lorelei</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:17:13.0310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:50.7720000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Bruno</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:19:07.3760000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:54.3450000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Agatha</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:21:32.7840000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:19.2520000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>-Lance</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:24:11.6350000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.3850000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-29" />
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>{Pokémon Let's Go Pikachu - Any%} Champion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>14:28:47.1290000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:20.7330000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-29">
+          <RealTime>00:04:20.7330000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
