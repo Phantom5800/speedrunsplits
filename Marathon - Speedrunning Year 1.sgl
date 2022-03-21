@@ -457,14 +457,13 @@
 #### Boris to Zoomy Village [Mash A]
 ------
 * Talk to Rode and split
-* Mash through cutscenes / dialog
-</Note>
+* Mash through cutscenes / dialog</Note>
     </Split>
     <Split>
       <Name>-Meet Tao</Name>
       <Note>## Cleaning up Some Stuff
 ---
-#### Boris to Gigili Village [Down 2] &gt; South Sandy Desert
+#### Boris to Gigili Village [Down 2] &amp;gt; South Sandy Desert
 ---
   * Go to sphinx for Ivory Key (47) scent
   * Scare snake on the west side of the map for key
@@ -475,7 +474,7 @@
 ---
   * Talk to Rode
 ---
-#### Boris to Pupsville [Mash A] &gt; Green Meadows
+#### Boris to Pupsville [Mash A] &amp;gt; Green Meadows
 ---
 * Go to broken bridge and talk to Henry
 * Go to Goliath’s house in Treely Woods for Nail (49) scent
@@ -495,8 +494,7 @@
 * Follow wall on the right, up the slope and push boulder down
 * Go to dojo and talk to Tao
 * Split on fade to black when walking up to dojo
-* There is sometimes a Green Grape under the dojo windows
-</Note>
+* There is sometimes a Green Grape under the dojo windows</Note>
     </Split>
     <Split>
       <Name>-Snow Field</Name>
@@ -504,7 +502,7 @@
 ---
 * Go to Noble’s house and talk to Alice for quest and Chiro Key (54)
 ---
-#### Boris to Gola [Up 4] &gt; Chiro Village (path opened by boulder earlier)
+#### Boris to Gola [Up 4] &amp;gt; Chiro Village (path opened by boulder earlier)
 ---
 * Through the village to Chiro Caves
 * This first room in the water is sometimes a Fig
@@ -517,7 +515,7 @@
 ---
 * Safety heal at home if necessary
 ---
-#### Boris to Chiro Village [Down 1] &gt; Chiro Caves
+#### Boris to Chiro Village [Down 1] &amp;gt; Chiro Caves
 ---
 * Go to B2 and take left fork this time (be careful of bats)
 * In B3 talk to Henry for Heavy Stones (57) scent
@@ -546,7 +544,7 @@
   * Do timed waggles and hope your Wii remote is working to win
 ## Fetch Quests
 ---
-#### Boris to Pupsville [Mash A] &gt; Furniture
+#### Boris to Pupsville [Mash A] &amp;gt; Furniture
 ---
 * Give Cork to Mary Theresa
 * Go to Alex and do more riddles
@@ -570,7 +568,7 @@
 ---
 * Talk to Tao for the First Book of the Sniff Master (64) scent, just mash through all the dialog
 ---
-#### Boris to Snow Village [Down 4] &gt; East Chilly Fields
+#### Boris to Snow Village [Down 4] &amp;gt; East Chilly Fields
 ---
 * Follow the below path along the ice (you can bark at the penguin for a random path to follow, this is just the fastest path)
 ![](C:/Git/Splits/TheDOGIsland/images/iceroute.png)
@@ -605,7 +603,7 @@
 * Talk to Wilbur for Burning Water (68) scent
 * Talk to Peter in Noble’s house for Premium Hibiscus (69) scent
 ---
-#### Boris to Gigili Village [Down 2] &gt; North Sandy Desert
+#### Boris to Gigili Village [Down 2] &amp;gt; North Sandy Desert
 ---
 * North of oasis for premium hibiscus
 * Go forward to Dry Valley
@@ -621,7 +619,7 @@
 * Go to Malshige’s Shop
   * Talk to Malshige for Beautiful Feather (76) scent
 ---
-#### Boris to Gigili Village [Down 2] &gt; North Sandy Desert
+#### Boris to Gigili Village [Down 2] &amp;gt; North Sandy Desert
 ---
 * Westernmost cactus for Beautiful Feather
 ---
@@ -656,7 +654,7 @@
 ---
 * **NOTE: 100 SCENTS NEEDED BY THIS POINT, 22 ADDITIONAL SCENTS NOT NECESSARILY IN THE ROUTE**
 ---
-#### Boris to Rune Village [Up 4] &gt; Rune Canyon
+#### Boris to Rune Village [Up 4] &amp;gt; Rune Canyon
 ---
 * Hug left wall and go forward, stop at fishing spot
 * Fish for Ancient Fish
@@ -670,14 +668,13 @@
 * Return to door and sniff for Golden Dog Statue
 * Place the dog statues in the center of the map
 * Collect the Sniff Medal
-  * Split on fade to black
-</Note>
+  * Split on fade to black</Note>
     </Split>
     <Split>
       <Name>-Zombie T-Rex</Name>
       <Note>## Run Caverns
 ---
-#### Boris to Rune Village [Up 4] &gt; Rune Caverns
+#### Boris to Rune Village [Up 4] &amp;gt; Rune Caverns
 ---
 * Place Sniff Medal and go forward to Ancient Grove
 * Sniff in a few spots for Legendary Flower Petals
@@ -686,7 +683,7 @@
   * W middle near “W-shaped” indent in cliff
 * Go back to Rune Village
 ---
-#### Boris to Pupsville [Mash A] &gt; Green Meadows
+#### Boris to Pupsville [Mash A] &amp;gt; Green Meadows
 ---
 * Go to baobab tree and choose “transport”
 ## Anc Road
@@ -738,7 +735,7 @@
     </Split>
     <Split>
       <Name>-Prologue</Name>
-      <Note>### Red &amp; Blue
+      <Note>### Red &amp;amp; Blue
  1. Power Jump (Red) / Headbonk (Red)
  2. Power Jump (Blue) / Do Nothing
  3. Fire Flower (Mash A)
@@ -785,8 +782,7 @@ Level Up FP (10/10/3)
  1. Fright Jar (Up 1)
 
 ### Pit 3
- 1. POW (Up 2) / Power Shell
-</Note>
+ 1. POW (Up 2) / Power Shell</Note>
     </Split>
     <Split>
       <Name>-Chapter 1</Name>
@@ -1051,9 +1047,7 @@ Level Up FP (10/25/9)</Note>
     <Split>
       <Name>-Water Stone</Name>
       <Note>### Maze Fight
-1. Air Raid / Star Storm
-
-</Note>
+1. Air Raid / Star Storm</Note>
     </Split>
     <Split>
       <Name>-Lakilester</Name>
@@ -1103,14 +1097,12 @@ Level up FP (15/30/9)
 * level up on Jr if not using hurricane / spook
 
 ### Monstar 
-1. Power Bounce x4
-</Note>
+1. Power Bounce x4</Note>
     </Split>
     <Split>
       <Name>-Enter Palace</Name>
       <Note>### Duplighosts
-1. Switch to Laki / Hurricane
-</Note>
+1. Switch to Laki / Hurricane</Note>
     </Split>
     <Split>
       <Name>-Chapter 7</Name>
@@ -1121,8 +1113,7 @@ Level up FP (15/30/9)
  1. Charge / Shell Shot
  2. Charge / Shell Shot
  3. Charge / Shell Shot
- 4. Bounce x5 / Shell Shot
-</Note>
+ 4. Bounce x5 / Shell Shot</Note>
     </Split>
     <Split>
       <Name>-Door 1</Name>
@@ -1245,7 +1236,7 @@ Edit Folder:
 * Swap out recovery chips and area steal with any better chips
 * Reg Reflect1
 
-Fight Blastman
+Fight Blastman</Note>
     </Split>
     <Split>
       <Name>-TrnArrw Pls</Name>
@@ -1291,8 +1282,7 @@ Fight Blastman
 * Jack out and go to Mick in School Lobby
 * Go to Lev Bus Station
 * Go to Aquarium entrance
-* Go home and sleep
-</Note>
+* Go home and sleep</Note>
     </Split>
     <Split>
       <Name>-Diveman</Name>
@@ -1337,8 +1327,7 @@ Fight Blastman
 
 ## Comp3
 ![](C:/Git/Splits/BattleNetwork/images/bn6/LButton3.png)
-* Fight Diveman
-</Note>
+* Fight Diveman</Note>
     </Split>
     <Split>
       <Name>-HeatCross</Name>
@@ -1371,8 +1360,7 @@ Fight Blastman
 * Slot in TrnArrw chips for HeatMan fight
 * Fight Mr. Match
 * Learn about HeatCross
-* Go home and sleep
-</Note>
+* Go home and sleep</Note>
     </Split>
     <Split>
       <Name>-Upgrades and Puzzles</Name>
@@ -1391,7 +1379,7 @@ Fight Blastman
 
 # Folder Edits
 
-* Add the five chips, remove recoveries &gt; areasteal &gt; swords &gt; wideswords &gt; vulcan
+* Add the five chips, remove recoveries &amp;gt; areasteal &amp;gt; swords &amp;gt; wideswords &amp;gt; vulcan
 * NaviCust: 
   - Remove Atk+1
   - Remove Speed+1
@@ -1405,8 +1393,7 @@ Fight Blastman
 * Talk to dad and go back to net
 * Talk to first navi in CA1
 * Use soul weapons to clear ghosts in CA1, CA2, CA3
-* Go to Gregar by Seaside exit
-</Note>
+* Go to Gregar by Seaside exit</Note>
     </Split>
     <Split>
       <Name>-Circusman</Name>
@@ -1437,7 +1424,7 @@ Fight Blastman
 
 * Go to CA1 subchip dealer and stock up
 * Up-Left and talk to yellow girl, jack out
-* Bus to Seaside &gt; Aquarium 2
+* Bus to Seaside &amp;gt; Aquarium 2
 * Jack into monitor upstairs
 * Talk to yellow navi at top and jack out
 * Jack in to Fish Sticks store, talk, jack out
@@ -1488,8 +1475,7 @@ Fight Blastman
 * Solve all puzzles, don’t touch grass
 * BMD by Comp2 exit is HPMem
 * Pick up second BMD in Comp3
-* Shit on Judgeman with HeatCross
-</Note>
+* Shit on Judgeman with HeatCross</Note>
     </Split>
     <Split>
       <Name>-Windcard Fights</Name>
@@ -1536,8 +1522,7 @@ Fight Blastman
 * Take stairs down and do 10 round fight
 * Go back to movement panels, cross and go down-right
 * Talk to blue navi
-* Go back to undernet arch
-</Note>
+* Go back to undernet arch</Note>
     </Split>
     <Split>
       <Name>-Heatman + Appliances</Name>
@@ -1570,8 +1555,7 @@ Fight Blastman
 * Left door
 * Hold down until cutscene, back to copybot
 * Go back to appliance 3 offshoot path
-* Take elevator and go straight
-</Note>
+* Take elevator and go straight</Note>
     </Split>
     <Split>
       <Name>-Elementman</Name>
@@ -1591,7 +1575,7 @@ Fight Blastman
       <Name>-Backtracking</Name>
       <Note># Undernet
 
-* Go to Green -&gt; Truth -&gt; Make Shortcut
+* Go to Green -&amp;gt; Truth -&amp;gt; Make Shortcut
 * Go to Undernet1
 * Talk to red navi
 * Cross first slide panel and slip forward
@@ -1614,8 +1598,7 @@ Fight Blastman
 * Invisible path in front of red navi
 * Grab moonstone, jack out and leave
 * Talk to everyone besides the judge
-* Go sleep
-</Note>
+* Go sleep</Note>
     </Split>
     <Split>
       <Name>-AC/DC</Name>
@@ -1642,8 +1625,7 @@ Fight Blastman
 * Slip up-left, up-right, down-right, up-right, up-left, down-left
 * Don’t cross the far left slider! Go one up-right.
 * Walk to ramp and slip up-left
-* Fight Blastman EX and Diveman EX
-</Note>
+* Fight Blastman EX and Diveman EX</Note>
     </Split>
     <Split>
       <Name>-Colonel</Name>
@@ -1675,8 +1657,7 @@ Fight Blastman
 # Boss Fights
 
 * GBeast SUCKS
-* Beat up Colonel
-</Note>
+* Beat up Colonel</Note>
     </Split>
     <Split>
       <Name>-Prep</Name>
@@ -1700,8 +1681,7 @@ Fight Blastman
 * Talk to Tab in chip shop
 * Go home and jack in
 * Go to ACDC and talk to Protoman, Roll, Gutsman and Glyde
-* Jack out and sleep
-</Note>
+* Jack out and sleep</Note>
     </Split>
     <Split>
       <Name>-Aquarium</Name>
@@ -1718,8 +1698,7 @@ Fight Blastman
     <Split>
       <Name>-Judgeman EX</Name>
       <Note>* Walk over fish, jack in to tree
-* Solve tree puzzles and fuck up Judgeman
-</Note>
+* Solve tree puzzles and fuck up Judgeman</Note>
     </Split>
     <Split>
       <Name>-Elementman EX</Name>
@@ -1731,8 +1710,8 @@ Fight Blastman
     <Split>
       <Name>-Circusman EX</Name>
       <Note>* Defeat three ghosts by talking to them and fighting viruses
-* Fuck up Circusman
-</Note>
+* Fuck up Circusman</Note>
+    </Split>
     <Split>
       <Name>{Mega Man Battle Network 6 - Any%} Gregar</Name>
       <Note>Tank Gregar hits and use HeatCross charge shots + strong chips and PAs</Note>
@@ -1756,8 +1735,7 @@ Fight Blastman
    * Growth
    * Absorb
 * Onix
-   * Absorb (x2)
-</Note>
+   * Absorb (x2)</Note>
     </Split>
     <Split>
       <Name>-Mt. Moon</Name>
@@ -1894,8 +1872,7 @@ Skip headbutt if:
 ## Team Rocket Grunt
 * Raticate: Thunderbolt | X-SpAtk
 
-* Krabby in second slot, 
-</Note>
+* Krabby in second slot</Note>
     </Split>
     <Split>
       <Name>-Rock Tunnel</Name>
@@ -2021,8 +1998,7 @@ Helping Hand + Thunderbolt OHKO Weezing:
 Level | SpAtk
 -- | -
 28 | 76
-30 | 71
-</Note>
+30 | 71</Note>
     </Split>
     <Split>
       <Name>-Staryu</Name>
@@ -2262,8 +2238,7 @@ Level | Defense Needed
 Level | SpAtk
 -- | -
 51-52 | 143
-53 | 137
-</Note>
+53 | 137</Note>
     </Split>
     <Split>
       <Name>-Bruno</Name>
@@ -2331,8 +2306,7 @@ Range                   |   SpAtk @ 53/54           | SpAtk @ 55
 13/16 (81%)          |   144/145                 | 138/139
 14/16 (87%)          |   146                        |  140
 15/16 (93%)          |   147/148                |  141
-100%                    |    149+                     |  143+
-</Note>
+100%                    |    149+                     |  143+</Note>
     </Split>
   </Splits>
   <Name>Marathon</Name>
