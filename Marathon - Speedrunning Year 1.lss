@@ -14,8 +14,12 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/21/2022 19:18:41" isStartedSynced="True" ended="03/22/2022 10:23:33" isEndedSynced="True">
+      <RealTime>15:04:51.4640000</RealTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>=Setup=</Name>
@@ -26,10 +30,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:00</RealTime>
+        <RealTime>00:00:56.5320000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-30" />
+        <Time id="1">
+          <RealTime>00:00:56.5320000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -47,6 +54,9 @@
         <Time id="-30">
           <RealTime>00:01:04.4020000</RealTime>
         </Time>
+        <Time id="1">
+          <RealTime>00:01:07.9620000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -60,7 +70,11 @@
       <BestSegmentTime>
         <RealTime>00:01:17.0910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:21.7300000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-2-1 Conkdor Canyon</Name>
@@ -73,7 +87,11 @@
       <BestSegmentTime>
         <RealTime>00:01:25.7070000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:29.3280000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-2-3 Shadow-Play Alley</Name>
@@ -86,7 +104,11 @@
       <BestSegmentTime>
         <RealTime>00:01:34.6040000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:39.0820000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-2-4 Really Rolling Hills</Name>
@@ -99,7 +121,11 @@
       <BestSegmentTime>
         <RealTime>00:01:32.6920000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:57.8770000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-2-MH Mystery House Melee</Name>
@@ -112,7 +138,11 @@
       <BestSegmentTime>
         <RealTime>00:01:04.3780000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:12.0370000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	2-A Big Galoomba Blockade</Name>
@@ -125,7 +155,11 @@
       <BestSegmentTime>
         <RealTime>00:00:28.8770000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:30.0670000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	2-5 Double Cherry Pass</Name>
@@ -138,7 +172,11 @@
       <BestSegmentTime>
         <RealTime>00:01:14.8050000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:22.1190000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-2-Castle Bowser's Bullet Bill Brigade</Name>
@@ -151,7 +189,11 @@
       <BestSegmentTime>
         <RealTime>00:03:12.9110000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:19.0070000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-1 Snowball Park</Name>
@@ -164,7 +206,11 @@
       <BestSegmentTime>
         <RealTime>00:01:22.1660000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:47.2840000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-3 Shifty Boo Mansion</Name>
@@ -177,7 +223,11 @@
       <BestSegmentTime>
         <RealTime>00:01:53.9960000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:04.6170000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	3-CT Captain Toad Makes a Splash</Name>
@@ -190,7 +240,11 @@
       <BestSegmentTime>
         <RealTime>00:01:39.2870000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:42.7610000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	3-4 {1,2} Pretty Plaza Panic</Name>
@@ -203,7 +257,11 @@
       <BestSegmentTime>
         <RealTime>00:00:55.1160000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:55.8820000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	3-A Magikoopa Blockade</Name>
@@ -216,7 +274,11 @@
       <BestSegmentTime>
         <RealTime>00:00:33.0960000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:34.4190000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-5 {1,3} Pipeline Lagoon</Name>
@@ -229,7 +291,11 @@
       <BestSegmentTime>
         <RealTime>00:01:56.3010000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:02.4120000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-7 {2,3} Switchboard Falls</Name>
@@ -242,7 +308,11 @@
       <BestSegmentTime>
         <RealTime>00:01:35.5500000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:37.3750000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-Castle The Bullet Bill Express</Name>
@@ -255,7 +325,11 @@
       <BestSegmentTime>
         <RealTime>00:02:18.5540000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:19.7950000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-3-B A Banquet with Hisstocrat</Name>
@@ -268,7 +342,11 @@
       <BestSegmentTime>
         <RealTime>00:01:45.5420000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:50.1900000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-1 Ant Trooper Hill</Name>
@@ -281,7 +359,11 @@
       <BestSegmentTime>
         <RealTime>00:01:44.4320000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:53.2240000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-2 Piranha Creeper Creek</Name>
@@ -294,7 +376,11 @@
       <BestSegmentTime>
         <RealTime>00:01:53.1900000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:54.4890000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-A Brolder Blockade</Name>
@@ -307,7 +393,11 @@
       <BestSegmentTime>
         <RealTime>00:00:45.1080000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:46.4660000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-4 Big Bounce Byway</Name>
@@ -320,7 +410,11 @@
       <BestSegmentTime>
         <RealTime>00:01:38.1370000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:54.1210000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-MH Mystery House Mad Dash</Name>
@@ -333,7 +427,11 @@
       <BestSegmentTime>
         <RealTime>00:01:47.4570000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:50.1350000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-4-2 Warp</Name>
@@ -346,7 +444,11 @@
       <BestSegmentTime>
         <RealTime>00:01:06.1840000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:18.6390000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	5-CT Captain Toad Plays Peek-a-Boo</Name>
@@ -359,7 +461,11 @@
       <BestSegmentTime>
         <RealTime>00:01:21.5360000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:22.6910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	1-CT Captain Toad Goes Forth</Name>
@@ -370,9 +476,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:22.8080000</RealTime>
+        <RealTime>00:01:22.1310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:22.1310000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-1 {1,3} Sunshine Seaside</Name>
@@ -385,7 +495,11 @@
       <BestSegmentTime>
         <RealTime>00:02:09.5730000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:30.3070000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-3 Backstreet Bustle</Name>
@@ -398,7 +512,11 @@
       <BestSegmentTime>
         <RealTime>00:00:58</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:00.7940000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-A Chargin' Chuck Blockade is Back</Name>
@@ -411,7 +529,11 @@
       <BestSegmentTime>
         <RealTime>00:00:39.9010000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:06.6880000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-4 Sprawling Savanna</Name>
@@ -424,7 +546,11 @@
       <BestSegmentTime>
         <RealTime>00:01:45.5010000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:51.8710000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-6 {1,3} Cakewalk Flip</Name>
@@ -437,7 +563,11 @@
       <BestSegmentTime>
         <RealTime>00:01:13.3310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:16.4920000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-5-7 Searchlight Sneak</Name>
@@ -450,7 +580,11 @@
       <BestSegmentTime>
         <RealTime>00:01:29.3760000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:42.1030000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	5-Castle King Ka-thunk's Castle</Name>
@@ -463,7 +597,11 @@
       <BestSegmentTime>
         <RealTime>00:02:17.0850000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:20.2540000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-1 {1,2} Clear Pipe Cruise</Name>
@@ -476,7 +614,11 @@
       <BestSegmentTime>
         <RealTime>00:02:05.3180000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:09.2500000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-2 {1,3} Spooky Seaside Wreck</Name>
@@ -489,7 +631,11 @@
       <BestSegmentTime>
         <RealTime>00:01:32.1850000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:56.1200000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-4 Deep Jungle Drift</Name>
@@ -502,7 +648,11 @@
       <BestSegmentTime>
         <RealTime>00:01:58.4220000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:02.1640000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-A Prince Bully Blockade</Name>
@@ -515,7 +665,11 @@
       <BestSegmentTime>
         <RealTime>00:00:51.0880000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:55.9090000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-6 Bullet Bill Base</Name>
@@ -528,7 +682,11 @@
       <BestSegmentTime>
         <RealTime>00:01:30.7690000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:35.6880000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-7 Fuzzy Time Mine</Name>
@@ -541,7 +699,11 @@
       <BestSegmentTime>
         <RealTime>00:01:58.4670000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:01.6230000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-MH Mystery House Throwdown</Name>
@@ -554,7 +716,11 @@
       <BestSegmentTime>
         <RealTime>00:00:58.1050000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:02.4760000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-Castle Bowser's Bob-omb Brigade</Name>
@@ -567,7 +733,11 @@
       <BestSegmentTime>
         <RealTime>00:03:03.2300000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:03.9200000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-6-C Motley Bossblob's Big Battle</Name>
@@ -580,7 +750,11 @@
       <BestSegmentTime>
         <RealTime>00:01:57.1310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:00.5060000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-1 {1,3} Fort Fire Bros.</Name>
@@ -593,7 +767,11 @@
       <BestSegmentTime>
         <RealTime>00:01:36.5840000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:39.9750000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-3 Red-Hot Run</Name>
@@ -606,7 +784,11 @@
       <BestSegmentTime>
         <RealTime>00:01:18.8310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:03.1360000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	7-4 Boiling Blue Bully Belt</Name>
@@ -619,7 +801,11 @@
       <BestSegmentTime>
         <RealTime>00:01:54.7600000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:35.8400000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-A Brolder Blockade is Back</Name>
@@ -632,7 +818,11 @@
       <BestSegmentTime>
         <RealTime>00:01:03.4390000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:13.9030000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-5 Trick Trap Tower</Name>
@@ -645,7 +835,11 @@
       <BestSegmentTime>
         <RealTime>00:01:48.5800000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:03.3570000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-CT Captain Toad Gets Thwomped</Name>
@@ -658,7 +852,11 @@
       <BestSegmentTime>
         <RealTime>00:01:20.6960000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:25.6810000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-7 Simmering Lava Lake</Name>
@@ -671,7 +869,11 @@
       <BestSegmentTime>
         <RealTime>00:01:31.8160000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:41.3890000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-7-Castle Bowser's Lava Lake Keep</Name>
@@ -684,7 +886,11 @@
       <BestSegmentTime>
         <RealTime>00:02:19.4670000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:31.5880000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	8-1 {1,3} Spiky Spike Bridge</Name>
@@ -697,7 +903,11 @@
       <BestSegmentTime>
         <RealTime>00:02:32.2620000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:19.2730000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-3 {1,2} Cookie Cogworks</Name>
@@ -710,7 +920,11 @@
       <BestSegmentTime>
         <RealTime>00:01:39.1250000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:41.6950000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-T The Bowser Express</Name>
@@ -723,7 +937,11 @@
       <BestSegmentTime>
         <RealTime>00:02:28.3190000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:37.7260000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-4 Footlight Lane</Name>
@@ -736,7 +954,11 @@
       <BestSegmentTime>
         <RealTime>00:01:42.1060000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:10.1940000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-6 A Beam in the Dark</Name>
@@ -749,7 +971,11 @@
       <BestSegmentTime>
         <RealTime>00:02:50.9210000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:05.9390000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-MH Mystery House Claw Climb</Name>
@@ -762,7 +988,11 @@
       <BestSegmentTime>
         <RealTime>00:01:56.0390000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:56.8640000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	8-7 Grumblump Inferno</Name>
@@ -775,7 +1005,11 @@
       <BestSegmentTime>
         <RealTime>00:02:20.1910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:48.4070000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-	8-A Motley Bossblob's Encore</Name>
@@ -788,7 +1022,11 @@
       <BestSegmentTime>
         <RealTime>00:01:47.6070000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:56.0170000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-8-B Hisstocrat Returns</Name>
@@ -801,7 +1039,11 @@
       <BestSegmentTime>
         <RealTime>00:01:26.0240000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:44.4160000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>{Super Mario 3D World - Any%} Meowser</Name>
@@ -814,7 +1056,11 @@
       <BestSegmentTime>
         <RealTime>00:04:40.9980000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:56.0830000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>=Break=</Name>
@@ -827,7 +1073,11 @@
       <BestSegmentTime>
         <RealTime>00:05:00</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:59.2960000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Plant A Tree</Name>
@@ -840,7 +1090,11 @@
       <BestSegmentTime>
         <RealTime>00:14:27.7020000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:15:12.6980000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Nap Time</Name>
@@ -851,9 +1105,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:09:57.1080000</RealTime>
+        <RealTime>00:09:51.4540000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:51.4540000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Time to go Home</Name>
@@ -866,7 +1124,11 @@
       <BestSegmentTime>
         <RealTime>00:12:57.3690000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:09.3260000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Zoomy Village</Name>
@@ -879,7 +1141,11 @@
       <BestSegmentTime>
         <RealTime>00:08:05.0580000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:09.9530000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Boris is my Friend</Name>
@@ -892,7 +1158,11 @@
       <BestSegmentTime>
         <RealTime>00:08:36.0070000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:52.4460000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Better Sniffing</Name>
@@ -905,7 +1175,11 @@
       <BestSegmentTime>
         <RealTime>00:20:07.3050000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:23:24.0080000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Meet Tao</Name>
@@ -918,7 +1192,11 @@
       <BestSegmentTime>
         <RealTime>00:08:45.9090000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:50.2120000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Snow Field</Name>
@@ -931,7 +1209,11 @@
       <BestSegmentTime>
         <RealTime>00:08:11.5000000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:34.0160000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Sniff Master</Name>
@@ -944,7 +1226,11 @@
       <BestSegmentTime>
         <RealTime>00:13:22.7990000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:59.8090000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Gang Leader</Name>
@@ -955,9 +1241,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:14:34.9520000</RealTime>
+        <RealTime>00:14:13.9910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:14:13.9910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Sniff Master Medal</Name>
@@ -970,7 +1260,11 @@
       <BestSegmentTime>
         <RealTime>00:10:36.1260000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:47.0270000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Zombie T-Rex</Name>
@@ -981,9 +1275,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:50.8570000</RealTime>
+        <RealTime>00:11:37.8190000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:11:37.8190000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>{The DOG Island - Any%} Goodbye Forever</Name>
@@ -996,7 +1294,11 @@
       <BestSegmentTime>
         <RealTime>00:03:51.1380000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:52.6350000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>=Break=</Name>
@@ -1009,7 +1311,11 @@
       <BestSegmentTime>
         <RealTime>00:05:00</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:06.3060000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Prologue</Name>
@@ -1022,7 +1328,11 @@
       <BestSegmentTime>
         <RealTime>00:22:03.0310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:22:03.9980000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Bombette</Name>
@@ -1035,7 +1345,11 @@
       <BestSegmentTime>
         <RealTime>00:10:14.8480000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:28.5150000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 1</Name>
@@ -1048,7 +1362,11 @@
       <BestSegmentTime>
         <RealTime>00:06:30.3210000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:39.5540000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Parakarry</Name>
@@ -1061,7 +1379,11 @@
       <BestSegmentTime>
         <RealTime>00:08:51.2970000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:07.7520000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Ruins</Name>
@@ -1074,7 +1396,11 @@
       <BestSegmentTime>
         <RealTime>00:05:13.3070000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:17.2180000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 2</Name>
@@ -1087,7 +1413,11 @@
       <BestSegmentTime>
         <RealTime>00:09:44.8990000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:03.0990000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Mansion</Name>
@@ -1100,7 +1430,11 @@
       <BestSegmentTime>
         <RealTime>00:08:14.5890000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:40.2670000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Bow</Name>
@@ -1113,7 +1447,11 @@
       <BestSegmentTime>
         <RealTime>00:04:53.2940000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:01.6400000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 3</Name>
@@ -1126,7 +1464,11 @@
       <BestSegmentTime>
         <RealTime>00:11:04.3780000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:11:08.0450000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Gourmet Guy</Name>
@@ -1137,7 +1479,11 @@
       <BestSegmentTime>
         <RealTime>00:10:20.4910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:22.9150000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Watt</Name>
@@ -1150,7 +1496,11 @@
       <BestSegmentTime>
         <RealTime>00:04:06.7350000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:24.7050000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 4</Name>
@@ -1163,7 +1513,11 @@
       <BestSegmentTime>
         <RealTime>00:04:44.7240000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:09.3880000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Sushie</Name>
@@ -1176,7 +1530,11 @@
       <BestSegmentTime>
         <RealTime>00:10:20.6610000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:26.2350000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Volcano</Name>
@@ -1189,7 +1547,11 @@
       <BestSegmentTime>
         <RealTime>00:10:05.5570000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:14:00.5590000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 5</Name>
@@ -1202,7 +1564,11 @@
       <BestSegmentTime>
         <RealTime>00:07:10.0660000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:17.4110000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Moles</Name>
@@ -1213,9 +1579,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:33.4700000</RealTime>
+        <RealTime>00:12:32.8570000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:32.8570000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Water Stone</Name>
@@ -1228,7 +1598,11 @@
       <BestSegmentTime>
         <RealTime>00:06:00.6190000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:38.4360000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Lakilester</Name>
@@ -1241,7 +1615,11 @@
       <BestSegmentTime>
         <RealTime>00:04:07.4150000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:24.6030000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 6</Name>
@@ -1254,7 +1632,11 @@
       <BestSegmentTime>
         <RealTime>00:06:38.7930000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:55.5500000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Monstar</Name>
@@ -1265,9 +1647,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:13:44.6700000</RealTime>
+        <RealTime>00:13:37.1030000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:37.1030000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Palace</Name>
@@ -1280,7 +1666,11 @@
       <BestSegmentTime>
         <RealTime>00:06:07.7280000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:01.2160000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Chapter 7</Name>
@@ -1293,7 +1683,11 @@
       <BestSegmentTime>
         <RealTime>00:10:26.6910000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:30.6910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Door 1</Name>
@@ -1304,9 +1698,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:57.6580000</RealTime>
+        <RealTime>00:12:52.4770000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:52.4770000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Door 2</Name>
@@ -1319,7 +1717,11 @@
       <BestSegmentTime>
         <RealTime>00:07:11.2750000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:42.2910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Jr. Troopa</Name>
@@ -1332,7 +1734,11 @@
       <BestSegmentTime>
         <RealTime>00:04:13.9190000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:28.0660000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Hallway Bowser</Name>
@@ -1345,7 +1751,11 @@
       <BestSegmentTime>
         <RealTime>00:02:01.0090000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:01.4610000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Star Rod</Name>
@@ -1358,7 +1768,11 @@
       <BestSegmentTime>
         <RealTime>00:06:48.9710000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:30.3250000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>{Paper Mario - Glitchless} The End</Name>
@@ -1371,7 +1785,11 @@
       <BestSegmentTime>
         <RealTime>00:06:06.1060000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:09.5420000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>=Break=</Name>
@@ -1384,7 +1802,11 @@
       <BestSegmentTime>
         <RealTime>00:05:00</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:16:25.6930000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Blastman</Name>
@@ -1397,7 +1819,11 @@
       <BestSegmentTime>
         <RealTime>00:11:55.8250000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:14.8710000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-TrnArrw Pls</Name>
@@ -1410,7 +1836,9 @@
       <BestSegmentTime>
         <RealTime>00:10:34.1050000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Diveman</Name>
@@ -1423,7 +1851,11 @@
       <BestSegmentTime>
         <RealTime>00:12:40.1290000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:26:57.4210000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-HeatCross</Name>
@@ -1436,7 +1868,11 @@
       <BestSegmentTime>
         <RealTime>00:06:42.4020000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:39.0200000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Upgrades and Puzzles</Name>
@@ -1449,7 +1885,11 @@
       <BestSegmentTime>
         <RealTime>00:07:09.6410000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:21.3060000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Circusman</Name>
@@ -1462,7 +1902,11 @@
       <BestSegmentTime>
         <RealTime>00:09:22.6610000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:31.2690000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Judgeman</Name>
@@ -1475,7 +1919,11 @@
       <BestSegmentTime>
         <RealTime>00:19:02.2770000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:20:01.5960000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Windcard Fights</Name>
@@ -1486,9 +1934,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:49.9510000</RealTime>
+        <RealTime>00:12:25.5310000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:12:25.5310000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Heatman + Appliances</Name>
@@ -1501,7 +1953,11 @@
       <BestSegmentTime>
         <RealTime>00:08:40.6320000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:17.7190000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Elementman</Name>
@@ -1514,7 +1970,11 @@
       <BestSegmentTime>
         <RealTime>00:04:43.9160000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:47.9060000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Backtracking</Name>
@@ -1525,9 +1985,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:14.5780000</RealTime>
+        <RealTime>00:05:09.3790000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:09.3790000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-AC/DC</Name>
@@ -1540,7 +2004,11 @@
       <BestSegmentTime>
         <RealTime>00:05:46.9940000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:23.9780000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Colonel</Name>
@@ -1551,9 +2019,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:02.0280000</RealTime>
+        <RealTime>00:09:40.1590000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:40.1590000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Prep</Name>
@@ -1566,7 +2038,11 @@
       <BestSegmentTime>
         <RealTime>00:07:18.4590000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:31.4470000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Aquarium</Name>
@@ -1579,7 +2055,11 @@
       <BestSegmentTime>
         <RealTime>00:04:38.1350000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:05:08.2550000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Judgeman EX</Name>
@@ -1590,9 +2070,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:46.4980000</RealTime>
+        <RealTime>00:01:44.5980000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:44.5980000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Elementman EX</Name>
@@ -1605,7 +2089,11 @@
       <BestSegmentTime>
         <RealTime>00:02:20.3080000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:33.4630000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Circusman EX</Name>
@@ -1620,6 +2108,9 @@
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-15" />
+        <Time id="1">
+          <RealTime>00:03:17.8270000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1637,6 +2128,9 @@
         <Time id="-15">
           <RealTime>00:01:42.1080000</RealTime>
         </Time>
+        <Time id="1">
+          <RealTime>00:02:24.8000000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1650,7 +2144,11 @@
       <BestSegmentTime>
         <RealTime>00:05:00</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:21.8330000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Brock</Name>
@@ -1663,7 +2161,9 @@
       <BestSegmentTime>
         <RealTime>00:17:15.2160000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1" />
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Mt. Moon</Name>
@@ -1676,7 +2176,11 @@
       <BestSegmentTime>
         <RealTime>00:16:06.4570000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:35:40.5470000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Cerulean</Name>
@@ -1689,7 +2193,11 @@
       <BestSegmentTime>
         <RealTime>00:13:45.2270000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:57.7130000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Rival 3</Name>
@@ -1702,7 +2210,11 @@
       <BestSegmentTime>
         <RealTime>00:05:50.6900000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:01.1910000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Rock Tunnel</Name>
@@ -1715,7 +2227,11 @@
       <BestSegmentTime>
         <RealTime>00:12:50.2210000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:16:01.6310000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Rock Tunnel</Name>
@@ -1726,9 +2242,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:12:04.2660000</RealTime>
+        <RealTime>00:10:12.2710000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:10:12.2710000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Giovanni 1</Name>
@@ -1741,7 +2261,11 @@
       <BestSegmentTime>
         <RealTime>00:19:08.5680000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:20:03.1000000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Pokémon Tower</Name>
@@ -1754,7 +2278,11 @@
       <BestSegmentTime>
         <RealTime>00:07:42.3610000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:13.2240000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Staryu</Name>
@@ -1765,9 +2293,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:11:36.1440000</RealTime>
+        <RealTime>00:09:40.8880000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:40.8880000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Blaine</Name>
@@ -1780,7 +2312,11 @@
       <BestSegmentTime>
         <RealTime>00:08:32.2510000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:48.6200000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Surge</Name>
@@ -1793,7 +2329,11 @@
       <BestSegmentTime>
         <RealTime>00:02:58.6760000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:54.1810000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Erika</Name>
@@ -1806,7 +2346,11 @@
       <BestSegmentTime>
         <RealTime>00:03:51.8100000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:57.6250000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Giovanni 2</Name>
@@ -1817,9 +2361,13 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:10:31.4940000</RealTime>
+        <RealTime>00:09:14.2200000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:09:14.2200000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Sabrina</Name>
@@ -1832,7 +2380,11 @@
       <BestSegmentTime>
         <RealTime>00:06:34.0170000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:06:44.3850000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Koga</Name>
@@ -1845,7 +2397,11 @@
       <BestSegmentTime>
         <RealTime>00:04:51.5400000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:04:51.6530000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Giovanni 3</Name>
@@ -1858,7 +2414,11 @@
       <BestSegmentTime>
         <RealTime>00:07:55.7300000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:08:13.9970000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Victory Road</Name>
@@ -1871,7 +2431,11 @@
       <BestSegmentTime>
         <RealTime>00:12:33.5420000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:13:16.5110000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Lorelei</Name>
@@ -1884,7 +2448,11 @@
       <BestSegmentTime>
         <RealTime>00:02:50.7720000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:03:10.4030000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Bruno</Name>
@@ -1897,7 +2465,11 @@
       <BestSegmentTime>
         <RealTime>00:01:54.3450000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:02.6320000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Agatha</Name>
@@ -1910,7 +2482,11 @@
       <BestSegmentTime>
         <RealTime>00:02:19.2520000</RealTime>
       </BestSegmentTime>
-      <SegmentHistory />
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:02:33.8630000</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Lance</Name>
@@ -1925,6 +2501,9 @@
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-29" />
+        <Time id="1">
+          <RealTime>00:02:49.9110000</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1941,6 +2520,9 @@
       <SegmentHistory>
         <Time id="-29">
           <RealTime>00:04:20.7330000</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:04:47.8920000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
