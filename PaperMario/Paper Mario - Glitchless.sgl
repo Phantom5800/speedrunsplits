@@ -321,18 +321,6 @@ Level Up FP (10/25/9)</Note>
 </Note>
     </Split>
     <Split>
-      <Name>-Lakilester</Name>
-      <Note>* Spike damage before Laki (9hp)
-* Grab Shooting Star
-
-### Laki (Block 0/2)
- 1. Power Jump / Shell Shot
- 2. Power Jump / Shell Shot
- 3. Bounce x5 / Sky Dive (Shell Shot if 4 cap)
-
-* Eat Stinky Herb if 4 capped</Note>
-    </Split>
-    <Split>
       <Name>Chapter 6</Name>
       <Note>### Machine Fight
  1. Shooting Star / Air Raid
@@ -456,35 +444,51 @@ Level Up BP (15/30/12) (if using spook/hurricane)</Note>
 * Equip HP Plus (Z, Down some amount)
 
 
-## Risky Final Caps
+## Risky Final
+
+1. Charge / Turbo Charge (Do Nothing)
+2. Peach Beam / Attack
+3. Repel / Attack
+4. Bounce / Attack
+5. Bounce / Attack
 
 ### Parakarry Fight
-| Phase 1 Caps | Turn 3 Cap | Turn 4 Needed Cap
-| -- | - | - | -
-| 3 + 3 | 4 | 10
-| 3 + 4 | 4 | 7
-| 3 + 5 | 4 | 5
-| 4 + 4 | 4 | 5
-| 4 + 5 | 4 | 4
-| 3 + 3 | 5 | 5
-| 3 + 4 | 5 | 4
-| 3 + 5 | 5 | 3
-| 4 + 4 | 5 | 3
-| 4 + 5 | 5 | 3 (4 kills outright)
+| Phase 1 Caps | Turn 4 Cap | Turn 5 Needed Cap
+|-- | - | - | -
+| 3 + 3 | 3 | 11
+|  | 4 | 5
+|  | 5 | 3
+| 3 + 4 | 3 | 8
+|  | 4 | 4
+| | 5 | 3
+| 3 + 5 | 3 | 6
+|  | 4 | 3
+|  | 5 | 3 (kills)
+| 4 + 4 | 3 | 5
+|  | 4 | 3
+|  | 5 | 3 (kills)
+| 4 + 5 | 3 | 4
+|  | 4 | 3
+|  | 5 | 3 (kills)
 
 ### Watt Fight
-| Phase 1 Caps | Turn 3 Cap | Turn 4 Needed Cap
+| Phase 1 Caps | Turn 4 Cap | Turn 5 Needed Cap
 | -- | - | - | -
-| 3 + 3 | 4 | 5 (6 kills perfectly)
-| 3 + 4 | 4 | 4 (5 overkill)
-| 3 + 5 | 4 | 3 (4 kills perfectly)
-| 4 + 4 | 4 | 3 (4 is overkill)
-| 4 + 5 | 4 | 3 (1 hp left)
-| 3 + 3 | 5 | 3 (4 is overkill)
-| 3 + 4 | 5 | 3 (perfect kill)
-| 3 + 5 | 5 | 3
-| 4 + 4 | 5 | 3
-| 4 + 5 | 5 | jump x2</Note>
+| 3 + 3 | 3 | 6
+|  | 4 | 4 (untimed edash)
+|  | 5 | 3 (kills)
+| 3 + 4 | 3 | 5
+|  | 4 | 3
+|  | 5 | 3 (kills)
+| 3 + 5 | 3 | 4
+|  | 4 | 3 (kills)
+|  | 5 | 3 (kills)
+| 4 + 4 | 3 | 4
+|  | 4 | 3 (kills)
+|  | 5 | 3 (kills)
+| 4 + 5 | 3 | 3
+|  | 4 | 3 (kills)
+|  | 5 | jump x2</Note>
     </Split>
     <Split>
       <Name>The End</Name>
