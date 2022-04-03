@@ -453,7 +453,38 @@ Level Up BP (15/30/12) (if using spook/hurricane)</Note>
 
 * Unequip S. Jump Charge (Down 1)
 * Unequip Speedy Spin (R, Down 3)
-* Equip HP Plus (Z, Down some amount)</Note>
+* Equip HP Plus (Z, Down some amount)
+
+
+## Risky Final Caps
+
+### Parakarry Fight
+| Phase 1 Caps | Turn 3 Cap | Turn 4 Needed Cap
+| -- | - | - | -
+| 3 + 3 | 4 | 10
+| 3 + 4 | 4 | 7
+| 3 + 5 | 4 | 5
+| 4 + 4 | 4 | 5
+| 4 + 5 | 4 | 4
+| 3 + 3 | 5 | 5
+| 3 + 4 | 5 | 4
+| 3 + 5 | 5 | 3
+| 4 + 4 | 5 | 3
+| 4 + 5 | 5 | 3 (4 kills outright)
+
+### Watt Fight
+| Phase 1 Caps | Turn 3 Cap | Turn 4 Needed Cap
+| -- | - | - | -
+| 3 + 3 | 4 | 5 (6 kills perfectly)
+| 3 + 4 | 4 | 4 (5 overkill)
+| 3 + 5 | 4 | 3 (4 kills perfectly)
+| 4 + 4 | 4 | 3 (4 is overkill)
+| 4 + 5 | 4 | 3 (1 hp left)
+| 3 + 3 | 5 | 3 (4 is overkill)
+| 3 + 4 | 5 | 3 (perfect kill)
+| 3 + 5 | 5 | 3
+| 4 + 4 | 5 | 3
+| 4 + 5 | 5 | jump x2</Note>
     </Split>
     <Split>
       <Name>The End</Name>
