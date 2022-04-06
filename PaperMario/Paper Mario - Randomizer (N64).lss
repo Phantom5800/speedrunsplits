@@ -12,8 +12,8 @@
       <Variable name="Console">N64</Variable>
     </Variables>
   </Metadata>
-  <Offset>00:00:00</Offset>
-  <AttemptCount>16</AttemptCount>
+  <Offset>-00:00:15</Offset>
+  <AttemptCount>17</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/20/2022 00:04:21" isStartedSynced="True" ended="01/20/2022 05:02:34" isEndedSynced="True" />
     <Attempt id="2" started="01/31/2022 23:19:35" isStartedSynced="True" ended="02/01/2022 06:25:39" isEndedSynced="True">
@@ -60,6 +60,9 @@
     </Attempt>
     <Attempt id="16" started="04/01/2022 02:23:50" isStartedSynced="True" ended="04/01/2022 06:27:02" isEndedSynced="True">
       <RealTime>04:03:12.3070000</RealTime>
+    </Attempt>
+    <Attempt id="17" started="04/03/2022 20:07:20" isStartedSynced="True" ended="04/04/2022 00:14:30" isEndedSynced="True">
+      <RealTime>04:06:54.8890000</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -119,6 +122,9 @@
         </Time>
         <Time id="16">
           <RealTime>04:03:12.3070000</RealTime>
+        </Time>
+        <Time id="17">
+          <RealTime>04:06:54.8890000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
