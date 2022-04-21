@@ -185,7 +185,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Personal Best</Comparison>
+        <Comparison>Current Comparison</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
         <TimingMethod>Current Timing Method</TimingMethod>
