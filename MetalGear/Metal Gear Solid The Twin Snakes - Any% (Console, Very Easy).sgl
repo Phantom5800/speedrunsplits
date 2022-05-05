@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Shoot Rookie</Name>
+      <Note># Controls
+
+* A - Shoot / Reload / Pickup Body
+* B - Jab
+* X - Crawl / Dash Attack
+* Y - Use
+* Z - First Person
+
+# Cargo Dock
+* Grab M9
+* Shoot or choke out both guards
+* Pick up and drop guards for M9 bullets
+* M9 bullets in right most locker
+* Grab Ration
+* Wait by elevator for a year
+
+# Heliport
+* Run straight back, dash attack guard and crawl into vent
+* Run straight to elevator, go to B1
+
+# Holding Cells
+* Run down, right, take ladder
+* Grab socom
+* Grab bullets in locker if fast
+* Shoot all the guards
+
+- Split on fade to black after killing last guard</Note>
+    </Split>
+    <Split>
+      <Name>Revolver Ocelot</Name>
+      <Note># Holding Cells
+* Elevator to B2
+
+# Armory
+* Grab C4 in room 1
+* Blow up wall in bottom left
+
+- Blow up wall by third pillar
+- Blow up wall with stain
+
+* Fight Ocelot
+  * Three headshots with M9 does it
+
+- Split on white out</Note>
+    </Split>
+    <Split>
+      <Name>Tank Tank Tank</Name>
+      <Note># Armory
+* Codec call 140.15
+* Elevator to 1
+
+# Tank Hanger
+* Shoot infrared sensors and leave through hanger
+  * Can dash attack past first and last sensor
+
+# Canyon
+* Grab Chaff
+
+- Fight Tank
+  - Grab Ration and Stun Grenade
+  - Shoot gunner with socom
+
+* Split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Gray Fox</Name>
+      <Note># Nuke Building 1F
+* Go upstairs to elevator &gt; B1
+
+# Nuke Building B1
+* Go down from elevator into room 3
+  * Grab Nikita
+* Elevator to B2
+
+# Nuke Building B2
+* Go down, use nikita to destroy panel
+* Go down and right
+
+- Fight Gray Fox
+  - Jab 1, 2, 3 and dash attack work well
+
+* Split on white out</Note>
+    </Split>
+    <Split>
+      <Name>Psycho Mantis</Name>
+      <Note># Nuke Building B2
+* Grab Chaff by door
+* Go back to elevator
+
+# Nuke Building B1
+* Go down, see guard, run out of room and right to women's bathroom
+* Go up to hallway, fight Psycho Mantis
+  * Use the M9 and first person
+  * Shoot him in the knee
+
+- Split on fade to black</Note>
+    </Split>
+    <Split>
+      <Name>Sniper Wolf 1</Name>
+      <Note># Boss Room
+* Leave room
+
+# Caves
+* Run past dogs, or shoot them
+
+# Underground Passage
+* Watch Meryl die
+* Go back to Nuke Building B2
+
+# Nuke Building B2
+* Grab PSG-1 from bottom left office
+* Go back to Sniper Wolf
+
+# Underground Passage
+* Shoot Sniper Wolf with the PSG-1
+* Run down hall and go right
+
+- Split on fade to black at door</Note>
+    </Split>
+    <Split>
+      <Name>Disc Change</Name>
+      <Note># Torture Scene
+* Kill Meryl
+
+# Prison
+* Wait for Otacon to give you ketchup
+* Lay down and apply ketchup to body
+* Equip Handkerchief (so dogs like you)
+* Run past Johnny
+* Grab gear and leave
+
+# Holding Cells
+* Elevator to 1
+* Go to Sniper Wolf fight area
+
+- Change to disc 2
+- Split when logo fades out after putting in disc</Note>
+    </Split>
+    <Split>
+      <Name>Hind-D</Name>
+      <Note># Communication Tower A
+* Throw a Stun G before entering first door
+* Run to top of tower
+  * Shoot enemies with M9 or use Stun Grenades
+* Climb Ladder
+
+# Communication Tower Roof
+* Rappel down the wall
+
+# Communication Tower Corridor
+* Kill enemies at end of bridge
+* Grab Stinger and ammo
+
+# Communication Tower B
+* Go down stairs until floor is out
+* Go back up to elevator
+* Climb stairs and throw chaff grenades (should need 3)
+* Climb ladder
+
+# Communication Tower Roof
+* Use Stinger missiles to fight the Hind
+* Hide behind wall near railing to left after killing him
+* Split on fade to white after fight
+</Note>
+    </Split>
+    <Split>
+      <Name>Sniper Wolf 2</Name>
+      <Note># Communication Tower Roof
+* Go back down ladder
+
+# Communication Tower B
+* Go back down stairs, use grenades to destroy mounted guns
+  * Throw them down from the following floor markers:
+    * 24
+    * 20
+    * 16
+    * 12
+* Take elevator
+* Place C4 and detonate it in elevator
+* Right out of elevator and leave building
+
+# Sniper Wolf
+* Shoot her with the PSG-1 as intended, don't use Nikita
+- Split on fade to white</Note>
+    </Split>
+    <Split>
+      <Name>Raven</Name>
+      <Note># Snow Field
+* Go straight up into room
+
+# Blast Furnace
+* Immediate left, jump over ledge
+  * Grab Stinger ammo
+* Go up and crawl through gap
+* Dash attack through hot air right then up
+
+# Cargo Elevator
+* Kill everyone on the elevator
+* Take second elevator
+
+- Kill Vulkan Raven
+  - Use stinger missiles and socom
+  - You can probably just tank his machine gun on this difficulty
+
+* Split on fade to white</Note>
+    </Split>
+    <Split>
+      <Name>Hot and Cold</Name>
+      <Note># Warehosue North
+* Run through room
+
+# Underground Base
+* Call Otacon 3 times(?) (until Colonel is on the call)
+* Go up and around to the command room, kill guards on the way
+* Otacon call
+* Drop over railing immediately up from bottom left pillar
+  * Grab Chaff Grenade
+* Walk right, throw regular grenade down stairs near sewer water
+  * Grab PAL Key
+* Go back up stairs with PAL Key equipped
+* Shoot camera before entering door
+
+# Blue
+- Go around to the right side
+- Drop down just above the bottom right beam
+- Climb up, shoot blue pipe to get cold
+
+* Go back up to room and insert Blue Key
+
+# Red
+* Go back, shoot red pipe
+* Insert Red Key
+
+- Split on fade to black when using key</Note>
+    </Split>
+    <Split>
+      <Name>Liquid</Name>
+      <Note># Gas Room
+* Call Otacon immediately
+* Go to door
+
+# Metal Gear
+* Shoot Stinger missiles at the right sensor
+* Shoot missiles at Liquid
+
+# Liquid
+* Punch him, don't get punched
+- Split on fade to white</Note>
+    </Split>
+    <Split>
+      <Name>Bad End</Name>
+      <Note># Escape From the City
+* Hide by pillar at first door until Otacon gets the damn car going
+* Escape
+
+- Split on fade to white after killing Liquid
+- Wait until end of credits and post credits scene for IGT</Note>
+    </Split>
+  </Splits>
+  <Name>Metal Gear Solid: The Twin Snakes</Name>
+  <Category>Any%</Category>
+</Guide>

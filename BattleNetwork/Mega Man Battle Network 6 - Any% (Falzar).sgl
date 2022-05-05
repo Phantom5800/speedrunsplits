@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Blastman</Name>
+      <Note># Day 1
+
+* Reg _CrkShot*_ after tutorial
+* Get a Rflectr1 from Mettaur in Central Area 1
+
+# Day 2
+
+* Grab RegUp from blackboard by Tab
+* Grab BMD (Zenny) right side of 6-1 comp
+
+## RobCtrlComp 1
+* Talk to all Mr. Prog’s that are on fire
+* HP Memory in top left near 3rd prog
+
+## RobCtrlComp 2
+* RegUp2
+
+Edit Folder:
+* Swap out recovery chips and area steal with any better chips
+* Reg Reflect1
+
+</Note>
+    </Split>
+    <Split>
+      <Name>-TrnArrw Pls</Name>
+      <Note># Beast Statues
+
+* buy 3 Sneakruns
+* Activate Sneakrun
+* RegUp2 
+
+# Penguin
+
+* 6-2 blackboard RegUp2
+* **ICEBOX FIGHT**
+* Go back to Mick in 6-1
+
+## Bathroom Splits
+
+* **Get TrnArrw**
+* Aquarium
+</Note>
+    </Split>
+    <Split>
+      <Name>Diveman</Name>
+      <Note># Look at Fish
+
+* Reg Crackshot
+* Slot in TrnArrw (replace Recv L or AreaGrab)
+
+# Aquarium Comps
+
+## Comp1
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton1.png)
+
+## Comp2
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton2.png)
+
+## Comp3
+![](C:/Git/Splits/BattleNetwork/images/bn6/LButton3.png)
+* Fight Diveman
+</Note>
+    </Split>
+    <Split>
+      <Name>AquaCross</Name>
+      <Note># Aquaman Scenario
+* Wait to use sneakrun until Central2
+* Go to Seaside2 and go to comp in top left
+* Talk to orange navi
+* Seaside3 fish
+* Seaside1 fish
+  - use a second sneakrun in this area
+* Seaside2 fish</Note>
+    </Split>
+    <Split>
+      <Name>-Upgrades and Puzzles</Name>
+      <Note>* Talk to mom
+* Go to park and talk to Iris
+
+# Lotto Codes
+  - 12110031 (HackJack* - JP Only)
+  - 71757977 (AirWheel O)
+  - 88674125 (M-Boomer M)
+  - 69544569 (Lance*)
+  - 08749780 (HP+400)
+  - 55031325 (HP+500)
+  - 19790420 (BusterPak)
+  - 08789369 (ElementTrap*)
+  - 79459146 (Sneakrun)
+
+# Folder Edits
+
+* 5 chips
+* NaviCust: 
+  - Remove Atk+1
+  - Remove Speed+1
+  - Add HP+400
+  - Add Buster Pack
+
+</Note>
+    </Split>
+    <Split>
+      <Name>Circusman</Name>
+      <Note>* 100z for cube</Note>
+    </Split>
+    <Split>
+      <Name>Judgeman</Name>
+      <Note># Pre-Green
+
+- Buy 1 FullEng (safety)
+- Buy 2 Sneakruns
+  - 3 and use one if no encounter before shop
+* Up-Left and talk to yellow girl, jack out
+* Aquarium monitors
+* Fish Sticks
+  - Unlocker
+* Class 6-1
+  * Fish tank
+  * Security camera
+* Talk and jack out
+
+- Quiz: 2, 3, 3, 1, 2
+
+# Green Town
+
+* LevBus (right)
+* BlackBomb PMD
+
+# Dad Arrested
+
+* 153
+
+# Tree Comps
+
+* ExpMem BMD in Comp3
+
+</Note>
+    </Split>
+    <Split>
+      <Name>-Windcard Fights</Name>
+      <Note># Upgrades
+
+* 2 3 1 1 2 3 2 2 3 2
+* Folder Edits:
+  * ExpoFldr (-6)
+    - Remove Cannon*
+    - Remove 3 Vulkan
+    - Remove 2 DblShot
+  * LanFldr (+7)
+    - Add BlkBomb
+    - Add Cannon*
+    - Add 3 Vulkan
+    - Add 2 DblShot
+    - Press Select and Tag Cannon* with Cannon B
+  * NaviCust
+    - Add Slip Runner
+
+# Sky Town
+
+* Do all the gauntlet fights</Note>
+    </Split>
+    <Split>
+      <Name>-Aquaman + Appliances</Name>
+      <Note># MegaMan Undernet
+
+* ExpMem BMD
+* NaviCust
+  - Add HP+500
+
+# Aquaman
+
+* Take aquaman to undernet
+
+# Appliances
+
+* Appliance fights</Note>
+    </Split>
+    <Split>
+      <Name>{Elementman}WeatherComp</Name>
+      <Note>
+![](C:/Git/Splits/BattleNetwork/images/bn6/Weather1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/Weather2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/Weather3.png)</Note>
+    </Split>
+    <Split>
+      <Name>-Backtracking</Name>
+      <Note># Undernet
+
+* Go to Green -&gt; Truth -&gt; Make Shortcut
+* Go to Undernet1
+
+# Real World Info
+
+* Jack out and go to punishment room
+* Talk to green shirt man
+* Go to Seaside fountain and talk to maid three times
+
+# Moon Stone
+
+* Go home -&gt; undernet -&gt; moon stone
+</Note>
+    </Split>
+    <Split>
+      <Name>{Blast/Dive EX}AC/DC</Name>
+      <Note># AC/DC Tasks
+
+* Bus to ACDC
+* Talk to everyone except Dex, Mayl and Yai
+* Jack into squirrel
+* Slip forward and talk to Roll
+* Follow main path until warp
+* Talk to door and go back
+* Continue along path to shogi piece
+* Go back to door and open it
+* Talk to Mr Prog
+* Jack out, Jack in, talk to Roll
+* Go to yellow area of ACDC for cutscene
+
+# Undernet
+
+* Go back to where gate was and go to next area
+* Slip along path to CA3
+* Go up ramp and talk to cloud to get to SA1
+* Go to Undernet2
+* Slip up-left, up-right, down-right, up-right, up-left, down-left
+* Don’t cross the far left slider! Go one up-right.
+* Walk to ramp and slip up-left
+* Fight Blastman EX and Diveman EX
+</Note>
+    </Split>
+    <Split>
+      <Name>Colonel</Name>
+      <Note># Lose Megaman
+
+* Take bus to Central
+* Go home
+* Take bus to Seaside
+* Walk forward for cutscene
+* Read email from Mr. Mach
+* Bus to Sky
+* Go to deadend where copybot was used before
+
+# Soul Weapons w/ Aquaman
+
+* Go get Aquaman
+* Sneakrun to CA3
+* Talk to official navi on left side of pit
+* Jack out, go through back door of staff room and talk to punishment bot
+* Talk to Mick in lobby
+* Back to previously blocked door
+* Aquaman and sneak back to CA3 and go to overhang path
+* Soul weapon ghost fights for 2 rooms
+* Map is missing a Long Sword at step 5
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/SoulWeapon7.png)
+![](C:/Git/Splits/BattleNetwork/images/bn6/SoulWeapon8.png)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Prep</Name>
+      <Note># Undernet Gauntlet
+
+* Go to ACDC
+* Jack in to squirrel
+* Get link in top left, take link’s to SA1
+* Go to Blastman EX / Diveman EX area in Undernet2
+* Fight black punk’s on the way (third one sucks)
+* BBS on top right of yellow area
+* Read top post and jack out
+* Go to Sky Town monitor where elevator was fixed before (bottom right levbus)
+* Go to Central Park
+* Go home
+
+# Talk to Friends
+
+* Talk to Mick in top corner
+* Talk to Iris in lobby
+* Talk to Tab in chip shop
+* Go home and jack in
+* Go to ACDC and talk to Protoman, Roll, Gutsman and Glyde
+* Jack out and sleep
+</Note>
+    </Split>
+    <Split>
+      <Name>-Aquarium</Name>
+      <Note>* Talk to mom and meet friends in Central Park
+* Gate in left corner of Central
+* Go to the three buildings and get stamps
+* Go to Principal’s Office
+* Examine yellow book
+* Do aquarium (counter clockwise, top left first)
+* Hit panel at end
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/Pav1.png)</Note>
+    </Split>
+    <Split>
+      <Name>-Judgeman EX</Name>
+      <Note>* Walk over fish, jack in to tree
+* Solve tree puzzles and fuck up Judgeman
+</Note>
+    </Split>
+    <Split>
+      <Name>-Elementman EX</Name>
+      <Note>* Rainbow macaroni
+* Fuck up Elementman
+
+![](C:/Git/Splits/BattleNetwork/images/bn6/Pav3.png)</Note>
+    </Split>
+    <Split>
+      <Name>{Boss Rush}Circusman EX</Name>
+      <Note>* Defeat three ghosts by talking to them and fighting viruses
+* Fuck up Circusman
+</Note>
+    </Split>
+    <Split>
+      <Name>Falzar</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Mega Man Battle Network 6</Name>
+  <Category>Any%</Category>
+</Guide>
