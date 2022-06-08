@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3573</X>
-  <Y>-309</Y>
+  <X>-3580</X>
+  <Y>-361</Y>
   <VerticalWidth>625</VerticalWidth>
   <VerticalHeight>1300</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -286,8 +286,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2937</WindowPos.X>
-        <WindowPos.Y>-306</WindowPos.Y>
+        <WindowPos.X>-2950</WindowPos.X>
+        <WindowPos.Y>-360</WindowPos.Y>
         <WindowSize.Width>587</WindowSize.Width>
         <WindowSize.Height>1296</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
