@@ -34,8 +34,6 @@
 
 1. Fire Flower
 
-- DON'T get HP Plus
-
 ### Key Fight
 
 1. Power Jump / Power Shell
@@ -130,19 +128,8 @@ Level Up FP (10/15/3)
 3. Power Jump / Shell Shot</Note>
     </Split>
     <Split>
-      <Name>-Enter Mansion</Name>
-      <Note>### Forest
-* Right x2
-* Left x1
-* Left x1
-* Left to seed, then Left x2
-* Left x1
-* Right x1
-* Right x1</Note>
-    </Split>
-    <Split>
       <Name>-Bow</Name>
-      <Note />
+      <Note>* Thunder Rage</Note>
     </Split>
     <Split>
       <Name>Chapter 3</Name>
@@ -172,7 +159,12 @@ Level Up BP (10/15/6)
     </Split>
     <Split>
       <Name>-Watt</Name>
-      <Note>* Early Train
+      <Note>### Jr (Block 1/2)
+1. Thunder Rage / Shell Shot
+2. Power Jump / Shell Shot
+3. Bounce x5 / Shell Shot
+
+* Early Train
   * Grab Dizzy Dial
 * Gourmet Guy Skip
 * Hidden Volt Shroom
@@ -215,12 +207,12 @@ Level Up FP (10/20/6)</Note>
 * Fire Shield
 * Hidden Life Shroom
 
+- Upgrade Sushie
+- Fire bar peril
+
 ## Equips
 * Unequip Power Jump (A)
 * Equip Power Quake (Down 2)
-
-- Fire bar peril
-- Sushie before LP
 
 ### Lava Piranha (block nothing)
 1. Bounce x6 / Untimed Belly Flop (if 4/5 cap)
@@ -265,24 +257,16 @@ Level Up BP (10/20/9)
 </Note>
     </Split>
     <Split>
-      <Name>-Lakilester</Name>
-      <Note>* 9HP for Laki
-* Shooting Star
-
-## Equips
-* Equip Power Jump
-
-- Swap to Parakarry before Laki
-
-### Laki (block 0/2 at 9hp, 2/2 at 7)
-1. Power Jump / Shell Shot
-2. Power Jump / Swap to Bow (down 1)
-3. Power Bounce x5 / Outta Sight
-4. Jump x2 (Bounce x3 if 4 cap)</Note>
-    </Split>
-    <Split>
       <Name>Chapter 6</Name>
-      <Note>### Machine Fight
+      <Note>* Eat a Bubble Berry if not 10HP from Spiny
+
+### Laki (Block 3/3)
+1. Power Jump / Shell Shot
+2. Jump x2 / Shell Shot
+3. Jump x2 / Shell Shot
+4. Bounce x4
+
+### Machine Fight
 1. Dizzy Dial / Do Nothing
 2. Shooting Star / Do Nothing
 3. Shooting Star / Do Nothing
@@ -297,7 +281,7 @@ Level Up HP (15/20/9)
     </Split>
     <Split>
       <Name>-Enter Palace</Name>
-      <Note>* Grab Quick Change
+      <Note>* Quick Change
 * Laki clip into blue house
 * Ultra Boots
 * Shooting Star in sewer
@@ -318,6 +302,8 @@ Level Up HP (15/20/9)
 
 ### Clubba 2
 1. Power Quake / Power Bomb
+
+Level Up FP (15/25/9)
 
 ### Clubba 3 
 1. Shooting Star / Power Bomb
