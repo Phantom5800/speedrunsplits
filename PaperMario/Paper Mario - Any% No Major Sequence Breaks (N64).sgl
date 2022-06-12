@@ -258,12 +258,19 @@ Level Up BP (10/20/9)
     </Split>
     <Split>
       <Name>Chapter 6</Name>
-      <Note>* Eat a Bubble Berry if not 10HP from Spiny
+      <Note>* Eat a Bubble Berry if not 7 or 10 HP
+* Shooting Star
 
-### Laki (Block 3/3)
+### Laki @ 10 (Block 3/3)
 1. Power Jump / Shell Shot
 2. Jump x2 / Shell Shot
 3. Jump x2 / Shell Shot
+4. Bounce x4
+
+### Laki @ 7 (Block 2/2)
+1. Power Jump / Do Nothing
+2. Power Jump / Swap to Bow
+3. Bounce x5 / Outta Sight
 4. Bounce x4
 
 ### Machine Fight
