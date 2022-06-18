@@ -11,7 +11,7 @@
 
 * Leave and go top right
 
-## Area 1
+## Sunny Peak
 * Go up 3 screens
 * Stand on stump
 * Talk to crying hamster (Mash A)
@@ -70,7 +70,7 @@
 * Leave
 * Top Right Area
 
-## Area 1
+## Sunny Peak
 * Up 2 screens
 * Talk to Sunflower
   * Down 2
@@ -124,12 +124,12 @@
       <Note>* Go down, leave through hole (Down 3)
 * Go to base
 
-## Base
+## Clubhouse
 
 * Talk to boss (Mash A)
 * Go to Island
 
-## Island
+## Sandy Bar
 * Left 1
 * Talk to Rock (Down 2)
 * Down 1
@@ -170,10 +170,10 @@
 * Right 1
 * Leave through hole (Down 3)
 
-## Base
+## Clubhouse
 * Talk to Boss (Mash A)
 
-## Island
+## Sandy Bar
 * Down 1 and Left all the way
 * Split on pink</Note>
     </Split>
@@ -228,10 +228,10 @@
   - Mash A
 - Leave at hole (Down 3)
 
-## Base
+## Clubhouse
 * Talk to Boss (Mash A)
 
-## Carnival
+## Fun Land
 * Talk to robot (Mash A)
 * Talk to trashcan (Down 3)
 * Up 1, Left Door
@@ -269,21 +269,23 @@
   * Down 1
 * Dig at hole (Down 3)
 
-## Base
+## Clubhouse
 * Leave immediately
 
-## Haunted Area
+## Boo Manor
 * Up 1
 * Talk (Mash A)
 * Down 1
 * Grab message (Down 1)
 * Enter pipe (Down 3)
-  * Play rock paper scissors
+  * Down 3
+  * Down 3
+  * Mash A
 * Enter pipe (Down 3)
 * Up 1
 * Talk (Down 4)
 
-## Hotel
+## Inside Hotel
 
 - Enter and talk to hamster at counter (Down 5)
 - Talk Again (Down 5)
@@ -354,10 +356,10 @@
       <Note>* Go right until green hamster (Down 4)
 * Right 1, go through mirror
 
-## Base
+## Clubhouse
 * Leave immediately
 
-## Garden
+## Wildwoods
 * Right 1
 * Talk (Mash A)
 * Left, Down, Right, Down
@@ -366,7 +368,7 @@
 * Up, Left, Up, Right
 * Leave through hole (Down 3)
 
-## Forest
+## Sunny Peak
 * Up all the way
 * Right until hole in grass
 * Interact with hole (Down 3)
@@ -375,7 +377,7 @@
 * Door (Down 4)
 * Go inside, use hole (Down 3)
 
-## Garden
+## Wildwoods
 * Down, Right, Down
 * Talk (Down 5)
 * Go Up
@@ -392,7 +394,7 @@
 * Leave, Right 1, Down 4 at door
 * Use hole (Down 3)
 
-## Garden
+## Wildwoods
 * Talk (Down 5)
 * Down 1, Right 1
 * Use vine (Down 4)
@@ -426,10 +428,10 @@
       <Note>* Talk to grey hamster (Mash A)
 * Down, Left, leave through hole (Down 3)
 
-## Base
+## Clubhouse
 * Leave
 
-## Forest
+## Sunny Peak
 * Up and right all the way
 * Open Door (Down 4)
 * Hit switch (Mash A)
@@ -443,19 +445,19 @@
 - Use minecart (Down 4)
 - Use hole (Down 3)
 
-## Castle
+## Spat's Castle
 * Interact near hole (Down 5)
 * Interact (Down 4)
 * Interact (Down 7)
 * Interact (Down 6)
 * Down
 
-## Garden
+## Wildwoods
 * Right 2
 * Talk (Mash A)
 * Talk to pink (Mash A)
   * Mash A
-* Talk (Down 4)
+* Talk to pink (Down 4)
 
 - Split on pink</Note>
     </Split>
@@ -467,7 +469,7 @@
 * Interact in front of spoon (Down 4)
   * Mash A
 
-## Castle
+## Spat's Castle
 * Enter right door
 * Interact with lock (Down 4)
 * Leave and talk to hamster (Down 4)
@@ -475,7 +477,7 @@
 * Enter castle
 
 ## Spat
-* Down 4
+* Talk (Down 4)
 * Solve Puzzle (Down 4)
   1. Left
   2. Up
