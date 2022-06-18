@@ -2,7 +2,7 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>Bijou</Name>
+      <Name>-Bijou</Name>
       <Note>## Tutorials
 1. Mash A
 2. Down 1
@@ -43,7 +43,7 @@
 - Save Bijou, split on high five</Note>
     </Split>
     <Split>
-      <Name>Oxnard + Pepper</Name>
+      <Name>-Oxnard + Pepper</Name>
       <Note>* Back on boat
 * Left 1
 * Up 1
@@ -63,7 +63,7 @@
 * Split on pink screen</Note>
     </Split>
     <Split>
-      <Name>Arnie Bros.</Name>
+      <Name>-Arnie Bros.</Name>
       <Note>* Re-enter base after leaving
 * Bottom left room
 * Talk (Mash A)
@@ -103,7 +103,7 @@
 - Split on pink screen</Note>
     </Split>
     <Split>
-      <Name>Hamlift Duo</Name>
+      <Name>{Sunny Peak}Hamlift Duo</Name>
       <Note>* Down 1
 * Left 1
 * Talking
@@ -120,7 +120,7 @@
 - Split on pink after talking</Note>
     </Split>
     <Split>
-      <Name>Seamour + Barette</Name>
+      <Name>-Seamour + Barette</Name>
       <Note>* Go down, leave through hole (Down 3)
 * Go to base
 
@@ -178,7 +178,7 @@
 * Split on pink</Note>
     </Split>
     <Split>
-      <Name>Pashmina &amp; Penelope</Name>
+      <Name>{Sandy Bay}Pashmina + Penelope</Name>
       <Note>* Grab Bottle (Down 1)
 * Right 2, Up 1 to music rock
 * Dig at hole by rock (Down 3)
@@ -214,7 +214,7 @@
 - Split on pink</Note>
     </Split>
     <Split>
-      <Name>600 in Stickie Note</Name>
+      <Name>-600 in Stickie Note</Name>
       <Note>* Down 2
 * Talk at boat (Mash A)
   * Mash A
@@ -243,7 +243,7 @@
 - Split on white screen</Note>
     </Split>
     <Split>
-      <Name>Robo Duo</Name>
+      <Name>{Fun Land}Robo Duo</Name>
       <Note>* Down 1 to say no to play again
 * Leave
 * Hit the red hamster (Down 2)
@@ -263,7 +263,7 @@
 * Split on pink</Note>
     </Split>
     <Split>
-      <Name>Retrieve Hamtaro</Name>
+      <Name>-Retrieve Hamtaro</Name>
       <Note>* Left 1, Up 2, Left 1
 * Talk to right hamster (Down 4)
   * Down 1
@@ -329,7 +329,7 @@
 * Split on high five</Note>
     </Split>
     <Split>
-      <Name>Spat 4</Name>
+      <Name>{Boo Manor}Spat 4</Name>
       <Note>* Leave room, go upstairs
 * Enter second door with the ghost
 * Talking (Mash A)
@@ -350,7 +350,7 @@
 * Split when Spat disappears from map</Note>
     </Split>
     <Split>
-      <Name>Cappy + Seedric</Name>
+      <Name>-Cappy + Seedric</Name>
       <Note>* Go right until green hamster (Down 4)
 * Right 1, go through mirror
 
@@ -387,7 +387,7 @@
 - Split on pink</Note>
     </Split>
     <Split>
-      <Name>Married Couple</Name>
+      <Name>-Married Couple</Name>
       <Note>* Go up to hot spring (Down 3)
 * Leave, Right 1, Down 4 at door
 * Use hole (Down 3)
@@ -422,7 +422,7 @@
 - Split on pink screen</Note>
     </Split>
     <Split>
-      <Name>Inventor Couple</Name>
+      <Name>{Wild Woods}Inventor Couple</Name>
       <Note>* Talk to grey hamster (Mash A)
 * Down, Left, leave through hole (Down 3)
 
