@@ -214,7 +214,7 @@
 - Split on pink</Note>
     </Split>
     <Split>
-      <Name>-600 in Stickie Note</Name>
+      <Name>Fun Land</Name>
       <Note>* Down 2
 * Talk at boat (Mash A)
   * Mash A
@@ -234,18 +234,14 @@
 ## Fun Land
 * Talk to robot (Mash A)
 * Talk to trashcan (Down 3)
-* Up 1, Left Door
-* Talk (Mash A)
-  * Mash A
-  * Down 1
-* Play minigame, get 600
+- Up 1, Left Door
+- Talk (Mash A)
+  - Mash A
+  - Down 1
+- Play minigame, get 600
+- Mash B to not play again
+- Leave
 
-- Split on white screen</Note>
-    </Split>
-    <Split>
-      <Name>{Fun Land}Robo Duo</Name>
-      <Note>* Down 1 to say no to play again
-* Leave
 * Hit the red hamster (Down 2)
 * Down, Right, Up x2, Down x2, Right
 * Free the Prisoner! (Down 4)
@@ -343,9 +339,7 @@
 - Interact with wall twice (Down 2)
 - Go inside, stand on platforms 
   - Mash A
-  - Down 1
-  - Mash A
-  - Down 1
+  - Questions are RNG :)
 - Talk (Down 5)
 - Talk (Down 6)
 
