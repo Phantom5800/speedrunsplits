@@ -11,10 +11,9 @@
 * Teach Double Kick over Quick Attack
 
 # Brock
-* lv8 oddish can growth x2  
+* lv7 oddish can growth x2  
 * Geodude
-   * Growth
-   * Absorb
+   * Absorb (x2)
 * Onix
    * Absorb (x2)
 </Note>
@@ -25,15 +24,15 @@
 * Sell
    * All BUT 10 Poké Balls
 * Buy
-   * 9 Great Balls (v)
+   * 6 Great Balls (v)
    * 1 X-Defense (&gt;v)
    * 1 X-SpAtk (v)
    * 2 X-Attack (^^)
-   * 4 Antidotes (&lt;)
-   * 2 Awakenings (vvv)
+   * 3 Antidotes (&lt;)
+   * 3 Awakenings (vvv)
 
 ## Lass Evelyn
-Bellsprout: Acid x2
+Bellsprout: Acid x2-3
 
 ## Youngster Josh
 Sandshrew: Absorb (x2 if your oddish sucks ass)
@@ -58,7 +57,7 @@ Zubat: Thundershock
 
 ## Jessie and James
 * Koffing: Thundershock x2 | X-SpAtk Pikachu
-* Ekans: Thundershock x2 | Gust (Butterfree)</Note>
+* Ekans: Thundershock x2 | Acid (Oddish)</Note>
     </Split>
     <Split>
       <Name>Cerulean</Name>
@@ -80,7 +79,7 @@ Zubat: Thundershock
 * Eevee:
     * Tail Whip + Zippy Zap (if &lt;15)
     * Double Kick (if 36+ atk)
-    * Zippy Zap (if 44+ atk)
+    * Zippy Zap (if 43+ atk)
 
 ## Bug Catcher Cale
 * Zippy Zap
@@ -128,14 +127,18 @@ Skip headbutt if:
     * Nuggets
     * Fossil
 * Buy
-    * 2 Escape Ropes (&gt;)
-    * 11 Lures (&gt;)
-    * 11 X-Attacks (v)
-    * 15 X-SpAtk (vv)
-    * 14 Super Potions (&lt;&lt;)
-    * MAX Great Balls (^^)
-* Move Super Potions to slot 1
-* Thunderbolt replaces Headbutt
+    * 8 Great Ball (v)
+    * 11 Super Potions (vv)
+    * 11 X-Attack (&gt;)
+    * 11 Lure (^)
+    * 1 Repel (^)
+    * 2 Escape Ropes (^)
+    * 14 X-SpAtk (&gt;)
+
+- Up for X-Attack
+- Left for X-SpAtk
+- Move Super Potions to slot 1
+- Thunderbolt replaces Headbutt
 
 ## Picknicker Alicia
 * Eevee: Double Kick | X-Attack Pikachu
@@ -144,6 +147,7 @@ Skip headbutt if:
 ## Camper Drew
 * Sandshrew: X-SpAtk Growlithe | Flamethrower
 * Raticate: Zippy Zap | Flamethrower
+  * Double Kick | Flamethrower if both underleveled / bad stats
 
 # Catches
 
@@ -163,7 +167,7 @@ Skip headbutt if:
 * Slowpoke: Thunderbolt
 
 ## Poké Maniac Winston
-* Kangaskhan: X-SpAtk + Thunderbolt + Double Kick
+* Kangaskhan: X-SpAtk + Thunderbolt (x2)
 
 ## Hiker Claus
 * Machop: Zippy Zap | X-Attack
@@ -190,7 +194,7 @@ Thunderbolt OHKO's machop @ 64 spatk
     * Pidgeotto: X-Attack Nidoking | Thunderbolt (if 57+ spatk) / Zippy Zap (if 68+ atk)
     * Gloom: Poison Jab | X-Attack Nidoking
     * Jolteon: Poison Jab | Super Potion (or Tail Whip)
-W/ Nidoqueen
+* W/ Nidoqueen
     * Pidgeotto: Thunderbolt | X-Attack Nidoqueen
     * Gloom: 
         * Tail Whip | X-Attack Nidoqueen
@@ -212,11 +216,11 @@ W/ Nidoqueen
 
 ## Team Rocket Grunt
 * Hypno (w/ Nidoking): 
-    * Poison Jab | Tail Whip
-    * Super Potion | Zippy Zap
+    * Poison Jab | Zippy Zap
+    * Poison Jab | Heal
 * Hypno (w/ Nidoqueen):
-    * Tail Whip | Crunch
-    * Zippy Zap | Super Potion
+    * Zippy Zap | Crunch
+    * Zippy Zap | Heal
 
 ## Team Rocket Grunt
 * w/ Nidoking
@@ -348,13 +352,21 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Call for help before Blue
 
 ## Blue
-* Exeggutor: X-Attack Dodrio | Drill Peck
+* Exeggutor: X-ApAtk Rapidash | Fire Blast
 * Charizard: Scald | X-SpAtk Starmie
+  * Need one more X-SpAtk after this fight, Hydro Pump if not enough
 
 - Elevator to 5th floor, go left
 
 ## Double fight
 - Psychic everything, heal on turns where you need to
+  - Preferred Order:
+    - Muk
+    - Electrode
+    - Weezing
+    - Golbat
+    - Raticate
+  - Raticate Sucker Punch can do at most 38 with bad defense
 
 * Take teleporter to floor 3
 * Take teleporter in room with spinning scientist
@@ -375,14 +387,22 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Moon Stone by Copycat's bed if need an extra catch
 
 #  Shop
-* 11 Max Repels (&lt;&lt;^)
-* 11 X-Speed (&gt;^^)
-* 11 X-SpDef (^)
-* 31 X-SpAtk (^)
-* 11 Full Heals(^&lt;)
-* MAX Hyper Potions (&lt;v)
+* With Full Heals (if used all Antidotes)
+  * 11 Max Repels (&lt;&lt;^)
+  * 11 X-Speed (&gt;^^)
+  * 11 X-SpDef (^)
+  * 31 X-SpAtk (^)
+  * 11 Full Heals(^&lt;)
+  * MAX Hyper Potions (&lt;v)
 
-- Sabrina gym:
+- Without Full Heals
+  - 11 Hyper Potions (down 5)
+  - 11 Max Repels (&gt;vv)
+  - 11 X-Speed (&gt;v)
+  - 11 X-SpDef (^)
+  - Max X-SpAtk (^)
+
+* Sabrina gym:
     * Bottom Left
     * Top Right
     * Bottom Right
@@ -596,5 +616,5 @@ Range                   |   SpAtk @ 53/54           | SpAtk @ 55
     </Split>
   </Splits>
   <Name>Pokémon Let's Go Pikachu/Eevee</Name>
-  <Category>Any%</Category>
+  <Category>Any% NMS</Category>
 </Guide>

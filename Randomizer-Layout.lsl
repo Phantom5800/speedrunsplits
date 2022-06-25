@@ -99,10 +99,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2876</WindowPos.X>
-        <WindowPos.Y>-317</WindowPos.Y>
-        <WindowSize.Width>633</WindowSize.Width>
-        <WindowSize.Height>1232</WindowSize.Height>
+        <WindowPos.X>-3681</WindowPos.X>
+        <WindowPos.Y>119</WindowPos.Y>
+        <WindowSize.Width>457</WindowSize.Width>
+        <WindowSize.Height>427</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
