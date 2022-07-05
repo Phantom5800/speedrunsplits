@@ -289,7 +289,7 @@ Level | SpAtk
 </Note>
     </Split>
     <Split>
-      <Name>Staryu</Name>
+      <Name>Blaine</Name>
       <Note>* Fly to Celadon
 * **SET NATURES IN CENTRE (BLUE + RED)**
 * Deposit all pokemon that won't evolve soon
@@ -305,17 +305,15 @@ Level | SpAtk
 * Learn Surf
 * Use Super Lure
 * Fly to Pallet Town
-* Catch Staryu</Note>
-    </Split>
-    <Split>
-      <Name>Blaine</Name>
-      <Note>* Use 2 Rare Candies on Staryu
-    * Hydro Pump in slot 2
-* Get Water Stone
-    * Teach Scald in slot 1
-    * Evolve
-* Starmie in slot 1, Dodrio in slot 2
-* Cinnabar Mansion
+* Catch Staryu
+      
+    - Use 2 Rare Candies on Staryu
+    - Hydro Pump in slot 2
+    - Get Water Stone
+    - Teach Scald in slot 1
+    - Evolve
+- Starmie in slot 1, Dodrio in slot 2
+- Cinnabar Mansion
 
 ## Scientist Ted
 - Electrode: Psychic | X-SpAtk

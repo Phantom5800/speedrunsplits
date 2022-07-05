@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Tutorial</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Meadow Zone</Name>
+      <Note>* Bulbsaur Daring Dash
+
+- Munchlax
+- Turtwig
+- Bonsly
+- Pachirisu
+- Buneary
+
+* Daring Dash Turtwig
+
+- Lotad
+- Caterpie
+- Mankey
+- Oddish
+- Aipom
+- Croagunk
+- Spearow
+
+* Sudowoodo
+* Butterfree
+* Treecko
+
+- Venusaur Vine Swing (get bonus with first three before doing mankey)
+  - Pikachu
+  - Munchlax
+  - Pachirisu
+  - Mankey
+
+* Ambipom
+* Weedle
+* Magikarp
+* Shroomish
+* Torterra
+
+- Leave</Note>
+    </Split>
+    <Split>
+      <Name>Beach Zone</Name>
+      <Note>## Beach Zone 1
+* Psyduck
+* Azurill
+* Slowpoke
+* Starly
+* Pidgeotto
+* Corsola
+* Staravia
+* Wingull
+* Taillow
+* Buizel
+* Floatzel
+* Golduck
+* Mudkip
+* Totodile
+
+## Meadow Zone
+* Bidoof
+* Shinx
+* Bibarel
+
+## Beach Zone 2
+* Recycle three bottles before gyarados
+* Recycle three more bottles after gyarados
+* Corphish</Note>
+    </Split>
+    <Split>
+      <Name>Iceberg Zone</Name>
+      <Note>* Teddiursa
+* Ursaring
+* Prinplup
+* Froslass
+* Quagsire
+* Octillery
+* Glalie
+* Empoleon
+* Piloswine</Note>
+    </Split>
+    <Split>
+      <Name>Cavern Zone</Name>
+      <Note>## Meeting Place
+* Upgrade Dash 3 times
+
+## Cavern Zone
+* Aron
+* Zubat
+* Golbat
+* Cranidos
+* Magnemite
+* Marowak
+* Gible
+* Torchic
+* Machamp
+* Raichu
+* Meowth
+* Diglett
+* Scizor (must friend 5 others first)
+* Geodude
+* Bastiodon
+
+## When Leaving for Lava Zone
+- Magnezone
+- Dugtrio</Note>
+    </Split>
+    <Split>
+      <Name>Lava Zone</Name>
+      <Note>* Vulpix
+* Magby
+* Chimchar
+
+- Camerupt
+- Baltoy (crate by Camerupt)
+- Claydol
+
+* Hitmontop
+* Golem
+* Torkoal
+* Rhyperior
+* Charmander
+* Meditite
+* Hitmonchan
+* Flareon
+* Ninetails
+* Ponyta
+* Quilava
+* Infernape
+* Farfetch'd
+* Magcargo
+* Drifblim</Note>
+    </Split>
+    <Split>
+      <Name>Haunted Zone</Name>
+      <Note>* Gastly
+* Voltorb (in same room as Gengar)
+* Gengar (talk to painting again)
+* Stunky
+* Elekid
+* Skuntank
+* Umbreon
+* Espeon
+* Haunter
+* Electabuzz
+
+## After Dusknoir Attraction
+- Abra
+- Breloom
+
+## After Rotom Attraction
+- Misdreavus
+- Sableye
+- Pichu
+- Electrode
+- Luxray
+- Mismagius
+- Riolu
+- Spinarak
+- Duskull
+
+## Back Outside
+
+* Metapod
+* Drifloon
+* Kakuna
+* Murkrow
+* Honchkrow
+* Gliscor</Note>
+    </Split>
+    <Split>
+      <Name>Granite Zone</Name>
+      <Note>## Granite Zone
+* Lopunny
+* Furret
+* Eevee
+
+- Charizard
+- Blastoise
+- Porygon-Z
+- Skorupi
+- Bronzor
+- Electivire
+- Togekiss
+
+## Cavern Zone
+* Phanpy
+* Mawile
+* Snorlax
+
+## Granite Zone 2
+- Flygon
+- Jolteon
+- Arcanine
+- Staraptor
+- Aerodactyl
+
+* Use Charizard on Salamence</Note>
+    </Split>
+    <Split>
+      <Name>Flower Zone</Name>
+      <Note>## Flower Zone
+* Lucario
+* Cyndaquil
+
+- Talk to Shaymin
+
+* Skiploom
+* Budew
+* Dragonite
+
+## Meeting Place
+* Mine Jr.
+* Burmy
+
+## Flower Zone 2
+* Rayquaza Attraction
+* Mareep
+* Water flower</Note>
+    </Split>
+    <Split>
+      <Name>Mew</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Meadow Zone 2</Name>
+      <Note>## Meeting Place
+* Walk into meadow zone
+
+## Meadow Zone
+* Talk to Venusaur (don't do attraction)
+* Leafeon
+* Scyther
+* Tropius (carry big berry all the way up)
+</Note>
+    </Split>
+    <Split>
+      <Name>Granite Zone 2</Name>
+      <Note>* Tyranitar at main entrance (hit switch and cross bridge, go down stairs)
+* Sweep Absol's attraction
+* Garchomp (by Salamence)
+* Sweet Salamence's attractino</Note>
+    </Split>
+    <Split>
+      <Name>Beach Zone 2</Name>
+      <Note>* Vaporeon
+* Pelipper's attraction
+* Wailord
+* Gyarados attraction
+* Lapras</Note>
+    </Split>
+    <Split>
+      <Name>Iceberg Zone 2</Name>
+      <Note>* Krabby
+* Spheal
+
+- Ice Tree
+  - Smoochum
+  - Squirtle
+  - Kirlia
+  - Delibird
+
+* Glaceon
+* Sneasel
+* Primeape
+* Mamoswine
+* Empoleon Attraction</Note>
+    </Split>
+    <Split>
+      <Name>Flower Zone 2</Name>
+      <Note>* Bellossom (bouquet by drifblim sign)
+* Rayquaza attraction</Note>
+    </Split>
+    <Split>
+      <Name>Lava Zone 2</Name>
+      <Note>* Rhyperior's attraction
+* Magmortar
+* Blaziken's attraction</Note>
+    </Split>
+    <Split>
+      <Name>Cavern Zone 2</Name>
+      <Note>* Hitmonlee
+* Bastiodon's attraction</Note>
+    </Split>
+    <Split>
+      <Name>Meadow Zone 3</Name>
+      <Note>* Venusaur's attraction</Note>
+    </Split>
+    <Split>
+      <Name>Haunted Zone 2</Name>
+      <Note>* Tangrowth's attraction
+* Dusknoir's attraction
+* Rotom's attraction</Note>
+    </Split>
+    <Split>
+      <Name>Mew 2</Name>
+      <Note>* Timing ends after clearing the last textbox after the All friends cutscene</Note>
+    </Split>
+  </Splits>
+  <Name>PokéPark Wii: Pikachu's Adventure</Name>
+  <Category>All Friends</Category>
+</Guide>

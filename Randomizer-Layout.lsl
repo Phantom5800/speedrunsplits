@@ -14,11 +14,11 @@
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
     <PersonalBestColor>FF16A6FF</PersonalBestColor>
-    <AheadGainingTimeColor>FF00CC36</AheadGainingTimeColor>
-    <AheadLosingTimeColor>FFAAF9BF</AheadLosingTimeColor>
-    <BehindGainingTimeColor>FFF4A6A0</BehindGainingTimeColor>
-    <BehindLosingTimeColor>FFCC1200</BehindLosingTimeColor>
-    <BestSegmentColor>FFD8AF1F</BestSegmentColor>
+    <AheadGainingTimeColor>FFFFFFFF</AheadGainingTimeColor>
+    <AheadLosingTimeColor>FFFFFFFF</AheadLosingTimeColor>
+    <BehindGainingTimeColor>FFFFFFFF</BehindGainingTimeColor>
+    <BehindLosingTimeColor>FFFFFFFF</BehindLosingTimeColor>
+    <BestSegmentColor>FFFFFFFF</BestSegmentColor>
     <UseRainbowColor>False</UseRainbowColor>
     <NotRunningColor>FFACACAC</NotRunningColor>
     <PausedColor>FF7A7A7A</PausedColor>
@@ -74,7 +74,7 @@
         <TimerHeight>72</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:00:01</TimerFormat>
-        <OverrideSplitColors>True</OverrideSplitColors>
+        <OverrideSplitColors>False</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFFFFFFF</TimerColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
