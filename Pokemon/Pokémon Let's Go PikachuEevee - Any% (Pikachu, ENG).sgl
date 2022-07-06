@@ -19,7 +19,7 @@
 </Note>
     </Split>
     <Split>
-      <Name>Mt Moon</Name>
+      <Name>-Mt Moon</Name>
       <Note># Shop
 * Sell
    * All BUT 10 Poké Balls
@@ -60,7 +60,7 @@ Zubat: Thundershock
 * Ekans: Thundershock x2 | Acid (Oddish)</Note>
     </Split>
     <Split>
-      <Name>Cerulean</Name>
+      <Name>-Cerulean</Name>
       <Note>* Teach Zippy Zap over Thundershock
 
 ## Beauty Lily
@@ -110,18 +110,18 @@ Skip headbutt if:
 * Krabby: Zippy Zap</Note>
     </Split>
     <Split>
-      <Name>Rival 3</Name>
+      <Name>-Rival 3</Name>
       <Note>* Need Growlithe before leaving route 6
 * Make sure Growlithe is slot 2
 * Hidden Rare Candy to right of Saffron Gate
 
 ## Rival
 * Pidgeotto: Zippy Zap | X-Attack
-* Eevee: Zippy Zap | Helping Hand
+* Eevee: Zippy Zap | Helping Hand (down 1)
 * Oddish: Headbutt | Flamethrower</Note>
     </Split>
     <Split>
-      <Name>Enter Rock Tunnel</Name>
+      <Name>-Enter Rock Tunnel</Name>
       <Note># Shop
 * Sell
     * Nuggets
@@ -162,7 +162,7 @@ Skip headbutt if:
 </Note>
     </Split>
     <Split>
-      <Name>Rock Tunnel</Name>
+      <Name>-Rock Tunnel</Name>
       <Note>## Poké Maniac Ashton
 * Slowpoke: Thunderbolt
 
@@ -186,7 +186,7 @@ Thunderbolt OHKO's machop @ 64 spatk
 * Vulpix: Zippy Zap</Note>
     </Split>
     <Split>
-      <Name>Giovanni 1</Name>
+      <Name>-Giovanni 1</Name>
       <Note>* If Nidoking, put in slot 1
 
 ## Rival
@@ -258,7 +258,7 @@ Thunderbolt OHKO's machop @ 64 spatk
 * Rhyhorn: Double Kick | Helping Hand</Note>
     </Split>
     <Split>
-      <Name>Pokémon Tower</Name>
+      <Name>-Pokémon Tower</Name>
       <Note>* Learn Fly outside Game Corner
 * Use Lure
 * Fly to Lavender
@@ -289,7 +289,7 @@ Level | SpAtk
 </Note>
     </Split>
     <Split>
-      <Name>Blaine</Name>
+      <Name>-Blaine</Name>
       <Note>* Fly to Celadon
 * **SET NATURES IN CENTRE (BLUE + RED)**
 * Deposit all pokemon that won't evolve soon
@@ -331,21 +331,21 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Scald everything</Note>
     </Split>
     <Split>
-      <Name>Surge</Name>
+      <Name>-Surge</Name>
       <Note>* Top middle trash can, then trash can immediately below
 
 ## Surge
 * Scald everything</Note>
     </Split>
     <Split>
-      <Name>Erika</Name>
+      <Name>-Erika</Name>
       <Note>* **Teach Thunderbolt** in slot 4
 
 ## Erika
 * Psychic everything</Note>
     </Split>
     <Split>
-      <Name>Giovanni 2</Name>
+      <Name>-Giovanni 2</Name>
       <Note>* Fly to Celadon and go right to Saffron
 * Call for help before Blue
 
@@ -379,7 +379,7 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Nidoqueen: Scald</Note>
     </Split>
     <Split>
-      <Name>Sabrina</Name>
+      <Name>-Sabrina</Name>
       <Note>* Grab Lapras and Rare Candy on 7F
 * Grab Porygon near centre
 * Moon Stone by Copycat's bed if need an extra catch
@@ -420,7 +420,7 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Jynx: Scald</Note>
     </Split>
     <Split>
-      <Name>Koga</Name>
+      <Name>{Nothing in Here Matters}Koga</Name>
       <Note>* Remove all pokemon except Starmie and Rapidash!!!
 * Move Hyper Potion to slot 1
 * Move X-SpAtk to last slot
