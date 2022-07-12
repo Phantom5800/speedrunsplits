@@ -2,7 +2,7 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>Brock</Name>
+      <Name>-Brock</Name>
       <Note>Level 5 Stats:
 * &lt;14atk = bad
 * &lt;14spatk = bad
@@ -114,40 +114,53 @@ Skip headbutt if:
       <Note>* Need Growlithe before leaving route 6
 * Make sure Growlithe is slot 2
 * Hidden Rare Candy to right of Saffron Gate
-
-## Rival
-* Pidgeotto: Zippy Zap | X-Attack
-* Eevee: Zippy Zap | Helping Hand (down 1)
-* Oddish: Headbutt | Flamethrower</Note>
-    </Split>
-    <Split>
-      <Name>-Enter Rock Tunnel</Name>
-      <Note># Shop
+# Shop
 * Sell
     * Nuggets
     * Fossil
 * Buy
     * 8 Great Ball (v)
     * 11 Super Potions (vv)
-    * 11 X-Attack (&gt;)
+    * 11 X-Attack (&gt;) [12 if using Oddish]
     * 11 Lure (^)
     * 1 Repel (^)
     * 2 Escape Ropes (^)
-    * 14 X-SpAtk (&gt;)
+    * MAX X-SpAtk (v)
 
 - Up for X-Attack
 - Left for X-SpAtk
-- Move Super Potions to slot 1
-- Thunderbolt replaces Headbutt
+
+## Rival
+Growlith:
+* Pidgeotto: Zippy Zap | X-Attack
+* Eevee: Zippy Zap | Helping Hand (down 1)
+* Oddish: Headbutt | Flamethrower
+
+Oddish:
+* Pidgeotto: Zippy Zap | X-Attack
+* Eevee: Zippy Zap (Double Kick if only 1) | X-Attack
+* Oddish: Headbutt | Acid (probably twice)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Rock Tunnel</Name>
+      <Note>- Thunderbolt replaces Headbutt
+- Move Super Potions to slot 1 when using Lure
 
 ## Picknicker Alicia
 * Eevee: Double Kick | X-Attack Pikachu
 * Gloom: X-SpAtk Growlithe | Flamethrower
+  * Headbutt / Acid x2 if Oddish
 
 ## Camper Drew
+Growlith:
 * Sandshrew: X-SpAtk Growlithe | Flamethrower
 * Raticate: Zippy Zap | Flamethrower
   * Double Kick | Flamethrower if both underleveled / bad stats
+
+Oddish:
+* Sandshrew: X-SpAtk Oddish | Absorb (hope you're not slower)
+* Raticate: Double Kick | X-Attack (12/16 range at worst)
 
 # Catches
 
@@ -351,8 +364,10 @@ Blaine quiz: 1, 2, 2, 2, 1
 
 ## Blue
 * Exeggutor: X-ApAtk Rapidash | Fire Blast
+  * X-Atk Dodrio | Drill Peck
 * Charizard: Scald | X-SpAtk Starmie
   * Need one more X-SpAtk after this fight, Hydro Pump if not enough
+  * +0 Scald is 13/16 at 123 spatk
 
 - Elevator to 5th floor, go left
 
@@ -370,7 +385,7 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Take teleporter in room with spinning scientist
 
 ## Jessie and James
-* Psychic Arbok | Drill Peck
+* Psychic Arbok | Drill Peck / Stomp
 * Psychic Weezing | Super Potion or Drill Peck if Starmie took no damage
 
 ## Giovanni
@@ -471,23 +486,32 @@ Blaine quiz: 1, 2, 2, 2, 1
 * Scald everything
 
 Dugtrio Outspeed: 151+
-Dugtrio EQ Damage:
+Dugtrio EQ Damage (without crits):
 
-HP | Defense Needed
+Max Damage | DEF
 -- | -
-78 | 97 def
-76 | 99 def
-75 | 101 def
-73 | 103 def
-72 | 105 def
-70 | 107 def
-69 | 110 def
-67 | 112 def
-66 | 115 def</Note>
+76 | 97
+75 | 99
+73 | 101
+72 | 103
+70 | 105
+69 | 107
+67 | 110
+66 | 112
+64 | 115</Note>
     </Split>
     <Split>
       <Name>Victory Road</Name>
-      <Note>* Heal if &lt; 27 hp
+      <Note>* Heal if can't live quick attack
+
+Pidgeot Damage | Def
+-- | -
+22-25 (27) | 93
+21-24 (25) | 94-99
+19-22 (24) | 100-106
+18-21 (22) | 107-115
+18-19 (21) | 116-124
+
 * Call for help before rival
 
 ## Rival
@@ -601,6 +625,7 @@ Level | SpAtk
 * Marowak: Psychic
 * Slowbro: Thunderbolt
 
+Vileplum might go for Sludge Bomb if you're below 51 hp
 
 Jolteon Psychic Ranges (+4):
 
