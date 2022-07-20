@@ -12,8 +12,8 @@
       <Variable name="Console">N64</Variable>
     </Variables>
   </Metadata>
-  <Offset>-00:00:15</Offset>
-  <AttemptCount>51</AttemptCount>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>55</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/20/2022 00:04:21" isStartedSynced="True" ended="01/20/2022 05:02:34" isEndedSynced="True" />
     <Attempt id="2" started="01/31/2022 23:19:35" isStartedSynced="True" ended="02/01/2022 06:25:39" isEndedSynced="True">
@@ -159,6 +159,18 @@
     </Attempt>
     <Attempt id="52" started="07/10/2022 21:23:42" isStartedSynced="True" ended="07/11/2022 00:55:58" isEndedSynced="True">
       <RealTime>03:32:00.6730000</RealTime>
+    </Attempt>
+    <Attempt id="53" started="07/16/2022 21:00:09" isStartedSynced="True" ended="07/17/2022 00:12:35" isEndedSynced="True">
+      <RealTime>03:12:26.0010000</RealTime>
+    </Attempt>
+    <Attempt id="54" started="07/17/2022 00:21:43" isStartedSynced="True" ended="07/17/2022 03:48:16" isEndedSynced="True">
+      <RealTime>03:26:32.9770000</RealTime>
+    </Attempt>
+    <Attempt id="55" started="07/17/2022 21:06:17" isStartedSynced="True" ended="07/18/2022 00:38:26" isEndedSynced="True">
+      <RealTime>03:31:53.7500000</RealTime>
+    </Attempt>
+    <Attempt id="56" started="07/18/2022 00:47:51" isStartedSynced="True" ended="07/18/2022 04:50:54" isEndedSynced="True">
+      <RealTime>04:03:03.3360000</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -306,11 +318,23 @@
         <Time id="50">
           <RealTime>03:56:13.9220000</RealTime>
         </Time>
+        <Time id="51">
+          <RealTime>00:12:25.4350000</RealTime>
+        </Time>
         <Time id="52">
           <RealTime>03:32:00.6730000</RealTime>
         </Time>
-        <Time id="51">
-          <RealTime>00:12:25.4350000</RealTime>
+        <Time id="53">
+          <RealTime>03:12:26.0010000</RealTime>
+        </Time>
+        <Time id="54">
+          <RealTime>03:26:32.9770000</RealTime>
+        </Time>
+        <Time id="55">
+          <RealTime>03:31:53.7500000</RealTime>
+        </Time>
+        <Time id="56">
+          <RealTime>04:03:03.3360000</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

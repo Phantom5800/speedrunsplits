@@ -27,7 +27,7 @@
    * 6 Great Balls (v)
    * 1 X-Defense (&gt;v)
    * 1 X-SpAtk (v)
-   * 2 X-Attack (^^)
+   * 2 X-Attack (^^) [3 if -spatk, don't be x-sp]
    * 3 Antidotes (&lt;)
    * 3 Awakenings (vvv)
 
@@ -57,7 +57,12 @@ Zubat: Thundershock
 
 ## Jessie and James
 * Koffing: Thundershock x2 | X-SpAtk Pikachu
-* Ekans: Thundershock x2 | Acid (Oddish)</Note>
+* Ekans: Thundershock x2 | Acid (Oddish)
+
+if -spatk:
+* Ekans: Headbutt | X-Atk Pikachu
+* Koffing: Headbutt | X-Atk Pikachu
+</Note>
     </Split>
     <Split>
       <Name>-Cerulean</Name>
