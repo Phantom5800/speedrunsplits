@@ -270,6 +270,7 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>True</FilterVariables>
+        <FilterSubcategories>True</FilterSubcategories>
       </Settings>
     </Component>
     <Component>

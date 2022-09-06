@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Star Rod</Name>
+      <Note>### HP Scaling
+
+|Enemy|C1|C2|C3|C4|C5|C6|C7|
+|--|--|--|--|--|--|--|--|
+|Koopa|4|5|6|7|9|10|11|
+|Fuzzy|3|4|4|5|6|7|7|
+|--|--|--|--|--|--|--|--|
+|Bandit|2|3|4|5|5|6|7|
+|Pokey|3|4|5|6|7|8|9|
+|Stone Chomp|2|3|4|5|5|6|7|
+|Chomp|2|3|4|5|5|6|7|
+|Tutankoopa|25|30|35|40|45|50|55|
+|--|--|--|--|--|--|--|--|
+|Forest Fuzzy|4|5|6|7|9|10|11|
+|Hyper Goomba|4|5|6|7|9|10|11|
+|Clubba|6|7|8|9|9|10|11|
+|--|--|--|--|--|--|--|--|
+|Shy Guy|4|5|6|7|9|10|11|
+|--|--|--|--|--|--|--|--|
+|Fuzzipede|16|18|18|20|20|22|22|
+|Jungle Fuzzy|3|4|5|6|6|7|8|
+|Putrid Piranha|4|6|7|9|10|12|13|
+|--|--|--|--|--|--|--|--|
+|Monty Mole|4|6|7|9|10|12|13|
+|Lakitu|4|6|7|9|10|12|13|
+|Spiny|2|3|3|4|4|5|5|
+|--|--|--|--|--|--|--|--|
+|Jr Troopa|10|16|21|27|33|39|44|
+|Duplighost|4|6|7|9|10|12|13|
+|White Clubba|3|4|6|7|9|10|12|
+</Note>
+    </Split>
+  </Splits>
+  <Name>Paper Mario</Name>
+  <Category>Randomizer</Category>
+</Guide>
