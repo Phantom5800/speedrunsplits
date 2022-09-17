@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Red</Name>
+      <Note>|Puzzle|Solution|
+|--|--|
+|Radio Card| yynyn|
+|Basement Items| 1213 (hitting 1 from here opens path)|
+|Basement Path|321|
+|Sabrina's Gym| top left, bottom left, bottom left|</Note>
+    </Split>
+  </Splits>
+  <Name>Pokémon Crystal</Name>
+  <Category>Randomizer</Category>
+</Guide>

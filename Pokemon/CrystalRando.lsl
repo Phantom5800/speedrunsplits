@@ -99,8 +99,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-3682</WindowPos.X>
-        <WindowPos.Y>113</WindowPos.Y>
+        <WindowPos.X>-3684</WindowPos.X>
+        <WindowPos.Y>-120</WindowPos.Y>
         <WindowSize.Width>546</WindowSize.Width>
         <WindowSize.Height>751</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>

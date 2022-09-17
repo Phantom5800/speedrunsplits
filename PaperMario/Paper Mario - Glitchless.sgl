@@ -178,18 +178,16 @@ Level Up BP (10/15/6)
 * Grab Thunder Rage</Note>
     </Split>
     <Split>
-      <Name>-Watt</Name>
+      <Name>Chapter 4</Name>
       <Note>* Grab Volt Shroom
 
 ### Lantern Ghost (Block 1/2)
  1. Volt Shroom (Mash A) / Do Nothing
  2. Do Nothing / Switch to Goombario (Down 1)
  3. Headbonk / Power Bounce x5
- 4. Headbonk / Power Bounce x4</Note>
-    </Split>
-    <Split>
-      <Name>Chapter 4</Name>
-      <Note>### General Guy
+ 4. Headbonk / Power Bounce x4
+
+### General Guy
  1. Power Bounce x3
  2. Star Storm (Up 1)
  3. Jump x2 / Power Shock
@@ -510,7 +508,7 @@ If turn 2 claw, don't block, eat second life shroom:
 |  | 5 | jump x2</Note>
     </Split>
     <Split>
-      <Name>The End</Name>
+      <Name>Holding B for 6 Minutes</Name>
       <Note />
     </Split>
   </Splits>

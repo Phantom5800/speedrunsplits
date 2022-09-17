@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Antichamber</GameName>
+  <CategoryName>"100%"</CategoryName>
+  <LayoutPath>C:\Git\Splits\Misc\PCGarbage.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>12</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/07/2022 00:45:44" isStartedSynced="True" ended="09/07/2022 00:45:48" isEndedSynced="True" />
+    <Attempt id="2" started="09/07/2022 00:45:48" isStartedSynced="True" ended="09/07/2022 00:46:27" isEndedSynced="True" />
+    <Attempt id="3" started="09/07/2022 00:48:21" isStartedSynced="True" ended="09/07/2022 00:48:27" isEndedSynced="True" />
+    <Attempt id="4" started="09/07/2022 00:48:27" isStartedSynced="True" ended="09/07/2022 00:50:54" isEndedSynced="True" />
+    <Attempt id="5" started="09/07/2022 00:51:37" isStartedSynced="True" ended="09/07/2022 00:52:22" isEndedSynced="True" />
+    <Attempt id="6" started="09/07/2022 00:52:41" isStartedSynced="True" ended="09/07/2022 00:53:11" isEndedSynced="True" />
+    <Attempt id="7" started="09/07/2022 00:53:37" isStartedSynced="True" ended="09/07/2022 00:54:07" isEndedSynced="True" />
+    <Attempt id="8" started="09/07/2022 00:54:42" isStartedSynced="True" ended="09/07/2022 00:55:13" isEndedSynced="True" />
+    <Attempt id="9" started="09/07/2022 00:57:45" isStartedSynced="True" ended="09/07/2022 00:57:48" isEndedSynced="True" />
+    <Attempt id="10" started="09/07/2022 01:01:47" isStartedSynced="True" ended="09/07/2022 01:02:01" isEndedSynced="True" />
+    <Attempt id="11" started="09/07/2022 01:02:14" isStartedSynced="True" ended="09/07/2022 01:02:32" isEndedSynced="True" />
+    <Attempt id="12" started="09/07/2022 01:03:17" isStartedSynced="True" ended="09/07/2022 01:06:59" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Blue Gun</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:16.1880000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:00:30.3820000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:18.8690000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:00:16.1880000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Blue Gun]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:30.1170000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="12">
+          <RealTime>00:01:30.1170000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Multi-Color Windows]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Green Gun</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Green Cross]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Red Gun</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Fly]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Yellow Room]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Managing Resources]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Blue Wall]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [5TH Access]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [5TH Fall]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [5TH Small Elevator]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Chase]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Deja Vu]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Pink Cube [Gallery]</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>100%</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
