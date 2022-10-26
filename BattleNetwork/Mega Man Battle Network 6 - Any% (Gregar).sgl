@@ -82,34 +82,29 @@ Edit Folder:
 </Note>
     </Split>
     <Split>
-      <Name>-Upgrades and Puzzles</Name>
+      <Name>Circusman</Name>
       <Note>* Talk to mom
 * Go to park and talk to Iris
 
-# Lotto Codes
+## Lotto Codes
   - 12110031 (HackJack* - JP Only)
-  - 71757977 (AirWheel O)
+  - 71757977 (AirSpin O)
   - 88674125 (M-Boomer M)
-  - 69544569 (Lance*)
   - 08749780 (HP+400)
   - 55031325 (HP+500)
   - 19790420 (BusterPak)
-  - 08789369 (ElementTrap*)
 
-# Folder Edits
+## Folder Edits
 
-* 5 chips
+* Edit folder when activating sneakrun
+* 3 chips
+  * Reverse sort by code to remove 3 Swords
+  * Reg CrackSht
 * NaviCust: 
   - Remove Atk+1
   - Remove Speed+1
   - Add HP+400
-  - Add Buster Pack
-
-</Note>
-    </Split>
-    <Split>
-      <Name>Circusman</Name>
-      <Note>* 100z for cube</Note>
+  - Add Buster Pack</Note>
     </Split>
     <Split>
       <Name>Judgeman</Name>
@@ -145,7 +140,7 @@ Edit Folder:
 </Note>
     </Split>
     <Split>
-      <Name>-Windcard Fights</Name>
+      <Name>-Sky Gauntlets</Name>
       <Note># Upgrades
 
 * 2 3 1 1 2 3 2 2 3 2
@@ -193,7 +188,7 @@ Edit Folder:
 ![](C:/Git/Splits/BattleNetwork/images/bn6/Weather3.png)</Note>
     </Split>
     <Split>
-      <Name>-Backtracking</Name>
+      <Name>-Moonstone</Name>
       <Note># Undernet
 
 * Go to Green -&gt; Truth -&gt; Make Shortcut
@@ -267,7 +262,7 @@ Edit Folder:
 </Note>
     </Split>
     <Split>
-      <Name>-Prep</Name>
+      <Name>Final Day</Name>
       <Note># Undernet Gauntlet
 
 * Go to ACDC
@@ -292,35 +287,10 @@ Edit Folder:
 </Note>
     </Split>
     <Split>
-      <Name>-Aquarium</Name>
-      <Note>* Talk to mom and meet friends in Central Park
-* Gate in left corner of Central
-* Go to the three buildings and get stamps
-* Go to Principal’s Office
-* Examine yellow book
-* Do aquarium (counter clockwise, top left first)
-* Hit panel at end
-
-![](C:/Git/Splits/BattleNetwork/images/bn6/Pav1.png)</Note>
-    </Split>
-    <Split>
-      <Name>-Judgeman EX</Name>
-      <Note>* Walk over fish, jack in to tree
-* Solve tree puzzles and fuck up Judgeman
-</Note>
-    </Split>
-    <Split>
-      <Name>-Elementman EX</Name>
-      <Note>* Rainbow macaroni
-* Fuck up Elementman
+      <Name>Boss Rush</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn6/Pav1.png)
 
 ![](C:/Git/Splits/BattleNetwork/images/bn6/Pav3.png)</Note>
-    </Split>
-    <Split>
-      <Name>{Boss Rush}Circusman EX</Name>
-      <Note>* Defeat three ghosts by talking to them and fighting viruses
-* Fuck up Circusman
-</Note>
     </Split>
     <Split>
       <Name>Gregar</Name>
