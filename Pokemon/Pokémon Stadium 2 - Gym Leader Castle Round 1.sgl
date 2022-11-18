@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Misty</Name>
+      <Note>Team 11: Zapdos, Jumpluff, Skiploom (C-Left, C-Down, A)
+
+* Thunder (C-Up) vs all
+* Rock Smash Togetic at &lt;8HP
+
+- Reset of miss 71.7% Golduck range
+- Reset of Zapdos is killed
+- Reset if no Togetic or Golduck lead</Note>
+    </Split>
+    <Split>
+      <Name>Brock</Name>
+      <Note>Team 1: Venusaur, Flareon, Magmar (A, B, C-Up)
+
+* Giga Drain all (C-Up)
+
+- Reset if Pinsir or Forretress</Note>
+    </Split>
+    <Split>
+      <Name>Blue</Name>
+      <Note>Team 3: Corsola, Diglett, Tentacruel (C-Up, B, C-Down)
+
+1. Corsola Mirror Coat (C-Down) vs Alakazam
+2. If Arcanine, switch to Diglett (C-Up) and Earthquake (C-Up)
+   a. Fissure (C-Down) Rhydon
+   b. Tentacruel (C-Right) Bubblebeam (C-Up)
+3. If Exeggutor, let Corsola die and go Tentacruel (C-Right)
+4. Sludge Bomb (C-Right)
+   a. If 17.9% for 2HKO range is hit, Bubblebeam Rhydon (C-Up)
+   b. Missed range: Switch to Diglett (C-Up) and Slash (C-Right), Fissure Rhydon (C-Down)
+
+* Reset if not Alakazam lead
+* Gyarados is 4HKO with Sludge Bomb</Note>
+    </Split>
+    <Split>
+      <Name>-Will</Name>
+      <Note>Team 10: Pineco, Voltorb, Fearow (A, C-Down, B)
+
+1. Explosion (C-Down), send out Voltorb (C-Up)
+2. Self-Destruct (C-Right) unless Xatu/Clefable
+   a. if Xatu/Clefable, use Mirror Coat (C-Down)
+   b. Self-Destruct (C-Right) or Thunder (C-Up)
+      i. Thunder: Clefable 51-61 | Xatu 124-146
+      ii. Self-Destruct: Clefable 82-97 | Xatu 98-116
+3. Fearow Drill Peck (C-Up) or Hyper Beam (C-Right)
+   a. Jynx/Kadabra: Hyper Beam
+   b. Clefable/Xatu/Girafarig:  Drill Peck -&gt; Hyper Beam
+   c. Exeggutor: Drill Peck x2
+
+* If Clefable misses Thunder on Fearow, Drill Peck a second time before Hyper Beam</Note>
+    </Split>
+    <Split>
+      <Name>-Koga</Name>
+      <Note>Pineco, Voltorb, Kadabra (A, C-Down, C-Up)
+
+1. Explosion (C-Down), send out Kadabra (C-Right) and Psychic (C-Up)
+2. If you miss vs lead, go Voltorb (C-Up) and Self-Destruct (C-Right)
+3. If Electrode is 2nd, switch to Voltorb (C-Up) and Self-Destruct (C-Right)
+
+Kadabra Psychic:
+* Ariados 1HKO
+* Venomoth/Golbat 20.51/28.21% range, finish with Thunderpunch (C-Right)
+* Gligar/Muk 2HKO
+* Electrode 64.2% 2HKO</Note>
+    </Split>
+    <Split>
+      <Name>-Bruno</Name>
+      <Note>Pineco, Haunter, Kadabra (A, C-Left, C-Up)
+
+1. Pineco Giga Drain (C-Right) vs Heracross lead
+    a. If it switches to Golem, Giga Drain again
+       i. Explode on 2nd (C-Down)
+       ii. Haunter (C-Up) and Destiny Bond (C-Left) on third
+   b. If Blastoise, Explosion (C-Down)
+2. Pineco Explode (C-Down) vs Kangaskhan/Blastoise lead
+   a. If no switch on turn 1, go Haunter (C-Up) and Giga Drain (C-Right)
+   b. Destiny Bond (C-Left) and Kadabra finish</Note>
+    </Split>
+    <Split>
+      <Name>-Karen</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Elite Four}Lance</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Erika</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Surge</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Sabrina</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Blaine</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Gloria</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vince</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Clair</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Alvin</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Carol</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Pryce</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Grunt M</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-The Hot Grunt</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-The Hot Exec</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Rockets}The Other Exec</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Jasmine</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Nick</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Chuck</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Holly</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Ty</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Morty</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Lois</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Rita</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Whitney</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Chaz</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Min &amp; Lyn</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Bugsy</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Matt</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Falkner</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Janine</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Red</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Pokémon Stadium 2</Name>
+  <Category>Gym Leader Castle Round 1</Category>
+</Guide>

@@ -343,5 +343,12 @@
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
+    <Component>
+      <Path>LiveSplit.TheRun.dll</Path>
+      <Settings>
+        <Version>1.0.0</Version>
+        <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
+      </Settings>
+    </Component>
   </Components>
 </Layout>

@@ -312,6 +312,7 @@
         <FilterRegion>False</FilterRegion>
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>True</FilterVariables>
+        <FilterSubcategories>True</FilterSubcategories>
       </Settings>
     </Component>
     <Component>
@@ -381,6 +382,13 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.TheRun.dll</Path>
+      <Settings>
+        <Version>1.0.0</Version>
+        <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
       </Settings>
     </Component>
   </Components>

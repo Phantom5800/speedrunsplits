@@ -344,5 +344,12 @@
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
+    <Component>
+      <Path>LiveSplit.TheRun.dll</Path>
+      <Settings>
+        <Version>1.0.0</Version>
+        <Path>858e8f5d-3ad4-4a8c-b1f7-8629a97b643f</Path>
+      </Settings>
+    </Component>
   </Components>
 </Layout>
