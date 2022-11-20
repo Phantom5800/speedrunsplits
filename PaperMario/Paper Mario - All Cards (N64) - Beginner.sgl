@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Prologue</Name>
+      <Note>* 2 bush coins
+* Hammer
+* 10 coin block
+* 1 coin block
+* Fight Jr
+
+- Fire Flower
+
+### Goomba Bros
+1. Power Jump / Headbonk Red
+2. Power Jump / Do Nothing
+3. Fire Flower (Mash A)
+
+* Heart Block
+
+### Goomba King
+1. Power Jump / Headbonk Tree
+2. Power Jump / Headbonk
+
+-------------
+## Shop
+* Buy 1 Fire Flower
+* Buy 1 Fright Jar [4 coins]
+
+----
+### Magikoopa
+1. Power Jump / Do Nothing
+2. Power Jump
+
+* Black Toad Skip (or don't)</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 1</Name>
+      <Note>* 1 coin block
+* Fright Jar
+* POW Block
+* 10 coin block [15 coins]
+* Fuzzy minigame (no shopping)
+
+### Fuzzies
+1. Fire Flower (up 1)
+
+* Bush coin by save block
+* Thunder Bolt
+* Fire Flower
+* Heart Block
+
+### Koopa Key
+0. First Strike Jump
+1. Power Jump / Untimed Shell Toss
+* Level Up: FP
+
+- Power Bounce
+- Staircase Skip
+
+### Jail Fight
+1. Fright Jar (Up 1) / Bomb Koopa or Untimed Body Slam Bob-omb if they stay
+
+### Pit Fight 1
+0. First Strike Bomb
+1. Bomb
+
+### Pit Fight 2
+1. Fright Jar
+2. Power Jump / Body Slam
+
+### Pit Fight 3
+0. First Strike Bomb
+1. Power Jump / Untimed Body Slam
+
+- Coins from only one fire bar [40]
+- Get Key behind bomb wall
+- Pie Jumps
+
+### Cannons
+0. First Strike Bomb
+1. Thunder Bolt (Down 1) / Bomb
+
+- Heart Block
+
+### Koopa Bros
+1. Power Jump / Bomb
+2. Power Jump / Bomb
+3. POW (Down 1) / Do Nothing
+4. Fire Flower (Mash A)</Note>
+    </Split>
+    <Split>
+      <Name>Parakarry</Name>
+      <Note>- Honey Syrup behind stripe pole
+
+### Jr.
+1. Power Jump / Bomb
+2. Power Jump / Bomb
+3. Hammer
+
+- Speedy
+
+### Rebadge
+* Unequip Power Jump (A)
+* Equip Power Bounce (Down 1)
+* Equip Speedy Spin (Down 1)
+
+- Get 2 Whackas during letters
+   - Get a third whacka if you have 4 fright jar fails
+</Note>
+    </Split>
+    <Split>
+      <Name>Blooper</Name>
+      <Note>- Buzzar Skip (enter desert) and back
+- Magical Seed
+- Heart Block
+- Train to Toad Town
+
+* BHS
+
+### Blooper
+1. Power Bounce / Sky Dive or Shell Shot
+2. Power Bounce / Sky Dive or Shell Shot
+3. Power Bounce / Sky Dive
+* Level Up: FP</Note>
+    </Split>
+    <Split>
+      <Name>-Bow</Name>
+      <Note>* Jammin' Jelly behind tree
+* Sushie
+* Power Quake
+
+### Rebadge
+* Unequip Power Bounce (Down 1)
+* Equip Power Quake (Down 1)
+
+### Dark Koopa x2
+1. Power Quake / Do Nothing
+2. Power Quake
+
+* Eat Honey (Up 1) if no FP or POW drop
+
+### Dark Koopa x3 (FP drop or eat Honey)
+1. Power Quake / Do Nothing
+2. Power Quake
+
+### Dark Koopa x3 (POW drop)
+1. POW / Swap to Kooper (Down 2)
+2. Power Quake / Power Shell
+
+- Eat Jelly (Mash A)
+
+### Dark Koopa x4
+1. Power Quake / Swap to Bombette
+2. Power Quake
+
+- Record Skip
+- Blow up library wall
+- Swap to Parakarry while boots chest opens
+- Get Portrait
+- Get Bow</Note>
+    </Split>
+    <Split>
+      <Name>Tubba Blubba</Name>
+      <Note>* Stanley Save
+* Repel Gel
+* Upgrade Parakarry (Down 3)
+* Mega Rush
+* If you used Honey, get Maple
+* Eat Maple at third door
+* Quick Escape
+
+### Rebadge
+* Unequip Power Quake (Down 2)
+* Equip Mega Rush (Down 1)
+* Unequip Speedy (Down 1)
+* Equip Power Bounce (Z Down 1)
+
+### Heart
+1. Bounce x6 / Shell Shot
+2. Bounce x4
+
+### Tubba
+1. Jump x2
+* Level Up: BP</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Ruins</Name>
+      <Note>### Rebadge
+* Equip Power Quake (Down 2)
+* Equip Speedy Spin (Down 2)
+
+- Card LZS (lol)
+   - Peach Answers (1, 3, 1)
+
+* Buzzar Skip
+* Up 2 for hidden Thunder Rage
+* Enter Ruins</Note>
+    </Split>
+    <Split>
+      <Name>Tutankoopa</Name>
+      <Note>* Grab key and keep going
+* Go right for 2nd key (don't go up and bomb the wall)
+* Get Super Hammer
+* Go back for Pyramid Stone
+
+### Stone Chomp (Pyramid)
+0. First Strike Bomb
+1. Do Nothing / Do Nothing (don't block)
+2. Bomb
+
+- Go to puzzle room and down for ruins key
+
+### Stone Chomp (Diamond) [Block 0/2]
+1. Do Nothing / Do Nothing
+2. Untimed Power Quake
+
+### Stone Chomp (Lunar)
+1. Untimed Power Quake (Power Bomb if no peril)
+
+- If you don't have peril, do the glitchless fight
+
+### Tutankoopa
+1. Bounce x4 / Swap to Parakarry
+2. Jump x2 / Sky Dive</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Volcano</Name>
+      <Note>* Back through Mt Rugged
+* Sewers with green pipe to chapter 5
+* Raph Skip</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 5</Name>
+      <Note>* Fire Shield
+* Life Shroom
+* Lava Puzzle Skip
+* Ultra Hammer
+
+- Peril from fire bars (spam c-down)
+- Flarakarry
+- Swap to Sushie while talkign to Kolorado
+
+### Lava Piranha [Block 0/3]
+1. Bounce x5 / Belly Flop if 4/3 cap
+2. Bounce x5 / Belly Flop (timed if got a 3 cap, untimed if double 4)
+3. Squirt / Bounce x4
+4. Bounce x3
+* Level Up: FP</Note>
+    </Split>
+    <Split>
+      <Name>General Guy</Name>
+      <Note>* Volcano Vase
+* Seed
+* Exit Sewers with Sushie
+* Swap to Parakarry
+* Enter Toy Box
+
+- Right switch to Green Station (Down 1)
+- Right Switch to Pink Station (Down 2)
+  - Fix Blue Station tracks
+- Pink Station Clips
+
+### Fuzzy (if you did card lzs)
+1. Power Quake
+
+- Frying Pan
+- Left Switch to Red Station (Down 1)
+- Volt Shroom
+
+### Big Lantern Ghost
+1. Volt Shroom (Mash A) / Do Nothing
+2. Do Nothing / Swap to Goombario (Up 3)
+3. Headbonk Lantern / Bounce x5
+4. Headbonk Lantern / Bounce x4
+
+- Upgrade Watt (Up 2)
+
+### General Guy
+1. Jump x2 / Electro Dash
+2. Power Quake
+3. Jump x2 / Power Shock
+4. Jump x2
+5. Repel Gel (Down 1) / Electro Dash
+6. Bounce x4 / Electro Dash
+7. Jump x2 / Electro Dash</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Flower Fields</Name>
+      <Note>* Card LZS or make cake
+* Get forever forest seed
+* Quick Change
+* Enter flower fields</Note>
+    </Split>
+    <Split>
+      <Name>-Maze Fight</Name>
+      <Note>### Bottom Right Mole
+1. Power Bomb / Star Storm
+* Level Up: BP
+
+### Top Right Mole [Block 0/3]
+1. Do Nothing / Power Bomb
+2. Untimed Power Quake
+
+### Top Left Mole
+1. Jump x2
+- Get Red Berry
+
+### Bottom Left Mole
+1. Untimed Power Quake / Power Bomb
+
+### Rebadge
+* Equip Power Jump (A)
+* Unequip Power Quake (Down 3)
+* Equip Quick Change (Down 1)
+- Eat Whacka (Up 1)
+
+* Yellow Berry
+* Lily
+* Blue Berry
+* Hit the hidden block by spring
+
+### Lakitu Fight
+1. Shell Shot Lakitu / Star Storm
+2. Thunder Rage if Spiny Spawn or Shell Shot
+
+* Level Up: BP (sometimes)</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 6</Name>
+      <Note>* Eat Whacka (Up 1) if did not level on maze
+* Rosie
+* Shooting Star 
+* Posie
+* Rosie
+* Dizzy Dial in Bubble Berry room
+* Lily
+* Bubble Berry
+
+- Fuck the Bee
+- Shooting Star
+
+### Spike Fight [Block 3/3]
+1. Power Jump / Do Nothing
+2. Power Jump / Shell Shot
+3. Power Jump / Shell Shot
+4. Bounce x5 / Sky Dive
+* Level Up: BP (sometimes)
+
+- Hidden Thunder Rage if used during maze
+
+### Machine Fight
+1. Dizzy Dial / Do Nothing
+2. Thunder Rage / Do Nothing
+3. Star Storm
+
+- Eat Whacka while planting if not full stats
+- S Jump Charge
+
+### Rebadge
+* Unequip Power Jump (A)
+* Equip S Jump Charge (Down 1)
+* Equip Power Quake (Down 2)
+
+### Huff [Block 1/2]
+1. Charge / Do Nothing
+2. Charge / Outta Sight
+3. Charge
+4. Bounce x5 / Shell Shot</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Palace</Name>
+      <Note>* Ultra Boots
+* Hidden Life Shroom
+* Peach Warp</Note>
+    </Split>
+    <Split>
+      <Name>Chapter 7</Name>
+      <Note>* Mirror Clip
+
+### Clubba 1
+1. Jump x2 Clubba / Bomb
+
+### Clubba 2
+1. Shooting Star / Power Bomb
+* Level Up: HP
+
+### Clubba 3
+1. Shooting Star / Power Bomb
+
+- Kooper Puzzle Skip
+- P Up D Down
+- Jammin
+- Palace Key
+- Swap to Watt (Down 4) while opening lock
+
+* Heart Block
+
+### Crystal King [Block 2/4]
+1. Charge / Untimed EDash bit
+2. Charge / EDash
+3. Charge / Untimed EDash bit
+4. Charge / Do Nothing
+5. Bounce x5 / EDash
+* Level Up: FP (sometimes)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Door 1</Name>
+      <Note>* Repel Gel behind tree!!!
+* Upgrade Sushie in sewers!!!!!!
+
+### Koopatrols (Level'd on CK)
+1. Up &amp; Away
+
+### Koopatrols (not leveled)
+1. Untimed Power Quake / Power Bomb
+* Level Up: FP
+
+- Jail Life Shroom
+- Block Clip</Note>
+    </Split>
+    <Split>
+      <Name>-Door 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Door 3</Name>
+      <Note>### Duplighosts
+1. Up &amp; Away / Air Lift
+
+### Jr. [Block 2/2]
+1. Charge / Shell Shot
+2. Charge / Outta Sight
+3. Charge
+4. Bounce x5 / Outta Sight
+5. Star Storm
+</Note>
+    </Split>
+    <Split>
+      <Name>-Door 4</Name>
+      <Note>- Eat Jelly
+
+### Rebadge
+* Uneqip S Jump Charge (Down 1)
+* Equip Power Jump (Up 1)
+* Unequip Power Quake (Down 3)
+* Equip P-Up D-Down (Down 2)
+
+### Hallway
+1. Bounce x5 / Outta Sight
+2. Bounce x5
+</Note>
+    </Split>
+    <Split>
+      <Name>Star Rod</Name>
+      <Note>### Rebadge
+* Unequip Speedy (R)
+* Equip Fire Shield (Up 1)
+
+- Go for max bounces
+
+### Bowser Phase 1
+1. Bounce / Outta Sight
+2. Bounce
+
+### Bowser Phase 2: Beamless
+1. Peach Beam / Water Block
+2. Power Jump / Shell Shot
+3. Bounce / Outta Sight
+4. Repel
+5. Turbo Charge / Bounce
+6. Bounce / Electro Dash - Life Shroom
+7. Power Jump
+
+### Bowser Turn 3 Shield
+4. Repel
+5. Peach Beam / Turbo Charge
+6. Bounce / Outta Sight
+7. Bounce - Life Shroom
+8. Star Storm
+
+### Bowser Turn 3+7 Shield
+8. Peach Beam / Electro Dash - Life Shroom
+9. Jump x2
+
+### Bowser Turn 4 Shield
+5. Peach Beam / Turbo Charge
+6. Bounce / Outta Sight
+7. Bounce - Life Shroom
+8. Star Storm
+
+### Bowser Turn 5 Shield
+6. Peach Beam / Outta Sight
+7. Bounce - Life Shroom
+8. Star Storm
+
+### Bowser Turn 6 Shield
+7. Peach Beam / Electro Dash
+8. Star Storm</Note>
+    </Split>
+    <Split>
+      <Name>Holding B for 6 Minutes</Name>
+      <Note>### Rebadge
+* Unequip Power Jump (A)
+* Equip Speedy (R)</Note>
+    </Split>
+  </Splits>
+  <Name>Paper Mario</Name>
+  <Category>All Cards</Category>
+</Guide>
