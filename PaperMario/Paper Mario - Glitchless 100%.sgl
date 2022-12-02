@@ -231,6 +231,16 @@
 - Fire Flower (Up 2)
 - Mushroom (Up 2)
 
+### Shop
+- Check: 
+  - Spicy Soup (Down 1)
+  - Spaghetti (Down 1) 
+  - Fried Egg (Down 1)
+  - Honey Syrup (Up 1)
+  - Ultra Shroom (Up 1)
+  - Honey Syrup (Up 1) 
+- Sell everything else
+
 ### Rowf
 - Dodge Master
 - Multibounce
@@ -655,7 +665,7 @@
 * Jade Raven and panel star piece [45]
 
 - Hidden Volt Shroom by push blocks
-- Panel star piece
+- Panel star piece [46]
 
 ### Piranhas
 1. Power Bomb / Star Storm
@@ -673,16 +683,14 @@
 * Panel star piece
 
 - Get peril from fire bars
-- Panel star piece
+- Panel star piece [48]
 
 ## Equips
 * Unequip Quake Hammer (R, Up 1)
 * Equip Power Bounce (Up 2)
 * Equip Ice Power (R 3, Up 2)
 * Unequip Money Money (R, Down 3)
-* Equip All or Nothing (Z, Down 3)
-
-NOTE: Drop bounces later!!!
+* Equip Power Plus (Z)
 
 ### Lava Piranha
 1. Bounce x4 / Outta Sight
@@ -698,7 +706,9 @@ NOTE: Drop bounces later!!!
 * Volcano Vase
 
 ## Equips
-* Equip Damage Dodge (R 2, Down 2)
+* Unequip Power Plus (R 2)
+* Equip Damage Dodge (Down 2)
+* Equip All or Nothing (Down ?)
 * Unequip Ice Power (R, Up 2)
 * Equip Spike Shield (Down 2)
 
@@ -710,7 +720,7 @@ NOTE: Drop bounces later!!!
 
 **Level Up BP: [5/20/18]**
 
-* Star piece panel outside club 64
+* Star piece panel outside club 64 [49]
 
 ## Equips
 * Equip Multibounce (Down 1)
@@ -729,8 +739,8 @@ NOTE: Drop bounces later!!!
 * Volt Shroom
 
 - Buy all badges from Rowf
-- Panel star piece by dojo
-- Upgrade Sushie and get star piece
+- Panel star piece by dojo [50]
+- Upgrade Sushie and get star piece [51]
 
 ### North Shop
 * Sell Hot Shroom, Jelly Pop, Sweet Shroom and Yoshi Cookie
@@ -774,16 +784,17 @@ NOTE: Drop bounces later!!!
 ### 4 Moles
 1. Multibounce or Untimed Power Quake / Power Bomb
 
-* Star Piece panel
+* Star Piece panel [52]
 * Magical Bean
 * 2 Red Berries
 * Happy Flower badge (middle, right, left)
 * Stinky Herb and eat immediately
 
-- Yellow berry tree and panel
+- Yellow berry tree and panel [53]
 - Go to Lily
 - 2 Blue Berries
-- Star Piece Panel and hidden Maple
+- Star Piece in grass [54]
+- Star Piece Panel [55] and hidden Maple
 - Jammin' Jelly from tree
 - 2 more blue berries and eat immediately
 
@@ -818,7 +829,7 @@ NOTE: Drop bounces later!!!
     </Split>
     <Split>
       <Name>Chapter 6</Name>
-      <Note>- Star Piece on ledge by bubble plant
+      <Note>- Star Piece on ledge by bubble plant [56]
 
 ### Machine Fight
 1. Shooting Star / Air Raid
@@ -885,7 +896,7 @@ NOTE: Drop bounces later!!!
 ### Super Blooper (Block 1/1)
 1. Charge / Swap to Bow
 2. Charge / Fan Smack
-3. Star Storm / Outta Sight
+3. Star Storm / Do Nothing
 4. Bounce x5
 
 **Level Up BP: [5+10/25/21]**</Note>
