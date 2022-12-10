@@ -24,7 +24,7 @@
 1. Power Jump / Headbonk (Tree)
 2. Power Jump / Headbonk
 
-* Star piece in tree
+* Star piece in tree [2]
 
 ### Magikoopa
 1. Power Jump / Do Nothing
@@ -54,7 +54,7 @@
 ### Items before fortress
 * Koopa Leaf
 * Thunder Bolt
-* Fire Flower
+* Fire Flower [3]
 * Star Piece in tree
 * Heart Block
 
@@ -120,8 +120,8 @@
 * FP Plus (Up 3)
 
 ### Tayce T.
-* Goomnut (Up 1)
-* Koopa Leaf (Up 1)
+1. Goomnut (Up 1)
+2. Koopa Leaf (Up 1)
 
 - Magical Seed
 
@@ -226,10 +226,10 @@
 - Egg
 
 ### Tayce T.
-- Egg (Mash A)
-- Dried Pasta (Up 1)
-- Fire Flower (Up 2)
-- Mushroom (Up 2)
+3. Egg (Mash A)
+4. Dried Pasta (Up 1)
+5. Fire Flower (Up 2)
+6. Mushroom (Up 2) [6]
 
 ### Shop
 - Check: 
@@ -387,8 +387,8 @@
 * Go get cake
 
 ### Tayce T
-* Cake Mix (Down 1)
-* Apple (Up 2)
+7. Cake Mix (Down 1)
+8. Apple (Up 2)
 
 - Spook 2 more times
   - Super Soda in first spook
@@ -445,9 +445,9 @@
 * Chet Rippo, **Upgrade BP [5/15/12]**
 
 ### Tayce T.
-* Super Shroom + Cake Mix
-* Volt Shroom + Koopa Leaf
-* Volt Shroom + Cake Mix
+9. Super Shroom + Cake Mix
+10. Volt Shroom + Koopa Leaf
+11. Volt Shroom + Cake Mix
 
 - Give Rowf Calculator
 - Luigi's Autograph
@@ -465,9 +465,9 @@
 * Multibounce (if still don't have it)
 
 ### Tayce T.
-* Honey Syrup + Cake Mix
-* Koopa Leaf + Dried Pasta
-* Lemon + Cake Mix
+12. Honey Syrup + Cake Mix
+13. Koopa Leaf + Dried Pasta
+14. Lemon + Cake Mix
 
 - Go to south shop and buy Tasty Tonic
 - Spook for 1 Cake Mix
@@ -489,7 +489,7 @@
 * Buy Money Money
 
 ### Tayce T.
-* Cake Mix + Koopa Leaf
+15. Cake Mix + Koopa Leaf
 
 ### Dry Dry Outpost
 * Roof panel star piece
@@ -562,7 +562,7 @@
 * Switch to Bombette
 
 ### Tayce T.
-* Egg + Fire Flower
+16. Egg + Fire Flower
 
 ### North Shop
 * Sell 4 Whacka and Egg Missile
@@ -574,9 +574,9 @@
   * Strange Leaf
 
 ### Tayce T.
-* Strange Leaf + Whacka
-* Honey Syrup + Volt Shroom
-* Cake Mix + Lime
+17. Strange Leaf + Whacka
+18. Honey Syrup + Volt Shroom
+19. Cake Mix + Lime
 
 ### Koopa Village
 * Talk to Koopa Koot
@@ -731,12 +731,12 @@
 - Give Dane T. letter
 
 ### Tayce T.
-* Cake Mix + Coconut
-* Melon
-* Cake Mix + Melon 
-* Life Shroom + Cake Mix
-* Cake Mix + Jammin' Jelly
-* Volt Shroom
+20. Cake Mix + Coconut
+21. Melon
+22. Cake Mix + Melon 
+23. Life Shroom + Cake Mix
+24. Cake Mix + Jammin' Jelly
+25. Volt Shroom
 
 - Buy all badges from Rowf
 - Panel star piece by dojo [50]
@@ -753,11 +753,11 @@
   * both Dried Shrooms
 
 ### Tayce T.
-* Dried Shroom + Life Shroom
-* Special Shake + Strange Leaf
-* Coconut
-* Maple + Ultra Shroom
-* Strange Leaf
+26. Dried Shroom + Life Shroom
+27. Special Shake + Strange Leaf
+28. Coconut
+29. Maple + Ultra Shroom
+30. Strange Leaf
 
 ### South Shop
 * Sell everything
@@ -877,11 +877,11 @@
 - Hammer Throw
 
 ### Tayce T.
-* Mushroom + Honey Syrup
-* Stinky Herb + Egg
-* Red Berry + Strange Leaf
-* Maple Syrup + Mushroom
-* Jammin' Jelly + Mushroom
+31. Mushroom + Honey Syrup
+32. Stinky Herb + Egg
+33. Red Berry + Strange Leaf
+34. Maple Syrup + Mushroom
+35. Jammin' Jelly + Mushroom
 
 - Go to sewers
 
@@ -894,9 +894,9 @@
 - Swap to Sushie, go to chapter 5 shortcut
 
 ### Super Blooper (Block 1/1)
-1. Charge / Swap to Bow
-2. Charge / Fan Smack
-3. Star Storm / Do Nothing
+1. Charge / Belly Flop
+2. Charge / Untimed Belly Flop
+3. Star Storm / Swap to Laki
 4. Bounce x5
 
 **Level Up BP: [5+10/25/21]**</Note>
@@ -1029,8 +1029,8 @@
 * If you don't have enough money, go Spook dayzees in flower fields
 
 ### Tayce T.
-* Ultra Shroom + Jammin' Jelly
-* Maple + Super Shroom
+36. Ultra Shroom + Jammin' Jelly
+37. Maple + Super Shroom
 
 ### Goomba Village
 * Give letter to Goompapa for Lucky Day
@@ -1091,16 +1091,16 @@ Split when going through the pipe</Note>
     <Split>
       <Name>-Recipes</Name>
       <Note>### Tayce T.
-* Strange Leaf + Dried Fruit
-* Dried Fruit + Mushroom
-* Volt Shroom + Dried Fruit
+38. Strange Leaf + Dried Fruit
+39. Dried Fruit + Mushroom
+40. Volt Shroom + Dried Fruit
 
 ### Shooting Star Summit
-* Bridge panel
-* Star Piece around corner
-* Summit panel
+* Bridge panel [92]
+* Star Piece around corner [93]
+* Summit panel [94]
 * Panel outside Merluvlee's house [95]
-* Give letter to Merlow
+* Give letter to Merlow [96]
   * Buy all badges
 * Items from chest
 
@@ -1118,17 +1118,17 @@ Split when going through the pipe</Note>
 - Buy from Rowf at every opportunity
 
 ### Tayce T.
-* Iced Potato
-* Potato Salad + Spaghetti
-* Honey Syrup + Ultra Shroom
-* Goomnut + Koopa Leaf
-* Jammin' Jelly + Volt Shroom
+41. Iced Potato
+42. Potato Salad + Spaghetti
+43. Honey Syrup + Ultra Shroom
+44. Goomnut + Koopa Leaf
+45. Jammin' Jelly + Volt Shroom
 
 ### South Shop
 * Claim Fire Flower
 
 ### Tayce T.
-* Fire Flower + Iced Potato
+46. Fire Flower + Iced Potato
 
 ### North Shop
 * Sell Everything
@@ -1142,10 +1142,10 @@ Split when going through the pipe</Note>
 * FOUR CAKE MIXES
 
 ### Tayce T.
-* Cake Mix + Fire Flower
-* Cake Mix + Red Berry
-* Cake Mix + Strange Leaf
-* Apple + Cake Mix
+47. Cake Mix + Fire Flower
+48. Cake Mix + Red Berry
+49. Cake Mix + Strange Leaf
+50. Apple + Cake Mix
 
 - Eat Apple Pie
 - Split when leaving house
@@ -1255,7 +1255,7 @@ Split when going through the pipe</Note>
 **Level Up BP: [5/25/27]**</Note>
     </Split>
     <Split>
-      <Name>-Jr. Troopa</Name>
+      <Name>-Door 3</Name>
       <Note>* Maple from block
 * Rebadge before heart block
 
@@ -1279,7 +1279,7 @@ Split when going through the pipe</Note>
 </Note>
     </Split>
     <Split>
-      <Name>-Hallway Bowser</Name>
+      <Name>-Door 4</Name>
       <Note>* Get Last Stand
 * Eat Maple
 
