@@ -346,8 +346,10 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

@@ -3,13 +3,13 @@
   <Mode>Vertical</Mode>
   <X>-3750</X>
   <Y>-23</Y>
-  <VerticalWidth>550</VerticalWidth>
-  <VerticalHeight>109</VerticalHeight>
+  <VerticalWidth>690</VerticalWidth>
+  <VerticalHeight>130</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
-    <BackgroundColor>FF21223A</BackgroundColor>
+    <BackgroundColor>FF5F417B</BackgroundColor>
     <BackgroundColor2>FF523A6B</BackgroundColor2>
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
@@ -43,7 +43,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>59</TimerHeight>
+        <TimerHeight>35</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:00:01</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
@@ -55,27 +55,6 @@
         <CenterTimer>True</CenterTimer>
         <TimingMethod>Current Timing Method</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>SpeedGuidesLive.dll</Path>
-      <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-3757</WindowPos.X>
-        <WindowPos.Y>96</WindowPos.Y>
-        <WindowSize.Width>546</WindowSize.Width>
-        <WindowSize.Height>751</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
   </Components>

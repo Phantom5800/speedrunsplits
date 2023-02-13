@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3819</X>
-  <Y>-342</Y>
+  <X>-3817</X>
+  <Y>-345</Y>
   <VerticalWidth>800</VerticalWidth>
   <VerticalHeight>1229</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -285,7 +285,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>7</OutputDevice>
+        <OutputDevice>6</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -347,8 +347,10 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Path>858e8f5d-3ad4-4a8c-b1f7-8629a97b643f</Path>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

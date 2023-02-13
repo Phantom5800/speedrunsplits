@@ -24,10 +24,10 @@
 * Sell
    * All BUT 10 Poké Balls
 * Buy
-   * 8 Great Balls (v)
+   * 8 Great Balls (v) (&lt; twice gets to 7)
    * 1 X-Defense (&gt;v)
    * 1 X-SpAtk (v)
-   * 2 X-Attack (^^) [3 if -spatk, don't be x-sp]
+   * 1 X-Attack (^^) [3 if -spatk, don't get x-sp]
    * 3 Antidotes (&lt;)
    * 3 Awakenings (vvv)
 
@@ -120,17 +120,24 @@ Skip headbutt if:
 * Make sure Growlithe is slot 2
 * Hidden Rare Candy to right of Saffron Gate
 # Shop
-* Sell
+* Sell (26,604 before selling)
     * Nuggets
     * Fossil
+    * Poke Balls
 * Buy
-    * 8 Great Ball (v)
-    * 11 Super Potions (vv)
-    * 11 X-Attack (&gt;) [12 if using Oddish]
-    * 11 Lure (^)
+    * 17-19 Great Ball (v)
+       * Based on number of PokeBalls sold
+         * 55-60 = 17
+         * 61-66 = 18
+         * 67-72 = 19
+         * 73+ = 20
+       * Great Balls outside Rock Tunnel if &lt;19
+    * 10 Super Potions (vv)
+    * 14 X-Attack (&gt;) [12 if using Oddish]
+    * 10 Lure (^)
     * 1 Repel (^)
     * 2 Escape Ropes (^)
-    * MAX X-SpAtk (v)
+    * MAX X-SpAtk (v) [Should be at least 13]
 
 - Up for X-Attack
 - Left for X-SpAtk

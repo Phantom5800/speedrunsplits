@@ -233,7 +233,7 @@ Level Up BP if you level early</Note>
     <Split>
       <Name>Chapter 5</Name>
       <Note>* Grab Life Shroom
-* Upgrade Parakarry (Down 3)
+# Upgrade Parakarry (Down 3)
 
 ## EQUIPS
 - Unequip Power Quake (Down 2)
@@ -443,14 +443,7 @@ Level Up BP (15/30/12)</Note>
     </Split>
     <Split>
       <Name>Star Rod</Name>
-      <Note>## Equips Before Final
-
-* Unequip S. Jump Charge (Down 1)
-* Unequip Speedy Spin (R, Down 3)
-* Equip HP Plus (Z, Down some amount)
-
-
-## Risky Final
+      <Note>## Risky Final
 
 1. Charge / Turbo Charge (Do Nothing)
 2. Peach Beam / Attack
@@ -464,20 +457,13 @@ If turn 2 claw, don't block, eat second life shroom:
 4. Bounce / Outta Sight
 5. Bounce 
 
-* Need 4+5 or a 5 cap and jump x2 if no extra phase 1 damage
-* 4+4 works if at least one 4 cap in phase 1
+If shield after first bounce -&gt; game over
 
 - Need 4+4 or 4+5 for Parakarry to be worth it over Watt
 
 ### Parakarry Fight
 | Phase 1 Caps | Turn 4 Cap | Turn 5 Needed Cap
 |-- | - | - | -
-| 3 + 3 | 3 | 11
-|  | 4 | 5
-|  | 5 | 3
-| 3 + 4 | 3 | 8
-|  | 4 | 4
-| | 5 | 3
 | 3 + 5 | 3 | 6
 |  | 4 | 3
 |  | 5 | 3 (kills)

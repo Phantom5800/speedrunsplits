@@ -28,14 +28,14 @@
 - **Croagunk**
 
 * Towards Obstacle Hop
-  * **Treecko** if in the way (get one less in beach zone)
+  * **Treecko** if in the way
   * **Spearow**
 
 - Vensaur - Use Mankey
 - Go to Meeting Place</Note>
     </Split>
     <Split>
-      <Name>Beach Zone</Name>
+      <Name>Meeting Place</Name>
       <Note># Meeting Place
 
 - After Chikorita, talk to Drifblim
@@ -43,11 +43,14 @@
   - Take a picture, talk again
 - Talk to Electabuzz
 - Talk to Corphish
+</Note>
+    </Split>
+    <Split>
+      <Name>Beach Zone</Name>
+      <Note># Beach Zone
 
-# Beach Zone
-
-- **Psyduck** immediately
-- Get 6 of the following at some point:
+- **Psyduck** or **Buizel** immediately
+- Get 6 of the following at some point (7 if no Treecko):
   * **Azurill**
   * **Wingull**
   * **Pidgeotto**
@@ -60,7 +63,7 @@
 
 * Corsola quiz
 * TALK TO FERALIGATR
-* **Golduck**
+* **Golduck** or **Floatzel**
 
 - Take Drifblim to Meadow Zone
 
@@ -106,12 +109,16 @@
 - Take Drifblim to Meeting Place</Note>
     </Split>
     <Split>
-      <Name>Cavern Zone</Name>
+      <Name>Burmy + Dash</Name>
       <Note># Meeting Place
+* Go up treehouse to get **Burmy** on the second floor
 * Ponyta upgrade Dash twice
 * Cavern Zone (Cranidos)
-
-# Cavern Zone
+</Note>
+    </Split>
+    <Split>
+      <Name>Cavern Zone</Name>
+      <Note># Cavern Zone
 * Mr. Mime
 * Right path towards Mawile
 * Take second left, break crate far back and give iron to **Aron**

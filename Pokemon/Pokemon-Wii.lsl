@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>-3624</X>
   <Y>-346</Y>
-  <VerticalWidth>690</VerticalWidth>
-  <VerticalHeight>887</VerticalHeight>
+  <VerticalWidth>730</VerticalWidth>
+  <VerticalHeight>868</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -87,7 +87,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>7.3</SplitHeight>
+        <SplitHeight>5.7</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
@@ -268,8 +268,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2918</WindowPos.X>
-        <WindowPos.Y>-339</WindowPos.Y>
+        <WindowPos.X>-2892</WindowPos.X>
+        <WindowPos.Y>-344</WindowPos.Y>
         <WindowSize.Width>616</WindowSize.Width>
         <WindowSize.Height>885</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
@@ -325,7 +325,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>7</OutputDevice>
+        <OutputDevice>6</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -366,8 +366,10 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

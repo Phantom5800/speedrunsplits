@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>-3624</X>
   <Y>-346</Y>
-  <VerticalWidth>625</VerticalWidth>
-  <VerticalHeight>1301</VerticalHeight>
+  <VerticalWidth>725</VerticalWidth>
+  <VerticalHeight>865</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -89,7 +89,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>E1A005B0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>DD5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>13</VisualSplitCount>
+        <VisualSplitCount>6</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -183,7 +183,7 @@
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>65</Height>
+        <Height>56</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
         <TimerShowGradient>False</TimerShowGradient>
@@ -289,8 +289,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2989</WindowPos.X>
-        <WindowPos.Y>-356</WindowPos.Y>
+        <WindowPos.X>-2890</WindowPos.X>
+        <WindowPos.Y>-350</WindowPos.Y>
         <WindowSize.Width>647</WindowSize.Width>
         <WindowSize.Height>1307</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
@@ -387,8 +387,10 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

@@ -128,6 +128,17 @@ Edit Folder:
 
 * LevBus (right)
 * BlackBomb PMD
+* Folder Edits:
+  * ExpoFldr (-6)
+    - Remove Cannon*
+    - Remove 3 Vulkan
+    - Remove 2 DblShot
+  * LanFldr (+7)
+    - Add BlkBomb
+    - Add Cannon*
+    - Add 3 Vulkan
+    - Add 2 DblShot
+    - Press Select and Tag Cannon* with Cannon B
 
 # Dad Arrested
 
@@ -144,19 +155,8 @@ Edit Folder:
       <Note># Upgrades
 
 * 2 3 1 1 2 3 2 2 3 2
-* Folder Edits:
-  * ExpoFldr (-6)
-    - Remove Cannon*
-    - Remove 3 Vulkan
-    - Remove 2 DblShot
-  * LanFldr (+7)
-    - Add BlkBomb
-    - Add Cannon*
-    - Add 3 Vulkan
-    - Add 2 DblShot
-    - Press Select and Tag Cannon* with Cannon B
-  * NaviCust
-    - Add Slip Runner
+* NaviCust
+  - Add Slip Runner
 
 # Sky Town
 
