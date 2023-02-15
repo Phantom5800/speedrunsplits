@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Enter Deepwood Shrine</Name>
+      <Note>- 25 rupees
+- Split when entering dungeon</Note>
+    </Split>
+    <Split>
+      <Name>{Earth Element}Big Green Chu</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Cave of Flames</Name>
+      <Note>- 15 rupees in fairy room before
+- 20 rupee with sword after green water</Note>
+    </Split>
+    <Split>
+      <Name>{Fire Element}Gleerok</Name>
+      <Note>- 50 rupee chest
+- Try to leave with 60 rupees</Note>
+    </Split>
+    <Split>
+      <Name>Pegasus Boots</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Castor Wilds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Fortress of Winds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ocarina</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Power Bracelets</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Temple of Droplets</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-First Lever</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Second Lever</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Water Element}Big Octo</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Cloudtops</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Palace of Winds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Fall Down</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Gyorg</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Wind Element</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Dark Hyrule Castle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Summon Darknuts</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Dark Hyrule Castle}Enter Vaati</Name>
+      <Note>- Split when entering boss door</Note>
+    </Split>
+    <Split>
+      <Name>Vaati</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: The Minish Cap</Name>
+  <Category>Glitchless</Category>
+</Guide>
