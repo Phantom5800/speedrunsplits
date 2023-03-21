@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAKAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH2gkTEwguOqKVBwAAALdJREFUOE+tkcENgCAMRRnDo0fHcATH8egIjODRETw6gmMwAjfkF9oYAgrGn/xQwf9KVXm5xM1yxpxkredPEApba8lfIBRiwG+Q49hKkCK8CjJPyp/pMgQhBuDbZCCPAIhC/GcSiLNmIMfnogSCmo0gRjB7/wqApDOuzGGs+9JVAaAA8KFz7N06dNXdWdIZYRg19sNxXvLS/drojBrr2whh5jh3EpAaZ3EvKwnczBIw6rDVrhhW6gIMHhTXZUtRAQAAAABJRU5ErkJgggs=]]></GameIcon>
+  <GameName>The Legend of Zelda: The Minish Cap</GameName>
+  <CategoryName>Randomizer</CategoryName>
+  <LayoutPath>C:\Git\Splits\Zelda\ZeldaGBARando.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">Game Boy Interface</Platform>
+    <Region>EUR / PAL</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>6</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="03/12/2023 01:23:20" isStartedSynced="True" ended="03/12/2023 02:53:56" isEndedSynced="True" />
+    <Attempt id="2" started="03/13/2023 00:45:50" isStartedSynced="True" ended="03/13/2023 03:15:13" isEndedSynced="True">
+      <RealTime>02:29:23.1739350</RealTime>
+    </Attempt>
+    <Attempt id="3" started="03/15/2023 00:21:27" isStartedSynced="True" ended="03/15/2023 03:26:05" isEndedSynced="True">
+      <RealTime>03:04:38.0759130</RealTime>
+    </Attempt>
+    <Attempt id="4" started="03/16/2023 00:26:06" isStartedSynced="True" ended="03/16/2023 03:02:48" isEndedSynced="True">
+      <RealTime>02:36:41.7730730</RealTime>
+    </Attempt>
+    <Attempt id="5" started="03/17/2023 03:14:52" isStartedSynced="True" ended="03/17/2023 07:11:02" isEndedSynced="True">
+      <RealTime>03:56:08.9640710</RealTime>
+    </Attempt>
+    <Attempt id="6" started="03/19/2023 23:32:32" isStartedSynced="True" ended="03/20/2023 02:44:09" isEndedSynced="True">
+      <RealTime>03:11:37.5020218</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>End</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:29:23.1739350</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:29:23.1739350</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>02:29:23.1739350</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>03:04:38.0759130</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>02:36:41.7730730</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>03:56:08.9640710</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>03:11:37.5020218</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

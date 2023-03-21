@@ -5,7 +5,7 @@
   <Y>-369</Y>
   <VerticalWidth>-1</VerticalWidth>
   <VerticalHeight>-1</VerticalHeight>
-  <HorizontalWidth>1962</HorizontalWidth>
+  <HorizontalWidth>2398</HorizontalWidth>
   <HorizontalHeight>80</HorizontalHeight>
   <Settings>
     <TextColor>FFFFFFFF</TextColor>
@@ -48,10 +48,10 @@
         <VisualSplitCount>8</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
-        <DisplayIcons>True</DisplayIcons>
+        <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
-        <SplitWidth>5</SplitWidth>
+        <SplitWidth>41</SplitWidth>
         <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
         <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
         <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
@@ -77,17 +77,17 @@
         <HeaderComparison>Current Comparison</HeaderComparison>
         <HeaderTimingMethod>Current Timing Method</HeaderTimingMethod>
         <Display2Rows>True</Display2Rows>
-        <IndentBlankIcons>True</IndentBlankIcons>
-        <IndentSubsplits>True</IndentSubsplits>
+        <IndentBlankIcons>False</IndentBlankIcons>
+        <IndentSubsplits>False</IndentSubsplits>
         <HideSubsplits>False</HideSubsplits>
-        <ShowSubsplits>False</ShowSubsplits>
+        <ShowSubsplits>True</ShowSubsplits>
         <CurrentSectionOnly>False</CurrentSectionOnly>
-        <OverrideSubsplitColor>True</OverrideSubsplitColor>
+        <OverrideSubsplitColor>False</OverrideSubsplitColor>
         <SubsplitGradient>Plain</SubsplitGradient>
-        <ShowHeader>True</ShowHeader>
+        <ShowHeader>False</ShowHeader>
         <IndentSectionSplit>True</IndentSectionSplit>
-        <ShowIconSectionSplit>True</ShowIconSectionSplit>
-        <ShowSectionIcon>True</ShowSectionIcon>
+        <ShowIconSectionSplit>False</ShowIconSectionSplit>
+        <ShowSectionIcon>False</ShowSectionIcon>
         <HeaderGradient>Horizontal</HeaderGradient>
         <OverrideHeaderColor>False</OverrideHeaderColor>
         <HeaderText>True</HeaderText>
@@ -133,7 +133,7 @@
       <Settings>
         <Version>1.5</Version>
         <TimerHeight>50</TimerHeight>
-        <TimerWidth>209</TimerWidth>
+        <TimerWidth>222</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>True</OverrideSplitColors>
         <ShowGradient>False</ShowGradient>
@@ -214,6 +214,34 @@
         <ResumeVolume>100</ResumeVolume>
         <StartTimerVolume>100</StartTimerVolume>
         <GeneralVolume>100</GeneralVolume>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>
+      </Path>
+      <Settings />
+    </Component>
+    <Component>
+      <Path>LiveSplit.Title.dll</Path>
+      <Settings>
+        <Version>1.7.3</Version>
+        <ShowGameName>True</ShowGameName>
+        <ShowCategoryName>True</ShowCategoryName>
+        <ShowAttemptCount>True</ShowAttemptCount>
+        <ShowFinishedRunsCount>True</ShowFinishedRunsCount>
+        <OverrideTitleFont>False</OverrideTitleFont>
+        <OverrideTitleColor>False</OverrideTitleColor>
+        <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAwAAAAs=]]></TitleFont>
+        <SingleLine>True</SingleLine>
+        <TitleColor>FFFFFFFF</TitleColor>
+        <BackgroundColor>002A2A2A</BackgroundColor>
+        <BackgroundColor2>FF131313</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <DisplayGameIcon>True</DisplayGameIcon>
+        <ShowRegion>False</ShowRegion>
+        <ShowPlatform>False</ShowPlatform>
+        <ShowVariables>True</ShowVariables>
+        <TextAlignment>2</TextAlignment>
       </Settings>
     </Component>
   </Components>

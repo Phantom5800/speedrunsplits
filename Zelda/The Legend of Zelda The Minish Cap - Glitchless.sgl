@@ -22,7 +22,8 @@
     </Split>
     <Split>
       <Name>Pegasus Boots</Name>
-      <Note />
+      <Note>- Activate ocarina fast travel in castle town
+- Clone puzzle in bottle cave</Note>
     </Split>
     <Split>
       <Name>-Castor Wilds</Name>
@@ -42,7 +43,9 @@
     </Split>
     <Split>
       <Name>-Enter Temple of Droplets</Name>
-      <Note />
+      <Note>- Castle Town book
+- Digging cave by Witches house
+  - Don't Ocarina!!!</Note>
     </Split>
     <Split>
       <Name>-First Lever</Name>
@@ -58,7 +61,12 @@
     </Split>
     <Split>
       <Name>-Enter Cloudtops</Name>
-      <Note />
+      <Note>* Haunted Woods:
+  * Up
+  * Left x2
+  * Up
+  * Right
+  * Up</Note>
     </Split>
     <Split>
       <Name>-Enter Palace of Winds</Name>
@@ -89,7 +97,19 @@
       <Note>- Split when entering boss door</Note>
     </Split>
     <Split>
-      <Name>Vaati</Name>
+      <Name>-Darknuts</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vaati 1</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vaati 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Vaati}Vaati 3</Name>
       <Note />
     </Split>
   </Splits>

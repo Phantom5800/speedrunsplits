@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3709</X>
-  <Y>-373</Y>
-  <VerticalWidth>765</VerticalWidth>
-  <VerticalHeight>1245</VerticalHeight>
+  <X>-3580</X>
+  <Y>-361</Y>
+  <VerticalWidth>300</VerticalWidth>
+  <VerticalHeight>876</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -87,7 +87,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>4.1</SplitHeight>
+        <SplitHeight>13.5</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -125,7 +125,7 @@
         <HeaderBottomColor>474A0148</HeaderBottomColor>
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
-        <SectionTimerColor>FF777777</SectionTimerColor>
+        <SectionTimerColor>FFE6E6E6</SectionTimerColor>
         <ShowColumnLabels>True</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
@@ -165,9 +165,9 @@
         <Height>69</Height>
         <Width>200</Width>
         <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
-        <TimerShowGradient>False</TimerShowGradient>
+        <TimerShowGradient>True</TimerShowGradient>
         <OverrideTimerColors>True</OverrideTimerColors>
-        <SegmentTimerShowGradient>False</SegmentTimerShowGradient>
+        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
         <TimerFormat>1.23</TimerFormat>
         <SegmentTimerFormat>1.23</SegmentTimerFormat>
         <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
@@ -185,7 +185,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Personal Best</Comparison>
         <Comparison2>Best Segments</Comparison2>
         <HideComparison>False</HideComparison>
         <TimingMethod>Current Timing Method</TimingMethod>
@@ -255,9 +255,9 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.WorldRecord.dll</Path>
+      <Path>LiveSplit.Text.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
@@ -265,12 +265,36 @@
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <Text1>
+        </Text1>
+        <Text2>
+        </Text2>
+        <Font1><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></Font1>
+        <Font2><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></Font2>
+        <OverrideFont1>False</OverrideFont1>
+        <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
-        <CenteredText>False</CenteredText>
-        <FilterRegion>False</FilterRegion>
-        <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>True</FilterVariables>
-        <FilterSubcategories>True</FilterSubcategories>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>12</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>-3265</WindowPos.X>
+        <WindowPos.Y>-349</WindowPos.Y>
+        <WindowSize.Width>587</WindowSize.Width>
+        <WindowSize.Height>1296</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
     <Component>
@@ -304,7 +328,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>6</OutputDevice>
+        <OutputDevice>0</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -320,36 +344,6 @@
         <ResumeVolume>100</ResumeVolume>
         <StartTimerVolume>100</StartTimerVolume>
         <GeneralVolume>100</GeneralVolume>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>SpeedGuidesLive.dll</Path>
-      <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-2940</WindowPos.X>
-        <WindowPos.Y>-372</WindowPos.Y>
-        <WindowSize.Width>942</WindowSize.Width>
-        <WindowSize.Height>1284</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.TheRun.dll</Path>
-      <Settings>
-        <Version>1.0.1</Version>
-        <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
-        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
-        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>
