@@ -2,7 +2,7 @@
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Pokémon Crystal</GameName>
-  <CategoryName>Randomizer</CategoryName>
+  <CategoryName>Full Item Randomizer</CategoryName>
   <LayoutPath>C:\Git\Splits\Pokemon\CrystalRando.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>31</AttemptCount>
+  <AttemptCount>32</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="09/03/2022 21:43:53" isStartedSynced="True" ended="09/04/2022 01:40:30" isEndedSynced="True">
       <RealTime>03:56:36.5430000</RealTime>
@@ -94,6 +94,9 @@
     <Attempt id="30" started="03/26/2023 00:45:59" isStartedSynced="True" ended="03/26/2023 01:58:26" isEndedSynced="True" />
     <Attempt id="31" started="03/26/2023 02:00:36" isStartedSynced="True" ended="03/26/2023 04:09:16" isEndedSynced="True">
       <RealTime>02:08:40.2996874</RealTime>
+    </Attempt>
+    <Attempt id="32" started="07/02/2023 00:15:53" isStartedSynced="True" ended="07/02/2023 02:58:52" isEndedSynced="True">
+      <RealTime>02:42:59.0512050</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -183,6 +186,9 @@
         </Time>
         <Time id="31">
           <RealTime>02:08:40.2996874</RealTime>
+        </Time>
+        <Time id="32">
+          <RealTime>02:42:59.0512050</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Prologue</Name>
+      <Note>* Hammer for 10 coins [10]
+### Jr. Troopa
+* Jump x5
+
+- Fire Flower and coins [14]
+- Equip Power Jump
+- Coin blocks [16]
+- Close Call
+
+### Goomba Bros.
+1. Power Jump Red / Headbonk Red
+2. Power Jump Blue / Do Nothing
+3. Fire Flower [Mash A]
+
+* Heart block
+### Goomba King
+1. Power Jump / Headbonk Tree
+2. Power Jump / Headbonk
+### Magikoopa
+1. Power Jump / Do Nothing
+2. Power Jump
+</Note>
+    </Split>
+    <Split>
+      <Name>Koopa Bros.</Name>
+      <Note>* Coin block [17]
+* Fright Jar
+* POW
+* 10 coins [27]
+### Shop
+* Buy 2 Fire Flower [11]
+### Fuzzy Fight
+1. Fire Flower [Mash A]
+
+* 5 coins on ground [16]
+* Thunder Bolt
+* Hidden Fire Flower
+* Heart Block
+### Koopa Key Fight
+0. Jump First Strike
+1. Power Jump / Untimed Shell Toss
+
+- Level Up: FP
+  - 10 / 10 / 3
+
+* Power Bounce
+* Staircase Skip
+### Jail Fight
+1. Fire Flower [Mash A] / Body Slam
+
+* Grab coins [25]
+### Pit Fight 1
+0. Bomb First Strike
+1. Bomb
+### Pit Fight 2
+1. Fright Jar [Up 1]
+2. Power Jump / Body Slam
+### Pit Fight 3
+0. First Strike Bomb
+1. Bomb
+    1. Power Jump / Untimed Body Slam if Fright Jar Fail
+
+* Fire Bar coins [45]
+* Fortress Key
+* Fortress Key behind bomb wall
+* Pie Jumps
+* Last Fortress Key
+* Line up to first strike cannons with Bombette and go down to the heart block
+### Cannons
+0. First Strike Bomb
+1. Thunder Bolt [Mash A] / Bomb
+
+* Heart Block
+* Coins from cannons [55]
+### Koopa Bros.
+1. Power Jump / Bomb
+2. Power Jump / Bomb
+3. POW [Up 1] / Do Nothing
+4. Fire Flower [Mash A]
+</Note>
+    </Split>
+    <Split>
+      <Name>Mt. Rugged</Name>
+      <Note>* Honey Syrup on the way back
+### Jr. Troopa
+1. Power Jump / Bomb
+2. Power Jump / Bomb
+3. Hammer
+
+* Speedy Spin
+* Equips:
+  * Unequip Power Jump [A]
+  * Equip Power Bounce [Down 1]
+  * Equip Speedy Spin [Down 2]
+* Get Seed
+* Train
+
+## Mt Rugged
+* 1 Whacka
+* Damage Dodge
+* 3 letters
+* Seed
+* **Hit Heart Block** when leaving
+</Note>
+    </Split>
+    <Split>
+      <Name>Blooper</Name>
+      <Note>* BHS
+### Blooper
+1. Bounce x30
+* Level Up: FP
+  * 10 / 15 / 3
+</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Flower Fields</Name>
+      <Note>* Talk to Kolorado by volcano
+* Jammin’ Jelly
+* Get Sushie
+* Power Quake
+* Go back to Toad Town
+* Toad Town Sushie Glitch and Seed dupe twice for 3 total seeds
+* Equips:
+  * Unequip Power Bounce [Down 1]
+  * Equip Power Jump [Up 1]
+* Enter Flower Fields
+
+</Note>
+    </Split>
+    <Split>
+      <Name>Lakilester</Name>
+      <Note>* Early Laki
+* Shooting Star
+* Swap to Parakarry
+
+### Lakilester [Block All]
+1. Power Jump / Shell Shot
+2. Power Jump / Shell Shot
+3. Power Jump / Shell Shot
+4. Eat Whacka [Down 2] / Shell Shot
+5. Power Jump / Shell Shot
+6. Power Jump / Shell Shot
+</Note>
+    </Split>
+    <Split>
+      <Name>Ultra Boots</Name>
+      <Note>* Stinky Herb
+* Go to Harry’s Store, grab Dizzy Dial and Toy Train
+* Laki clip BHS
+* Double clippy boots for Ultra Boots
+* Life Shroom
+* Maple Syrup
+</Note>
+    </Split>
+    <Split>
+      <Name>Tubba Blubba</Name>
+      <Note>* Go to Chapter 3 through sewers
+* Equips:
+  * Unequip Power Jump [A]
+  * Equip Power Quake [Down 2]
+* Swap to Parakarry
+* Eat Jammin’ Jelly [Up 2]
+### Dark Koopa 1
+0. Tornado First Strike
+1. Jump x2 (back) / Shell Shot (front)
+2. Jump x2
+### Dark Koopa 2
+1. Power Quake / Do Nothing
+2. Power Quake
+### Dark Koopa 3
+1. Untimed Power Quake / Do Nothing
+2. Shooting Star (Up 2)
+* Level Up: BP
+  * 10 / 15 / 6
+
+- Immediately go to Gusty Gulch, do not enter Boo’s Mansion
+- Repel Gel
+- Get first struck by Clubba in front of door going to first key
+### Clubba’s [Block 0/2]
+1. Do Nothing / Do Nothing
+2. Run Away
+
+* Get first key
+* Upgrade Sushie [Up 2]
+* Swap to Parakarry at the lock [Up 2]
+* Get second key
+* Mega Rush
+* Equips: 
+  * Equip Power Bounce [Down 1]
+  * Equip Mega Rush [Down 3]
+* Maple Syrup
+* Grab third key and leave
+* Quick Escape
+
+- Encounter the Hyper Cleft near the parakarry gap after falling down
+### Hyper Cleft’s
+1. Untimed Power Quake
+### Tubba’s Heart
+1. Bounce x5 / Do Nothing
+2. Bounce x4 / Shell Shot (if double 4)
+### Tubba
+1. Jump x2
+</Note>
+    </Split>
+    <Split>
+      <Name>General Guy</Name>
+      <Note>* Heart block by mansion
+* Equips:
+  * Unequip Power Quake [Down 2]
+  * Equip Power Jump [Z]
+### Jr. (Forever Forest) [Block 1/2]
+1. Power Jump / Shell Shot
+2. Power Jump / Shell Shot
+3. Bounce x4
+
+* Left 2 or Right 2 to exit forest
+* Place Train in Toybox
+* Blue Switch Skip
+* Left to Red Station
+* Swap to Goombario [Down 1]
+* Eat Honey [Up 1] before Lantern Ghost
+- Equips:
+  - Unequip Power Jump [A]
+  - Equip Power Quake [Down 2]
+### Lantern Ghost
+1. Headbonk / Bounce x4
+2. Headbonk / Bounce x3
+
+* Level Up: BP
+  * 10 / 15 / 9
+
+- Upgrade Bombette
+- Watt Skip
+
+### General Guy
+1. Jump x2 / Do Nothing (block 0/9) [Swap to Watt if Watt Skip (Up 2)]
+2. Jump x2
+3. Power Quake
+4. Jump x2 / Power Shock
+5. Jump x2
+6. Repel Gel [Down 1] / Do Nothing
+7. Bounce x6 / Untimed Electro Dash if 4 cap
+8. Bounce x4 (5 + 5 works w/out e-dash also) / Untimed Electro Dash if double 4 cap
+    * Note: 5+4 kills with 1 extra damage, if you got 4 first, go for 5 on the second
+</Note>
+    </Split>
+    <Split>
+      <Name>-Electro Blooper</Name>
+      <Note>* Get Shooting Star while leaving
+* Get and eat Hidden Maple before Anti Guy
+### Anti Guy
+1. Jump x2 / Power Shock
+2. Jump x2 / Do Nothing
+3. Jump x2 / Do Nothing
+4. Jump x2
+
+* Grab Power Plus
+
+
+### Electro Blooper
+1. Power Shock / Bounce x5
+2. Bounce x5
+</Note>
+    </Split>
+    <Split>
+      <Name>Tutankoopa</Name>
+      <Note>* Go to desert
+* Enter ruins
+* Spike Shield
+* Grab super hammer (can jump on stone block from corner)
+* Do Ruins Stone Skip
+* Equips:
+  * Unequip Speedy Spin [R]
+  * Unequip Power Quake [Z Down 2]
+  * Equip Power Plus [Down 1]
+* Switch to Sushie [Up 1]
+### Tutankoopa
+1. Bounce x5 / Belly Flop (if 4 cap), Do Nothing (if 3 cap)
+2. Jump x2
+* Level Up: BP
+  * 10 / 15 / 12
+</Note>
+    </Split>
+    <Split>
+      <Name>-Super Blooper</Name>
+      <Note>* Equips:
+  * Equip Speed Spin [R]
+  * Equip Spike Shield [Up 1]
+* Switch to Watt [Up 2]
+* Get peril off buzzy beetles
+  * Get first struck
+  * Block 1/5
+* Leave ruins, go to Buzzar
+* Thunder Rage
+### Buzzar
+1. Jump x2 / Power Shock
+2. Jump x2 / Do Nothing
+3. Jump x1
+
+* Go to Shrink Stomp chest
+* Hidden Super Shroom before Super Blooper
+### Super Blooper
+1. Bounce x5 / Power Shock
+2. Bounce x4 / Swap to Sushie [Mash A]
+3. Jump x2 / Belly Flop (if double 4 capped)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Flower Fields</Name>
+      <Note>* Go back to ch5
+* Raph Skip but take loading zone to set story progress
+* Go back to beach
+* Get hidden Repel Gel
+* Get Coconut next to whale
+* Dupe on Stopwatch 
+  * Eat Stinky Herb [Up 1]
+* Take whale 
+### Jr. Troopa (docks)
+1. Bounce x4
+
+* Switch to Bombette [Down 3] for Late Whale™
+* Switch to Watt for Fuzzipede [Down 2]
+### Fuzzipede
+1. Bounce x3
+</Note>
+    </Split>
+    <Split>
+      <Name>-Maze Fight</Name>
+      <Note>* Equips:
+  * Unequip Power Bounce [Down 1]
+  * Equip Power Quake [Down 1]
+
+- Switch to Laki [Down 1]
+  - NOTE: if you leveled up on fuzzipede because of a fright jar dink, mole order should be 3-&gt;1-&gt;2-&gt;4 instead and the dupe should be done after the first mole fight instead of immediately
+- Dupe on Red Berry  
+  - Eat Maple Syrup [Up 3]
+  - Throw Repel below Stop Watch [Down 3]
+- Switch to Bombette [Down 3]
+### Moles (4)
+1. Untimed Power Quake / Power Bomb
+
+* Level Up: FP
+  * 10 / 20 / 12
+### Moles (3) [Block 0/3]
+1. Untimed Power Quake / Do Nothing
+2. Power Quake
+### Moles (1)
+1. Jump x2
+### Moles (2)
+0. First Strike Jump or Hammer
+1. Jump x1 back mole / Power Bomb
+    - NOTE: if you had a fright jar fail, you need to Jump x2 and Bomb here to save FP
+* Go to bottom right path
+* Switch to Laki [Up 3]
+* Yellow Berry Skip
+* Talk to Lily
+* Dupe on Blue Berry 
+  * Eat Super Shroom [Down 4]
+  * Throw Top Repel
+  * Throw away Maple Syrup [Up 3]
+* Swap to Sushie [Up 1]
+* Go to left path, feed Blue Berry [Down 1]
+* Hit hidden block, do not grab Shooting Star
+### Maze Fight
+1. Dizzy Dial [Up 1] / Squirt
+2. Squirt / Shooting Star [Up 2]
+
+* Level Up: HP
+  * 15 / 20 / 12
+</Note>
+    </Split>
+    <Split>
+      <Name>Huff N' Puff</Name>
+      <Note>* Talk to Rosie
+* Bottom left path to feed Red Berry [Down 2]
+* Posie for Crystal Berry and Dirt
+* Rosie for Water Stone
+* Get hidden Shooting Star
+* Bottom right path 
+* YBS again
+* Jammin’ in tree by Lily
+* Dizzy Dial
+* Get Miracle Water
+* Go to top right path
+* Hidden Thunder Rage
+### Machine Fight
+1. Dizzy Dial [Down 1] / Spiny Surge
+2. Thunder Rage [Mash A] / Do Nothing
+3. Thunder Rage [Up 2]
+
+* Upgrade Watt [Up 3] on the way back from machine
+* Plant beanstalk
+* Super Jump Charge
+* Equips:
+  * Unequip Spike Shield [R]
+  * Unequip Power Quake [Z Down 3]
+  * Equip Power Bounce [Up 1]
+  * Equip S. Jump Charge [Up 1]
+### Huff N Puff [Block 2/2, take 6 on wind]
+1. Charge / Do Nothing
+2. Charge / Do Nothing
+3. Charge / Do Nothing
+4. Bounce x4</Note>
+    </Split>
+    <Split>
+      <Name>Monstar</Name>
+      <Note>* Go to Merlon’s house
+* Go to chapter 7 (Laki BHS again)
+* Murder Solved Early
+* Swap to Watt [Up 2]
+   * Swap to Sushie if fright jar fail
+### Jr. Troopa [Block 2/2]
+1. Charge / Do Nothing
+2. Charge / Do Nothing
+3. Power Bounce x5 / E Dash if 4 cap
+### Monstar
+1. Bounce x3
+   * If Leveled on Jr: Bounce x8 / Squirt
+
+
+* Level Up: BP
+  * 15 / 20 / 15
+
+</Note>
+    </Split>
+    <Split>
+      <Name>Lava Piranha</Name>
+      <Note>* Repel gel behind tree
+* Upgrade Kooper when leaving 7 [Down 1]
+* Swap to Laki [Up 2]
+* Go to volcano
+* Fire bar peril
+* LPOOB
+* Switch to Sushie [Up 1] before first strike
+### Lava Piranha
+#### Phase 1
+0. LPOOB
+1. Bounce x6 / Untimed Belly Flop (if 5), or Squirt (if 4) [dies to 3 cap, block nothing and eat life shroom]
+#### Phase 2
+1. Squirt / Bounce x6
+2. Jump x1 (if 4/5 cap), Jump x2 (if 3 cap)
+
+* Peach Warp
+</Note>
+    </Split>
+    <Split>
+      <Name>Crystal King</Name>
+      <Note>* Blue Key
+* Mirror Clip
+* Break panel
+* Back and Red Key
+### White Clubba 1
+1. Jump x2 / Bomb
+### White Clubba 2
+1. Shooting Star [Mash A] / Power Bomb
+### White Clubba 3
+1. Shooting Star [Down 2] / Power Bomb
+
+* Level Up: FP
+  * 15 / 25 / 15
+
+- P-Up D-Down
+- Jammin’ Jelly
+- Palace Key
+- Equips:
+  - Equip Close Call [R]
+  - Equip P-Up, D-Down [Up 2]
+
+### Crystal King [Block 1/3]
+#### 1st Try Dizzy Shell
+1. Charge / Do Nothing
+2. Dizzy Shell / Bounce x4
+3. Bounce x4 / Do Nothing
+4. Jump x2
+#### 2nd Try Dizzy Shell
+1. Charge / Do Nothing
+2. Dizzy Shell / Charge
+3. Dizzy Shell / Bounce x5
+4. Bounce x4 (if 5 cap) or Jump x2
+5. Jump x2 (if still not dead)
+#### Dizzy Shell Just Refuses to Work
+1. Charge / Do Nothing
+2. Dizzy Shell / Charge
+3. Dizzy Shell / Timeout (probably lose a life shroom)
+4. Charge / Swap to Watt
+5. Do Nothing / Electro Dash bit (block 1/2 for peril)
+6. Bounce x5 / Power Shock (if 4 cap)
+7. (got 4 capped and power shock worked): Jump x2 / Electro Dash (kills)
+7. (got 3 capped and power shock worked): Jump x2 / Electro Dash
+8. Jump x2 / Untimed Electro Dash
+</Note>
+    </Split>
+    <Split>
+      <Name>Master 3</Name>
+      <Note>* Go back to Toad Town and fight Dojo
+* Equips:
+  * Unequip S. Jump Charge [Down 1]
+  * Equip Power Quake [Down 2]
+### Chan
+1. Bounce x7
+### Lee
+1. Bounce x3 / Do Nothing
+2. Jump x2
+### Master 1 [Block 0/2]
+1. Jump x2 / Do Nothing
+2. Jump x2 / Swap to Parakarry [Down 2]
+3. Bounce x4
+### Master 2
+1. Repel Gel [Down 1] / Shell Shot
+2. Bounce x5 / Do Nothing (Shell Shot if 4 cap)
+3. Bounce x5 / Shell Shot if 4 cap
+
+* Eat Jammin’ [Mash A]
+* Switch to Watt [Down 1]
+### Master 3
+1. Repel Gel [Down 1] / Turbo Charge
+2. Bounce x5 / Do Nothing
+3. Repel Gel [Down 1] / Do Nothing
+4. Bounce x5 / Do Nothing
+5. Bounce x4
+   * Should E Dash if you get 4 capped
+     * Worth going for 6 bounces just in case of 3 caps elsewhere
+</Note>
+    </Split>
+    <Split>
+      <Name>-Door 1</Name>
+      <Note>* Switch to Kooper [Down 3]
+### Kent C. Koopa
+1. Dizzy Shell / Lullaby (Jump x2 if Dizzy Shell worked)
+2. Jump x2 / Do Nothing (skip this turn if Dizzy Shell worked)
+3. Bounce x5 on tail / Do Nothing (Swap to Bombette if got a 5)
+4. Bounce x4 on tail / Do Nothing (Swap to Bombette if double 4 cap)
+5. Jump x1 if double 4 capped
+
+### Koopatrol Key Fight
+1. Untimed Power Quake / Power Bomb
+
+* Level Up: FP
+  * 15 / 30 / 15
+
+- Jail Life Shroom
+- Heart Block (if fright jar fail and leveled early on Kent)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Anti Guy Unit</Name>
+      <Note>* Fast Flood Room
+* Fight a bullet before doing cannonless (get first struck, or first strike the bullet)
+### Bombshell Bill [Block 0/2]
+1. Jump on first bullet (if got first struck) / Do Nothing
+
+* Cannonless
+* Switch to Kooper [Down 2]
+### Anti Guy Unit
+#### Triple Stun &amp; (5+5+5)
+1. Dizzy Shell / Bounce x5
+2. Bounce x5 / Do Nothing
+3. Dizzy Shell / Bounce x5
+4. Untimed Power Quake / Do Nothing
+5. Untimed Power Quake
+#### 1 dizzy fail
+1. Dizzy Shell / Repel Gel [Down 1]
+2. Bounce x5 / Dizzy Shell
+3. Bounce x5 / Do Nothing
+4. Bounce x5 / Dizzy Shell
+5. Untimed Power Quake / Do Nothing
+6. Untimed Power Quake
+#### 2nd Dizzy Shell fails
+1. Dizzy Shell / Bounce x5
+2. Bounce x5 / Do Nothing
+3. Dizzy Shell / Repel Gel [Down 1]
+4. Bounce x5 / Dizzy Shell
+5. Untimed Power Quake / Do Nothing
+6. Untimed Power Quake
+* If 4 capped ever, time both Power Quakes
+</Note>
+    </Split>
+    <Split>
+      <Name>-Jr. Troopa</Name>
+      <Note>* Get and Eat Maple [Mash A]
+* Switch to Bombette before duplighosts
+### Duplighosts
+1. Power Quake / Power Bomb
+
+* Level Up: BP
+  * 15 / 30 / 18
+
+- Equips:
+  - Equip S. Jump Charge [Down 1]
+  - Unequip Power Quake [Down 2]
+  - Equip Damage Dodge [Down 2]
+- Switch to Watt [Down 2]
+### Jr. Troopa [Block 2/2]
+1. Charge / Turbo Charge
+2. Charge / Switch to Kooper [Down 3]
+3. Bounce x5 / Dizzy Shell
+4. Jump x2
+
+* Eat Jammin’ Jelly [Down 1]
+</Note>
+    </Split>
+    <Split>
+      <Name>-Hallway</Name>
+      <Note>### Hallway Bowser
+#### Turn 1 Dizzy Shell
+1. Dizzy Shell / Bounce x5 (Get a Close Call if dink)
+2. Bounce x3 (or 4+4)
+3. Jump x1 if 3+4, Jump x2 if 3+3
+#### Turn 2 Dizzy Shell (if still have extra Repel)
+1. Dizzy Shell / Repel Gel [Down 1]
+2. Dizzy Shell / Bounce
+3. Bounce
+
+* Swap to Watt [Down 3]
+</Note>
+    </Split>
+    <Split>
+      <Name>{Chapter 8}Final Bowser</Name>
+      <Note>### Final Bowser
+#### Phase 1
+1. Turbo Charge / Bounce
+2. Bounce / Electro Dash
+#### Phase 2
+1. Charge / Turbo Charge - Life Shroom
+2. Peach Beam / Electro Dash - Peril (Block fire, don’t block stomp)
+3. Repel Gel [Mash A] / Electro Dash
+4. Bounce / Electro Dash
+5. Bounce / Electro Dash
+
+* Damage notes if you get a close call:
+  * Do not bring him below 41hp
+  * 3 cap = 21
+  * 4 cap = 26
+  * 5 cap = 30
+  * 6 cap = 33</Note>
+    </Split>
+    <Split>
+      <Name>Luigi</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Paper Mario</Name>
+  <Category>All Bosses</Category>
+</Guide>

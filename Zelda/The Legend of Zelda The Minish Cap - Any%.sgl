@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-Enter Deepwood Shrine</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Earth Element}Big Green Chu</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Cave of Flames</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Fire Element}Gleerok</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Castor Wilds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Castor Wilds</Name>
+      <Note>![](C:/Git/Splits/Zelda/images/tmc/PeahatPos.png)</Note>
+    </Split>
+    <Split>
+      <Name>-Fortress of Winds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ocarina</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Temple of Droplets</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Chu</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Big Blue Chu</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Water Element}Big Octo</Name>
+      <Note>![](C:/Git/Splits/Zelda/images/tmc/OctoDoNothing.png)
+![](C:/Git/Splits/Zelda/images/tmc/Octo3Rolls.png)
+
+![](C:/Git/Splits/Zelda/images/tmc/Octo5Rolls.png)
+![](C:/Git/Splits/Zelda/images/tmc/Octo1Roll.png)</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Palace</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Gyorg</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Wind Element</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Dark Hyrule Castle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Dark Hyrule Castle}Enter Vaati</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Darknuts</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vaati 1</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Vaati 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>{Vaati}Vaati 3</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: The Minish Cap</Name>
+  <Category>Any%</Category>
+</Guide>

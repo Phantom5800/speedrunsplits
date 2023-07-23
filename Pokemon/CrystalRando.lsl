@@ -3,7 +3,7 @@
   <Mode>Vertical</Mode>
   <X>-3681</X>
   <Y>-318</Y>
-  <VerticalWidth>490</VerticalWidth>
+  <VerticalWidth>1120</VerticalWidth>
   <VerticalHeight>189</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -50,7 +50,7 @@
         <OverrideTitleFont>True</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
         <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAGBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TitleFont>
-        <SingleLine>False</SingleLine>
+        <SingleLine>True</SingleLine>
         <TitleColor>FFFFFFFF</TitleColor>
         <BackgroundColor>002A2A2A</BackgroundColor>
         <BackgroundColor2>00131313</BackgroundColor2>

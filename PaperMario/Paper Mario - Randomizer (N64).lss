@@ -13,7 +13,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>199</AttemptCount>
+  <AttemptCount>230</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/20/2022 00:04:21" isStartedSynced="True" ended="01/20/2022 05:02:34" isEndedSynced="True" />
     <Attempt id="2" started="01/31/2022 23:19:35" isStartedSynced="True" ended="02/01/2022 06:25:39" isEndedSynced="True">
@@ -534,10 +534,91 @@
     <Attempt id="197" started="04/07/2023 23:52:06" isStartedSynced="True" ended="04/07/2023 23:55:02" isEndedSynced="True" />
     <Attempt id="198" started="04/07/2023 23:57:28" isStartedSynced="True" ended="04/07/2023 23:58:06" isEndedSynced="True" />
     <Attempt id="199" started="04/08/2023 21:48:16" isStartedSynced="True" ended="04/09/2023 00:05:17" isEndedSynced="True">
-      <RealTime>02:17:00.5453677</RealTime>
+      <RealTime>02:17:00.5453670</RealTime>
     </Attempt>
     <Attempt id="200" started="04/09/2023 00:18:40" isStartedSynced="True" ended="04/09/2023 01:37:58" isEndedSynced="True">
-      <RealTime>01:19:17.6160658</RealTime>
+      <RealTime>01:19:17.6160650</RealTime>
+    </Attempt>
+    <Attempt id="201" started="04/10/2023 23:23:23" isStartedSynced="True" ended="04/11/2023 04:01:49" isEndedSynced="True">
+      <RealTime>04:38:26.1234720</RealTime>
+    </Attempt>
+    <Attempt id="202" started="04/19/2023 21:49:16" isStartedSynced="True" ended="04/20/2023 01:17:18" isEndedSynced="True">
+      <RealTime>03:28:02.5483590</RealTime>
+    </Attempt>
+    <Attempt id="203" started="04/28/2023 21:53:34" isStartedSynced="True" ended="04/29/2023 01:47:57" isEndedSynced="True">
+      <RealTime>03:54:22.3229950</RealTime>
+    </Attempt>
+    <Attempt id="204" started="04/29/2023 02:01:07" isStartedSynced="True" ended="04/29/2023 05:47:25" isEndedSynced="True">
+      <RealTime>03:46:17.1516810</RealTime>
+    </Attempt>
+    <Attempt id="205" started="04/30/2023 17:49:35" isStartedSynced="True" ended="04/30/2023 20:21:00" isEndedSynced="True" />
+    <Attempt id="206" started="04/30/2023 21:01:18" isStartedSynced="True" ended="04/30/2023 23:52:35" isEndedSynced="True">
+      <RealTime>02:51:17.1659070</RealTime>
+    </Attempt>
+    <Attempt id="207" started="05/19/2023 01:32:56" isStartedSynced="True" ended="05/19/2023 04:31:00" isEndedSynced="True">
+      <RealTime>02:58:03.6397290</RealTime>
+    </Attempt>
+    <Attempt id="208" started="05/21/2023 00:35:46" isStartedSynced="True" ended="05/21/2023 03:56:45" isEndedSynced="True">
+      <RealTime>03:20:58.4375180</RealTime>
+    </Attempt>
+    <Attempt id="209" started="05/24/2023 22:24:23" isStartedSynced="True" ended="05/25/2023 01:04:45" isEndedSynced="True">
+      <RealTime>02:40:21.7409810</RealTime>
+    </Attempt>
+    <Attempt id="210" started="05/25/2023 01:09:25" isStartedSynced="True" ended="05/25/2023 04:07:49" isEndedSynced="True">
+      <RealTime>02:58:23.2473410</RealTime>
+    </Attempt>
+    <Attempt id="211" started="05/26/2023 00:50:02" isStartedSynced="True" ended="05/26/2023 03:08:59" isEndedSynced="True">
+      <RealTime>02:18:57.2107750</RealTime>
+    </Attempt>
+    <Attempt id="212" started="06/07/2023 21:55:15" isStartedSynced="True" ended="06/08/2023 01:47:21" isEndedSynced="True">
+      <RealTime>03:52:06.7414310</RealTime>
+    </Attempt>
+    <Attempt id="213" started="06/14/2023 20:19:08" isStartedSynced="True" ended="06/14/2023 22:37:51" isEndedSynced="True">
+      <RealTime>02:18:43.2278840</RealTime>
+    </Attempt>
+    <Attempt id="214" started="06/17/2023 21:53:43" isStartedSynced="True" ended="06/17/2023 21:53:50" isEndedSynced="True" />
+    <Attempt id="215" started="06/17/2023 21:56:33" isStartedSynced="True" ended="06/17/2023 21:56:39" isEndedSynced="True" />
+    <Attempt id="216" started="06/17/2023 21:57:10" isStartedSynced="True" ended="06/17/2023 21:57:16" isEndedSynced="True" />
+    <Attempt id="217" started="06/17/2023 21:57:48" isStartedSynced="True" ended="06/18/2023 00:52:59" isEndedSynced="True">
+      <RealTime>02:55:11.4167579</RealTime>
+    </Attempt>
+    <Attempt id="218" started="06/24/2023 00:09:11" isStartedSynced="True" ended="06/24/2023 02:29:17" isEndedSynced="True">
+      <RealTime>02:20:05.2181055</RealTime>
+    </Attempt>
+    <Attempt id="219" started="06/24/2023 02:34:25" isStartedSynced="True" ended="06/24/2023 04:50:56" isEndedSynced="True">
+      <RealTime>02:16:30.9483751</RealTime>
+    </Attempt>
+    <Attempt id="220" started="06/24/2023 20:56:59" isStartedSynced="True" ended="06/24/2023 21:26:45" isEndedSynced="True" />
+    <Attempt id="221" started="06/24/2023 21:30:07" isStartedSynced="True" ended="06/25/2023 00:06:35" isEndedSynced="True" />
+    <Attempt id="222" started="07/01/2023 21:11:15" isStartedSynced="True" ended="07/02/2023 00:05:06" isEndedSynced="True">
+      <RealTime>02:53:49.9808770</RealTime>
+    </Attempt>
+    <Attempt id="223" started="07/03/2023 21:47:58" isStartedSynced="True" ended="07/03/2023 23:21:55" isEndedSynced="True">
+      <RealTime>01:33:57.1781861</RealTime>
+    </Attempt>
+    <Attempt id="224" started="07/03/2023 23:28:21" isStartedSynced="True" ended="07/04/2023 01:40:17" isEndedSynced="True">
+      <RealTime>02:11:55.9760233</RealTime>
+    </Attempt>
+    <Attempt id="225" started="07/04/2023 01:42:34" isStartedSynced="True" ended="07/04/2023 04:17:52" isEndedSynced="True">
+      <RealTime>02:35:18.3352163</RealTime>
+    </Attempt>
+    <Attempt id="226" started="07/05/2023 21:27:21" isStartedSynced="True" ended="07/05/2023 23:26:04" isEndedSynced="True">
+      <RealTime>01:58:42.5789686</RealTime>
+    </Attempt>
+    <Attempt id="227" started="07/05/2023 23:33:13" isStartedSynced="True" ended="07/06/2023 01:59:01" isEndedSynced="True">
+      <RealTime>02:25:47.3956462</RealTime>
+    </Attempt>
+    <Attempt id="228" started="07/10/2023 21:40:27" isStartedSynced="True" ended="07/11/2023 00:44:46" isEndedSynced="True">
+      <RealTime>03:04:18.5299317</RealTime>
+    </Attempt>
+    <Attempt id="229" started="07/11/2023 00:56:10" isStartedSynced="True" ended="07/11/2023 02:54:22" isEndedSynced="True">
+      <RealTime>01:58:11.6498209</RealTime>
+    </Attempt>
+    <Attempt id="230" started="07/15/2023 21:59:02" isStartedSynced="True" ended="07/16/2023 01:12:46" isEndedSynced="True">
+      <RealTime>03:13:44.1245873</RealTime>
+    </Attempt>
+    <Attempt id="231" started="07/20/2023 00:35:33" isStartedSynced="True" ended="07/20/2023 02:40:16" isEndedSynced="True">
+      <RealTime>02:04:43.7758446</RealTime>
     </Attempt>
   </AttemptHistory>
   <Segments>
@@ -546,11 +627,11 @@
       <Icon><![CDATA[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]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:19:17.6160658</RealTime>
+          <RealTime>01:19:17.6160650</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>01:19:17.6160658</RealTime>
+        <RealTime>01:19:17.6160650</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="75">
@@ -839,10 +920,85 @@
           <RealTime>03:23:56.4985140</RealTime>
         </Time>
         <Time id="199">
-          <RealTime>02:17:00.5453677</RealTime>
+          <RealTime>02:17:00.5453670</RealTime>
         </Time>
         <Time id="200">
-          <RealTime>01:19:17.6160658</RealTime>
+          <RealTime>01:19:17.6160650</RealTime>
+        </Time>
+        <Time id="201">
+          <RealTime>04:38:26.1234720</RealTime>
+        </Time>
+        <Time id="202">
+          <RealTime>03:28:02.5483590</RealTime>
+        </Time>
+        <Time id="203">
+          <RealTime>03:54:22.3229950</RealTime>
+        </Time>
+        <Time id="204">
+          <RealTime>03:46:17.1516810</RealTime>
+        </Time>
+        <Time id="206">
+          <RealTime>02:51:17.1659070</RealTime>
+        </Time>
+        <Time id="207">
+          <RealTime>02:58:03.6397290</RealTime>
+        </Time>
+        <Time id="208">
+          <RealTime>03:20:58.4375180</RealTime>
+        </Time>
+        <Time id="209">
+          <RealTime>02:40:21.7409810</RealTime>
+        </Time>
+        <Time id="210">
+          <RealTime>02:58:23.2473410</RealTime>
+        </Time>
+        <Time id="211">
+          <RealTime>02:18:57.2107750</RealTime>
+        </Time>
+        <Time id="212">
+          <RealTime>03:52:06.7414310</RealTime>
+        </Time>
+        <Time id="213">
+          <RealTime>02:18:43.2278840</RealTime>
+        </Time>
+        <Time id="217">
+          <RealTime>02:55:11.4167579</RealTime>
+        </Time>
+        <Time id="218">
+          <RealTime>02:20:05.2181055</RealTime>
+        </Time>
+        <Time id="219">
+          <RealTime>02:16:30.9483751</RealTime>
+        </Time>
+        <Time id="222">
+          <RealTime>02:53:49.9808770</RealTime>
+        </Time>
+        <Time id="223">
+          <RealTime>01:33:57.1781861</RealTime>
+        </Time>
+        <Time id="224">
+          <RealTime>02:11:55.9760233</RealTime>
+        </Time>
+        <Time id="225">
+          <RealTime>02:35:18.3352163</RealTime>
+        </Time>
+        <Time id="226">
+          <RealTime>01:58:42.5789686</RealTime>
+        </Time>
+        <Time id="227">
+          <RealTime>02:25:47.3956462</RealTime>
+        </Time>
+        <Time id="228">
+          <RealTime>03:04:18.5299317</RealTime>
+        </Time>
+        <Time id="229">
+          <RealTime>01:58:11.6498209</RealTime>
+        </Time>
+        <Time id="230">
+          <RealTime>03:13:44.1245873</RealTime>
+        </Time>
+        <Time id="231">
+          <RealTime>02:04:43.7758446</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

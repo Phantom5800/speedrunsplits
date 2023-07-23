@@ -3,7 +3,7 @@
   <GameIcon />
   <GameName>The Legend of Zelda: The Wind Waker</GameName>
   <CategoryName>Randomizer</CategoryName>
-  <LayoutPath>C:\Git\Splits\Zelda\WWRando.lsl</LayoutPath>
+  <LayoutPath>C:\Git\Splits\Zelda\ZeldaGBARando.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">
@@ -13,17 +13,29 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>0</AttemptCount>
-  <AttemptHistory />
+  <AttemptCount>1</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/04/2023 21:16:07" isStartedSynced="True" ended="05/05/2023 03:22:28" isEndedSynced="True">
+      <RealTime>06:06:20.7585242</RealTime>
+    </Attempt>
+  </AttemptHistory>
   <Segments>
     <Segment>
       <Name>Ganon</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>06:06:20.7585242</RealTime>
+        </SplitTime>
       </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
+      <BestSegmentTime>
+        <RealTime>06:06:20.7585242</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>06:06:20.7585242</RealTime>
+        </Time>
+      </SegmentHistory>
     </Segment>
   </Segments>
   <AutoSplitterSettings />
