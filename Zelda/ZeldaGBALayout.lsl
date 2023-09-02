@@ -4,7 +4,7 @@
   <X>-3787</X>
   <Y>-376</Y>
   <VerticalWidth>765</VerticalWidth>
-  <VerticalHeight>1287</VerticalHeight>
+  <VerticalHeight>1243</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>12</VisualSplitCount>
+        <VisualSplitCount>11</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -87,7 +87,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>4.1</SplitHeight>
+        <SplitHeight>5</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -255,6 +255,22 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>7D41197B</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.Text.dll</Path>
       <Settings>
         <Version>1.4</Version>
@@ -262,7 +278,7 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>8041197B</BackgroundColor>
+        <BackgroundColor>0041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Text1>Art by @Langepon on Twitter!</Text1>
@@ -348,25 +364,8 @@
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
         <Version>1.0.0</Version>
-        <Path>858e8f5d-3ad4-4a8c-b1f7-8629a97b643f</Path>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
-        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
     <Component>
@@ -378,8 +377,15 @@
         <Comparisons>
           <Settings>
             <SplitsName>The Legend of Zelda The Minish Cap - Any%</SplitsName>
-            <SecondaryName>13x</SecondaryName>
+            <SecondaryName>
+            </SecondaryName>
             <Target>01:40:00.000</Target>
+          </Settings>
+          <Settings>
+            <SplitsName>The Legend of Zelda The Minish Cap - Glitchless</SplitsName>
+            <SecondaryName>
+            </SecondaryName>
+            <Target>02:24:00.000</Target>
           </Settings>
         </Comparisons>
       </Settings>

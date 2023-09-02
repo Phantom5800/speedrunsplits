@@ -169,7 +169,7 @@ Level Up BP (10/15/6)
 * Gourmet Guy Skip
 * Hidden Volt Shroom
 
-### Big Lantern Ghost
+### Big Lantern Ghost (Block 1/2)
 1. Volt Shroom / Do Nothing
 2. Do Nothing / Swap to Goombario (Down 2)
 3. Headbonk x2 / Power Bounce x5
@@ -237,7 +237,9 @@ Phase 2
 2. Untimed Power Quake
 
 ### Mole (1)
-1. Jump x2 (air lift if fright fail in chapter 1)
+1. Jump x2 (air lift if fright fail in chapter 1 and eat Stinky Herb after)
+
+* Eat Jammin' Jelly
 
 ### Moles (2)
 1. Untimed Power Quake / Power Bomb
@@ -260,6 +262,7 @@ Level Up BP (10/20/9)
       <Name>Chapter 6</Name>
       <Note>* Eat a Bubble Berry if not 7 or 10 HP
 * Shooting Star
+* Equip Power Jump
 
 ### Laki @ 10 (Block 3/3)
 1. Power Jump / Shell Shot
@@ -280,10 +283,12 @@ Level Up BP (10/20/9)
 
 Level Up HP (15/20/9)
 
-### Huff
+* S Jump Charge
+
+### Huff (Block 1/2, 5 on Wind)
 1. Charge / Do Nothing (don't block)
-2. Charge / Do Nothing (aim for 5)
-3. Charge / Swap to Parakarry (block if 5hp, don't block if 6)
+2. Charge / Do Nothing
+3. Charge / Swap to Parakarry
 4. Bounce x5 / Shell Shot</Note>
     </Split>
     <Split>
