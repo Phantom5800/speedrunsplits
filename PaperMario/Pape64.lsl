@@ -225,7 +225,7 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Path>LiveSplit.RunPrediction.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -233,9 +233,10 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundColor>7D41197B</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -255,7 +256,7 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -263,10 +264,9 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>7D41197B</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundColor>8041197B</BackgroundColor>
+        <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>

@@ -1,19 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
-  <GameName>Pokémon Let's Go Pikachu/Eevee</GameName>
+  <GameName>Pokémon Let's Go Pikachu</GameName>
   <CategoryName>Any% NMS</CategoryName>
   <LayoutPath>C:\Git\Splits\Pokemon\Pokemon-Lets-Go.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
-    <Platform usesEmulator="False">Switch</Platform>
+    <Platform usesEmulator="False">
+    </Platform>
     <Region>
     </Region>
-    <Variables>
-      <Variable name="Version">Pikachu</Variable>
-      <Variable name="Language">ENG</Variable>
-      <Variable name="Turbo Used">Turbo</Variable>
-    </Variables>
+    <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>57</AttemptCount>

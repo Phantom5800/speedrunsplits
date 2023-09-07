@@ -82,6 +82,7 @@ Backup:
 2. Power Jump / Bomb
 3. Hammer
 
+* Damage Dodge
 * Hit Heart Block before Parakarry
 </Note>
     </Split>
@@ -204,10 +205,8 @@ Level Up FP (10/20/6)</Note>
       <Name>Chapter 5</Name>
       <Note>* Power Quake
 * Raph Skip
-* Fire Shield
 * Hidden Life Shroom
 
-- Upgrade Sushie
 - Fire bar peril
 
 ## Equips
@@ -215,9 +214,8 @@ Level Up FP (10/20/6)</Note>
 * Equip Power Quake (Down 2)
 
 ### Lava Piranha (block nothing)
-1. Bounce x6 / Untimed Belly Flop (if 4/5 cap)
-2. Bounce x5 / Belly Flop (if double 4, untimed otherwise)
-3. Jump if still not dead
+1. Bounce x5 / Do Nothing (Belly Flop if 4 cap)
+2. Bounce x5 / Untimed Belly Flop if double 4
 
 Phase 2
 
@@ -324,18 +322,14 @@ Level Up FP (15/25/9)
 * P-Up D-Down
 * Heart Block
 
-## Equips
-* Unequip Power Quake (Down 3)
-* Equip P-Up, D-Down (Down 2)
+- Swap to Watt
 
-- Swap to Bow
-
-### Crystal King (Block 1/3)
-1. Charge / Outta Sight
-2. Charge
-3. Charge / Do Nothing
-4. Charge / Swap to Parakarry
-5. Bounce x5 / Shell Shot
+### Crystal King (Block 2/4)
+1. Charge / E Dash bit
+2. Charge / E Dash
+3. Charge / E Dash bit
+4. Charge / Do Nothing
+5. Bounce x5 / E Dash (if 4)
 
 Level Up BP (15/25/12)</Note>
     </Split>
@@ -344,7 +338,7 @@ Level Up BP (15/25/12)</Note>
       <Note>* Repel Gel behind tree
 
 ### Koopatrols
-1. Up and Away (Up 2)
+1. Up &amp; Away
 
 * Jail life shroom if don't have 1
 * Block Clip</Note>
@@ -376,9 +370,9 @@ Level Up BP (15/25/12)</Note>
 
 ## Equips
 * Equip Power Jump (A)
-* Unequip S. Jump Charge (Down 1)
-* Equip Quick Change (Down 3)
-* Equip P-Up, D-Down (Down 1)
+* Unequip Power Quake
+* Equip Damage Dodge
+* Equp P-Up D-Down
 
 ### Bowser
 1. Bounce x5 / Outta Sight
