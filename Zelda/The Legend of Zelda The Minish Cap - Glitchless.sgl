@@ -23,11 +23,12 @@
     <Split>
       <Name>Pegasus Boots</Name>
       <Note>- Activate ocarina fast travel in castle town
+- HEDGE MAZE
 - Clone puzzle in bottle cave</Note>
     </Split>
     <Split>
       <Name>-Castor Wilds</Name>
-      <Note />
+      <Note>- Bottle Water on Lilypad</Note>
     </Split>
     <Split>
       <Name>-Fortress of Winds</Name>
@@ -39,20 +40,18 @@
     </Split>
     <Split>
       <Name>Power Bracelets</Name>
-      <Note />
+      <Note>- Lake first</Note>
     </Split>
     <Split>
-      <Name>-Enter Temple of Droplets</Name>
-      <Note>- Castle Town book
-- Digging cave by Witches house
-  - Don't Ocarina!!!</Note>
+      <Name>Enter Temple of Droplets</Name>
+      <Note />
     </Split>
     <Split>
       <Name>-First Lever</Name>
       <Note />
     </Split>
     <Split>
-      <Name>-Second Lever</Name>
+      <Name>-Enter Octo</Name>
       <Note />
     </Split>
     <Split>
