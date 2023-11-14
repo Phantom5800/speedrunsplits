@@ -98,8 +98,8 @@ Edit Folder:
 
 * Edit folder when activating sneakrun
 * 3 chips
-  * Reverse sort by code to remove 3 Swords
   * Reg CrackSht
+  * Reverse sort by code to remove 3 Swords
 * NaviCust: 
   - Remove Atk+1
   - Remove Speed+1
@@ -138,7 +138,7 @@ Edit Folder:
     - Add Cannon*
     - Add 3 Vulkan
     - Add 2 DblShot
-    - Press Select and Tag Cannon* with Cannon B
+    - Reg CopyDmg
 
 # Dad Arrested
 
@@ -183,9 +183,7 @@ Edit Folder:
       <Note>
 ![](C:/Git/Splits/BattleNetwork/images/bn6/Weather1.png)
 
-![](C:/Git/Splits/BattleNetwork/images/bn6/Weather2.png)
-
-![](C:/Git/Splits/BattleNetwork/images/bn6/Weather3.png)</Note>
+![](C:/Git/Splits/BattleNetwork/images/bn6/Weather2.png)</Note>
     </Split>
     <Split>
       <Name>-Moonstone</Name>
