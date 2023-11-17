@@ -321,7 +321,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>4</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
