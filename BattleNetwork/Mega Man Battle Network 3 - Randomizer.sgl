@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>End</Name>
+      <Note>Mr. Quiz (Yoka Inn): 21213  
+Quiz Master (Yoka Bath): 2113223131  
+Quiz Queen (Hospital 3F): 1233222313  
+Quiz King (Hades): 332322112211323</Note>
+    </Split>
+  </Splits>
+  <Name>Mega Man Battle Network 3</Name>
+  <Category>Randomizer</Category>
+</Guide>

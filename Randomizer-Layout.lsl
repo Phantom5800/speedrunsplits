@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3752</X>
-  <Y>-331</Y>
+  <X>234</X>
+  <Y>161</Y>
   <VerticalWidth>800</VerticalWidth>
-  <VerticalHeight>380</VerticalHeight>
+  <VerticalHeight>425</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -50,11 +50,11 @@
         <OverrideTitleFont>True</OverrideTitleFont>
         <OverrideTitleColor>False</OverrideTitleColor>
         <TitleFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAGBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></TitleFont>
-        <SingleLine>True</SingleLine>
+        <SingleLine>False</SingleLine>
         <TitleColor>FFFFFFFF</TitleColor>
         <BackgroundColor>002A2A2A</BackgroundColor>
         <BackgroundColor2>00131313</BackgroundColor2>
-        <BackgroundGradient>Vertical</BackgroundGradient>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <DisplayGameIcon>True</DisplayGameIcon>
         <ShowRegion>False</ShowRegion>
         <ShowPlatform>False</ShowPlatform>
@@ -68,13 +68,24 @@
       <Settings />
     </Component>
     <Component>
+      <Path>LiveSplit.BlankSpace.dll</Path>
+      <Settings>
+        <Version>1.7</Version>
+        <SpaceHeight>8</SpaceHeight>
+        <SpaceWidth>100</SpaceWidth>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+      </Settings>
+    </Component>
+    <Component>
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>82</TimerHeight>
+        <TimerHeight>85</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:00:01</TimerFormat>
-        <OverrideSplitColors>False</OverrideSplitColors>
+        <OverrideSplitColors>True</OverrideSplitColors>
         <ShowGradient>True</ShowGradient>
         <TimerColor>FFFFFFFF</TimerColor>
         <BackgroundColor>00FFFFFF</BackgroundColor>
@@ -86,24 +97,14 @@
       </Settings>
     </Component>
     <Component>
-      <Path>SpeedGuidesLive.dll</Path>
+      <Path>LiveSplit.BlankSpace.dll</Path>
       <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-3753</WindowPos.X>
-        <WindowPos.Y>69</WindowPos.Y>
-        <WindowSize.Width>546</WindowSize.Width>
-        <WindowSize.Height>751</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
+        <Version>1.7</Version>
+        <SpaceHeight>12</SpaceHeight>
+        <SpaceWidth>100</SpaceWidth>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
       </Settings>
     </Component>
     <Component>
@@ -156,6 +157,27 @@
       </Settings>
     </Component>
     <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>12</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>240</WindowPos.X>
+        <WindowPos.Y>591</WindowPos.Y>
+        <WindowSize.Width>793</WindowSize.Width>
+        <WindowSize.Height>742</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
+      </Settings>
+    </Component>
+    <Component>
       <Path>
       </Path>
       <Settings />
@@ -172,7 +194,7 @@
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Text1>PB (Blitz)</Text1>
-        <Text2>1:44:36</Text2>
+        <Text2>1:33:00</Text2>
         <Font1><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></Font1>
         <Font2><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAEBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAMAAAAL]]></Font2>
         <OverrideFont1>False</OverrideFont1>

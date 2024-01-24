@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3815</X>
-  <Y>-348</Y>
+  <X>229</X>
+  <Y>53</Y>
   <VerticalWidth>800</VerticalWidth>
   <VerticalHeight>1232</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -340,11 +340,19 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.TheRun.dll</Path>
+      <Settings>
+        <Version>1.0.0</Version>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+      </Settings>
+    </Component>
+    <Component>
       <Path>SpeedGuidesLive.dll</Path>
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
+        <FontSize>12</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -353,19 +361,11 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-3009</WindowPos.X>
-        <WindowPos.Y>-347</WindowPos.Y>
-        <WindowSize.Width>633</WindowSize.Width>
-        <WindowSize.Height>1232</WindowSize.Height>
+        <WindowPos.X>1039</WindowPos.X>
+        <WindowPos.Y>56</WindowPos.Y>
+        <WindowSize.Width>830</WindowSize.Width>
+        <WindowSize.Height>1227</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.TheRun.dll</Path>
-      <Settings>
-        <Version>1.0.0</Version>
-        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
-        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

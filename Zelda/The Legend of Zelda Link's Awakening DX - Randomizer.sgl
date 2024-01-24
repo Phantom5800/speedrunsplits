@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>DeathI</Name>
+      <Note>Egg Path: LLURRULU 
+
+Color Dungeon: 5v 4&lt; 1^ 2&gt; 3^</Note>
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: Link's Awakening DX</Name>
+  <Category>Randomizer</Category>
+</Guide>

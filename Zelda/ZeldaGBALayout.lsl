@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3787</X>
-  <Y>-376</Y>
+  <X>101</X>
+  <Y>48</Y>
   <VerticalWidth>765</VerticalWidth>
   <VerticalHeight>1243</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -340,27 +340,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>SpeedGuidesLive.dll</Path>
-      <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>15</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-3019</WindowPos.X>
-        <WindowPos.Y>-376</WindowPos.Y>
-        <WindowSize.Width>942</WindowSize.Width>
-        <WindowSize.Height>1284</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
         <Version>1.0.0</Version>
@@ -388,6 +367,27 @@
             <Target>02:24:00.000</Target>
           </Settings>
         </Comparisons>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>12</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>874</WindowPos.X>
+        <WindowPos.Y>48</WindowPos.Y>
+        <WindowSize.Width>891</WindowSize.Width>
+        <WindowSize.Height>1244</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
   </Components>

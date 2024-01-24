@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>-1-1</Name>
+      <Note>* First fire enemy
+* 1: Between two cutters
+* Combine with first bomb enemy
+* 2: rock in river (bomb)
+* Waddle Doo: last hit with power up</Note>
+    </Split>
+    <Split>
+      <Name>-1-2</Name>
+      <Note>* First fire enemy
+* 1: fall off conveyer
+* 2: miniboss
+* 3: Adeleine</Note>
+    </Split>
+    <Split>
+      <Name>-1-3</Name>
+      <Note>* Drop fire and combine second two cutters on outer wall
+* 1: Double cutter in hole
+* 2: Above door after Adeleine
+* Fly up right before spear knight
+* Get double fire at the top
+* 3: Dedede</Note>
+    </Split>
+    <Split>
+      <Name>{Pop Star}Whispy</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-2-1</Name>
+      <Note>* 1: Float along ceiling inside
+* Drop double fire for last rock enemy
+* 2: miniboss
+* Combine with electric enemy after hill and backtrack
+* 3: destroy wall with rock+electric</Note>
+    </Split>
+    <Split>
+      <Name>-2-2</Name>
+      <Note>* Drop power and grab first fire before falling rocks
+* 1: bottom of ruins from right side
+* 2: inside ghost room at the bottom
+* Toss fire and grab ice at the end of cannon bridge
+* 3: Dedede room top left</Note>
+    </Split>
+    <Split>
+      <Name>-2-3</Name>
+      <Note>* Re-enter 2-2, combine with axe enemy and exit level
+* 1: Destroy the spine
+* Go left when falling down sand pit
+* 2: room after miniboss
+* 3: top of second underwater room on left</Note>
+    </Split>
+    <Split>
+      <Name>-2-4</Name>
+      <Note>* Grab bomb at the start
+* Damage boost to refresh jumps off the cannons
+* 1: Sliding platform room
+* Combine with enemy at the top of sliding platform room
+* 2: Adeleine puzzle
+* 3: miniboss</Note>
+    </Split>
+    <Split>
+      <Name>{Rock Star}Pix</Name>
+      <Note>* Toss power immediately</Note>
+    </Split>
+    <Split>
+      <Name>-3-1</Name>
+      <Note>* Grab first fire enemy
+* 1: inside cave up left wall
+* Toss power and inhale penguin (don't swallow)
+* Combine with poppy bro at the end of the room
+* 2: miniboss, sit below and spam to catch the shard when the boss dies
+* 3: snowman bomb platform at bottom of bridge
+* Toss power</Note>
+    </Split>
+    <Split>
+      <Name>-3-2</Name>
+      <Note>* Inhale first rock enemy (don't swallow)
+* Combine with fire enemy after collapsing bridge
+* 1: above giant crab
+* Throw power up at crab at half health
+* 2: waterfall jump
+* Inhale crab and run with lollipop
+* 3: Behind waterfall while running
+* Eat first fire dragon</Note>
+    </Split>
+    <Split>
+      <Name>-3-3</Name>
+      <Note>* In second room, toss fire and inhale cutter (don't swallow)
+* Combine with bomb fish underwater at the end of the room
+* 1: Fall in hole and blow up left side
+* Drop power and inhale rock before Dedede
+* Combine with fish cutter
+* 2: miniboss
+* 3: Transform into Rick and climb the wall</Note>
+    </Split>
+    <Split>
+      <Name>-3-4</Name>
+      <Note>* Drop power
+* Inhale fish and pull it out to swim faster
+* 1: go up left side and grab at the top
+* 2: in forward scroller by pole
+* Inhale bomb fish and swallow at the end of the room
+* 3: along bottom of section after miniboss</Note>
+    </Split>
+    <Split>
+      <Name>{Aqua Star}Acro</Name>
+      <Note>* Commit crimes and bomb the endangered species
+* Drop power after killing phase 2 before grabbing shard</Note>
+    </Split>
+    <Split>
+      <Name>-4-1</Name>
+      <Note>* 1: in a fake pit under a spider after the spike sandwich
+* 2: fall down immediately on tree climb
+* Eat first fire dragon
+* 3: in the leaves on top of the screen above a wood platform near the end of the room
+* Toss fire and get rock at the end of the invincibility room</Note>
+    </Split>
+    <Split>
+      <Name>-4-2</Name>
+      <Note>* Go to 2-4 and immedaitely combine with rocket
+* 1: left side when falling at the start
+* 2: minecart upper path
+* 3: blow up wall with brown and black pattern
+* Toss power after miniboss</Note>
+    </Split>
+    <Split>
+      <Name>-4-3</Name>
+      <Note>* Immediately inhale spike enemy and combine with rock enemy
+* 1: break orange ground with drill
+* Toss power
+* Inhale ice enemy near the end of the room and combine with first enemy in the next room
+* 2: block puzzle
+* 3: fall on the other side of tall green platform with wall sandwich</Note>
+    </Split>
+    <Split>
+      <Name>-4-4</Name>
+      <Note>* 1: second to last pillar in Dedede room
+* 2. break platform in front of dancer
+* Toss power, inhale fire enemy and combine with second fire enemy
+* 3: rising lava room on the left side
+* Toss power up through blocks when climbing the shaft
+* Eat one fish for cutter at the top</Note>
+    </Split>
+    <Split>
+      <Name>{Neo Star}Magman</Name>
+      <Note>* Combine with one of the fire enemies at the start of the fight
+* Kill by throwing the power</Note>
+    </Split>
+    <Split>
+      <Name>-5-1</Name>
+      <Note>* First fire enemy
+* 1: on top of second igloo during sled
+* 2: miniboss room in ice at the top
+* 3: in frozen lake underwater</Note>
+    </Split>
+    <Split>
+      <Name>-5-2</Name>
+      <Note>* 1: under cloud
+* 2: up left in green bubble
+* Toss power and eat one of the spike enemies
+* Combine with electric enemy
+* 3: miniboss</Note>
+    </Split>
+    <Split>
+      <Name>-5-3</Name>
+      <Note>* Toss power at poppy bros
+* 1: left side at the top of escalators
+* Eat spike enemy on third floor
+* 2: miniboss
+* 3: Adeleine puzzle
+* Combine with rock enemy in falling bookshelf room</Note>
+    </Split>
+    <Split>
+      <Name>-5-4</Name>
+      <Note>* Shoot drill down(?) and drop power
+* Eat fire bird
+* 1: climb ladder
+* Toss power in conveyer room and grab cutter
+* Throw power up through cake to combine with electric
+* Kill miniboss with thrown power and eat a fire bird
+* 2: miniboss
+* 3: electric walls
+* Toss power and eat electric enemy before the end</Note>
+    </Split>
+    <Split>
+      <Name>{Shiver Star}HR-H</Name>
+      <Note>* Jump over swings and zap
+* Sit under the ship and spam electric</Note>
+    </Split>
+    <Split>
+      <Name>-6-1</Name>
+      <Note>* Eat first fire enemy
+* 1: between two spear knights
+* Toss power and inhale one spear knight (delay swallow)
+* 2: enemy gauntlet
+* Combine with poppy bro
+* 3: Destroy rock in river
+* Drop power at the end</Note>
+    </Split>
+    <Split>
+      <Name>-6-2</Name>
+      <Note>* Re-enter 6-1 and eat electric enemy
+* 1: Break block at bottom of well
+* Take out power and become big kirby before going to next room
+* Combine with cutter fish
+* 2: go down holes after Dedede breaks a rock and swim left
+* 3: take invincibility from Adeleine and go down right</Note>
+    </Split>
+    <Split>
+      <Name>-6-3</Name>
+      <Note>* 1: First gauntlet room
+* 2: Combine fire and spike in third gauntlet room to break ground (last two left side enemies)
+* Toss power and eat electric enemy at the end of third gauntlet, combine with final enemy spawn to get swords back
+* 3: Final gauntlet</Note>
+    </Split>
+    <Split>
+      <Name>{Ripple Star}Miracle Matter</Name>
+      <Note>* Kill fire last ideally</Note>
+    </Split>
+    <Split>
+      <Name>0²</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Kirby 64: The Crystal Shards</Name>
+  <Category>100%</Category>
+</Guide>

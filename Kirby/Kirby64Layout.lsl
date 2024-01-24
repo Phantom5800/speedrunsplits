@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>194</X>
   <Y>120</Y>
-  <VerticalWidth>730</VerticalWidth>
-  <VerticalHeight>872</VerticalHeight>
+  <VerticalWidth>740</VerticalWidth>
+  <VerticalHeight>918</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,7 +68,7 @@
         <Version>1.7</Version>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>7</VisualSplitCount>
+        <VisualSplitCount>8</VisualSplitCount>
         <SplitPreviewCount>2</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -87,7 +87,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>0.8</SplitHeight>
+        <SplitHeight>0</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>0041177B</BackgroundColor2>
@@ -336,8 +336,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>935</WindowPos.X>
-        <WindowPos.Y>120</WindowPos.Y>
+        <WindowPos.X>938</WindowPos.X>
+        <WindowPos.Y>119</WindowPos.Y>
         <WindowSize.Width>645</WindowSize.Width>
         <WindowSize.Height>879</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>

@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Croco 1</Name>
+      <Note>## Mushroom Way
+* 12 Coins from Chests (4 from first, all 8 on second)
+* Flower Tab behind Goomba that jumps out
+### Hammer Bros.
+* Untime Jump on Left
+* Jump on Right
+* Jump on Left
+## Mushroom Kingdom
+* Shop
+   * Sell 3-4x Mushroom 
+   * Buy 1 Honey Syrup
+   * Buy 1 Jump Shoes and equip
+* Go to Castle
+* Get Frog Coin by jumping on moving Toad in Castle
+
+- Say NO to tutorial
+## Bandit’s Way
+* Grab the coins above the moving platforms (3)
+* **Croaka Cola**
+
+- Grab Star from first chest in K9 room
+- Use Flower Jar and Tab before fight
+### Croco
+1. Jump / Defend
+2. Jump / Defend
+3. Jump / Defend
+4. Jump / Honey Syrup
+5. Jump / Defend
+6. Jump / Defend
+</Note>
+    </Split>
+    <Split>
+      <Name>Claymorton</Name>
+      <Note>* Map warp to Mushroom Kingdom after fight
+* Shop
+   * Sell Wallet and Cola
+   * Buy 3x Honey Syrup
+   * Buy 2x Pick Me Up
+   * Buy 2x Cleansing Juice
+
+### Claymorton
+1. Jump / Thunderbolt
+2. Jump / Thunderbolt
+3. Jump / Honey Syrup
+4. Jump / Defend
+5. Jump / Thunderbolt
+</Note>
+    </Split>
+    <Split>
+      <Name>Belome</Name>
+      <Note>### Belome
+1. Jump / Thunderbolt
+2. Jump / Thunderbolt
+3. Jump / Honey Syrup
+4. Jump / Thunderbolt
+5. Jump
+</Note>
+    </Split>
+    <Split>
+      <Name>Bowyer</Name>
+      <Note>## Midas River
+* Four frog coins on the falls [5]
+* 60 coins for a Frog Coin [6]
+
+## Tadpole Pond
+* Go to center island and talk to Frog Sage
+* Map warp to Tadpole Pond and go to Frog Coin Emporium
+  * Buy 1 Energizer [4] (skip this if doing timed Toad Assist on Bowyer, can skip two frog coins elsewhere)
+* Leave
+## Rose Way
+* 2 big coins
+## Rose Town
+* Grab Flower and Frog Coin [5] from item shop
+* Grab 2x Flowers and Frog Coin [6] from top house
+
+- Map warp to Rose Town
+- Go to the Inn
+- Pause Menu -&gt; System -&gt; To World Map
+## Forest Maze
+* **Croaka Cola**
+* Frog Coin [7] after underground
+* **Croaka Cola** behind wiggler
+* **Red Essence** before Bowyer
+### Bowyer
+1. Geno Beam / Defend / Energizer on Geno
+2. Geno Beam / Defend / Defend (Locks X)
+3. Geno Beam / Defend / Defend
+4. Geno Beam / Defend / Defend (Locks X)
+5. Geno Beam / Defend / Defend
+6. Attack
+
+No Energizer:
+1. Flower Essence (Toad Assist) / Jump / Defend
+2. Geno Beam / Jump / Honey Syrup (Locks X)
+3. Geno Beam / Jump / Defend
+4. Geno Beam / Jump / Defend (Locks X)
+5. Attack / Attack (if you started at 21 jumps, he has 2hp after geno, 22 jump start kills)
+</Note>
+    </Split>
+    <Split>
+      <Name>Croco 2</Name>
+      <Note>## Pipe Vault
+* Navigate Pipe Vault for 3 Frog Coins [10]
+* Take the second pipe in the room with a ton of pipes
+* Pause Menu -&gt; System -&gt; To World Map
+
+## Moleville
+* Go to shop
+  * Buy all Weapons and equip
+  * Buy 3x Work Pants and equip
+* Go into the mines
+* Jump on spring to trigger Croco, then take the up right path to activate the chase. Wait in the second doorway he blows open until he loops around to you
+### Croco 2
+1. Attack / Jump / Attack (Energizer Geno if Freebie earlier)
+2. Attack / Jump / Attack
+3. Attack / Jump / Attack
+4. Attack / Attack (might be low on damage from chain, etc)
+</Note>
+    </Split>
+    <Split>
+      <Name>Punchinello</Name>
+      <Note>* Go up left path and talk to mole to blow up wall
+* Get Frog Coin [11] from Shy Guy minecart in the lower level before the star
+* Run all the way to the save block with the star active, aim to hit 9 enemies (10 will level Mario on the first bandana red fight instead of the second, pairing it with a Peach level)
+### Punchinello
+1080HP
+1. Attack / Attack / Attack (Energizer Geno if Freebie)
+2. Spam basic attack on Punchinello, bombs will die if you perfect hit every action
+</Note>
+    </Split>
+    <Split>
+      <Name>Knife + Grate Guy</Name>
+      <Note>* Do the minecart minigame lol
+## Booster Pass
+* Get **Frog Coin** [12] and **Rock Candy**
+
+## Booster Tower
+* Get Bowser
+* Frog Coin [13] on 2nd screen
+* Flower Tab in train room
+* Press green switch
+* 2 Frog Coins after Thwomp [15]
+* Get Key/Zoom Shoes and Frog Coins from Checkerboard Room [19]
+* Grab Goodie Bag and Frog Coin [20] in save room
+
+- Do Booster minigame correctly
+* Menu before boss:
+  * Swap Geno for Bowser (Mario / Mallow / Bowser)
+  * Mario: Booster Charm
+  * Bowser: Zoom Shoes
+### Knife Guy / Grate Guy
+1. Terrorize / Clown Car Barrage / Fireball Knife Guy
+2. Attack / Switch to Geno and Attack
+</Note>
+    </Split>
+    <Split>
+      <Name>Bundt Cake</Name>
+      <Note>### Bundt
+1. Attack / Attack / Attack
+2. Attack / Attack (Torte runs) / Red Essence Mario (don’t use this before Torte’s run)
+3. Attack / Attack / Attack
+4. Attack / Attack / Attack
+5. Attack / Attack / Attack (Candle phase ends)
+6. Attack / Attack / Jump </Note>
+    </Split>
+    <Split>
+      <Name>King Calamari</Name>
+      <Note>## Mushroom Kingdom + Tadpole Pond
+* Go to shop to be given Cricket Pie
+* Peach joins
+* Map warp to Tadpole Pond and talk to Frog Sage
+* **MAP WARP TO BOOSTER PASS**
+## Booster Pass + Marrymore
+* Go north, grab the hidden Flower on top of the plant and enter the secret for a Cola, Frog Coin [21] and second Flower
+* The Snifit in the secret can be skipped if you talk mario just slightly off the edge
+* Map warp to Marrymore
+* Go inside the inn, go to the second floor and grab a Frog Coin [22]
+* Pause Menu -&gt; System -&gt; To World Map
+## Star Hill
+* Activate all the doors and grab the star
+* Menu:
+  * Party: Mario / Mallow / Geno
+  * Mario: Unequip Punch Glove
+  * Mallow: Unequip Cymbals
+  * Geno: Unequip Double Punch
+  * Bowser: Unequip Zoom Shoes
+  * Peach: Unequip Slap Glove
+  * System -&gt; To World Map
+## Seaside Town
+* Go to first shop
+  * Sell 3 Cola’s and Goodie Bag
+  * Sell all weapons and accessories
+  * Buy 3 Ice Bomb
+  * Buy 5 Fire Bombs
+* Go to Elder’s house, talk to Elder
+* Go upstairs and talk to Frog
+* Buy EXP Booster [0] and equip to Mallow
+* Menu:
+  * System -&gt; To World Map
+## Sea
+* Take lower path, grab star, try to hit every Zeostar
+* Enter ship
+## Sunken Ship
+* Grab 100 coin chest in rat staircase
+* Go straight all the way to the blooper fight, use flower tabs/jars/box if you have them
+* Password: PEARLS
+### King Calamari
+1. Geno Boost Mario / Fire Bomb / Fire Bomb (King Calamari appears)
+2. Fire Bomb / Fireball / Defend (Fire Bomb if Freebie)
+3. Defend / Fireball / Defend
+</Note>
+    </Split>
+    <Split>
+      <Name>Johnny</Name>
+      <Note>* Grab both coin chests on top of the crates (+200)
+* Grab Cola in Mario Clone room
+* Get the Safety Ring in the underwater room behind barrels (hug the top wall)
+### Bandana Red 1
+1. Defend / Thunderbolt
+### Bandana Red 2
+1. Defend / Thunderbolt
+
+* Menu:
+  * Geno: Safety Ring
+  * Mario: EXP Booster (Mallow gets Booster Charm)
+### Johnny
+1. Geno Boost Mario / Super Jump x30 (dies to 74 jumps) / Defend (or see below)
+  * 67-73: Can use a Fire Bomb if you got a Freebie
+  * 63-66: Rock Candy
+
+#### Alternate fight that does two turns of Super Jumps:
+1. Geno Boost Mario / Super Jump x32 / Defend (Johnny won’t turn red at 32 jumps)
+2. Defend / Super Jump x32 / Thunderbolt
+</Note>
+    </Split>
+    <Split>
+      <Name>Speardovich</Name>
+      <Note>* Menu:
+  * Map warp to Seaside
+
+### Speardovich
+1. Geno Boost Mallow / Defend / Shocker
+2. Defend / Croaka Cola / Shocker (Mario can die)
+3. Defend / Defend / Shocker
+4. Defend / Defend / Shocker
+</Note>
+    </Split>
+    <Split>
+      <Name>Belome 2</Name>
+      <Note>* Go to shop (middle on left)
+   * Buy Paratroopa Shell and equip 
+   * Buy Double Punch and equip
+   * Buy Fake Chomp and equip
+* Go to Elder house and talk
+* Menu
+  * Mario: Booster Charm (Mallow gets EXP Booster)
+  * System -&gt; To World Map
+## Land’s End
+* Hidden **Red Essence** if no freebie on Bundt
+
+- Go left when you hit the desert and follow the ants in the sand
+### Shogun Fights
+* Basic Attack with perfect timing
+* Use Ice Bomb until only one left
+* Use a Rock Candy as long as you have them
+* Can use extra fire bombs with one attack if you got freebies, need to keep 2 for later fights
+### Belome Temple
+* Aim to hit 5+ lizards on the last screen (22 total enemies with first star)
+* Pay 400 coins for second star behind crates in lizard room
+* Get 50 coin chest and do fortune skip
+* Get 150 coin block in room before RNG
+* Get these 2 frog coins [2] also
+
+- Reload room until you get “Mmm, I’m so hungry”
+### Belome 2
+1. Switch to Bowser and Terrorize / Shocker / Attack
+2. Attack / Shocker / Attack
+* If Mario is sleep, Cleansing Juice and Super Jump x18 (more if broken chain)
+* If Mallow sleep, Defend / Super Jump x18 (more if broken chain)
+</Note>
+    </Split>
+    <Split>
+      <Name>Megasmilax</Name>
+      <Note>## Monstro Town
+- Enter first door and find the “star” upstairs
+* Enter second door and grab Attack Scarf 
+* Map warp to Land’s End -&gt; Belome Temple
+- Pay 100 coins for the shortcut and take the spring
+Land’s End
+- Troopa Medal
+## Bean Valley
+* Menu:
+  * Geno: Troopa Medal
+  * Mario: Attack Scarf
+* Take right pipe at the start and go to the boss
+### Megasmilax
+1. Geno Boost Mario / Attack / Snowy
+2. Ice Bomb (Megasmilax appears) / Attack / Star Riders
+
+</Note>
+    </Split>
+    <Split>
+      <Name>Valentina</Name>
+      <Note>* Take pipe
+* Hit block for vine, hit block again to start climbing
+* Grab Flower and two frog coins [4]
+* First frog coin is on the side of the right, second is on top of left side
+## Nimbus Land
+* Menu
+  * Bowser: EXP Booster (Mallow gets Safety Ring)
+  * Mallow: Troopa Medal (Geno gets Safety Ring)
+* Shop
+  * Frog Coin [5]
+  * Buy Mega Glove and equip
+  * Buy Sticky Glove and equip
+* Examine King Nimbus statue in top house to enter palace
+* Don’t fail Dodo minigame (get Feather)
+* Go straight up the top left path
+Go in the first door and downstairs for key
+### Big Troopa’s
+1. Snowy
+### Birdo
+1. Attack / Swap to Geno and Geno Boost / Attack
+2. Attack / Attack / Attack (egg hatches)
+3. Attack / Defend / Defend
+4. Attack / Defend / Defend
+5. Attack / Defend / Defend
+
+* Menu:
+  * Swap Mallow for Geno (Mario / Bowser / Mallow)
+  * Mario: EXP Booster
+### Big Troopa’s 2
+1. Snowy
+
+* Walk straight up right into the next room for Valentina cutscene
+* Grab star on exit path and run through enemies + Dodo (try to hit 7 enemies total)
+* Fall down
+* Menu:
+  * Swap Geno for Mallow (Mario / Bowser / Geno)
+  * Mario: Attack Scarf
+  * Bowser: Troopa Medal
+  * Geno: Safety Ring
+  * Mallow: EXP Booster
+  * Map Warp to Nimbus
+### Valentina/Dodo
+#### Dodo
+1. Fire Bomb
+#### Valentina
+1. Attack / Geno Boost Mario
+2. Attack / Attack / Attack
+3. Attack / Attack / Attack
+</Note>
+    </Split>
+    <Split>
+      <Name>Axem Rangers</Name>
+      <Note>* Menu
+  * Swap Mallow over Bowser (Mario / Mallow / Geno)
+  * Mallow: Troopa Medal (Bowser will have Exp Booster)
+  * Geno: Feather
+  * Map warp to Nimbus Land after king cutscene
+* Leave and fall down to the hot spring
+* Fall into volcano
+## Barrel Volcano
+* Grab star and run through as much as possible (need 5 for Geno to level on Czar Dragon. If you get 7, you only need 8 in Barrel Volcano star instead of 9)
+* Both frog coins on donut platforms [7]
+* First chest in save block room is a flower
+* Chest by the save block is a frog coin [8]
+### Stompillar
+1. Defend / Defend / Snowy
+
+* Walk right past the last Stumpet
+* Restore FP before the fight
+### Czar Dragon / Zombone
+1. Geno Boost Mario / Attack / Snowy
+2. Defend / Defend / Snowy
+#### Zombone
+1. Attack / Attack / Shocker
+2. Defend / Attack / Shocker 
+### Axem Rangers
+1. Switch to Bowser (Clown Car Barrage) / Jump (Yellow) / Fire Bomb
+2. Defend / Snowy (transition to Blade) / Red Essence Mallow
+* Don’t use Red Essence if the fight doesn’t transition for any reason! Just keep defending and end on Mallow’s turn
+#### The Blade
+1. Attack / Shocker / Defend
+2. Defend (Attack if low chain) / Shocker
+</Note>
+    </Split>
+    <Split>
+      <Name>Boomer</Name>
+      <Note>## Nimbus Land
+* Go through palace, talk to Mallow’s parents
+* On the way grab 2 frog coins [10]
+* Menu:
+  * Map warp to Tadpole Pond
+## Tadpole Pond
+* Frog Coin Emporium
+  * Buy 1 Party Energizer
+  * Buy 1 Party Bracer
+  * Map warp to Nimbus Land
+* Take bus
+## Bowser’s Keep
+* Run straight through to the 6 door room
+#### Rising Platform Room
+* Grab Croaka Cola in room 1
+* Rock Candy in room 2
+* Croaka Cola in the last chest of rotating platforms room
+* Sonic Cymbals reward
+
+#### Quiz Door
+* Barrel counting #2 is 40 + top-most layer (if the side has fewer than 8 barrels, subtract)
+* Final room
+  * 1st Place: “I outdid &lt;name&gt;”  (the one who gets outdone is 2nd)
+  * 2nd Place: “I fell into fourth”
+  * 3rd Place: “I placed the same in the swimming and cycling events”
+  * 4th Place: “I came in third for swimming”
+Grab Rock Candy from reward chest
+
+#### Coin Door
+* Stop on the 15th coin
+* Second room obvious
+* Third room: ![](C:/Git/Splits/SuperMarioRPG/images/BallSolitair.png)
+* Rock Candy reward chest
+#### “Invisible” Floor Door
+* Grab Fright Bomb (if no freebie on Belome 2), Ice Bomb, Rock Candy (middle, left, last)
+* Room 2 straight down the middle
+
+- Menu before Wizakoopa
+  * Swap Geno for Bowser (Mario / Mallow / Geno)
+  * Bowser: No Accessory (or just anything so he doesn’t get Exp Booster)
+  * Geno: Safety Ring
+  * Mallow: Sonic Cymbals
+### Wizakoopa
+1. Fright Bomb / Attack / Attack
+2. Attack / Attack / Attack (shouldn’t need this last attack)
+### Boomer
+1. Jump / Shocker / Geno Boost Mario
+2. Jump / Shocker / Defend
+3. Jump / Shocker / Defend
+4. Basic attack if still alive and blue
+</Note>
+    </Split>
+    <Split>
+      <Name>Count Down</Name>
+      <Note>### Exor
+1. Jump Left Eye / Geno Whirl Exor
+### Countdown
+1. Attack / Snowy / Rock Candy
+2. Attack / Snowy / Rock Candy
+3. Jump / Attack / Attack
+</Note>
+    </Split>
+    <Split>
+      <Name>Mad Adder</Name>
+      <Note>### Machine Made (Speardovich)
+1. Jump / Snowy / Geno Blast
+* Jump needs to do at least 202, else use a Rock Candy
+* Eat a Royal Syrup if &lt;18 FP
+
+### Cloaker &amp; Domino
+1. Jump Cloaker / Shocker Cloaker / Geno Boost Mario
+2. Jump Cloaker / Attack Cloaker (if not dead)
+### Mad Adder
+1. Attack / Attack / Attack
+2. Attack / Attack / Attack
+
+If aiming to use Star Riders on Mage Head instead:
+a. Star Riders / Attack</Note>
+    </Split>
+    <Split>
+      <Name>Gunyolk</Name>
+      <Note>### Mad Mallet
+1. Defend / Thunderbolt
+
+### Clerk
+1. Attack Clerk / Snowy
+* Menu
+  * Geno: Feather
+### Manager
+1. Geno Boost Mario / Super Jump x11 / Snowy
+### Director
+1. Geno Boost Mario / Super Jump x23 / Snowy
+### Gunyolk
+1. Switch to Peach and Sleepy Time / Jump (on Chief) / Snowy
+2. Jump (on Chief) / Snowy / Rock Candy (both die with good chain)
+3. Defend / Attack / Attack
+</Note>
+    </Split>
+    <Split>
+      <Name>Smithy</Name>
+      <Note>* Menu
+  * Geno over Peach (Mario / Mallow / Geno)
+  * Geno: Safety Ring
+  * Mallow: Feather
+### Smithy
+1. Party Energizer / Shocker / Party Bracer
+2. Attack / Shocker / Attack (Rock Candy if you have them)
+3. Attack / Shocker / Croaka Cola (if health looks good, just Attack)
+4. Attack / Shocker (should die here assuming chain stays up)
+
+### Smithy 2
+#### True Form
+* Physical and Triple
+#### Tank Head
+* Jump / Shocker / Rock Candy
+#### Mage Head
+* Attack / Attack / Attack
+#### Chest Head
+* Fire Ball / Fire Bomb / Attack
+#### Casket Head
+* Attack / Snowy / Ice Bomb</Note>
+    </Split>
+  </Splits>
+  <Name>Super Mario RPG (Switch)</Name>
+  <Category>Breezy RTA</Category>
+</Guide>
