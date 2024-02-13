@@ -148,11 +148,15 @@ No Energizer:
 * Get Key/Zoom Shoes and Frog Coins from Checkerboard Room [19]
 * Grab Goodie Bag and Frog Coin [20] in save room
 
-- Do Booster minigame correctly
-* Menu before boss:
-  * Swap Geno for Bowser (Mario / Mallow / Bowser)
-  * Mario: Booster Charm
-  * Bowser: Zoom Shoes
+- Menu before curtain room:
+  * Swap Mallow for Bowser (Mario / Bowser / Geno)
+  * Bowser: Zoom Shoes + Work Pants (from Geno)
+
+### Booster
+1. Rock Candy / Terrorize / Jump
+2. Attack / Attack / Jump {27}
+3. Swap to Mallow and Attack / Attack
+
 ### Knife Guy / Grate Guy
 1. Terrorize / Clown Car Barrage / Fireball Knife Guy
 2. Attack / Switch to Geno and Attack
@@ -185,9 +189,13 @@ No Energizer:
 * Activate all the doors and grab the star
 * Menu:
   * Party: Mario / Mallow / Geno
-  * Mario: Unequip Punch Glove
+  * Mario: 
+     * Unequip Punch Glove
+     * Unequip Jump Shoes
   * Mallow: Unequip Cymbals
-  * Geno: Unequip Double Punch
+  * Geno: 
+      * Unequip Double Punch
+      * Equip Work Pants (off Bowser)
   * Bowser: Unequip Zoom Shoes
   * Peach: Unequip Slap Glove
   * System -&gt; To World Map
@@ -197,6 +205,7 @@ No Energizer:
   * Sell all weapons and accessories
   * Buy 3 Ice Bomb
   * Buy 5 Fire Bombs
+  * Buy 1 Fright Bomb
 * Go to Elder’s house, talk to Elder
 * Go upstairs and talk to Frog
 * Buy EXP Booster [0] and equip to Mallow
@@ -211,8 +220,9 @@ No Energizer:
 * Password: PEARLS
 ### King Calamari
 1. Geno Boost Mario / Fire Bomb / Fire Bomb (King Calamari appears)
-2. Fire Bomb / Fireball / Defend (Fire Bomb if Freebie)
-3. Defend / Fireball / Defend
+2. Fire Bomb / Fireball / Defend (Fire Bomb if Freebie) 
+3. Attack / Fireball (Jump if Fire Bomb freebie) / Switch to Bowser and Attack
+
 </Note>
     </Split>
     <Split>
@@ -221,22 +231,16 @@ No Energizer:
 * Grab Cola in Mario Clone room
 * Get the Safety Ring in the underwater room behind barrels (hug the top wall)
 ### Bandana Red 1
-1. Defend / Thunderbolt
+1. Defend / Defend / Thunderbolt
 ### Bandana Red 2
-1. Defend / Thunderbolt
+1. Defend / Defend / Thunderbolt
 
 * Menu:
   * Geno: Safety Ring
   * Mario: EXP Booster (Mallow gets Booster Charm)
 ### Johnny
-1. Geno Boost Mario / Super Jump x30 (dies to 74 jumps) / Defend (or see below)
-  * 67-73: Can use a Fire Bomb if you got a Freebie
-  * 63-66: Rock Candy
-
-#### Alternate fight that does two turns of Super Jumps:
-1. Geno Boost Mario / Super Jump x32 / Defend (Johnny won’t turn red at 32 jumps)
-2. Defend / Super Jump x32 / Thunderbolt
-</Note>
+1. Fright Bomb / Super Jump x30 (dies to 63 jumps) / Defend (or see below)
+  * 43+: Can use a Fire Bomb if you got a Freebie</Note>
     </Split>
     <Split>
       <Name>Speardovich</Name>
@@ -248,6 +252,7 @@ No Energizer:
 2. Defend / Croaka Cola / Shocker (Mario can die)
 3. Defend / Defend / Shocker
 4. Defend / Defend / Shocker
+5. Defend / Defend / Shocker
 </Note>
     </Split>
     <Split>
@@ -278,8 +283,8 @@ No Energizer:
 
 - Reload room until you get “Mmm, I’m so hungry”
 ### Belome 2
-1. Switch to Bowser and Terrorize / Shocker / Attack
-2. Attack / Shocker / Attack
+1. Fright Bomb / Jump / Shocker
+2. Attack / Jump / Shocker
 * If Mario is sleep, Cleansing Juice and Super Jump x18 (more if broken chain)
 * If Mallow sleep, Defend / Super Jump x18 (more if broken chain)
 </Note>
@@ -300,7 +305,7 @@ Land’s End
 * Take right pipe at the start and go to the boss
 ### Megasmilax
 1. Geno Boost Mario / Attack / Snowy
-2. Ice Bomb (Megasmilax appears) / Attack / Star Riders
+2. Ice Bomb (Megasmilax appears) / Ice Bomb / Star Riders
 
 </Note>
     </Split>
@@ -312,18 +317,31 @@ Land’s End
 * First frog coin is on the side of the right, second is on top of left side
 ## Nimbus Land
 * Menu
-  * Bowser: EXP Booster (Mallow gets Safety Ring)
-  * Mallow: Troopa Medal (Geno gets Safety Ring)
-* Shop
+  * Mario: 
+      * Unequip Mega Glove
+      * Equip EXP Booster
+  * Mallow: Equip Troopa Medal
+  * Geno: 
+     * Unequip Double Punch
+     * Equip Safety Ring
+
+- Shop
   * Frog Coin [5]
+  * Sell Paratroopa Shell and Double Punch
   * Buy Mega Glove and equip
   * Buy Sticky Glove and equip
+  * Buy Hand Cannon and equip
 * Examine King Nimbus statue in top house to enter palace
 * Don’t fail Dodo minigame (get Feather)
 * Go straight up the top left path
 Go in the first door and downstairs for key
 ### Big Troopa’s
 1. Snowy
+
+* Menu:
+  * Mario: Attack Scarf
+  * Mallow: EXP Booster
+
 ### Birdo
 1. Attack / Swap to Geno and Geno Boost / Attack
 2. Attack / Attack / Attack (egg hatches)
@@ -332,8 +350,9 @@ Go in the first door and downstairs for key
 5. Attack / Defend / Defend
 
 * Menu:
-  * Swap Mallow for Geno (Mario / Bowser / Mallow)
+  * Mallow: Troopa Medal
   * Mario: EXP Booster
+
 ### Big Troopa’s 2
 1. Snowy
 
@@ -341,11 +360,8 @@ Go in the first door and downstairs for key
 * Grab star on exit path and run through enemies + Dodo (try to hit 7 enemies total)
 * Fall down
 * Menu:
-  * Swap Geno for Mallow (Mario / Bowser / Geno)
   * Mario: Attack Scarf
-  * Bowser: Troopa Medal
-  * Geno: Safety Ring
-  * Mallow: EXP Booster
+  * Bowser: EXP Booster
   * Map Warp to Nimbus
 ### Valentina/Dodo
 #### Dodo
@@ -376,14 +392,14 @@ Go in the first door and downstairs for key
 * Walk right past the last Stumpet
 * Restore FP before the fight
 ### Czar Dragon / Zombone
-1. Geno Boost Mario / Attack / Snowy
+1. Geno Boost Mario / Jump / Snowy
 2. Defend / Defend / Snowy
 #### Zombone
 1. Attack / Attack / Shocker
 2. Defend / Attack / Shocker 
 ### Axem Rangers
 1. Switch to Bowser (Clown Car Barrage) / Jump (Yellow) / Fire Bomb
-2. Defend / Snowy (transition to Blade) / Red Essence Mallow
+2. Defend / Shocker (transition to Blade) / Red Essence Mallow
 * Don’t use Red Essence if the fight doesn’t transition for any reason! Just keep defending and end on Mallow’s turn
 #### The Blade
 1. Attack / Shocker / Defend
@@ -431,16 +447,16 @@ Grab Rock Candy from reward chest
 
 - Menu before Wizakoopa
   * Swap Geno for Bowser (Mario / Mallow / Geno)
-  * Bowser: No Accessory (or just anything so he doesn’t get Exp Booster)
+  * Bowser: No Accessory
   * Geno: Safety Ring
   * Mallow: Sonic Cymbals
 ### Wizakoopa
-1. Fright Bomb / Attack / Attack
-2. Attack / Attack / Attack (shouldn’t need this last attack)
+1. Attack / Attack / Attack
+2. Attack / Attack / Attack
 ### Boomer
-1. Jump / Shocker / Geno Boost Mario
-2. Jump / Shocker / Defend
-3. Jump / Shocker / Defend
+1. Jump / Shocker / Defend
+2. Jump / Shocker / Attack
+3. Jump / Shocker / Attack
 4. Basic attack if still alive and blue
 </Note>
     </Split>
@@ -448,10 +464,11 @@ Grab Rock Candy from reward chest
       <Name>Count Down</Name>
       <Note>### Exor
 1. Jump Left Eye / Geno Whirl Exor
-### Countdown
-1. Attack / Snowy / Rock Candy
-2. Attack / Snowy / Rock Candy
-3. Jump / Attack / Attack
+### Count Down
+1. Attack (left Ring-a-Ding) / Thunderbolt / Rock Candy
+2. Attack (right Ring-a-Ding) / Thunderbolt / Attack (Count Down)
+3. Jump / Shocker / Attack
+4. Jump / Attack / Attack (last two attacks depend on heals)
 </Note>
     </Split>
     <Split>
@@ -463,10 +480,10 @@ Grab Rock Candy from reward chest
 
 ### Cloaker &amp; Domino
 1. Jump Cloaker / Shocker Cloaker / Geno Boost Mario
-2. Jump Cloaker / Attack Cloaker (if not dead)
+2. Jump Cloaker / Attack Cloaker
 ### Mad Adder
-1. Attack / Attack / Attack
-2. Attack / Attack / Attack
+1. Star Riders
+2. Attack
 
 If aiming to use Star Riders on Mage Head instead:
 a. Star Riders / Attack</Note>
@@ -477,17 +494,18 @@ a. Star Riders / Attack</Note>
 1. Defend / Thunderbolt
 
 ### Clerk
-1. Attack Clerk / Snowy
-* Menu
-  * Geno: Feather
+1. Attack Clerk / Thunderbolt / Attack
 ### Manager
-1. Geno Boost Mario / Super Jump x11 / Snowy
+1. Attack / Thunderbolt / Attack
+2. Defend / Snowy
 ### Director
-1. Geno Boost Mario / Super Jump x23 / Snowy
+1. Defend / Defend / Switch to Peach and Sleepy Time
+2. Jump / Shocker / Switch to Geno and Defend
+3. Jump / Shocker / Defend
+4. Defend / Thunderbolt
 ### Gunyolk
-1. Switch to Peach and Sleepy Time / Jump (on Chief) / Snowy
-2. Jump (on Chief) / Snowy / Rock Candy (both die with good chain)
-3. Defend / Attack / Attack
+1. Jump / Snowy / Switch to Peach and Sleepy Time
+2. Jump / Snowy / Switch to Geno and Rock Candy
 </Note>
     </Split>
     <Split>

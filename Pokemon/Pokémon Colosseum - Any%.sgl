@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Rosso</Name>
+      <Note>### Rider Willie
+1. Taunt + Confusion (top)
+2. Taunt + Confusion
+
+* Leave and go to Phenac (Left)
+
+### Shady Guy Folly
+1. Taunt + Confusion (top)
+2. Taunt + Confusion
+
+* Name Rui "A"
+* 3 Super Potions below Mayor's House
+* Colosseum after talking to mayor
+
+### Team Snagem Wakin
+1. Taunt + Confusion Corphish
+2. Taunt + Confusion Koffing
+
+* Go to PokéMart 2F
+  * Sell Antidotes, Burn Heals, Ice Heals, Awakenings
+  * Buy 32x X Special
+* Talk to guy at bottom of 2F
+* Go to Outskirt Stand (Right on Map)
+
+- Shop
+  - Buy 1 Great Ball
+- Go back to Phenac
+- Go to Mayor's House
+
+### Miror B. Peon Folly
+1. Bite + Confusion Whismur
+2. Bite + Return Lotad
+
+### Miror B. Peon Trudly
+1. Bite Duskull + Confusion Spinarak
+2. Bite Duskull + PokeBall Makuhita
+
+### Cipher Peon Rosso
+1. Ball Dupe Quilava + Confusion Grimer
+2. Bite + Return Spoink
+3. Ball Dupe indefinitely</Note>
+    </Split>
+    <Split>
+      <Name>Pyrite Colosseum</Name>
+      <Note>* Swap Quilava with Umbreon
+  * Check Quilava stats
+     * Ideally 16+ SpAtk IV
+     * &lt;16 speed, get a Carbos in Agate
+* Go to Construction Site (Left)
+* Leave and go to Pyrite (Left)
+* Talk to NPC in front of Colo desk and leave
+* Go to start of Pyrite and talk to Cail
+
+### Rouge Cail
+
+* Farm Call + Hyper Mode when only Seedot is left
+
+No Hyper Mode | Hyper Mode
+-- | -
+1: SR Ralts + Confusion Furret | 
+2: SR + Confusion Furret | 2: SR + HH Furret
+3: SR + Confusion Machop | 3: SR Ralts + Return Seedot
+4: SR + Confusion Seedot | 4: SR Seedot + Confusion Machop
+
+* Duking - Gear Quest
+  * Go behind bookcase and leave
+  * Go towards colosseum for cutscenes
+  * Construction Site for gear
+* Go to Colosseum after returning gear
+  * Do 8-10 seconds extra movement before colosseum if needed for Quilava
+
+### Hunter Hoks
+1. SR Barboach + Confusion Sandshrew (SR Sandshrew if not Hyper Mode)
+2. SR + Confusion
+
+### Chaser Tisler
+1. SR Natu + Confusion Meditite (double Medi if not HM)
+2. SR + Return
+
+### Bandana Guy Vilch
+1. SR Cacnea + Confusion Electrike (confusion Cacnea if not HM)
+2. SR Vukpix + Confusion Electrike
+
+### Bodybuilder Mirez
+_(1/2 to OHKO Goldeen, 9/16 Delibird at +1, 11/16 Bagon at +0)_
+
+1. X Spec Espeon + Confusion Goldeen
+2. SR Magnemite + Confusion Bagon 
+   a. SR Goldeen + Confusion Bagon if missed range
+3. SR + Confusion Delibird</Note>
+    </Split>
+    <Split>
+      <Name>Reath &amp; Ferma</Name>
+      <Note>* Leave Colosseum
+
+### Cipher Peon Nore
+_(3/8 to OHKO Pineco at LV28, 9/16 at LV29)_
+1. SR + Confusion Yanma
+2. SR + Confusion Nincada (Surskit should die to incoming SR crit)
+3. SR + Confusion Pineco
+
+### Roller Boy Pike
+_(15/16 OHKO Taillow)_
+1. SR + Confusion Taillow
+2. SR + Return Hoothoot
+
+* Heal machine if taken big damage
+* Deposit Umbreon in PC
+
+### Bandana Guy Geats
+1. X Spec Espeon + Confusion Barboach/Larvitar
+2. SR Carvanha + Confusion other
+
+* Can call in the next couple fights if it means getting Flame Wheel
+
+### Hunter Geare
+_(3/8 to OHKO Remoraid)_
+1. SR + Confusion Remoraid
+2. SR + Confusion Magnemite
+
+### Bodybuilder Akmen
+_(7/8 to OHKO Voltorb at +1 lv29)_
+1. X Spec Espeon + Confusion Electrike
+2. SR + Confusion Voltorb
+
+### Rider Raleen
+_(FW kills Ledyba if Blaze)_
+1. SR (or FW) Ledyba + Confusion Doduo
+2. SR + Return Swablu (Call + Confusion if it gets you FW)
+
+* Heal Quil if dead to random Spheal
+
+### Hunter Tura
+_(7/16 OHKO Spheal at +1)_
+
+Has FW | No FW
+-- | -
+1: FW Snorunt + Confusion Spheal | 1: SR + Confusion Spheal
+2: Confusion / Return Spheal | 2: SR + Confusion Snorunt
+
+_If using Call:_
+1. X Spec Espeon + Confusion Snorunt
+2. Call + Confusion Spheal (3/8 range)
+
+* Get Revive before next fight
+
+### Hunter Toti
+1. FW Oddish + Confusion Horsea
+2. SR/FW + Confusion Horsea
+
+* Heal Quilava if dead to Bubblebeam
+
+### Bodybuilder Elidi
+1. FW Cacnea + Return Tentacool (FW Tentacool if dead to bubblebeam)
+2. FW + Return Tentacool
+
+* Heal Espeon to full, heal Quilava out of Water Gun range
+
+### Miror B. Peon Reath
+1. FW Spinarak + Confusion Remoraid
+2. SR + Confusion Luvdisc (Dig+Confusion if not risking hyper mode or saving HP)
+3. Return Luvdisc
+
+### Miror B. Peon Ferma
+(9/16 OHKO Aipom at +1)
+1. X Spec Espeon + Confusion Aipom (send in Maku)
+2. X Spec Espeon + Confusion Mantine (improv if Aipom lived + Quil dead, prioritize Aipom)
+3. X Spec Espeon + Confusion Mantine (70% to KO)
+   a. if Makuhita won't die this turn, skip X Spec and use Return
+   b. If Mantine hit itself, consider just killing Makuhita
+4. Confusion Yanma
+5. Confusion Furret</Note>
+    </Split>
+    <Split>
+      <Name>Miror B</Name>
+      <Note>* Talk to Silva and leave room
+
+### Hunter Doken
+1. X Spec Espeon + Confusion Qwilfish
+2. FW Linoone + Confusion Goldeen
+3. FW + Confusion Linoone
+
+* Enter cave and go down stairs
+* Pick up 2 Hyper Potions from room above(?)
+* Go down stairs and hold right (or down) to avoid trainer
+
+### Rider Twan
+1. Ball dupe Meditite + Confusion Bagon
+   a. Can aim at Meditite slot for if it breaks out, almost guarantees second ball
+2. FW + Confusion Numel
+
+* Take Twistedspoon off Meditite and give to Espeon
+* Heal either or both if below 2/3 HP
+* North and down stairs
+
+### Rider Sosh
+1. X Spec Espeon + Confusion Mareep
+2. FW Cacnea + Confusion Dunsparce (Blaze-FW on Dunsparce)
+3. FW + Confusion Dunsparce
+
+* Heal at heal machine if low health / potions
+
+### Hunter Zalo
+1. X Spec Espeon + Confusion Swablu
+2. FW Swablu + Confusion Lotad (FW Lotad if Fly)
+3. FW Beldum + Confusion Lombre
+
+_Blaze Strat:_
+1. FW + Confusion Swablu (may die to Lotad, random AI)
+2. FW Beldum + Confusion Lotad
+3. FW + Confusion Lombre
+
+* Heal Quil to high HP
+
+### Miror B.
+1. X Spec Espeon + X Special
+2. X Spec Espeon + Confusion 31&gt;30&gt;28
+3. Dig where 29 **WON'T be** + Confusion 31&gt;30&gt;28
+4. Confusion **Not**-29
+5. Dig + Confusion Ludicolo
+6. Confusion Sudowoodo</Note>
+    </Split>
+    <Split>
+      <Name>Skrub</Name>
+      <Note>* Grab Plusle from room above
+* Exit Dukings
+* Talk to Fateen near exit
+* Go to Agate Village (left)
+* EXP Share behind Eagun's house
+* Enter Eagun's house
+* Go to Relic Cave
+
+### Cipher Peon Doven
+1. SR + Return Carvanha (FW Vanha if bad Espy Atk)
+2. FW/SR + Confusion Spheal
+
+### Cipher Peon Silton (SR if HM)
+1. FW Cacnea + Confusion Shroomish (switch if Blaze)
+2. FW + Confusion Shroomish
+
+### Cipher Peon Kass
+Default|Blaze|Hyper Mode
+--|-|-
+1: FW + Return Baltoy| 1: FW Ralts + X Spec Quil|1: Double Ralts
+2: FW Baltoy + Return Ralts|2: FW Kirlia + Return Baltoy|2: SR + Return Baltoy
+3: FW + Return Kirlia|3: FW + Return|
+
+* Heal if being safe, Quilava in Blaze can work
+---------------
+### Cipher Peon Skrub
+_Wynaut/Geodude or Wynaut/Clamperl_
+1. X Spec Espeon + Confusion Geodude/Clamperl
+2. X Spec Espeon + Confusion Geodude/Clamperl
+3. SR Wynaut + Confusion Hitmontop (FW Wynaut if Blaze)
+4. FW + Confusion Wynaut
+5. Finish Wynaut
+
+**Bad Leads**
+
+_Wynaut/Hitmontop_
+1. X Spec Espeon + Confusion Hitmontop (68%)
+2. SR Wynaut + Confusion Hitmontop (Geodude if Top died)
+3. SR Wynaut + Confusion Geodude
+4. Call + Confusion Clamperl
+5. FW + Confusion Wynaut
+
+_Hitmontop/Geodude_
+1. X Spec Espeon + Confusion Hitmontop (68%)
+2. Dig + Confusion Clamperl
+3. Confusion Geodude
+4. Call + X Special
+5. FW + Confusion Wynaut
+
+_Geodude/Clamperl_
+1. X Spec Espeon + Confusion Clamperl (Geodude digs)
+2. Dig + Confusion Hitmontop (68%)
+3. Confusion Geodude
+4. Call + X Special
+5. FW + Confusion Wynaut</Note>
+    </Split>
+    <Split>
+      <Name>Dakim</Name>
+      <Note>* Leave Eagun's house
+* Go to house below shop, talk to man on couch
+* Shop
+  * Buy 7 Hyper Potions (11 if no vitamin)
+  * 2 Full Heals
+  * 1 Revive
+  * 1 Calcium / Carbos (for Quilava)
+* Go back to Eagun's house
+* Check email (use vitamin here if you got one)
+* Purify Quilava
+* Leave for Mt Battle (right)
+
+### Rider Turo (get Blaze pls)
+1. FW + Confusion Numel
+2. FW + Confusion Trapinch (get Blaze here)
+
+### Hunter Drovic
+1. FW Baltoy + Confusion Swinub (double into Swinub if not Blaze)
+2. FW + Confusion Larvitar
+3. _(FW Baltoy + attack Ty into Blaze)_
+
+### Rider Kimit
+1. FW Sandshrew + Confusion Geodude (Psybeam over **REFLECT** in slot 3)
+2. FW + Psybeam Numel
+
+* Heal Espeon if dead to Bite
+
+### Rider Riden
+1. FW Baltoy + Confusion Pineco
+2. Dig Houndour + Psybeam Graveler (Return Baltoy if it lived and didn't dig)
+3. Call + Return
+
+### Hunter Telia
+_Lileep Lead:_
+1. FW + Confusion Lileep
+2. Dig + Psybeam above-ground
+3. Psybeam Trapinch
+4. Dig + Return
+5. Psybeam Trapinch
+
+_Barboach/Trapinch_
+1. FW Trapinch + Psybeam Barboach
+2. FW + Psybeam Lileep
+3. Dig + Psybeam (miss)
+4. Psybeam Trapinch
+
+* Heal Ty if dead to Psybeam
+* Swap FW to slot 1 on Ty
+* EXP Share on Espeon
+
+### St. Performer Nortz
+1. FW (range) / Dig Spinda + Psybeam Cacnea
+2. Psybeam Spinda if Dig
+2. FW Kadabra + Return Spinda (Call if Spinda dead / Return Kadabra if Ty isn't 38)
+
+### Hunter Weeg
+1. X Spec Espeon + Confusion Graveler
+2. Dig + Psybeam Sandslash / Confusion Vibrava
+3. Psybeam Vibrava / Sandslash
+
+* Heal Ty if dead to Faint Attack
+* Heal Espy if dead to Bite
+
+### Cipher Peon Kison
+_Duskull 40% Psybeam at Lv38_
+
+_Torment AI (should always be this with aggressive healing)_
+
+Koffing Lead | Duskull Lead
+--|-
+1: FW Houndour + Confusion Koffing | 1: FW Duskull + Return Houndour
+2: FW Duskull + Return Houndour | 2: FW Houndour + Confusion Koffing
+3: FW Kirlia + Call | 3: FW Kirlia + Call
+
+### Cipher Peon Berin
+1. FW Bottom + Confusion Top
+2. FW + HH
+
+* (Heal Ty to full. Heal Espy to high/full)
+--------
+### Cipher Admin Dakim
+_Golem / Camerupt Lead_
+1. FW Metang + X Special
+2. X Spec Espeon + Psybeam Golem / Camerupt
+3. Dig + Psybeam Camerupt / Golem
+4. Psybeam Marshtomp
+5. X Spec Espeon + Psybeam Entei
+
+_if Metang survived_
+
+2. X Spec Espeon + Psybeam Golem/Camerupt (FW + Psybeam if EQ can KO Ty)
+3. FW Metang + Psybeam Marshtomp
+4. FW Entein + Psybeam Cam/Golem (X Spec Espeon + Psybeam)
+5. X Spec Espeon + Psybeam Entei
+
+_Marshtomp Lead_
+(x/8+/0+ Speed)
+1. FW Metang + X Special
+2. X Spec Espeon + Psybeam Golem/Camerupt
+3. Dig + Psybeam Camerupt/Golem
+4. Psybeam Marshtomp
+5. X Spec Espeon + Psybeam Entei
+
+_Marshtomp Lead_
+(31-/7-/x Speed)
+1. X Spec Espeon + Psybeam Marshtomp
+2. FW Metang + X Special
+3. Dig + Psybeam Golem
+4. Psybeam Camerupt
+5. X Spec Espeon + Psybeam Entei</Note>
+    </Split>
+    <Split>
+      <Name>Venus</Name>
+      <Note>* Leave and go to Agate
+* Talk to Eagun
+* Leave and go to Mystery Lab (Down-right)
+* Leave and go to Pyrite Town (down-left)
+* Enter Police Station
+* Grab Jail Key from table
+* Grab Elevator Key from Ferma
+* Enter Pyrite Building and walk along bottom to not encounter Kai
+
+- 3 Hyper Potions by hotel
+- Go through hotel to get Powerup Part from Perr
+- Deliver to Kids Grid, talk to Nett downstairs
+- Shop on way to Silva
+  - 8 Hyper Potions (skip if Agate shop + under chest)
+  - 2 Full Heals (skip if haven't used any)
+  - 1-2 Revives
+  - 2 TM17s
+  - 1 TM38
+  - 1 TM10
+- R-Disk from Silva
+
+* Disk Scanner open menu
+  * Hyper Potion Espeon
+  * Hyper Potion Typhlosion
+  * Teach Hidden Power over Return (slot 2)
+  * Teach Protect over Helping Hand (slot 4)
+  * Teach Protect over Smokescreen (slot 2)
+  * Teach Fire Blast over Sunny Day (mash A)
+  * Use R-Disk
+* Get 3 Rare Candies in Venus' room
+
+---------
+
+## Cipher Admin Venus
+### _**Steelix**/Delcatty_
+1. Protect + X Special
+2. FW Delcatty + X Special (FB if EQ did less than 60%)
+3. FB Steelix + Psybeam Banette
+4. FB Suicune + Psybeam Vileplume (FB plume + Protect if dead to SR)
+5. FW + HP Suicune
+
+_Delcatty targets Typhlosion_
+1. Protect + X Special
+2. FW + Psybeam Delcatty
+3. X Special + Psybeam Banette
+4. FW Steelix + Psybeam Vileplume
+5. FB / Heal Espeon + HP Suicune
+6. HP Suicune
+
+_female Typhlosion_
+1. FB Delcatty + Protect
+2. FB Banette+ X Spec Ty
+3. FB Steelix + X Special
+4. FB Suicune + Psybeam Vileplume
+5. FB + HP Suicune
+
+### _**Banette**/Delcatty_
+1. FB Delcatty + Protect
+2. FB Banette + X Spec Ty
+3. FW Delcatty + X Special (FW Steelix if female Ty)
+4. FW Steelix + Psybeam Vileplume (FB Vileplume + HP Suicune)
+5. FB + HP Suicune
+
+_Delcatty targets Typhlosion_
+1. X Special Espeon + Protect
+2. X Special Espeon + Psybeam Banette
+3. FB Steelix + Psybeam Delcatty
+4. Protect + Psybeam Vileplume (FB Vileplume + HP Suicune)
+5. FB + HP Suicune
+
+### _**Vileplume**/Delcatty_
+1. X Spec Espeon + Psybeam Delcatty (can X Spec + Protect before this to cut 2 FB)
+
+_Delcatty lived (11/16)_
+
+2. FB Vileplume + X Special
+3. FB Steelix (FW if +1) + Psybeam Banette
+4. FB (FW +1) + HP Suicune
+
+_Delcatty died (5/16)_
+
+2. FB Steelix (FW +1) + Psybeam Vileplume
+3. FB Banette + X Spec Ty / HP Suicune
+4. Protect + HP Suicune
+5. FB + HP Suicune
+
+_Delcatty targets Typhlosion_
+1. X Spec Espeon + Protect
+2. X Spec Espeon + Psybeam Banette
+3. FB Steelix + Psybeam Delcatty
+4. Protect + Confusion Vileplume
+5. FB + HP Suicune</Note>
+    </Split>
+    <Split>
+      <Name>Enter Lab</Name>
+      <Note>* Follow Venus through right door
+### Hunter Frena
+_Gligar / Shroomish_
+
+1. FW/FB + Psybeam Gligar
+2. FW Shroomish + Psybeam Teddy
+3. FW + Psybeam
+
+_Gligar / Teddy or Jigglypuff_
+
+1. FW/FB + Psybeam Gligar
+2. FW Jiggly + Psybeam other
+3. FW + Psybeam
+
+_Shroomish / Teddiursa or Jigglypuff_
+
+1. FW Jigglypuff + Psybeam Shroomish (switch if Teddy)
+2. FW/FB + Psybeam Gligar
+3. FW + Psybeam
+
+_Teddiursa / Jigglypuff_
+
+1. FW Jigglypuff + Psybeam Teddiursa
+2. FW/FB + Psybeam Gligar
+3. FW + Psybeam Shroomish
+
+* Answer Yes to her question
+
+### Chaser Liaks
+
+1. FW grass + HP Kirlia
+2. FW grass + HP Kirlia
+  a. Protect Espeon if Kirlia died, or FB Stantler + Confusion grass)
+3. FW + Psybeam Stantler
+
+### Bodybuilder Lonia
+#### Dunsparce targets Espeon
+_Dunsparce / Octillery_
+
+1. FW Dunsparce + HP Octillery
+2. FB Masquerain + Psybeam Dunsparce
+3. FB Piloswine + Heal
+
+_Dunsparce / Masquerain_
+1. FB Masquerain + Psybeam Dunsparce
+2. FW Dunsparce + HP Octillery
+3. FB Piloswine + Heal
+
+_Masquerain / Octillery_
+1. FB Masquerain + HP Octillery
+2. FB Piloswine + Confusion Dunsparce
+3. Heal + Confusion (Psybeam if bad roll)
+
+* Heal Espeon to near full, heal Ty if dead to Sneasel
+
+#### Dunsparce targets Typhlosion
+
+_Dunsparce / Octillery_
+
+1. Protect + Psybeam Dunsparce
+2. FB + HP Octillery
+3. FB Piloswine + Psybeam Dunsparce
+
+_Dunsparce / Masquerain_
+1. Protect + Confusion Dunsparce
+2. FB Masquerain + Confusion (Psybeam if bad roll) Dunsparce
+3. FB Piloswine + HP Octillery
+
+_Masquerain / Octillery_
+1. FB Masquerain + HP Octillery
+2. FB Piloswine + Confusion Dunsparce
+3. Heal + Confusion (Psybeam if bad roll)
+
+* Heal Espeon to near full, heal Ty if dead to Sneasel
+
+### Rider Nelis
+_Sneasel / Seviper or Sneasel / Corsola_
+
+1. FB Sneasel + Confusion Seviper (HP Corsola)
+2. FB Loudred + ^^^^^^^^^^^^^^^^^^^^^^^^
+
+_Sneasel / Loudred_
+
+1. FB Sneasel + Psybeam Loudred (range)
+2. FB Seviper + HP Corsola
+
+_Corsola / Loudred or Corsola / Seviper_
+
+1. FB Loudred / Seviper + HP Corsola
+2. FB Sneasel + Psybeam Loudred / Confusion Seviper
+
+_Loudred/Seviper_
+
+1. FB Loudred + Confusion Seviper
+2. FB Sneasel + HP Corsola
+
+* Enter and exit train, leave room for subway key
+* Left side of train
+* Get Maingate Key from explosion room
+* Go back and climb stairs
+* Leave the Under (up right map to Shadow Lab)
+* Enter right side of lab</Note>
+    </Split>
+    <Split>
+      <Name>Ein</Name>
+      <Note>* _**REMOVE MEMORY CARD AT SOME POINT**_
+* Flip switch
+* Go to left side, down two sets of stairs
+* 3 Elixers
+* Go back up
+
+### Researcher Myron
+1. FB + Confusion (can FW if 23+ IV +SpAtk)
+
+* Grab Card Key and go back to PC
+  * Deposit All (except Plusle)
+  * Manually move Meditite below Umbreon
+  * Save (without memory card)
+
+- Re-enter right side lab
+- Use Card Key to open door
+- Left hallway (_DNA Sample Location_)
+
+### Cipher Peon Cole
+1. Growl and die
+
+* PC
+  * _Withdraw_ Typhlosion
+  * _Move_ Espeon, _Swap_ with Plusle, _place_ Plusle in PC
+* Rare Candy Espeon to 47
+  * Teach Psychic over Confusion (Mash A)
+* Give Espeon Twistedspoon
+* Go back to right side / left hallway
+* _DNA Sample_ location on bottom table after elevator
+* Walk below scientist to avoid and go up stairs
+
+### Researcher Coren
+1. Psychic Magnemite / Electrode + FW Magneton
+2. Psychic + FW
+
+* Grab Down St. Key from table
+* Hold down after stairs to avoid scientist, go back to PC
+  * _Select-Grab_ Plusle, swap with Espeon
+  * _Unselect_
+  * _Deposit_ Espeon
+  * _Deposit_ Typhlosion
+* Go back and use Down St Key
+
+### Cipher Peon Lare
+1. Growl
+
+* _DNA Sample Location_ down left path after Lare
+
+### Cipher Peon Vana
+1. Growl
+
+* Left after elevator
+
+### Cipher Peon Lesar
+1. Growl
+
+* Right after elevator towards the double elevators
+
+### Cipher Peon Tanie
+1. Growl
+
+* PC
+  * _Select-Grab_ Espeon, _swap_ with Plusle, _swap_ with Typhlosion, _Unselect + Withdraw_ Typhlosion
+* If only 1 sample, location right of the two elevators(?)
+* Check 2 samples in right elevator
+* Take left elevator
+
+### Researcher Kotan
+1. Psychic Electrode + FW Magneton
+2. Psychic (or Psybeam) Ty + FB Ampharos
+  a. If you &lt;16 Speed IV: FW + Psychic Ampharos
+
+------
+### Cipher Peon Remil
+_Vibrava / Kadabra_
+
+No Blaze | Blaze
+--|-
+1: Psybeam Vibrava + X Special (Ty) | 1: X Spec Ty + Protect
+2: Psybeam Swellow + FB Kadabra | 2: Psychic Vibrava + FW Kadabra
+3: Hit Ty to Blaze + FB Kecleon | 3: Psybeam Swellow + FB Kecleon
+
+_Vibrava / Kecleon_ (Kecleon targets Espeon)
+
+No Blaze | Blaze
+--|-
+1: Psychic Vibrava + X Special (Ty) | 1: X Spec Ty + Protect
+2: Psybeam + FB Swellow | 2: Psychic Vibrava + FB Kecleon (Super Potion if Dig)
+3: Hit Ty to Blaze + FB Kecleon | 3: Psybeam Swellow + FW Kadabra
+
+_Vibrava / Kecleon_ (Kecleon targets Typhlosion)
+
+No Blaze | Blaze
+--|-
+1: Psybeam Vibrava + X Special (Espeon) | 1: Psybeam Vibrava + X Spec Espeon
+2: Psybeam Swellow + FB Swellow (Call if Dig) | 2: Psybeam Swellow + Protect
+3: Psychic Kecleon + FB Kadabra | 3: Psychic Kecleon + FB Kadabra
+
+_Vibrava/Swellow_
+
+No Blaze | Blaze
+--|-
+1: Psybeam Vibrava + X Spec Espeon | 1: Psychic + FB Vibrava
+2: Psychic + FB Kecleon | 2: Psychic Kecleon + Protect
+3: Psybeam Swellow | 3: Psybeam Swellow + FB Kadabra
+
+---------
+
+* Heal Espeon to high HP, heal Ty if just out of Blaze
+* Door puzzle
+
+### Cipher Peon Skrub
+_Hitmontop/Wobbufet_
+
+1. Psybeam Hitmontop + X Special
+2. Psybeam Clamperl + FB Wobbufet
+3. Psybeam Graveler
+
+_if still not in Blaze_
+1. Psybeam Hitmontop + X Special
+2. Psybeam + FB Clamperl
+3. hit Ty + FB Wobbufet
+
+_Hitmontop/Graveler_
+
+1. Psybeam Graveler + FB Hitmontop
+2. Psybeam Clamperl + X Special
+3. Call + FB Wobbufet (HP + FW safety)
+
+_setting up Blaze_
+
+1. Psybeam Graveler + X Special
+2. Psybeam Clamperl + FB Hitmontop
+3. hit Ty + FB Wobbufet
+
+* Elixir Typhlosion if out of FB PP
+* Heal Typhlosion if dead to Ice Beam / Quick Attack
+* Heal Espeon if low
+
+---------
+
+## Cipher Admin Ein
+
+* Lanturn Range is 7/8
+
+### Faster than Golbat (26+ Neutral Speed, or 5+ with +Speed)
+
+_Lanturn/Huntail_ (Psybeam Golbat if &lt;6 Psychic PP)
+
+1. Psychic + Dig Lanturn
+2. Psychic Huntail (Lanturn dies)
+3. Psychic Golbat + X Spec Espeon
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Lanturn/Golbat_ (Psybeam Golbat if &lt;6 Psychic PP)
+
+1. X Special + Protect
+2. Psychic Lanturn + FB Golbat
+3. Psychic Huntail + Call
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Lanturn/Altaria_
+
+1. Psychic Lanturn + X Spec Espeon
+2. Psychic Huntail + Protect
+3. Psychic Altaria + FB Golbat
+4. Psychic Raikou
+
+_Huntail/Golbat_
+1. Psychic Huntail + FB Golbat
+2. Psychic Lanturn + X Spec Espeon
+3. Psychic Raikou + Dig/Protect
+4. Psychic Altaria
+
+_Huntail/Altaria_
+
+1. Psychic Huntail + X Spec Espeon
+2. Psychic Lanturn + Protect
+3. Psychic Altaria + FB Golbat
+4. Psychic Raikou
+
+_Golbat/Altaria_  (Psybeam Golbat if &lt;6 Psychic PP)
+
+1. Psychic Golbat + X Spec Espeon
+2. Psychic Huntail + Protect
+3. Psychic Lanturn + Call / FW Lanturn
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+### Slower than Golbat
+
+_Golbat/Altaria_
+1. Psychic Golbat + X Spec Espeon
+2. Psychic Huntail + Protect
+3. Psychic Lanturn + Call / FW Lanturn
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Huntail/Altaria_
+
+1. Psychic Huntail + X Spec Espeon
+2. Psychic Lanturn + Protect
+3. Psychic Golbat + Call
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Lanturn/Altaria_
+
+1. Psychic Lanturn + X Spec Espeon
+2. Psychic Huntail + Protect
+3. Psychic Golbat + Call
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Huntail/Golbat_
+
+1. Psychic Golbat + Protect
+2. Psychic Huntail + Dig Lanturn
+3. Psychic Lanturn (dies to Dig)
+4. X Special + Protect
+5. Psychic Raikou + Dig
+6. Psychic Altaria
+
+_Huntail/Lanturn_
+
+1. Psychic + Dig Lanturn
+2. Psychic Huntail
+3. Psychic Golbat + X Spec Espeon
+4. Psychic Raikou + Dig
+5. Psychic Altaria
+
+_Lanturn/Golbat_
+
+1. Psychic Golbat + Protect
+2. Psychic Lanturn + Dig
+3. Psychic Huntail
+4. Psychic Raikou + X Spec Espeon
+5. Psybeam + Dig
+6. Psychic Altaria</Note>
+    </Split>
+    <Split>
+      <Name>Ein 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Gonzap</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Nascour</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Santa Claus</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Pokémon Colosseum</Name>
+  <Category>Any%</Category>
+</Guide>

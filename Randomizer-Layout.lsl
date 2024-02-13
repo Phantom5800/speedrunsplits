@@ -170,8 +170,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>240</WindowPos.X>
-        <WindowPos.Y>591</WindowPos.Y>
+        <WindowPos.X>233</WindowPos.X>
+        <WindowPos.Y>593</WindowPos.Y>
         <WindowSize.Width>793</WindowSize.Width>
         <WindowSize.Height>742</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
