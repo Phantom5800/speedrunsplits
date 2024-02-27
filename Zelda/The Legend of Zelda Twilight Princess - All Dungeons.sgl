@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Iron Boots</Name>
+      <Note>* Ordon Gate Skip
+* BiT save on File 1
+  * Void + Reset on bridge
+  * Void
+  * Save to File 1 + rest to title
+  * Load File 1
+* Lantern
+* Save Talo
+* Goats
+* Iron Boots
+  * Talk to Bo 7 times</Note>
+    </Split>
+    <Split>
+      <Name>S&amp;S Skip</Name>
+      <Note>* Castle Sewers
+* Castle Rooftop
+* Fuck Hugo
+* S&amp;S Skip</Note>
+    </Split>
+    <Split>
+      <Name>Master Sword</Name>
+      <Note>* First Messenger fight
+* Faron Vessel
+* Kill first 2 bugs
+* Bug on Coro's house
+* Bugs inside Coro's house
+* Dig under gate, kill bugs, enter loading zone after sound effect
+* Tunnel dig
+* Bugs on right wall
+* Bugs in tree trunk
+* Ignore underground bugs
+* **Early Master Sword**
+* Save over File 1 in Grove (before howling)
+* Skull Kid
+* Master Sword puzzle (LD UUU RR DDD LU)</Note>
+    </Split>
+    <Split>
+      <Name>Faron Twilight</Name>
+      <Note>* Warp S. Faron
+* Collect skipped tears 
+* Purple mist
+* Transform and kill bugs before they dig
+  * 10R behind sign (dig and jump attack)
+* Open N. Faron warp
+* Kill 2 bugs by dungeon
+* Transform, burn web, collect tears</Note>
+    </Split>
+    <Split>
+      <Name>Eldin Vessel</Name>
+      <Note>* Save on File 2, reset, load File 2
+* Roll back and BiTE on bridge
+  * Fall from bridge and reset
+  * Void + Load File 2
+* Fight King Bulbin
+* Save File 3 + Reset
+* Load File 2
+* BiTE again
+  * Void + Load File 2 (this is for Monkeys)
+  * Hold B+X+Start as cutscene begins
+  * Load File 3
+* Kill shadow beasts
+* Get Vessel</Note>
+    </Split>
+    <Split>
+      <Name>-Boomerang</Name>
+      <Note>* Enter graveyard
+* Graveyard bug
+  * Transform to collect tear
+* Well clip
+* 3 Basement bugs
+* Early Cannon
+* Talk to Midna and say yes (guy is watching lmao)
+* Warp to N. Faron
+* Ending Blow
+* Enter Forest Temple
+* Free monkey
+* Light lanterns
+* Cross monkeys to Ook</Note>
+    </Split>
+    <Split>
+      <Name>Forest Temple</Name>
+      <Note>* Savewarp File 3
+* Boss key
+* Cross outdoor area and bridge room (left path)
+* LJA to boss door
+  * Go to monkeys and then to the door
+* Diababa fight
+* Heart container
+* Exit Forest Temple</Note>
+    </Split>
+    <Split>
+      <Name>Clawshot</Name>
+      <Note>* Call Epona and leave forest normally
+* Lanyru Gate Clip
+* Jump off bridge
+* Pillar Clip
+* Savewarp on File 3
+* Load File 1
+* Howl at stone, skip both cutscenes, reset
+* Load File 3 (done with all other save files)
+* Pull lever and enter next room
+* Stalactite skips with LJAs
+* Descend staircase and turn the bridge at the south side of floor 1 (roll around the circle)
+* Ascend staircase to Ooccoo
+* Slide off awning to the lower floor
+* Head to Deku Toad through east door of floor 1
+* Early Deku Toad
+* Clawshot</Note>
+    </Split>
+    <Split>
+      <Name>Eldin Twilight</Name>
+      <Note>* Savewarp
+* Ooccoo out of Lakebed
+* Run to Fyer's house
+* Kargarok skip + Faster Kargarok flight
+* Run to Zora domain warp
+* Warp to Kakariko
+
+### Kakariko
+
+* Malo Mart bug
+* Hotel fire bug
+* 20R under staircase
+* Upstairs bug
+  * 10R behind wardrobe (side hop to skip text)
+* Leave and go across the street to abandoned house
+* Jump through window
+* Bomb house skip bugs
+* Go up hill for watchtower bug
+* Leave and go up death mountain trail for those bugs</Note>
+    </Split>
+    <Split>
+      <Name>-Lanayru Vessel</Name>
+      <Note>* Warp to death mountain
+* Transform in the corner
+* Warp rock to Zora's Domain as human
+* Swim out and over waterfall (Rutela Skip)
+* Lanayru Vessel</Note>
+    </Split>
+    <Split>
+      <Name>Lanayru Twilight</Name>
+      <Note>* Bug outside Lanayru spring
+* Lake Hylia warp portal
+* Stepping stones for bug
+* Warp Zora's Domain
+* Wall bug and Rutela skip
+* Waterfall Sidehop
+  * Or drop down right wall to bug
+* 2 lilypad bugs
+* Bug on cliff
+* Swim to UZR
+* Listen to Iza for bug
+* Dash to Castle Town
+* Castle Town warp portal
+* Dash through Castle Town
+* Castle Town bug
+* Warp Lake Hylia
+* Bug behind Fyer's hut
+* 4 Kargarok bugs, bonk, press B to say No to Midna
+* Last small bug
+* Boss Bug</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Snowpeak</Name>
+      <Note>* Warp to Zora's Domain
+* Go down to enter Peak Province
+  * Safety save, failing is run dead
+* UMD
+* Climb mountain
+* Howling stone (exit after one howl)
+* Cave
+* Messenger Skip (LJA past the trigger and void respawn at Yeto)
+* Snowboarding
+* Enter Snowpeak</Note>
+    </Split>
+    <Split>
+      <Name>-Ball &amp; Chain</Name>
+      <Note>* Door on left
+* LJA to heart piece chest
+* Clawshot through ceiling
+* LJA to small key chest
+* Drop down to lower floor
+* Ice Clip
+* Enter the couryard
+* Freezard Skip
+* Kill Darkhammer for Ball &amp; Chain
+  * Quick spin tail 4 times</Note>
+    </Split>
+    <Split>
+      <Name>Snowpeak Ruins</Name>
+      <Note>* Return to courtyard
+* Open small key door on west side
+* Ladder Freeezard Cancel
+* Bedroom key
+* Blizzeta</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Goron Mines</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Bow</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Goron Mines</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Lakebed</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Midna's Desperate Hour</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Arbiter's Grounds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Spinny</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Arbiter's Grounds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Temple of Time</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Dominion Rod</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Temple of Time</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter City</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Double Clawshot</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>City in the Sky</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Light Sword</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Zant</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Palace of Twilight</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Hyrule Castle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Zelda</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ganondorf</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: Twilight Princess</Name>
+  <Category>All Dungeons</Category>
+</Guide>
