@@ -4,7 +4,7 @@
   <X>129</X>
   <Y>191</Y>
   <VerticalWidth>765</VerticalWidth>
-  <VerticalHeight>271</VerticalHeight>
+  <VerticalHeight>317</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -71,7 +71,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>52</TimerHeight>
+        <TimerHeight>75</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:00:01</TimerFormat>
         <OverrideSplitColors>True</OverrideSplitColors>
@@ -99,8 +99,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>128</WindowPos.X>
-        <WindowPos.Y>469</WindowPos.Y>
+        <WindowPos.X>129</WindowPos.X>
+        <WindowPos.Y>518</WindowPos.Y>
         <WindowSize.Width>469</WindowSize.Width>
         <WindowSize.Height>265</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>

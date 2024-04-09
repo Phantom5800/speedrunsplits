@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Enter Snowpeak</Name>
+      <Note>![](C:/Git/Splits/Zelda/images/tp/snowpeak_song.png)</Note>
+    </Split>
+    <Split>
+      <Name>Ball &amp; Chain</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Snowpeak Ruins</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: Twilight Princess IL</Name>
+  <Category>Snowpeak Ruins: All Dungeons</Category>
+</Guide>

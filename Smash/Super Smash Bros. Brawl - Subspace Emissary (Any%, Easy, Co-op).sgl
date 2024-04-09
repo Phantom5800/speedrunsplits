@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Midair Stadium</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Skyworld</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Sea of Clouds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Jungle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Plain</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Lake</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ruined Zoo</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Battlefield Fortress</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Forest</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Research Facility 1</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Lake Shore</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Path to the Ruins</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Cave</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ruins</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Wilds 1</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ruined Hall</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Wilds 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Swamp</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Research Facility 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Outside the Ancient Ruins</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Glacial Peak</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Canyon</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Battleship Halberd Interior</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Battleship Halberd Exterior</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Subspace Bomb Factory 1</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Subspace Bomb Factory 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Entrance to Subspace</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Subspace 1</Name>
+      <Note>![](C:/Git/Splits/Smash/images/PTLocation.png)</Note>
+    </Split>
+    <Split>
+      <Name>Subspace 2</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Olimar</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Porky</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Ridley</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Meta Ridley</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Galleom</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Rayquaza</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Great Maze</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Tabuu</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>Super Smash Bros. Brawl</Name>
+  <Category>Subspace Emissary</Category>
+</Guide>

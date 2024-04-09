@@ -172,7 +172,8 @@
   * Safety save, failing is run dead
 * UMD
 * Climb mountain
-* Howling stone (exit after one howl)
+* Howling stone (exit after one howl)  
+![](C:/Git/Splits/Zelda/images/tp/snowpeak_song.png)
 * Cave
 * Messenger Skip (LJA past the trigger and void respawn at Yeto)
 * Snowboarding
@@ -201,75 +202,277 @@
     </Split>
     <Split>
       <Name>-Enter Goron Mines</Name>
-      <Note />
+      <Note>- Warp N Faron
+  - Safety save for TD
+- Rusl TD (speak twice)
+- Warp Death Mountain
+- Climb to top
+- 30R (70+)
+- Speak to Gor Coron twice
+- Roll to clip past gorons</Note>
     </Split>
     <Split>
       <Name>-Bow</Name>
-      <Note />
+      <Note>- Flame jets
+- LJA over lava to open door
+- Small key down ramp first
+- Stone slab chain pull
+- Shard 1
+- Back to main room for moving magnets
+- Underwater small key
+- Hit switch with clawshot (or clip through with wolf)
+- LJA behind bridge
+- Small key by beamos
+- LJA to Dangoro fight (skip shard 2)
+</Note>
     </Split>
     <Split>
       <Name>Goron Mines</Name>
-      <Note />
+      <Note>- Bow / Boomerang
+- Third shard and purple rupee chest (120+)
+- Backtrack
+- LJA over water / swim back
+  - Bow / Clawshot
+- Clawshot netting on the right
+  - Bow / Iron Boots
+- Shoot down bridge from above
+- Fyrus</Note>
     </Split>
     <Split>
       <Name>Lakebed</Name>
-      <Note />
+      <Note>- Roll to Barnes' shop
+  - Ooccoo / Boomerang
+- Buy Bomb Bag for 120
+- Sell bombs for 45 (45+)
+- Exit shop and use Ooccoo
+- Water bomb chest behind you on dungeon entrance
+- Boss key skip
+- Morpheel</Note>
     </Split>
     <Split>
       <Name>Midna's Desperate Hour</Name>
-      <Note />
+      <Note>- Transform wolf
+- Dash to castle town
+- Telma's bar
+- Push box once and dash jump to window
+- Poe
+- Enter sewers
+- Burn first web as wolf
+- Transform to human and burn second web with lantern
+- Dig in hole
+- Kill first bulblin and run up to top
+- Zelda 2 cutscenes</Note>
     </Split>
     <Split>
       <Name>-Enter Arbiter's Grounds</Name>
-      <Note />
+      <Note>- Warp Lake Hylia
+- Get Auru's memo
+  - Ball &amp; Chain / Auru's Memo
+- Dash down to Fryer
+- Enter Bulblin Camp without boar
+- Bulblin Camp
+  - Clawshot / Boomerang
+- Enter Arbiter's</Note>
+    </Split>
+    <Split>
+      <Name>-Poe Door</Name>
+      <Note>- Pull chain
+- Small key
+  - Lantern / Boomerang
+- Torch room
+- Enter left room
+- LJA through room
+- Stalfos with Ball &amp; Chain
+- Front and left torches
+- Poe 4
+- Poe Scent
+- Leave room
+- Jump to other side using chandelier
+- Push metal box 4 times and open rupee chest (65+)
+- Main room
+- Dig and pull chain
+- Small key
+- Redead rupee drop (85+)
+  - Clawshot / Ball &amp; Chain
+- Poe 2
+- Main room
+- Left room again
+- Destroyed stairs near metal box
+- Cross main room over chandelier
+- Poe 3 room backwards
+- Back to main room and big door</Note>
     </Split>
     <Split>
       <Name>-Spinny</Name>
-      <Note />
+      <Note>- Boss Key early
+- Backwards spinner room
+- Bomb chest before door
+- Kill 3 stalfos
+- Death Sword</Note>
     </Split>
     <Split>
       <Name>Arbiter's Grounds</Name>
-      <Note />
+      <Note>- Savewarp
+- Enter boss room
+- Stallord</Note>
     </Split>
     <Split>
       <Name>-Enter Temple of Time</Name>
-      <Note />
+      <Note>- Mirror Chamber warp portal
+  - Raise mirror because no stallord skip
+- Warp N Faron
+  - Boomerang / Bombs
+  - Save if concerned for bomb boost
+- Bomb Boost to Lost Woods
+- Skull Kid 2
+  - Light torches for bomb chest if low
+- Master Sword pedestal
+- Sacred Grove warp portal
+</Note>
     </Split>
     <Split>
       <Name>-Dominion Rod</Name>
-      <Note />
+      <Note>- Pot on pressure plate
+- Small key
+  - Clawshot / Boomerang
+- Skip Ooccoo
+- Gate Skips
+  - Spinner / Bomb Arrows
+- Skip second statue on switch
+- BA Armos
+- Small key
+- Cross circle room and use small key
+- Regular arrow crystal 3 times to cross room (fuck the lizalfos)
+- Boss Key Early
+  - Spinner / Bomb Arrows
+  - Clawshot / Bomb Arrows
+- Boss Key
+- Jump down left and enter door
+  - Boomerang / Bomb Arrows
+- Small key
+- LJA past electric barrier from switch
+- BA both Armos
+  - Ball &amp; Chain / Bomb Arrows
+- Darknut</Note>
     </Split>
     <Split>
       <Name>Temple of Time</Name>
-      <Note />
+      <Note>- Savewarp
+  - Dominion Rod / Bow
+- Door of Time skip
+- Armogohma</Note>
     </Split>
     <Split>
       <Name>-Enter City</Name>
-      <Note />
+      <Note>- Exit to Sacred Grove
+  - Boomerang / Bomb Arrows
+- Warp Kakariko Village
+- Silver rupee in bell (300)
+  - Can jump up tree with midna if learned during Eldin Twilight
+- Enter sanctuary via back door
+- Talk to Shad, skip cutscene, warp cannon
+  - Say 'Yes' to Midna
+- Fix cannon
+  - Boomerang / Clawshot
+- Enter City</Note>
     </Split>
     <Split>
       <Name>-Double Clawshot</Name>
-      <Note />
+      <Note>- Underwater chest for bombs if short for Zant
+- LJAs over first room
+- Fan Trigger Skip
+  - Transform into wolf before enter the main room
+  - Walk up to door and transform, do not move forward at all, but open the door
+- Exit via window on left
+  - Boomerang / Spinner
+- Bridge
+  - Clawshot / Spinner
+- Argorok cutscene skip
+- Enter east wing
+- Bridge
+  - Clawshot / Boomerang
+- Fan room
+- Block room LJAs
+- Quick Dynalfos fight
+  - Clawshot / Iron Boots
+- Skydive to Aeralfos or Ooccoo Jump if at 2 hearts or less
+- Aeralfos Skip
+- Double Clawshots</Note>
     </Split>
     <Split>
       <Name>City in the Sky</Name>
-      <Note />
+      <Note>- Savewarp
+- Return to main room via window
+- Clawshot up vines to upper outdoor area
+- Clawshot through floor to boss key chest
+- Boss key
+- Drop down
+- Skip turning on fans and LJA across
+- Fan tower room
+- Enter boss door
+- Clawshot vines
+- Argorok</Note>
     </Split>
     <Split>
       <Name>-Light Sword</Name>
-      <Note />
+      <Note>- Put on Iron Boots and enter cannon to exit City
+- Mash B to jump attack and land on the bridge
+- Warp Mirror Chamber
+- Enter Palace
+- West Wing
+- Phantom Zant 1
+- Exit West Wing
+  - Clawshots / Boomerang
+- Place sol 1
+- LJA to East Wing
+- East Wing
+- Phantom Zant 2
+- Place sol 2
+- Light Sword</Note>
     </Split>
     <Split>
       <Name>-Enter Zant</Name>
-      <Note />
+      <Note>- Enter North Wing
+- Place sols
+- Out of bounds LJA
+- Small Key with faster platform spawn
+- Out of bounds LJA to door
+- Platform to Zant Head
+- Void out
+- Boss key shortcut
+- Zant Heads
+- Small Key
+- Early Platform
+- LJA after Early Platform
+- Enter throne room</Note>
     </Split>
     <Split>
       <Name>Palace of Twilight</Name>
-      <Note />
+      <Note>Zant</Note>
     </Split>
     <Split>
       <Name>Hyrule Castle</Name>
-      <Note />
+      <Note>- Exit Palace of Twilight
+- Warp Castle Town
+- Mailman Skip
+- Barrier
+- Enter Hyrule Castle
+- Barrier 1 with 1 bomb
+- Skip barrier 2
+- King Bulblin 4
+- Enter Castle
+- Barrier 3 skip
+- Darknut room
+- Torch puzzle (NE,SW,NW,SE)
+- Dynalfos with bomb
+- Aeralfos
+- Small key
+- Boss key
+- Enter tower
+- Block room
+- Last group of lizalfos
+- Skip darknut
+- Enter final boss</Note>
     </Split>
     <Split>
       <Name>Zelda</Name>

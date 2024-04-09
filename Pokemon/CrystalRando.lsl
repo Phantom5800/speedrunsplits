@@ -4,7 +4,7 @@
   <X>73</X>
   <Y>95</Y>
   <VerticalWidth>1120</VerticalWidth>
-  <VerticalHeight>189</VerticalHeight>
+  <VerticalHeight>282</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -13,12 +13,12 @@
     <BackgroundColor2>FF523A6B</BackgroundColor2>
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
-    <PersonalBestColor>FF16A6FF</PersonalBestColor>
+    <PersonalBestColor>FFFFFFFF</PersonalBestColor>
     <AheadGainingTimeColor>FFFFFFFF</AheadGainingTimeColor>
     <AheadLosingTimeColor>FFFFFFFF</AheadLosingTimeColor>
     <BehindGainingTimeColor>FFFFFFFF</BehindGainingTimeColor>
     <BehindLosingTimeColor>FFFFFFFF</BehindLosingTimeColor>
-    <BestSegmentColor>FF17A6FF</BestSegmentColor>
+    <BestSegmentColor>FFFFFFFF</BestSegmentColor>
     <UseRainbowColor>False</UseRainbowColor>
     <NotRunningColor>FFFFFFFF</NotRunningColor>
     <PausedColor>FF7A7A7A</PausedColor>
@@ -71,7 +71,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>59</TimerHeight>
+        <TimerHeight>50</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>00:00:01</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
@@ -140,6 +140,71 @@
       <Settings />
     </Component>
     <Component>
+      <Path>LiveSplit.Splits.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
+        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
+        <VisualSplitCount>1</VisualSplitCount>
+        <SplitPreviewCount>0</SplitPreviewCount>
+        <DisplayIcons>True</DisplayIcons>
+        <ShowThinSeparators>True</ShowThinSeparators>
+        <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
+        <SplitWidth>20</SplitWidth>
+        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
+        <AutomaticAbbreviations>False</AutomaticAbbreviations>
+        <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
+        <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
+        <AfterNamesColor>FFFFFFFF</AfterNamesColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <BeforeTimesColor>FFFFFFFF</BeforeTimesColor>
+        <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
+        <AfterTimesColor>FFFFFFFF</AfterTimesColor>
+        <OverrideTimesColor>False</OverrideTimesColor>
+        <ShowBlankSplits>True</ShowBlankSplits>
+        <LockLastSplit>True</LockLastSplit>
+        <IconSize>24</IconSize>
+        <IconShadows>True</IconShadows>
+        <SplitHeight>3.6</SplitHeight>
+        <CurrentSplitGradient>Plain</CurrentSplitGradient>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>01FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Alternating</BackgroundGradient>
+        <SeparatorLastSplit>True</SeparatorLastSplit>
+        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <OverrideDeltasColor>False</OverrideDeltasColor>
+        <DeltasColor>FFFFFFFF</DeltasColor>
+        <Display2Rows>False</Display2Rows>
+        <ShowColumnLabels>False</ShowColumnLabels>
+        <LabelsColor>FFFFFFFF</LabelsColor>
+        <Columns>
+          <Settings>
+            <Version>1.5</Version>
+            <Name>Time</Name>
+            <Type>SplitTime</Type>
+            <Comparison>Current Comparison</Comparison>
+            <TimingMethod>Current Timing Method</TimingMethod>
+          </Settings>
+        </Columns>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.TotalPlaytime.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+        <ShowTotalHours>True</ShowTotalHours>
+      </Settings>
+    </Component>
+    <Component>
       <Path>SpeedGuidesLive.dll</Path>
       <Settings>
         <Version>1.3.1</Version>
@@ -153,12 +218,17 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>72</WindowPos.X>
-        <WindowPos.Y>294</WindowPos.Y>
+        <WindowPos.X>76</WindowPos.X>
+        <WindowPos.Y>391</WindowPos.Y>
         <WindowSize.Width>581</WindowSize.Width>
         <WindowSize.Height>451</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
+    </Component>
+    <Component>
+      <Path>
+      </Path>
+      <Settings />
     </Component>
   </Components>
 </Layout>

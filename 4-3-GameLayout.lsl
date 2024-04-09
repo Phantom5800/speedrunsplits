@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>194</X>
   <Y>120</Y>
-  <VerticalWidth>730</VerticalWidth>
-  <VerticalHeight>872</VerticalHeight>
+  <VerticalWidth>780</VerticalWidth>
+  <VerticalHeight>629</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,10 +66,11 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>7</VisualSplitCount>
-        <SplitPreviewCount>2</SplitPreviewCount>
+        <VisualSplitCount>5</VisualSplitCount>
+        <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
@@ -87,7 +88,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>0.8</SplitHeight>
+        <SplitHeight>0</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>0041177B</BackgroundColor2>
@@ -162,9 +163,9 @@
       <Path>LiveSplit.DetailedTimer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <Height>69</Height>
+        <Height>52</Height>
         <Width>200</Width>
-        <SegmentTimerSizeRatio>37</SegmentTimerSizeRatio>
+        <SegmentTimerSizeRatio>34</SegmentTimerSizeRatio>
         <TimerShowGradient>True</TimerShowGradient>
         <OverrideTimerColors>True</OverrideTimerColors>
         <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
@@ -194,38 +195,7 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.CurrentComparison.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Path>LiveSplit.RunPrediction.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -234,8 +204,9 @@
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
         <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
@@ -255,22 +226,18 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.WorldRecord.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
-        <CenteredText>False</CenteredText>
-        <FilterRegion>False</FilterRegion>
-        <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>True</FilterVariables>
-        <FilterSubcategories>True</FilterSubcategories>
       </Settings>
     </Component>
     <Component>
@@ -336,8 +303,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>935</WindowPos.X>
-        <WindowPos.Y>120</WindowPos.Y>
+        <WindowPos.X>975</WindowPos.X>
+        <WindowPos.Y>121</WindowPos.Y>
         <WindowSize.Width>645</WindowSize.Width>
         <WindowSize.Height>879</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
