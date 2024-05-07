@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Hyrule Castle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Eastern Palace</Name>
+      <Note>### Eastern Palace
+* 100R at start</Note>
+    </Split>
+    <Split>
+      <Name>Desert Palace</Name>
+      <Note>### Sahasralasra
+* Get boots
+* 100R and 3 Bombs in house (if getting 2 bottles)
+
+### Overworld
+* Book
+* Early Safety:
+  * Bottle(s) and Net
+  * Fairy Fountain 1 screen west of link's house on way to Desert
+
+### Desert Palace</Note>
+    </Split>
+    <Split>
+      <Name>Tower of Hera</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Master Sword</Name>
+      <Note>### Overworld
+* Leave west and jump down to cave
+* Toadstool</Note>
+    </Split>
+    <Split>
+      <Name>Blue Balls</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Palace of Darkness</Name>
+      <Note>### Overworld
+* Pay monkey (110R)
+
+### Palace of Darkness
+* Left
+* Center / Right
+* Center / Left
+* Center / Right
+  * Hammer Jump  
+    ![](C:/Git/Splits/Zelda/images/alttp/HammerJump.png)
+* Mirror after key in dark room
+* Center / Right
+  * Shoot switch and go right</Note>
+    </Split>
+    <Split>
+      <Name>Thieves Town</Name>
+      <Note>### Overworld
+* Shovel + Flute
+* 2 Bottles and Net (late safety)
+* Flute to 2 for Powder
+* Flute back for dungeon
+
+### Thieves Town
+* First small key
+* Big key
+* Maiden
+* Titan's Mitts!!
+* Blind fight</Note>
+    </Split>
+    <Split>
+      <Name>Skull Woods</Name>
+      <Note>### Overworld
+* 300R in south house
+* Frog
+* Tempered Sword
+* Half magic (safety)
+* 300R north house
+
+### Skull Woods
+* 2nd Entrance Big Key
+* 1st Entrance Fire Rod
+* 2nd Entrance Small Key in pot
+* 3rd Entrance
+* Mothula</Note>
+    </Split>
+    <Split>
+      <Name>Ice Palace</Name>
+      <Note>### Overworld
+* Mirror and Flute to 4 (spooky action)
+* Go to castle DW
+* East and North to Catfish
+* Mirror and get Flippers from ZD (500R)
+* South 2 waterfalls
+* West and take whirlpool to Ice Palace
+
+### Ice Palace</Note>
+    </Split>
+    <Split>
+      <Name>Swamp Palace</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Misery Mire</Name>
+      <Note>### Overworld
+* Flute to DM and get Ether
+
+### Misery Mire
+* Top Left pot key in spike key chest room
+* Cane of Somaria after Big Key
+  * Far right in anti-fairy room
+  * Down, jump down, right
+  * Hookshot and dash up
+  * Back to anti-fairy room</Note>
+    </Split>
+    <Split>
+      <Name>Turtle Rock</Name>
+      <Note>### Overworld
+
+* Massive Safety Strat:
+  * Fly to Link's House
+  * Dark World entrance south
+  * Bomb shop (DW Link House)
+  * Buy Big Bomb (100R)
+  * Mirror and walk to castle
+  * Get Butter Sword and Silvers
+
+- Mirror Flute to Ice Rod
+- Flute to DM
+- Go all the way right into cave
+- Hammer ENW
+
+### Turtle Rock
+
+* Dark Room:
+  1. Right then hold Down to skull
+  2. Right then Down after second fire bar
+  3. Left to door</Note>
+    </Split>
+    <Split>
+      <Name>Ganon's Tower</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ganon</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: A Link to the Past</Name>
+  <Category>Any% NMG</Category>
+</Guide>
