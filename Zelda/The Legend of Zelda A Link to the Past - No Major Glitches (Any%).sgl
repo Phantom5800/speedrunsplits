@@ -11,7 +11,7 @@
 * 100R at start</Note>
     </Split>
     <Split>
-      <Name>Desert Palace</Name>
+      <Name>-Enter Desert Palace</Name>
       <Note>### Sahasralasra
 * Get boots
 * 100R and 3 Bombs in house (if getting 2 bottles)
@@ -20,9 +20,15 @@
 * Book
 * Early Safety:
   * Bottle(s) and Net
-  * Fairy Fountain 1 screen west of link's house on way to Desert
-
-### Desert Palace</Note>
+  * Fairy Fountain 1 screen west of link's house on way to Desert</Note>
+    </Split>
+    <Split>
+      <Name>Desert Palace</Name>
+      <Note>### Desert Palace</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Tower of Hera</Name>
+      <Note />
     </Split>
     <Split>
       <Name>Tower of Hera</Name>
@@ -55,14 +61,18 @@
   * Shoot switch and go right</Note>
     </Split>
     <Split>
-      <Name>Thieves Town</Name>
+      <Name>-Enter Thieves Town</Name>
       <Note>### Overworld
 * Shovel + Flute
 * 2 Bottles and Net (late safety)
 * Flute to 2 for Powder
 * Flute back for dungeon
 
-### Thieves Town
+</Note>
+    </Split>
+    <Split>
+      <Name>Thieves Town</Name>
+      <Note>### Thieves Town
 * First small key
 * Big key
 * Maiden
@@ -70,15 +80,18 @@
 * Blind fight</Note>
     </Split>
     <Split>
-      <Name>Skull Woods</Name>
+      <Name>-Enter Skull Woods</Name>
       <Note>### Overworld
 * 300R in south house
 * Frog
 * Tempered Sword
 * Half magic (safety)
 * 300R north house
-
-### Skull Woods
+</Note>
+    </Split>
+    <Split>
+      <Name>Skull Woods</Name>
+      <Note>### Skull Woods
 * 2nd Entrance Big Key
 * 1st Entrance Fire Rod
 * 2nd Entrance Small Key in pot
@@ -86,27 +99,31 @@
 * Mothula</Note>
     </Split>
     <Split>
-      <Name>Ice Palace</Name>
+      <Name>-Enter Ice Palace</Name>
       <Note>### Overworld
 * Mirror and Flute to 4 (spooky action)
 * Go to castle DW
 * East and North to Catfish
 * Mirror and get Flippers from ZD (500R)
 * South 2 waterfalls
-* West and take whirlpool to Ice Palace
-
-### Ice Palace</Note>
+* West and take whirlpool to Ice Palace</Note>
+    </Split>
+    <Split>
+      <Name>Ice Palace</Name>
+      <Note>### Ice Palace</Note>
     </Split>
     <Split>
       <Name>Swamp Palace</Name>
       <Note />
     </Split>
     <Split>
-      <Name>Misery Mire</Name>
+      <Name>-Enter Misery Mire</Name>
       <Note>### Overworld
-* Flute to DM and get Ether
-
-### Misery Mire
+* Flute to DM and get Ether</Note>
+    </Split>
+    <Split>
+      <Name>Misery Mire</Name>
+      <Note>### Misery Mire
 * Top Left pot key in spike key chest room
 * Cane of Somaria after Big Key
   * Far right in anti-fairy room
@@ -115,7 +132,7 @@
   * Back to anti-fairy room</Note>
     </Split>
     <Split>
-      <Name>Turtle Rock</Name>
+      <Name>-Enter Turtle Rock</Name>
       <Note>### Overworld
 
 * **Massive Safety Strat**:
@@ -129,9 +146,11 @@
 - Mirror Flute to Ice Rod
 - Flute to DM
 - Go all the way right into cave
-- Hammer ENW
-
-### Turtle Rock
+- Hammer ENW</Note>
+    </Split>
+    <Split>
+      <Name>Turtle Rock</Name>
+      <Note>### Turtle Rock
 
 * Dark Room:
   1. Right then hold Down to skull
@@ -148,5 +167,5 @@
     </Split>
   </Splits>
   <Name>The Legend of Zelda: A Link to the Past</Name>
-  <Category>Any% NMG</Category>
+  <Category>No Major Glitches</Category>
 </Guide>

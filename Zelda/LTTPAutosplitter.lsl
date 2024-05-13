@@ -360,7 +360,7 @@
       <Settings>
         <Version>3</Version>
         <Device>SD2SNES COM6</Device>
-        <ResetSNES>False</ResetSNES>
+        <ResetSNES>True</ResetSNES>
         <ShowStatusMessage>False</ShowStatusMessage>
         <Games>
           <Game>
@@ -379,8 +379,16 @@
                     <AutosplitName>Eastern Palace</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Enter Desert Palace</SegmentName>
+                    <AutosplitName>αENTRANCE - Desert Palace - Main Lobby</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Desert Palace</SegmentName>
                     <AutosplitName>Desert Palace</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Tower of Hera</SegmentName>
+                    <AutosplitName>αENTRANCE - Tower of Hera</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Tower of Hera</SegmentName>
@@ -399,12 +407,24 @@
                     <AutosplitName>Palace of Darkness</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Enter Thieves Town</SegmentName>
+                    <AutosplitName>αENTRANCE - Thieves' Town</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Thieves Town</SegmentName>
                     <AutosplitName>Thieves' Town</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Enter Skull Woods</SegmentName>
+                    <AutosplitName>αENTRANCE - Skull Woods mummy statue</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Skull Woods</SegmentName>
                     <AutosplitName>Skull Woods</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Ice Palace</SegmentName>
+                    <AutosplitName>αENTRANCE - Ice Palace</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Ice Palace</SegmentName>
@@ -415,8 +435,109 @@
                     <AutosplitName>Swamp Palace</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Enter Misery Mire</SegmentName>
+                    <AutosplitName>αENTRANCE - Misery Mire</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Misery Mire</SegmentName>
                     <AutosplitName>Misery Mire</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Turtle Rock</SegmentName>
+                    <AutosplitName>αENTRANCE - Turtle Rock - Main Lobby</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Turtle Rock</SegmentName>
+                    <AutosplitName>Turtle Rock</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Ganon's Tower</SegmentName>
+                    <AutosplitName>Ganon's Tower (Bat Crash)</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Ganon</SegmentName>
+                    <AutosplitName>Ganon</AutosplitName>
+                  </Split>
+                </Splits>
+              </Category>
+              <Category>
+                <Name>No Major Glitches</Name>
+                <Splits>
+                  <Split>
+                    <SegmentName>Hyrule Castle</SegmentName>
+                    <AutosplitName>Escape</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Eastern Palace</SegmentName>
+                    <AutosplitName>Eastern Palace</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Desert Palace</SegmentName>
+                    <AutosplitName>DP Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Desert Palace</SegmentName>
+                    <AutosplitName>Desert Palace</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Tower of Hera</SegmentName>
+                    <AutosplitName>ToH Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Tower of Hera</SegmentName>
+                    <AutosplitName>Tower of Hera</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Master Sword</SegmentName>
+                    <AutosplitName>Master Sword</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Blue Balls</SegmentName>
+                    <AutosplitName>Agahnim</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Palace of Darkness</SegmentName>
+                    <AutosplitName>Palace of Darkness</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Thieves Town</SegmentName>
+                    <AutosplitName>TT Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Thieves Town</SegmentName>
+                    <AutosplitName>Thieves' Town</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Skull Woods</SegmentName>
+                    <AutosplitName>SW Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Skull Woods</SegmentName>
+                    <AutosplitName>Skull Woods</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Ice Palace</SegmentName>
+                    <AutosplitName>IP Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Ice Palace</SegmentName>
+                    <AutosplitName>Ice Palace</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Swamp Palace</SegmentName>
+                    <AutosplitName>Swamp Palace</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Misery Mire</SegmentName>
+                    <AutosplitName>MM Overworld</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Misery Mire</SegmentName>
+                    <AutosplitName>Misery Mire</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Enter Turtle Rock</SegmentName>
+                    <AutosplitName>TR Overworld</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Turtle Rock</SegmentName>
