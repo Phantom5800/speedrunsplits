@@ -1,0 +1,159 @@
+{
+  "game": "BS Legend of Zelda",
+  "autostart": {
+    "active": "1",
+    "note": "Run starts on fileselect",
+    "address": "0x1FDE",
+    "value": "0xC5",
+    "type": "eq"
+  },
+  "definitions": [
+    {
+      "name": "D1",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0x80",
+      "type": "eq"
+    },
+    {
+      "name": "D2",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xC0",
+      "type": "eq"
+    },
+    {
+      "name": "D3",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xE0",
+      "type": "eq"
+    },
+    {
+      "name": "D4",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xF0",
+      "type": "eq"
+    },
+    {
+      "name": "D5",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xF8",
+      "type": "eq"
+    },
+    {
+      "name": "D6",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xFC",
+      "type": "eq"
+    },
+    {
+      "name": "D7 (D8 first)",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xFF",
+      "type": "eq"
+    },
+    {
+      "name": "D8 (D8 first)",
+      "note": "Splits on Triforce grab",
+      "address": "0x7439",
+      "value": "0xFD",
+      "type": "eq"
+    },
+    {
+      "name": "Ganon",
+      "note": "Split when leaving the screen after the rescue",
+      "address": "0x1FDE",
+      "value": "0x31",
+      "type": "eq"
+    },
+    {
+      "name": "Bow",
+      "note": "Splits on D grab",
+      "address": "0x743C",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Blue Candle",
+      "note": "Splits on Blue Candle purchase",
+      "address": "0x7424",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Red Candle",
+      "note": "Splits on Red Candle pickup",
+      "address": "0x7424",
+      "value": "0x2",
+      "type": "eq"
+    },
+    {
+      "name": "Ladder",
+      "note": "Splits on Ladder pickup",
+      "address": "0x742C",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Raft",
+      "note": "Splits on Raft pickup",
+      "address": "0x7429",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Blue Flute",
+      "note": "Splits on Flute pickup",
+      "address": "0x7425",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Red Flute",
+      "note": "Splits on Flute pickup",
+      "address": "0x7425",
+      "value": "0x2",
+      "type": "eq"
+    },
+    {
+      "name": "Magic Rod",
+      "note": "Splits on Rod pickup",
+      "address": "0x7428",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Silver Arrows",
+      "note": "Splits on Silvers pickup",
+      "address": "0x7423",
+      "value": "0x2",
+      "type": "eq"
+    },
+    {
+      "name": "Book",
+      "note": "Splits on Book pickup",
+      "address": "0x742A",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Power Bracelet",
+      "note": "Splits on Power Bracelet pickup",
+      "address": "0x742E",
+      "value": "0x1",
+      "type": "eq"
+    },
+    {
+      "name": "Red Ring",
+      "note": "Splits on Red Ring pickup",
+      "address": "0x742B",
+      "value": "0x2",
+      "type": "eq"
+    }
+  ]
+}
