@@ -72,6 +72,13 @@
       "type": "eq"
     },
     {
+      "name": "Master Sword",
+      "note": "Splits on Master Sword pickup",
+      "address": "0x743A",
+      "value": "0x3",
+      "type": "eq"
+    },
+    {
       "name": "Bow",
       "note": "Splits on D grab",
       "address": "0x743C",
