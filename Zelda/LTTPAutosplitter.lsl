@@ -492,6 +492,10 @@
                     <AutosplitName>Master Sword</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Castle Tower</SegmentName>
+                    <AutosplitName>Castle Tower</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Blue Balls</SegmentName>
                     <AutosplitName>Agahnim</AutosplitName>
                   </Split>

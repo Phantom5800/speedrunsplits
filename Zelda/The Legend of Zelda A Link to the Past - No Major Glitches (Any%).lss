@@ -13,7 +13,7 @@
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>19</AttemptCount>
+  <AttemptCount>29</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="05/03/2024 22:50:54" isStartedSynced="True" ended="05/04/2024 02:48:00" isEndedSynced="True">
       <RealTime>03:57:05.2665281</RealTime>
@@ -44,6 +44,18 @@
     <Attempt id="17" started="05/09/2024 21:56:46" isStartedSynced="True" ended="05/09/2024 22:07:33" isEndedSynced="True" />
     <Attempt id="18" started="05/09/2024 22:07:43" isStartedSynced="True" ended="05/09/2024 23:34:42" isEndedSynced="True" />
     <Attempt id="19" started="05/14/2024 03:49:43" isStartedSynced="True" ended="05/14/2024 03:49:45" isEndedSynced="True" />
+    <Attempt id="20" started="05/14/2024 22:04:26" isStartedSynced="True" ended="05/14/2024 22:33:08" isEndedSynced="True" />
+    <Attempt id="21" started="05/14/2024 22:33:34" isStartedSynced="True" ended="05/14/2024 23:18:01" isEndedSynced="True" />
+    <Attempt id="22" started="05/14/2024 23:19:08" isStartedSynced="True" ended="05/14/2024 23:30:58" isEndedSynced="True" />
+    <Attempt id="23" started="05/14/2024 23:31:23" isStartedSynced="True" ended="05/14/2024 23:33:23" isEndedSynced="True" />
+    <Attempt id="24" started="05/14/2024 23:33:32" isStartedSynced="True" ended="05/14/2024 23:44:05" isEndedSynced="True" />
+    <Attempt id="25" started="05/14/2024 23:44:21" isStartedSynced="True" ended="05/14/2024 23:47:32" isEndedSynced="True" />
+    <Attempt id="26" started="05/14/2024 23:47:44" isStartedSynced="True" ended="05/15/2024 01:15:14" isEndedSynced="True" />
+    <Attempt id="27" started="05/15/2024 01:16:58" isStartedSynced="True" ended="05/15/2024 01:17:33" isEndedSynced="True" />
+    <Attempt id="28" started="05/15/2024 01:18:59" isStartedSynced="False" ended="05/15/2024 01:31:31" isEndedSynced="True" />
+    <Attempt id="29" started="05/15/2024 01:32:39" isStartedSynced="True" ended="05/15/2024 03:32:19" isEndedSynced="True">
+      <RealTime>01:59:39.5488251</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -55,7 +67,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:12.1062688</RealTime>
+        <RealTime>00:06:09.0050459</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -109,6 +121,27 @@
         <Time id="18">
           <RealTime>00:06:12.6280205</RealTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:06:15.6324579</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:06:15.5219555</RealTime>
+        </Time>
+        <Time id="22">
+          <RealTime>00:06:15.7278271</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:06:18.2271387</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:06:09.0050459</RealTime>
+        </Time>
+        <Time id="28">
+          <RealTime>00:06:12.9824510</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:06:12.9700462</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -156,16 +189,29 @@
         <Time id="18">
           <RealTime>00:05:29.5922820</RealTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:05:46.3919593</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:05:52.7982890</RealTime>
+        </Time>
+        <Time id="26" />
+        <Time id="28">
+          <RealTime>00:05:42.8182023</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:05:36.6767872</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Desert Palace</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA0wAAAAKJUE5HDQoaCgAAAA1JSERSAAAADQAAAA8IBgAAAD8jRXcAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAAAdUlEQVQ4T2OAAQ0Njf/EYKhyiAaPCQYoeMaFAqwYrBGmAUbv6FDAiYnS9OOCBRwTrQkd49SED+PVBJLEhbFqQtYMYiMrxqkJGwYphtFEa0LGKJpgAsRgFJuQ4wUXxtT04wdBDNaEK+3hwnBNIADiEIMZGBgYABcUiX1+VPdIAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA0wAAAAKJUE5HDQoaCgAAAA1JSERSAAAADQAAAA8IBgAAAD8jRXcAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAdUlEQVQ4T2OAAQ0Njf/EYKhyiAaPCQYoeMaFAqwYrBGmAUbv6FDAiYnS9OOCBRwTrQkd49SED+PVBJLEhbFqQtYMYiMrxqkJGwYphtFEa0LGKJpgAsRgFJuQ4wUXxtT04wdBDNaEK+3hwnBNIADiEIMZGBgYABcUiX1+VPdIAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:25.4857597</RealTime>
+        <RealTime>00:04:23.7684248</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -181,6 +227,16 @@
         <Time id="18">
           <RealTime>00:04:25.4857597</RealTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:04:23.7684248</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:33.2914925</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:10:09.3752159</RealTime>
+        </Time>
+        <Time id="29" />
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -192,7 +248,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:03.2103243</RealTime>
+        <RealTime>00:04:22.6128471</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -228,16 +284,28 @@
         <Time id="18">
           <RealTime>00:05:03.2103243</RealTime>
         </Time>
+        <Time id="20">
+          <RealTime>00:04:22.6128471</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:04:46.8107387</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:05:09.5153393</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:09:24.0788647</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Tower of Hera</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAFAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIAAAACAIBgAAAHN6evQAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAABtklEQVRYR72RwW3DMBRDM0ZH8LHHjpJjx+ixo3TTFET/q2nmy7HjJB94kCVRJIOc7p1pmi4ddf2c8aD381vLw4t4qCDo/PVx+f75/F/5pkQ9PzYeiLFCuvCHl8hfi3GGszpo5QFlu226cPBQ1g7d4bGrhIdTAENg76vjWrGrhBdIczdlP1qF+1CiYvrpfr2bbl0FHvL0s9USFHCDztz3eS4I8vC8q8h5PFxkGc6droS0hLgOuKvYeTwQQ84Aww7X6R14OOi8Yv+GoBTKmDuRodAFC92lp0Bb8de/HrTnDgi9xeYCGZ6r7rME+hGdD2iv91cFukdaKQBeQkjTvVtb9U5eiwJrj7wAHCkxLNCJhQd37C2xKKAZmQD3BLIH1zrpgxaviu//BsgwHvONob/pcO0inPESoDPBnnJewI3RJanXvmLnSRFCTBTuBVKvc9bEtfquyOWkCGRA+FoBQSDfrGi1Vlw/GLs5obmmzvFwrWgrZjwIAZMMF6lFD7vDfdJ0VEK4Fn2i87LeNmkqZJThwkPWKOvtkwYEZQEv0XFXuM+tEh4G/qZsjo+bvix0NB72stDnzOn0C15ML4bz2DYSAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAFAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIAAAACAIBgAAAHN6evQAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAABtklEQVRYR72RwW3DMBRDM0ZH8LHHjpJjx+ixo3TTFET/q2nmy7HjJB94kCVRJIOc7p1pmi4ddf2c8aD381vLw4t4qCDo/PVx+f75/F/5pkQ9PzYeiLFCuvCHl8hfi3GGszpo5QFlu226cPBQ1g7d4bGrhIdTAENg76vjWrGrhBdIczdlP1qF+1CiYvrpfr2bbl0FHvL0s9USFHCDztz3eS4I8vC8q8h5PFxkGc6droS0hLgOuKvYeTwQQ84Aww7X6R14OOi8Yv+GoBTKmDuRodAFC92lp0Bb8de/HrTnDgi9xeYCGZ6r7rME+hGdD2iv91cFukdaKQBeQkjTvVtb9U5eiwJrj7wAHCkxLNCJhQd37C2xKKAZmQD3BLIH1zrpgxaviu//BsgwHvONob/pcO0inPESoDPBnnJewI3RJanXvmLnSRFCTBTuBVKvc9bEtfquyOWkCGRA+FoBQSDfrGi1Vlw/GLs5obmmzvFwrWgrZjwIAZMMF6lFD7vDfdJ0VEK4Fn2i87LeNmkqZJThwkPWKOvtkwYEZQEv0XFXuM+tEh4G/qZsjo+bvix0NB72stDnzOn0C15ML4bz2DYSAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:05.5913402</RealTime>
+        <RealTime>00:02:37.4864492</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -248,6 +316,18 @@
         <Time id="15" />
         <Time id="18">
           <RealTime>00:03:05.5913402</RealTime>
+        </Time>
+        <Time id="20">
+          <RealTime>00:02:51.0741132</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:03:09.8420507</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:02:48.5028088</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:02:37.4864492</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -260,7 +340,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:53.5836108</RealTime>
+        <RealTime>00:03:50.5778217</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -284,6 +364,15 @@
         <Time id="18">
           <RealTime>00:05:53.5836108</RealTime>
         </Time>
+        <Time id="21">
+          <RealTime>00:04:37.8249341</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:04:02.1864897</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:03:50.5778217</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -295,7 +384,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:17.0304578</RealTime>
+        <RealTime>00:01:14.4523078</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -319,6 +408,39 @@
         <Time id="18">
           <RealTime>00:01:17.0304578</RealTime>
         </Time>
+        <Time id="21">
+          <RealTime>00:01:19.2303069</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:01:14.4523078</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:01:17.0319246</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>-Castle Tower</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAxQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAGAAAABkIBgAAACsr7l0AAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA7CAAAOwgEVKEqAAAABZ0lEQVRIS62Uu3HDMBBEWQ5Dl+DQZTB0CQ5diktQqFJchkJmspe6R63WAMTAN7ODwwH3lkd9pl7M83ytdA/VevVKj4Ua1nV9gCk/LTdlPe8+DW9yqdara632cdBA0/n1bZPyy9f7JuqXj8/d4LDJBvptTBOt/ooSzr4w/aCZBp8gDbjj+aFJdEEC7ibUgQKWlPvkhWsHIGDkDvdXgwH1oQHwNGnJ70rfy7Lnhfsb2YQc6vo3g57c9KkBhxKvxmuu1kRDAxX9WyADTBzEnnPqEgaFvAeNGGAiJSj3fndoIPF03oQSjHSfvGmgAr9QRFMLiPws+wt9CxX0J+Z/BVutpgHkE2jlnPtiafIN6qFDgTGhISGtHENJrKaBQheAtz5gB2VNq3pShb6HLnPIk7p8gqwDzPUhEuJPSd3PXYcMFNmIZAQc09P5ZZf26u+CMxyOfCKgLsFRYcaRgJGq5fgEHi2gVMeDmKYfbXpuc20nGMsAAAAASUVORK5CYIIL]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:04:51.1001351</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="3" />
+        <Time id="5" />
+        <Time id="7" />
+        <Time id="15" />
+        <Time id="18" />
+        <Time id="21" />
+        <Time id="26" />
+        <Time id="29">
+          <RealTime>00:04:51.1001351</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -330,7 +452,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:06:56.1570752</RealTime>
+        <RealTime>00:01:28.0803683</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -352,6 +474,13 @@
         <Time id="18">
           <RealTime>00:07:12.5279133</RealTime>
         </Time>
+        <Time id="21">
+          <RealTime>00:06:34.9811690</RealTime>
+        </Time>
+        <Time id="26" />
+        <Time id="29">
+          <RealTime>00:01:28.0803683</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -363,7 +492,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:17.4468386</RealTime>
+        <RealTime>00:07:42.8039668</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -385,26 +514,37 @@
         <Time id="18">
           <RealTime>00:08:46.6284265</RealTime>
         </Time>
+        <Time id="26">
+          <RealTime>00:15:46.6047543</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:07:42.8039668</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Thieves Town</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA+AAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAAA0IBgAAAKC77iQAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAAAmklEQVQ4T5WQyw2AMAxDOwIjcOyRURiFURiFMRipN5DTGFyI+FiyaBP7qSL9Vc55o31Uh34MpSW4lGK2ng3WvglEZolF+KADcF3a3O/61ZwBIFsKREOfAJAGxmVuwrwTSHv1FIYI0wSwYK90hwCI4QhSpqH6DXAt8/4KwWAduuYFWv4MIEStM0Jw9mqVLYOfxKKedd/ocXlTSjsKLkZE3y7p5wAAAABJRU5ErkJgggs=]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA+AAAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAAA0IBgAAAKC77iQAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAmklEQVQ4T5WQyw2AMAxDOwIjcOyRURiFURiFMRipN5DTGFyI+FiyaBP7qSL9Vc55o31Uh34MpSW4lGK2ng3WvglEZolF+KADcF3a3O/61ZwBIFsKREOfAJAGxmVuwrwTSHv1FIYI0wSwYK90hwCI4QhSpqH6DXAt8/4KwWAduuYFWv4MIEStM0Jw9mqVLYOfxKKedd/ocXlTSjsKLkZE3y7p5wAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:33.7922229</RealTime>
+        <RealTime>00:04:13.7046944</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
         <Time id="2" />
         <Time id="3" />
-        <Time id="5" />
         <Time id="7" />
         <Time id="15" />
         <Time id="18">
           <RealTime>00:04:33.7922229</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:04:32.7065586</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:04:13.7046944</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -427,9 +567,6 @@
         <Time id="3">
           <RealTime>00:10:00.2333904</RealTime>
         </Time>
-        <Time id="5">
-          <RealTime>00:09:23.6424640</RealTime>
-        </Time>
         <Time id="7">
           <RealTime>00:10:23.9141758</RealTime>
         </Time>
@@ -439,16 +576,20 @@
         <Time id="18">
           <RealTime>00:05:15.9673177</RealTime>
         </Time>
+        <Time id="26" />
+        <Time id="29">
+          <RealTime>00:05:49.4074278</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Skull Woods</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAArQAAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAAAT0lEQVQ4T2MYHuCGj8R/KJNyADIMhqFClAGQQT+WaIwaSAEYNZByMDQMhGGoEHnAwsbiPy4MVUIaAGnMWPIDA5NtIAgguwqGoVJDFjAwAADn1H5BuZnojgAAAABJRU5ErkJgggs=]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAArQAAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAT0lEQVQ4T2MYHuCGj8R/KJNyADIMhqFClAGQQT+WaIwaSAEYNZByMDQMhGGoEHnAwsbiPy4MVUIaAGnMWPIDA5NtIAgguwqGoVJDFjAwAADn1H5BuZnojgAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:23.9858710</RealTime>
+        <RealTime>00:03:15.1868816</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -459,6 +600,12 @@
         <Time id="15" />
         <Time id="18">
           <RealTime>00:03:23.9858710</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:08:44.8191782</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:03:15.1868816</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -471,7 +618,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:03.2800792</RealTime>
+        <RealTime>00:04:31.2198666</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -495,16 +642,22 @@
         <Time id="18">
           <RealTime>00:05:03.2800792</RealTime>
         </Time>
+        <Time id="26">
+          <RealTime>00:04:31.2198666</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:05:43.3910954</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Ice Palace</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIAAAAB8IBgAAAIZWz4wAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAACFklEQVRYR72UwVXDQBBDUwJluAyOlMKRcnKkDEqgBErxLVjr+Rt5PBucwEPv6a13RyON49in32CaposY2/+Fgt+fnxr/ZAjuxhmlHVT7fJ0u8/mlUdc/6TOjtEIHMnFTMYvZi7pzevgVYMi73j3pcV0DYsgwiCv6I3j7+rhM5+VcjPotj4jdQgU3rRrneW70sx7OWRpCq/tG3BWIoYvFFrCshPch0h37OT1i9oM9PD+jjRCzZe0B6rEBOO9163EvHgnUWR/CRVB7GXWzZFgydL1vOcuesIULiPiZujCMPNjNKqLLvdSUwXXEr0C0eVZqNoN7mPvFYbiAYDeANTrRwqruHvhwHrFXINAqA29y0yPcDWGenEXsCi8ghBhqdcMR0eUBxOEQCHg1IGbZSNy9eqk+6vWMiF8H2LyXC3Q9MjnC3Bu2ZVZDPnATXT/CagAh70tkg0c4GuAQ3ITre+m9YXsMbvKXDPvbaOL0BYPVvz2z1JhfxNRA7N9w/xlHrxzM9d6bPCNuDzVL2MVpCAI8BOaahzOAqHrEbdEaTdiHCLM8RDM3+rnrK0/pIvaKbhANhFdDsNenNX9yNzrz8PByAKENsDSwdmK0kIARqx7RvSNuCwpaNwPIyMn5iAM9vp61gwtEGmXkz/AWXeceomcMkYVauQtR5joTCfO9a3WWvbQeRtWIcUXVQvZ4qMPNq70j1/K+xun0DbXj5aIJVLu2AAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAdAIAAAKJUE5HDQoaCgAAAA1JSERSAAAAIAAAAB8IBgAAAIZWz4wAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAACFklEQVRYR72UwVXDQBBDUwJluAyOlMKRcnKkDEqgBErxLVjr+Rt5PBucwEPv6a13RyON49in32CaposY2/+Fgt+fnxr/ZAjuxhmlHVT7fJ0u8/mlUdc/6TOjtEIHMnFTMYvZi7pzevgVYMi73j3pcV0DYsgwiCv6I3j7+rhM5+VcjPotj4jdQgU3rRrneW70sx7OWRpCq/tG3BWIoYvFFrCshPch0h37OT1i9oM9PD+jjRCzZe0B6rEBOO9163EvHgnUWR/CRVB7GXWzZFgydL1vOcuesIULiPiZujCMPNjNKqLLvdSUwXXEr0C0eVZqNoN7mPvFYbiAYDeANTrRwqruHvhwHrFXINAqA29y0yPcDWGenEXsCi8ghBhqdcMR0eUBxOEQCHg1IGbZSNy9eqk+6vWMiF8H2LyXC3Q9MjnC3Bu2ZVZDPnATXT/CagAh70tkg0c4GuAQ3ITre+m9YXsMbvKXDPvbaOL0BYPVvz2z1JhfxNRA7N9w/xlHrxzM9d6bPCNuDzVL2MVpCAI8BOaahzOAqHrEbdEaTdiHCLM8RDM3+rnrK0/pIvaKbhANhFdDsNenNX9yNzrz8PByAKENsDSwdmK0kIARqx7RvSNuCwpaNwPIyMn5iAM9vp61gwtEGmXkz/AWXeceomcMkYVauQtR5joTCfO9a3WWvbQeRtWIcUXVQvZ4qMPNq70j1/K+xun0DbXj5aIJVLu2AAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:03:38.2005662</RealTime>
+        <RealTime>00:03:14.8922871</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -515,6 +668,12 @@
         <Time id="15" />
         <Time id="18">
           <RealTime>00:03:38.2005662</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:03:30.5123164</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:03:14.8922871</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -527,7 +686,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:08.2938124</RealTime>
+        <RealTime>00:05:03.5945607</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -551,6 +710,12 @@
         <Time id="18">
           <RealTime>00:05:08.2938124</RealTime>
         </Time>
+        <Time id="26">
+          <RealTime>00:05:03.5945607</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:05:08.8924471</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -562,7 +727,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:02.7829810</RealTime>
+        <RealTime>00:08:02.0527216</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
@@ -584,26 +749,37 @@
         <Time id="18">
           <RealTime>00:08:14.5764314</RealTime>
         </Time>
+        <Time id="26">
+          <RealTime>00:08:02.0527216</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:08:10.1295204</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Misery Mire</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA4QAAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAAAg0lEQVQ4T9XM0Q2AIAwEUMbhwwEc0oEcxGH80zRyydHYYpEPveRCU+Cl/ydP+eCWdTwA9m2u2gUztC7XLCdmwOW5H2AANMi7JmphdyDuXHQo6GEWKDXRFqgbBvmzLt6EQN0wKPHQMCYZDkostAtDgDKCGfvHGCIfGGYojHEAvIY+kpROklfJhAAUONkAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAA4QAAAAKJUE5HDQoaCgAAAA1JSERSAAAAFAAAABQIBgAAAI2JHQ0AAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAg0lEQVQ4T9XM0Q2AIAwEUMbhwwEc0oEcxGH80zRyydHYYpEPveRCU+Cl/ydP+eCWdTwA9m2u2gUztC7XLCdmwOW5H2AANMi7JmphdyDuXHQo6GEWKDXRFqgbBvmzLt6EQN0wKPHQMCYZDkostAtDgDKCGfvHGCIfGGYojHEAvIY+kpROklfJhAAUONkAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:57.2733204</RealTime>
+        <RealTime>00:01:52.0877721</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1" />
         <Time id="2" />
         <Time id="3" />
-        <Time id="5" />
         <Time id="7" />
         <Time id="15" />
         <Time id="18">
           <RealTime>00:01:57.2733204</RealTime>
+        </Time>
+        <Time id="26">
+          <RealTime>00:01:52.0877721</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:01:56.9099635</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -616,7 +792,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:08:26.5812061</RealTime>
+        <RealTime>00:06:45.6810090</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -628,20 +804,20 @@
         <Time id="3">
           <RealTime>00:10:47.8500553</RealTime>
         </Time>
-        <Time id="5">
-          <RealTime>00:08:26.5812061</RealTime>
-        </Time>
         <Time id="7">
           <RealTime>00:10:15.4318058</RealTime>
         </Time>
         <Time id="15">
           <RealTime>00:09:36.1474326</RealTime>
         </Time>
+        <Time id="29">
+          <RealTime>00:06:45.6810090</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>-Enter Turtle Rock</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAzQAAAAKJUE5HDQoaCgAAAA1JSERSAAAACgAAABIIBgAAAGK3T0sAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA6/AAAOvwE4BVMkAAAAb0lEQVQoU82O0QnAIAwFHcdxHKPjdAw/O5Yj5M9yGiFipFAo9CAYX45oeE2MsVJ69UE4c6kispcZpCM3kaJ35SFy2l7HHYLxHKftJ7mFV1pFzVTrEHil4xkGbHE3WZpontZ45SORP/5YBIRHaU8IN02lqm+xRX3kAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAzQAAAAKJUE5HDQoaCgAAAA1JSERSAAAACgAAABIIBgAAAGK3T0sAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAA68AAAOvAGVvHJJAAAAb0lEQVQoU82O0QnAIAwFHcdxHKPjdAw/O5Yj5M9yGiFipFAo9CAYX45oeE2MsVJ69UE4c6kispcZpCM3kaJ35SFy2l7HHYLxHKftJ7mFV1pFzVTrEHil4xkGbHE3WZpontZ45SORP/5YBIRHaU8IN02lqm+xRX3kAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
@@ -664,7 +840,7 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:13:08.5952381</RealTime>
+        <RealTime>00:08:43.6984199</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -682,6 +858,9 @@
         </Time>
         <Time id="15">
           <RealTime>00:13:15.7133682</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:08:43.6984199</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
@@ -713,6 +892,9 @@
         <Time id="15">
           <RealTime>00:10:53.9735298</RealTime>
         </Time>
+        <Time id="29">
+          <RealTime>00:12:09.6102403</RealTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -741,6 +923,9 @@
         </Time>
         <Time id="7">
           <RealTime>00:02:18.8578662</RealTime>
+        </Time>
+        <Time id="29">
+          <RealTime>00:08:39.4473081</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>
