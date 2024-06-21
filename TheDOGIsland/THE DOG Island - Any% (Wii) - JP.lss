@@ -652,8 +652,26 @@
       </SegmentHistory>
     </Segment>
     <Segment>
-      <Name>Better Sniffing</Name>
+      <Name>Pupsville Errands</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>RNG Hell</Name>
       <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sandy Desert Errands</Name>
+      <Icon><![CDATA[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]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
           <RealTime>01:13:36.9500000</RealTime>
@@ -663,96 +681,35 @@
         <RealTime>00:20:07.3050000</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
-        <Time id="1">
-          <RealTime>00:36:49</RealTime>
-        </Time>
-        <Time id="2">
-          <RealTime>00:28:23.6910000</RealTime>
-        </Time>
-        <Time id="3">
-          <RealTime>00:26:40.5840000</RealTime>
-        </Time>
-        <Time id="4">
-          <RealTime>00:26:48.6190000</RealTime>
-        </Time>
-        <Time id="5">
-          <RealTime>00:23:39.2310000</RealTime>
-        </Time>
-        <Time id="6">
-          <RealTime>00:23:40.2760000</RealTime>
-        </Time>
-        <Time id="8">
-          <RealTime>00:24:23.1950000</RealTime>
-        </Time>
-        <Time id="9">
-          <RealTime>00:22:27.5740000</RealTime>
-        </Time>
-        <Time id="10">
-          <RealTime>00:21:35</RealTime>
-        </Time>
-        <Time id="11">
-          <RealTime>00:23:44.1700000</RealTime>
-        </Time>
-        <Time id="12">
-          <RealTime>00:20:59.2650000</RealTime>
-        </Time>
-        <Time id="13">
-          <RealTime>00:23:22.5300000</RealTime>
-        </Time>
-        <Time id="14">
-          <RealTime>00:21:39.1800000</RealTime>
-        </Time>
-        <Time id="15">
-          <RealTime>00:22:45.6780000</RealTime>
-        </Time>
-        <Time id="16">
-          <RealTime>00:25:11.9500000</RealTime>
-        </Time>
-        <Time id="17">
-          <RealTime>00:21:38.4170000</RealTime>
-        </Time>
-        <Time id="18">
-          <RealTime>00:21:13.9280000</RealTime>
-        </Time>
-        <Time id="19">
-          <RealTime>00:22:20.7250000</RealTime>
-        </Time>
-        <Time id="20">
-          <RealTime>00:22:02.6170000</RealTime>
-        </Time>
-        <Time id="22">
-          <RealTime>00:24:01.1780000</RealTime>
-        </Time>
-        <Time id="26">
-          <RealTime>00:22:04.0020000</RealTime>
-        </Time>
-        <Time id="28">
-          <RealTime>00:21:39.3570000</RealTime>
-        </Time>
-        <Time id="31">
-          <RealTime>00:22:26.8160000</RealTime>
-        </Time>
-        <Time id="37">
-          <RealTime>00:21:06.2870000</RealTime>
-        </Time>
-        <Time id="38">
-          <RealTime>00:21:19.9990000</RealTime>
-        </Time>
-        <Time id="39">
-          <RealTime>00:20:07.3050000</RealTime>
-        </Time>
-        <Time id="40">
-          <RealTime>00:24:24</RealTime>
-        </Time>
-        <Time id="41">
-          <RealTime>00:21:23.0950000</RealTime>
-        </Time>
-        <Time id="42">
-          <RealTime>00:22:49.1030000</RealTime>
-        </Time>
-        <Time id="43">
-          <RealTime>00:20:30.7580000</RealTime>
-        </Time>
+        <Time id="1" />
+        <Time id="2" />
+        <Time id="3" />
+        <Time id="4" />
+        <Time id="5" />
+        <Time id="6" />
+        <Time id="8" />
+        <Time id="9" />
+        <Time id="10" />
+        <Time id="11" />
+        <Time id="13" />
+        <Time id="14" />
+        <Time id="15" />
+        <Time id="16" />
+        <Time id="17" />
+        <Time id="18" />
+        <Time id="19" />
+        <Time id="20" />
+        <Time id="22" />
+        <Time id="26" />
+        <Time id="28" />
+        <Time id="31" />
+        <Time id="37" />
+        <Time id="38" />
+        <Time id="39" />
+        <Time id="40" />
+        <Time id="41" />
+        <Time id="42" />
+        <Time id="43" />
       </SegmentHistory>
     </Segment>
     <Segment>

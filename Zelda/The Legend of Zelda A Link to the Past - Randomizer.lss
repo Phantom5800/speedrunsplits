@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>The Legend of Zelda: A Link to the Past</GameName>
+  <CategoryName>Randomizer</CategoryName>
+  <LayoutPath>C:\Git\Splits\Zelda\ZeldaGBARando.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">Super Nintendo</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>5</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="05/15/2024 21:41:37" isStartedSynced="True" ended="05/16/2024 01:23:38" isEndedSynced="True" />
+    <Attempt id="2" started="05/16/2024 01:28:01" isStartedSynced="True" ended="05/16/2024 04:28:08" isEndedSynced="True">
+      <RealTime>03:00:07.6300810</RealTime>
+    </Attempt>
+    <Attempt id="3" started="05/18/2024 23:13:00" isStartedSynced="True" ended="05/19/2024 02:11:41" isEndedSynced="True">
+      <RealTime>02:58:40.5149866</RealTime>
+    </Attempt>
+    <Attempt id="4" started="05/19/2024 02:24:40" isStartedSynced="True" ended="05/19/2024 05:19:18" isEndedSynced="True">
+      <RealTime>02:54:38.0111433</RealTime>
+    </Attempt>
+    <Attempt id="5" started="05/21/2024 01:33:49" isStartedSynced="True" ended="05/21/2024 04:22:39" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Personal Best</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:54:38.0111433</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:54:38.0111433</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>03:00:07.6300810</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>02:58:40.5149866</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>02:54:38.0111433</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

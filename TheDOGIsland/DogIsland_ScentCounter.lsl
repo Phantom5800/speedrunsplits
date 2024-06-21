@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3624</X>
-  <Y>-346</Y>
-  <VerticalWidth>725</VerticalWidth>
+  <X>122</X>
+  <Y>155</Y>
+  <VerticalWidth>810</VerticalWidth>
   <VerticalHeight>865</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -87,6 +87,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>E1A005B0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>DD5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>6</VisualSplitCount>
@@ -276,27 +277,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>SpeedGuidesLive.dll</Path>
-      <Settings>
-        <Version>1.3.1</Version>
-        <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
-        <BGColor.R>16</BGColor.R>
-        <BGColor.G>16</BGColor.G>
-        <BGColor.B>16</BGColor.B>
-        <TXTColor.R>255</TXTColor.R>
-        <TXTColor.G>255</TXTColor.G>
-        <TXTColor.B>255</TXTColor.B>
-        <ActiveSplitTxtPath>
-        </ActiveSplitTxtPath>
-        <WindowPos.X>-2890</WindowPos.X>
-        <WindowPos.Y>-350</WindowPos.Y>
-        <WindowSize.Width>647</WindowSize.Width>
-        <WindowSize.Height>1307</WindowSize.Height>
-        <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.WorldRecord.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -313,6 +293,7 @@
         <FilterPlatform>False</FilterPlatform>
         <FilterVariables>True</FilterVariables>
         <FilterSubcategories>True</FilterSubcategories>
+        <TimingMethod>Default for Leaderboard</TimingMethod>
       </Settings>
     </Component>
     <Component>
@@ -387,10 +368,30 @@
     <Component>
       <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.0.1</Version>
-        <Path>887e5c01-f57c-4667-8b2e-8a2a14de89d4</Path>
+        <Version>1.0.0</Version>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>SpeedGuidesLive.dll</Path>
+      <Settings>
+        <Version>1.3.1</Version>
+        <FontName>Consolas</FontName>
+        <FontSize>12</FontSize>
+        <BGColor.R>16</BGColor.R>
+        <BGColor.G>16</BGColor.G>
+        <BGColor.B>16</BGColor.B>
+        <TXTColor.R>255</TXTColor.R>
+        <TXTColor.G>255</TXTColor.G>
+        <TXTColor.B>255</TXTColor.B>
+        <ActiveSplitTxtPath>
+        </ActiveSplitTxtPath>
+        <WindowPos.X>939</WindowPos.X>
+        <WindowPos.Y>156</WindowPos.Y>
+        <WindowSize.Width>816</WindowSize.Width>
+        <WindowSize.Height>1169</WindowSize.Height>
+        <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
   </Components>

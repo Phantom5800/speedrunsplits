@@ -150,7 +150,7 @@
   * Split on fade to black after dialog ends</Note>
     </Split>
     <Split>
-      <Name>Better Sniffing</Name>
+      <Name>Pupsville Errands</Name>
       <Note>* Go to Victory Gang Hideout and talk to Amalia
 * Go to Green Meadows beach
   * Talk to Bill and get Bill’s Victory Gang Badge (33) scent
@@ -176,9 +176,11 @@
   * Talk to Alex again, “Answer Riddle,” select “Nail” (option 2) in riddle
 * Go to Potan’s Clinic for scene with Francis
 ------
-#### Boris to Zoomy Village [Mash A]
-------
-* Turn around and walk forward to meet Clark and get a Bug Cage (40)
+#### Boris to Zoomy Village [Mash A]</Note>
+    </Split>
+    <Split>
+      <Name>RNG Hell</Name>
+      <Note>* Turn around and walk forward to meet Clark and get a Bug Cage (40)
   * NOTE: bug catches are now a very good way to get extra scents
 * Go towards Zoomy Lake for Kurtis scene
 * Go to Zoomy Lake
@@ -188,7 +190,11 @@
 * Return to Zoomy Village 
   * Deliver Black Bass and Cabbage Butterfly to Kurtis and Clark
   * Talk to Elaine near the dojo
-* Go to South Sandy Desert through Hoya Plains (where bees were before)
+* Leave to Hoya Plains</Note>
+    </Split>
+    <Split>
+      <Name>Sandy Desert Errands</Name>
+      <Note>* Go to South Sandy Desert through Hoya Plains (where bees were before)
   * Find Romantic Drop near middle of pyramid
 * Go to Gigili Village
 * Go to North Sandy Desert
