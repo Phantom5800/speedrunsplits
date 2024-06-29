@@ -168,7 +168,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Gold</Name>
-            <Type>SegmentDelta</Type>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
