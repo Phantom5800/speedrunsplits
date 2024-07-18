@@ -10,6 +10,7 @@
     <Region>JPN / NTSC</Region>
     <Variables>
       <Variable name="Version">Gregar</Variable>
+      <Variable name="Legacy Collection">GBA</Variable>
     </Variables>
   </Metadata>
   <Offset>00:00:00</Offset>

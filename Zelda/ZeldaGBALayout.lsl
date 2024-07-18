@@ -66,6 +66,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>11</VisualSplitCount>
@@ -321,7 +322,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>5</OutputDevice>
+        <OutputDevice>6</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
