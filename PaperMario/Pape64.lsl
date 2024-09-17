@@ -2,7 +2,7 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>229</X>
-  <Y>53</Y>
+  <Y>50</Y>
   <VerticalWidth>800</VerticalWidth>
   <VerticalHeight>1232</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -66,6 +66,7 @@
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
+        <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>11</VisualSplitCount>
@@ -321,7 +322,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>1</OutputDevice>
+        <OutputDevice>6</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>

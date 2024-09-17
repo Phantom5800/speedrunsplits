@@ -3,13 +3,13 @@
   <Splits>
     <Split>
       <Name>Rosso</Name>
-      <Note>### Rider Willie
+      <Note>### ╢Rider Willie
 1. Taunt + Confusion (top)
 2. Taunt + Confusion
 
 * Leave and go to Phenac (Left)
 
-### Shady Guy Folly
+### ╢Shady Guy Folly
 1. Taunt + Confusion (top)
 2. Taunt + Confusion
 
@@ -17,7 +17,7 @@
 * 3 Super Potions below Mayor's House
 * Colosseum after talking to mayor
 
-### Team Snagem Wakin
+### ╢Team Snagem Wakin
 1. Taunt + Confusion Corphish
 2. Taunt + Confusion Koffing
 
@@ -32,21 +32,21 @@
 - Go back to Phenac
 - Go to Mayor's House
 
-### Miror B. Peon Folly
+### ╢Miror B. Peon Folly
 1. Bite + Confusion Whismur
 2. Bite + Return Lotad
 
-### Miror B. Peon Trudly
+### ╢Miror B. Peon Trudly
 1. Bite Duskull + Confusion Spinarak
 2. Bite Duskull + PokeBall Makuhita
 
-### Cipher Peon Rosso
+### ╢Cipher Peon Rosso
 1. Ball Dupe Quilava + Confusion Grimer
 2. Bite + Return Spoink
 3. Ball Dupe indefinitely</Note>
     </Split>
     <Split>
-      <Name>Pyrite Colosseum</Name>
+      <Name>Furry Devil</Name>
       <Note>* Swap Quilava with Umbreon
   * Check Quilava stats
      * Ideally 16+ SpAtk IV
@@ -56,7 +56,7 @@
 * Talk to NPC in front of Colo desk and leave
 * Go to start of Pyrite and talk to Cail
 
-### Rouge Cail
+### ╢Rouge Cail
 
 * Farm Call + Hyper Mode when only Seedot is left
 
@@ -66,7 +66,11 @@ No Hyper Mode | Hyper Mode
 2: SR + Confusion Furret | 2: SR + HH Furret
 3: SR + Confusion Machop | 3: SR Ralts + Return Seedot
 4: SR + Confusion Seedot | 4: SR Seedot + Confusion Machop
-
+</Note>
+    </Split>
+    <Split>
+      <Name>Pyrite Colosseum</Name>
+      <Note>
 * Duking - Gear Quest
   * Go behind bookcase and leave
   * Go towards colosseum for cutscenes
@@ -74,19 +78,19 @@ No Hyper Mode | Hyper Mode
 * Go to Colosseum after returning gear
   * Do 8-10 seconds extra movement before colosseum if needed for Quilava
 
-### Hunter Hoks
+### ╢Hunter Hoks
 1. SR Barboach + Confusion Sandshrew (SR Sandshrew if not Hyper Mode)
 2. SR + Confusion
 
-### Chaser Tisler
+### ╢Chaser Tisler
 1. SR Natu + Confusion Meditite (double Medi if not HM)
 2. SR + Return
 
-### Bandana Guy Vilch
+### ╢Bandana Guy Vilch
 1. SR Cacnea + Confusion Electrike (confusion Cacnea if not HM)
 2. SR Vukpix + Confusion Electrike
 
-### Bodybuilder Mirez
+### ╢Bodybuilder Mirez
 _(1/2 to OHKO Goldeen, 9/16 Delibird at +1, 11/16 Bagon at +0)_
 
 1. X Spec Espeon + Confusion Goldeen
@@ -98,13 +102,13 @@ _(1/2 to OHKO Goldeen, 9/16 Delibird at +1, 11/16 Bagon at +0)_
       <Name>Reath &amp; Ferma</Name>
       <Note>* Leave Colosseum
 
-### Cipher Peon Nore
+### ╢Cipher Peon Nore
 _(3/8 to OHKO Pineco at LV28, 9/16 at LV29)_
 1. SR + Confusion Yanma
 2. SR + Confusion Nincada (Surskit should die to incoming SR crit)
 3. SR + Confusion Pineco
 
-### Roller Boy Pike
+### ╢Roller Boy Pike
 _(15/16 OHKO Taillow)_
 1. SR + Confusion Taillow
 2. SR + Return Hoothoot
@@ -112,30 +116,30 @@ _(15/16 OHKO Taillow)_
 * Heal machine if taken big damage
 * Deposit Umbreon in PC
 
-### Bandana Guy Geats
+### ╢Bandana Guy Geats
 1. X Spec Espeon + Confusion Barboach/Larvitar
 2. SR Carvanha + Confusion other
 
 * Can call in the next couple fights if it means getting Flame Wheel
 
-### Hunter Geare
+### ╢Hunter Geare
 _(3/8 to OHKO Remoraid)_
 1. SR + Confusion Remoraid
 2. SR + Confusion Magnemite
 
-### Bodybuilder Akmen
+### ╢Bodybuilder Akmen
 _(7/8 to OHKO Voltorb at +1 lv29)_
 1. X Spec Espeon + Confusion Electrike
 2. SR + Confusion Voltorb
 
-### Rider Raleen
+### ╢Rider Raleen
 _(FW kills Ledyba if Blaze)_
 1. SR (or FW) Ledyba + Confusion Doduo
 2. SR + Return Swablu (Call + Confusion if it gets you FW)
 
 * Heal Quil if dead to random Spheal
 
-### Hunter Tura
+### ╢Hunter Tura
 _(7/16 OHKO Spheal at +1)_
 
 Has FW | No FW
@@ -149,24 +153,24 @@ _If using Call:_
 
 * Get Revive before next fight
 
-### Hunter Toti
+### ╢Hunter Toti
 1. FW Oddish + Confusion Horsea
 2. SR/FW + Confusion Horsea
 
 * Heal Quilava if dead to Bubblebeam
 
-### Bodybuilder Elidi
+### ╢Bodybuilder Elidi
 1. FW Cacnea + Return Tentacool (FW Tentacool if dead to bubblebeam)
 2. FW + Return Tentacool
 
 * Heal Espeon to full, heal Quilava out of Water Gun range
 
-### Miror B. Peon Reath
+### ╢Miror B. Peon Reath
 1. FW Spinarak + Confusion Remoraid
 2. SR + Confusion Luvdisc (Dig+Confusion if not risking hyper mode or saving HP)
 3. Return Luvdisc
 
-### Miror B. Peon Ferma
+### ╢Miror B. Peon Ferma
 (9/16 OHKO Aipom at +1)
 1. X Spec Espeon + Confusion Aipom (send in Maku)
 2. X Spec Espeon + Confusion Mantine (improv if Aipom lived + Quil dead, prioritize Aipom)
@@ -180,7 +184,7 @@ _If using Call:_
       <Name>Miror B</Name>
       <Note>* Talk to Silva and leave room
 
-### Hunter Doken
+### ╢Hunter Doken
 1. X Spec Espeon + Confusion Qwilfish
 2. FW Linoone + Confusion Goldeen
 3. FW + Confusion Linoone
@@ -189,7 +193,7 @@ _If using Call:_
 * Pick up 2 Hyper Potions from room above(?)
 * Go down stairs and hold right (or down) to avoid trainer
 
-### Rider Twan
+### ╢Rider Twan
 1. Ball dupe Meditite + Confusion Bagon
    a. Can aim at Meditite slot for if it breaks out, almost guarantees second ball
 2. FW + Confusion Numel
@@ -198,14 +202,14 @@ _If using Call:_
 * Heal either or both if below 2/3 HP
 * North and down stairs
 
-### Rider Sosh
+### ╢Rider Sosh
 1. X Spec Espeon + Confusion Mareep
 2. FW Cacnea + Confusion Dunsparce (Blaze-FW on Dunsparce)
 3. FW + Confusion Dunsparce
 
 * Heal at heal machine if low health / potions
 
-### Hunter Zalo
+### ╢Hunter Zalo
 1. X Spec Espeon + Confusion Swablu
 2. FW Swablu + Confusion Lotad (FW Lotad if Fly)
 3. FW Beldum + Confusion Lombre
@@ -217,7 +221,7 @@ _Blaze Strat:_
 
 * Heal Quil to high HP
 
-### Miror B.
+### ╢Miror B.
 1. X Spec Espeon + X Special
 2. X Spec Espeon + Confusion 31&gt;30&gt;28
 3. Dig where 29 **WON'T be** + Confusion 31&gt;30&gt;28
@@ -235,15 +239,15 @@ _Blaze Strat:_
 * Enter Eagun's house
 * Go to Relic Cave
 
-### Cipher Peon Doven
+### ╢Cipher Peon Doven
 1. SR + Return Carvanha (FW Vanha if bad Espy Atk)
 2. FW/SR + Confusion Spheal
 
-### Cipher Peon Silton (SR if HM)
+### ╢Cipher Peon Silton (SR if HM)
 1. FW Cacnea + Confusion Shroomish (switch if Blaze)
 2. FW + Confusion Shroomish
 
-### Cipher Peon Kass
+### ╢Cipher Peon Kass
 Default|Blaze|Hyper Mode
 --|-|-
 1: FW + Return Baltoy| 1: FW Ralts + X Spec Quil|1: Double Ralts
@@ -252,7 +256,7 @@ Default|Blaze|Hyper Mode
 
 * Heal if being safe, Quilava in Blaze can work
 ---------------
-### Cipher Peon Skrub
+### ╢Cipher Peon Skrub
 _Wynaut/Geodude or Wynaut/Clamperl_
 1. X Spec Espeon + Confusion Geodude/Clamperl
 2. X Spec Espeon + Confusion Geodude/Clamperl
@@ -297,27 +301,27 @@ _Geodude/Clamperl_
 * Purify Quilava
 * Leave for Mt Battle (right)
 
-### Rider Turo (get Blaze pls)
+### ╢Rider Turo (get Blaze pls)
 1. FW + Confusion Numel
 2. FW + Confusion Trapinch (get Blaze here)
 
-### Hunter Drovic
+### ╢Hunter Drovic
 1. FW Baltoy + Confusion Swinub (double into Swinub if not Blaze)
 2. FW + Confusion Larvitar
 3. _(FW Baltoy + attack Ty into Blaze)_
 
-### Rider Kimit
+### ╢Rider Kimit
 1. FW Sandshrew + Confusion Geodude (Psybeam over **REFLECT** in slot 3)
 2. FW + Psybeam Numel
 
 * Heal Espeon if dead to Bite
 
-### Rider Riden
+### ╢Rider Riden
 1. FW Baltoy + Confusion Pineco
 2. Dig Houndour + Psybeam Graveler (Return Baltoy if it lived and didn't dig)
 3. Call + Return
 
-### Hunter Telia
+### ╢Hunter Telia
 _Lileep Lead:_
 1. FW + Confusion Lileep
 2. Dig + Psybeam above-ground
@@ -335,12 +339,12 @@ _Barboach/Trapinch_
 * Swap FW to slot 1 on Ty
 * EXP Share on Espeon
 
-### St. Performer Nortz
+### ╢St. Performer Nortz
 1. FW (range) / Dig Spinda + Psybeam Cacnea
 2. Psybeam Spinda if Dig
 2. FW Kadabra + Return Spinda (Call if Spinda dead / Return Kadabra if Ty isn't 38)
 
-### Hunter Weeg
+### ╢Hunter Weeg
 1. X Spec Espeon + Confusion Graveler
 2. Dig + Psybeam Sandslash / Confusion Vibrava
 3. Psybeam Vibrava / Sandslash
@@ -348,7 +352,7 @@ _Barboach/Trapinch_
 * Heal Ty if dead to Faint Attack
 * Heal Espy if dead to Bite
 
-### Cipher Peon Kison
+### ╢Cipher Peon Kison
 _Duskull 40% Psybeam at Lv38_
 
 _Torment AI (should always be this with aggressive healing)_
@@ -359,13 +363,13 @@ Koffing Lead | Duskull Lead
 2: FW Duskull + Return Houndour | 2: FW Houndour + Confusion Koffing
 3: FW Kirlia + Call | 3: FW Kirlia + Call
 
-### Cipher Peon Berin
+### ╢Cipher Peon Berin
 1. FW Bottom + Confusion Top
 2. FW + HH
 
 * (Heal Ty to full. Heal Espy to high/full)
 --------
-### Cipher Admin Dakim
+### ╢Cipher Admin Dakim
 _Golem / Camerupt Lead_
 1. FW Metang + X Special
 2. X Spec Espeon + Psybeam Golem / Camerupt
@@ -431,7 +435,7 @@ _Marshtomp Lead_
 
 ---------
 
-## Cipher Admin Venus
+## ╢Cipher Admin Venus
 ### _**Steelix**/Delcatty_
 1. Protect + X Special
 2. FW Delcatty + X Special (FB if EQ did less than 60%)
@@ -494,7 +498,7 @@ _Delcatty targets Typhlosion_
     <Split>
       <Name>Enter Lab</Name>
       <Note>* Follow Venus through right door
-### Hunter Frena
+### ╢Hunter Frena
 _Gligar / Shroomish_
 
 1. FW/FB + Psybeam Gligar
@@ -521,14 +525,14 @@ _Teddiursa / Jigglypuff_
 
 * Answer Yes to her question
 
-### Chaser Liaks
+### ╢Chaser Liaks
 
 1. FW grass + HP Kirlia
 2. FW grass + HP Kirlia
   a. Protect Espeon if Kirlia died, or FB Stantler + Confusion grass)
 3. FW + Psybeam Stantler
 
-### Bodybuilder Lonia
+### ╢Bodybuilder Lonia
 #### Dunsparce targets Espeon
 _Dunsparce / Octillery_
 
@@ -548,7 +552,7 @@ _Masquerain / Octillery_
 
 * Heal Espeon to near full, heal Ty if dead to Sneasel
 
-#### Dunsparce targets Typhlosion
+#### Dunsparce targets Typhlosion (shifted)
 
 _Dunsparce / Octillery_
 
@@ -568,7 +572,7 @@ _Masquerain / Octillery_
 
 * Heal Espeon to near full, heal Ty if dead to Sneasel
 
-### Rider Nelis
+### ╢Rider Nelis
 _Sneasel / Seviper or Sneasel / Corsola_
 
 1. FB Sneasel + Confusion Seviper (HP Corsola)
@@ -604,7 +608,7 @@ _Loudred/Seviper_
 * 3 Elixers
 * Go back up
 
-### Researcher Myron
+### ╢Researcher Myron
 1. FB + Confusion (can FW if 23+ IV +SpAtk)
 
 * Grab Card Key and go back to PC
@@ -616,7 +620,7 @@ _Loudred/Seviper_
 - Use Card Key to open door
 - Left hallway (_DNA Sample Location_)
 
-### Cipher Peon Cole
+### ╢Cipher Peon Cole
 1. Growl and die
 
 * PC
@@ -629,7 +633,7 @@ _Loudred/Seviper_
 * _DNA Sample_ location on bottom table after elevator
 * Walk below scientist to avoid and go up stairs
 
-### Researcher Coren
+### ╢Researcher Coren
 1. Psychic Magnemite / Electrode + FW Magneton
 2. Psychic + FW
 
@@ -641,22 +645,22 @@ _Loudred/Seviper_
   * _Deposit_ Typhlosion
 * Go back and use Down St Key
 
-### Cipher Peon Lare
+### ╢Cipher Peon Lare
 1. Growl
 
 * _DNA Sample Location_ down left path after Lare
 
-### Cipher Peon Vana
+### ╢Cipher Peon Vana
 1. Growl
 
 * Left after elevator
 
-### Cipher Peon Lesar
+### ╢Cipher Peon Lesar
 1. Growl
 
 * Right after elevator towards the double elevators
 
-### Cipher Peon Tanie
+### ╢Cipher Peon Tanie
 1. Growl
 
 * PC
@@ -665,13 +669,13 @@ _Loudred/Seviper_
 * Check 2 samples in right elevator
 * Take left elevator
 
-### Researcher Kotan
+### ╢Researcher Kotan
 1. Psychic Electrode + FW Magneton
 2. Psychic (or Psybeam) Ty + FB Ampharos
   a. If you &lt;16 Speed IV: FW + Psychic Ampharos
 
 ------
-### Cipher Peon Remil
+### ╢Cipher Peon Remil
 _Vibrava / Kadabra_
 
 No Blaze | Blaze
@@ -709,7 +713,7 @@ No Blaze | Blaze
 * Heal Espeon to high HP, heal Ty if just out of Blaze
 * Door puzzle
 
-### Cipher Peon Skrub
+### ╢Cipher Peon Skrub
 _Hitmontop/Wobbufet_
 
 1. Psybeam Hitmontop + X Special
@@ -739,7 +743,7 @@ _setting up Blaze_
 
 ---------
 
-## Cipher Admin Ein
+## ╢Cipher Admin Ein
 
 * Lanturn Range is 7/8
 
@@ -841,16 +845,464 @@ _Lanturn/Golbat_
 6. Psychic Altaria</Note>
     </Split>
     <Split>
-      <Name>Ein 2</Name>
-      <Note />
+      <Name>-Miror B 2</Name>
+      <Note>* Grab Data Rom and TM26
+* Exit lab to Under (left of down-left)
+* Kids Grid
+* Menu in front of disk scanner
+  * Makuhita to slot 1 (espy slot 2)
+  * Use F-Disk
+* Realgam Tower
+* Left for Miror B
+
+### ╢Cipher Admin Miror B.
+
+* Safer fights (high spatk ty not written in)
+
+#### Ludicolo/Ludicolo
+1. X Spec Espeon / Psychic 45
+
+   _**Loudred**_
+
+   2. FB Loudred / Psychic Ludicolo
+   3.  Dig + HP Golduck
+   4. HP Sudowoodo
+
+   _**Golduck**_
+   
+   2. Protect + HP Golduck
+   3. FB Loudred + Psychic Ludicolo
+   4. FB + HP Sudowoodo
+
+####  45/Loudred
+1. X Spec Espeon / Psychic Ludicolo
+2. FB Loudred / Psychic Ludicolo (HP Golduck)
+3. Dig + HP Golduck (Psychic Ludicolo)
+4. HP Sudowoodo
+
+####  45/Golduck
+1. X Spec Espeon / HP Golduck
+
+   _**Loudred**_
+
+   2. FB Loudred / Psychic Ludicolo
+   3.  Dig + Psychic Ludicolo
+   4. HP Sudowoodo
+
+   _**Ludicolo**_
+   
+   2. FB + Psychic 44 (45 uses Dive)
+   3. Dig + HP Sudowoodo
+   4. Psychic Ludicolo
+
+####  Golduck/Loudred
+1. X Spec Espeon + HP Golduck
+2. FB Loudred + Psychic Ludicolo
+3. Dig + Psychic Ludicolo
+4. HP Sudowoodo</Note>
+    </Split>
+    <Split>
+      <Name>-Dakim 2</Name>
+      <Note>* Heal to Espeon to full if it took damage
+* Elixir Espeon and Ty
+* Right to Dakim
+
+### ╢Cipher Admin Dakim
+
+#### Forretress Lead
+1. HP non-Forry + X Spec Espeon (Psychic if Flygon)
+2. HP non-Forry + FW Forretress (Psychic if Flygon)
+3. HP non-Entei + Protect (Psychic if Flygon)
+4. Psychic + FB Entei
+
+#### Claydol / Whiscash
+1. HP Whiscash + Protect
+2. HP Claydol + X Spec Espeon
+3. Psychic Flygon + FW Forretress
+4. Psychic + FW Entei
+
+#### Flygon / Whiscash
+1. HP Whiscash + Protect
+2. Psychic Flygon + X Spec Espeon
+3. HP Claydol + FW Forretress
+4. Psychic + FW Entei
+
+#### Claydol / Flygon (get fucked)
+1. Psychic Flygon (70ish% range) + Protect
+2. HP Claydol + X Spec Espeon
+3. HP Whiscash + FW Forretress
+4. Psychic + FW Entei</Note>
+    </Split>
+    <Split>
+      <Name>-Venus 2</Name>
+      <Note>* Heal Espeon if took damage, potion Ty if it will level out of Blaze
+* Left, up, left for next trainers, fight right first
+
+### ╢Cipher Peon Arton
+1. HP Piloswine + FW Delibird
+2. Psychic Glalie + FW (HP Ty if not Blaze or going to level out)
+
+### ╢Cipher Peon Baila
+1. Psychic Jumpluff + FW Sunflora (Psybeam Gloom)
+2. Psybeam + FW Gloom (Psychic Jumpluff)
+
+### ╢Cipher Admin Venus
+* If Ty dies to both turn 1, can X-Spec + Protect to avoid ranges
+* **Fire Blast on Bellossom if x/24-/x SpAtk**
+
+#### Raichu / Wigglytuff
+1. Psychic Raichu + FB Wiggly
+2. Psychic Misdreavous + FW Bellossom
+3. Psychic Suicune + X Spec Espeon
+
+#### Raichu / Bellossom
+1. Psychic Raichu + FW Bellossom
+2. Psychic Misdreavous + FB Wiggly
+3. Psychic Suicune + X Spec Espeon
+
+#### Wigglytuff / Bellossom
+1. Psychic Wigglytuff + FW Bellossom
+2. Psychic Raichu + FB Misdreavous
+3. Psychic Suicune + X Spec Espeon
+
+#### Raichu / Misdreavous
+1. Psychic Raichu + FB Misdreavous
+2. Psychic Wigglytuff + FW Bellossom
+3. Psychic Suicune + X Spec Espeon
+
+#### Misdreavous / Wigglytuff
+1. Psychic Misdreavous + FB Wigglytuff
+2. Psychic Raichu + FW Bellossom
+3. Psychic Suicune + X Spec Espeon
+
+#### Misdreavous / Bellossom
+1. Psychic Misdreavous + FW Bellossom
+2. Psychic Raichu + FB Wigglytuff
+3. Psychic Suicune + X Spec Espeon</Note>
+    </Split>
+    <Split>
+      <Name>{Admin Refights}Ein 2</Name>
+      <Note>* Down right to reach cards room, talk to first card slot, use item menu on other two
+* Go right fight Ein
+
+### ╢Cipher Admin Ein
+1. Psybeam non-Rhydon + X Spec Espeon (HP if Starmie)
+2. Psybeam non-Rhydon + Protect (HP if Starmie)
+3. Psybeam non-Rhydon + call (HP if Starmie)
+4. Psychic Raikou + Dig Rhydon
+5. HP Rhydon</Note>
     </Split>
     <Split>
       <Name>Gonzap</Name>
-      <Note />
+      <Note>* Back to card slots, open menu:
+  * Elixir Espeon
+  * Heal Espeon if it took damage
+  * Yellow card
+
+### ╢Cipher Peon Dioge
+1. Psychic Masquerain + FW Ariados
+2. Psychic + FW Heracross
+
+* Poition Ty if dead to Fake Out
+
+### ╢Cipher Peon Klest
+
+#### Espeon not dead to Graveler OR Graveler shifted to Ty (case 1)
+1. HP Graveler + FW Nuzleaf
+2. Psybeam Hariyama + Protect
+3. Protect + FW Nuzleaf
+4. Psybeam + FW Lombre
+
+#### Espeon dead to Graveler but not Nuzleaf (case 2)
+1. Psybeam Nuzleaf + Protect
+2. HP Graveler + FW Nuzleaf
+3. Protect + Protect
+4. Psybeam + FW Hariyama
+
+#### Espeon dead to both (case 3)
+1. Protect + FW Nuzleaf
+2. HP Graveler + FW Hariyama
+3. Protect + Protect
+4. Psybeam + FW Hariyama
+
+* Go up elevator
+* Go up right stairs to left elevator
+
+### ╢Snagem Head Gonzap
+
+#### Crawdaunt / Hariyama
+1. Psychic Hariyama + Protect
+2. HP Crawdaunt + FW Pinsir
+3. Psychic Skarmory + Protect (Protect + FW Shiftry if Skarm can't KO Ty)
+4. Psychic Skarmory + FW Shiftry
+
+#### Crawdaunt / Pinsir
+1. HP Crawdaunt + FW Pinsir
+2. Psychic Hariyama + FW Shiftry
+3. call + FW Skarmory
+
+#### Shiftry / Crawdaunt
+1. HP Crawdaunt + FW Shiftry
+2. Psychic Hariyama + FW Pinsir
+3. call + FW Skarmory
+
+#### Pinsir / Hariyama
+1. Psychic Hariyama + FW Pinsir
+2. HP Crawdaunt + FW Shiftry
+3. call + FW Skarmory
+
+#### Shiftry / Hariyama
+1. Psychic Hariyama + FW Shiftry
+2. HP Crawdaunt + FW Pinsir
+3. call + FW Skarmory
+
+#### Shiftry / Pinsir
+1. Psychic Pinsir + FW Shiftry
+2. Psychic Hariyama + Protect
+3. HP Crawdaunt + FW Skarmory</Note>
+    </Split>
+    <Split>
+      <Name>-Cipher Peon Ston</Name>
+      <Note>* **Teach TM64 Earthquake over Dig**
+* Heal both to full
+
+### ╢Bodybuilder Jomas
+1. Psychic Miltank/P2 + X Spec Espeon (Psychic P2 if no Zangoose lead)
+2. Psychic P2/Miltank + FB Zangoose
+
+### ╢Rider Delan
+#### Absol / Mightyena
+1. HP Absol + FB Mightyena
+2. HP Sharpedo + FW Absol
+
+#### Absol / Sharpedo
+1. HP Sharpedo + FW Absol (can FP if 3+ PP)
+2. HP + FB Absol (FW if FB turn 1)
+
+### ╢Cipher Peon Nella
+1. Psychic Torkoal + Earthquake
+2. HP + Heal
+
+### ╢Cipher Peon Ston
+#### Tropius / Cradily
+1. Psychic Cradily + FB Tropius
+2. Psychic Vileplume + FW Cradily (Psychic Cradily + FW Cacturne)
+3. Psychic + FW Cacturne
+
+#### Tropius / Vileplume
+1. Psychic Vileplume + FB Tropius
+2. Psychic Cradily + FW Cacturne
+3. Psychic + FW Cradily
+
+### Tropius / Cacturne
+1. Protect + FB Tropius
+2. Psychic Vileplume + FW Cacturne
+3. Psychic + FW Cradily</Note>
     </Split>
     <Split>
       <Name>Nascour</Name>
-      <Note />
+      <Note>## ╢Cipher Nascour
+
+* **27+/3+/0+ outspeeds Xatu at Lv49, 22+/0+/0+ outspeeds Xatu at Lv50**
+* Blaze FB will usually KO Dusclops/Xatu. Blaze FW will usually KO Metagross
+
+### ╢Gardevoir / Walrein
+
+1) X Spec Espeon + X Spec (send in medi)
+2) FB Gardevoir + Psychic Walrein
+3) FB Gardevoir + Psychic Blaziken
+4) FB + Psychic Dusclops (protect if hit by Gardevoir, can Blaze FB Xatu or Blaze FW Metagross)
+5. FB + Psychic Xatu
+
+   _**Turn 1 X Specials**_
+
+   2) SR + Psychic Walrein
+   3) FB Gardevoir + Psychic other
+   4) FB Gardevoir + Psychic other
+   5) FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Gardevoir / Dusclops
+1. X Spec Espeon + Psychic Dusclops
+
+   _**Xatu or Blaziken**_
+
+   2. Protect + X Special
+   3. FB Gardevoir + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+   _**Walrein**_
+
+   2. FB Gardevoir + X Special
+   3. FB Gardevoir + Psychic Walrein (FW if Blaze)
+   4. FB + Psychic Xatu (Protect + Psychic Xatu if hit by Psychic)
+   5. FB + Psychic Dusclops (FB Metagross + Psychic Dusclops) (FW if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. X Spec Espeon + Psychic non-Guard
+   3. FB Gardevoir + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Gardevoir / Xatu
+
+1. X Spec Espeon + X Special (kill Plusle)
+2. FB Gardevoir + Psychic Xatu
+3. FB Gardevoir + Psychic other
+4. FB +  Psychic non-clops (Protect if dead to Dusclops)
+5) FB + Psychic Dusclops (FB Metagross + Psychic Dusclops) (FW if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. SR + Psychic Xatu
+   3. FB Gardevoir + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Gardevoir / Blaziken
+
+1. X Spec Espeon + Psychic Blaziken
+
+   _**Dusclops**_
+
+   2. FB Gardevoir + Psychic Dusclops
+   3. Protect + X Special
+   4. FB Gardevoir + Psychic Walrein
+   5. FB Metagross + Psychic Dusclops (FW if Blaze)
+
+   _**Xatu or Walrein + OHKO'd by Waterfall**_
+
+   2. Protect + X Special
+   3. FB Gardevoir + Psychic Xatu
+   4. FB Gardevoir + Psychic Walrein
+   5. FB Metagross + Psychic Dusclops (FW if Blaze)
+
+   _**Walrein**_
+
+   2. X Spec Espeon + Psychic Gardevoir
+   3. EQ + Psychic Walrein
+   4. FB + Psychic Xatu (Protect if dead to Dusclops)
+   5. FB + Psychic Dusclops (FW Meta if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. X Spec Espeon + Psychic non-Guard
+   3. FB Gardevoir + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Xatu / Blaziken
+
+1. X Special Espeon + Psychic Blaziken
+2. Protect + Psychic Dusclops
+
+   _**Walrein**_
+   
+   3. X Spec Espeon + Psychic Xatu
+   4. EQ + Psychic Walrein (Protect + Psychic Gardevoir if hit by Waterfall)
+   5. FW Metagross + Psychic Gardevoir (EQ + Psychic Walrein)
+
+   _**Gardevoir**_
+
+   3. X Spec Espeon + Psychic Xatu
+   4. Protect + Psychic Gardevoir (EQ + Psychic Walrein if not hit by Gard)
+   5. EQ + Psychic Walrein (FW Metagross + Psychic Gardevoir)
+   6. FW Metagross + call
+
+   _**Turn 1 X Specials**_
+
+   2. X Spec Espeon + Psychic Dusclops
+   3. FB Gard/Xatu + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Xatu / Dusclops
+
+1. X Spec Espeon + Psychic Dusclops (send in medi)
+2. X Spec Espeon + Psychic Blaziken
+3. Protect + Psychic Xatu (FB + Psychic Xatu if Walrein)
+4. EQ + Psychic Walrein
+5) FW Metagross + Psychic Gardevoir (FB Metagross + Psychic Gardevoir) (FW if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. X Spec Espeon + Psychic Blaziken
+   3. FB Xatu/Gard + Psychic other (can protect if Walrein/Xatu)
+   4. FB Gard + Psychic other
+   5. FB Metagross + Psychic other (FW if Blaze)
+
+### ╢Xatu / Walrein
+
+1. X Spec Espeon+X Special (send medi)
+2. Protect+Psychic Walrein
+3. FB Gardevoir+Psychic Dusclops/Blaziken
+4. FB Gardevoir+Psychic Blaziken/Dusclops
+5) FW+Psychic Metagross (call if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. SR+Psychic Xatu
+   3. Protect+Psychic non-Walrein (FB Gard+Psychic Walrein if Gard/Walrein)
+   4. FB Gardevoir+Psychic other
+   5. FB Metagross+Psychic other (FW if Blaze)
+
+### ╢Walrein / Blaziken
+
+_Doesn't change with turn 1 x specials_
+
+1. X Spec Espeon+Psychic Blaziken (send in medi)
+2. X Spec Espeon+Psychic Dusclops
+3. FB Gardevoir+Psychic Walrein (Heal if dead to Psychic?)
+4. FB Gardevoir+Psychic Xatu
+5. FW+call (FB Meta+Psychic Gard?)
+
+### ╢Blaziken / Dusclops
+
+1. X Spec Espeon+X Special (send medi)
+2. Protect+Psychic Dusclops
+3. FB Gardevoir/Xatu+Psychic Blaziken (double target Blaziken if Walrein)
+4. FB Gardevoir/Xatu+Psychic Walrein (Protect+Psychic Gard, FB Gard if Attract)
+5) FB Metagross+Psychic other
+
+   _**Turn 1 X Specials**_
+
+   2. SR+Psychic Dusclops
+   3. FB Gard/Xatu+Psychic Blaziken (Protect+Psychic Blaziken if Walrein)
+   4. FB Gard/Xatu+Psychic Walrein
+   5. FB Metagross+Psychic other (FW if Blaze)
+
+### ╢Walrein / Dusclops
+
+1. X Spec Espeon + Psychic Dusclops
+
+   _**Gardevoir**_
+
+   2. Protect + X Special
+   3. FB Gardevoir + Psychic Walrein
+   4. FB Gardevoir + Psychic Blaziken
+   5. FB Metagross + Psychic Xatu (FW if Blaze)
+
+   _**Blaziken**_
+
+   2. X Spec Espeon + Psychic Blaziken
+   3. FB Gardevoir + Psychic Walrein
+   4. FB Gardevoir + Psychic Xatu
+   5. FW + Psychic Metagross (call if Blaze)
+
+   _**Xatu**_
+
+   2. X Spec Espeon + Psychic Xatu
+   3. FB Gardevoir + Psychic Walrein
+   4. FB Gardevoir + Psychic Blaziken
+   5. FW + Psychic Metagross (call if Blaze)
+
+   _**Turn 1 X Specials**_
+
+   2. X Spec Espeon + Psychic Blaziken/Xatu (Psychic Walrein if Gardevoir)
+   3. FB Gardevoir + Psychic other
+   4. FB Gardevoir + Psychic other
+   5. FW + Psychic Metagross</Note>
     </Split>
     <Split>
       <Name>Santa Claus</Name>

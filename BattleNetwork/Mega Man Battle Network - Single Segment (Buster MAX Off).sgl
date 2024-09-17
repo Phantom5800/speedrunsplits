@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>FireMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/01_FirstInternetTrip.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/02_Oven1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/03_Oven2.png)</Note>
+    </Split>
+    <Split>
+      <Name>NumberMan</Name>
+      <Note># RNG Doors
+* First digit is correct: 一ノクライ
+* Second digit is correct: 十ノクライ
+* Too High: 大
+* Too Low: 小
+
+# Doors
+1. 09
+2. 30
+3. RNG
+4. 15
+5. RNG
+6. RNG
+</Note>
+    </Split>
+    <Split>
+      <Name>GutsMan</Name>
+      <Note>* Mayl's piano
+* Metro conductor (yes, yes, first option, no)
+* Dex</Note>
+    </Split>
+    <Split>
+      <Name>StoneMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/06_Internet2.png)</Note>
+    </Split>
+    <Split>
+      <Name>Polar Bear Skip</Name>
+      <Note>### Waterworks
+* Escape L
+* Receptionist
+* 5000Z in vending machine
+* Dad's office
+  * HiCannon J
+  * Dad's computer
+* Go home
+
+### ACDC
+* Talk to Yai in class
+* HIGSBY
+  * Chip trader
+  * ElecSword E (5000Z)
+* Metro
+
+### Waterworks
+* Chaud
+* Dad's lab coat
+* Froid
+* Recov200 + 3000Z (top right and bottom right)
+* Water fountain
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/07_Waterworks1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/08_Waterworks3_part1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/09_PolarBearSkip_Path.png)</Note>
+    </Split>
+    <Split>
+      <Name>IceMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/07_Waterworks1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/10_Waterworks2_part2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/11_Waterworks3_part2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/12_Waterworks5.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/13_Waterworks6_part1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/13_Waterworks6_part2.png)</Note>
+    </Split>
+    <Split>
+      <Name>SkullMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/14_ElectricCity1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/15_ElectricCity2.png)
+
+* Quake3 in Jar
+* Apply PowerUp and read Mayl email</Note>
+    </Split>
+    <Split>
+      <Name>ColorMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/16_ElectricCity3.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/17_Traffic1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/18_Traffic2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/19_Traffic3.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/20_Traffic4.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/21_Traffic5.png)</Note>
+    </Split>
+    <Split>
+      <Name>ProtoMan</Name>
+      <Note>* Yai's House for 10,000Z
+* Talk to Mom
+* Metro to Waterworks
+* Masa Comp for TriSpear J
+* Chaud by TVs
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/22_PowerPlant1.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/23_PowerPlant2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/24_PowerPlant3.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/25_PowerPlant4.png)</Note>
+    </Split>
+    <Split>
+      <Name>Door Virus</Name>
+      <Note>* Metro to Waterworks
+* Pass to Electric City
+* Froid for WWW ID
+* Talk to Scientist by Red Elevator
+* Metro to Chaud cutscene by Miyu
+* Metro home (waterworks)
+* Hig Memo
+
+- Internet revist after shop
+- 40+ chips after shop
+- FireMan if short on chips!!!
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/26_Internet2.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/27_Internet4.png)
+
+* 44+ chips at door virus</Note>
+    </Split>
+    <Split>
+      <Name>BombMan</Name>
+      <Note>![](C:/Git/Splits/BattleNetwork/images/bn1/28_Internet5.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/29_Internet9.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/30_Internet3.png)
+
+* Waterworks -&gt; Higsby Email -&gt; Scientist by TVs
+* Quiz Kid: 32331
+* Yuri Memo
+* Pa Memo
+* Waterworks shortcut at Dad's PC
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/31_Internet6.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/32_Internet7.png)
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/33_Internet8.png)</Note>
+    </Split>
+    <Split>
+      <Name>Thanks Reddit!</Name>
+      <Note>* Dad
+* Metro home + sleep
+* Higsby ID
+* Conductor by tickets
+* School
+* Dad
+* School
+* Yes Fire
+
+![](C:/Git/Splits/BattleNetwork/images/bn1/34_Epilogue.png)</Note>
+    </Split>
+  </Splits>
+  <Name>Mega Man Battle Network</Name>
+  <Category>Single Segment (GBI)</Category>
+</Guide>

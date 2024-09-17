@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>208</X>
-  <Y>63</Y>
+  <X>139</X>
+  <Y>47</Y>
   <VerticalWidth>790</VerticalWidth>
-  <VerticalHeight>1287</VerticalHeight>
+  <VerticalHeight>1289</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -155,6 +155,27 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.Counter.dll</Path>
+      <Settings>
+        <Version>1.0</Version>
+        <GlobalHotkeysEnabled>False</GlobalHotkeysEnabled>
+        <OverrideCounterFont>True</OverrideCounterFont>
+        <OverrideTextColor>False</OverrideTextColor>
+        <CounterFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAABtTdXBlciBbTWFyaW9dIFNjcmlwdCAyIERlbW8AAIBBBfz///8YU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAAAAX7////G1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdAEAAAAHdmFsdWVfXwAIAgAAAAIAAAAL]]></CounterFont>
+        <CounterTextColor>FFFFFFFF</CounterTextColor>
+        <CounterValueColor>FFFFFFFF</CounterValueColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <CounterText>RNG Chips (10)</CounterText>
+        <InitialValue>0</InitialValue>
+        <Increment>1</Increment>
+        <IncrementKey>ControlKey</IncrementKey>
+        <DecrementKey>Subtract</DecrementKey>
+        <ResetKey>H</ResetKey>
+      </Settings>
+    </Component>
+    <Component>
       <Path>
       </Path>
       <Settings />
@@ -272,26 +293,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.WorldRecord.dll</Path>
-      <Settings>
-        <Version>1.6</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <TimeColor>FFFFFFFF</TimeColor>
-        <OverrideTimeColor>False</OverrideTimeColor>
-        <BackgroundColor>0041197B</BackgroundColor>
-        <BackgroundColor2>00FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Display2Rows>False</Display2Rows>
-        <CenteredText>False</CenteredText>
-        <FilterRegion>False</FilterRegion>
-        <FilterPlatform>False</FilterPlatform>
-        <FilterVariables>True</FilterVariables>
-        <FilterSubcategories>True</FilterSubcategories>
-        <TimingMethod>Default for Leaderboard</TimingMethod>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Sound.dll</Path>
       <Settings>
         <Version>1.6</Version>
@@ -353,7 +354,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
+        <FontSize>16</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -362,8 +363,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>1000</WindowPos.X>
-        <WindowPos.Y>68</WindowPos.Y>
+        <WindowPos.X>951</WindowPos.X>
+        <WindowPos.Y>46</WindowPos.Y>
         <WindowSize.Width>666</WindowSize.Width>
         <WindowSize.Height>1276</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
