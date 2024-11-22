@@ -12,7 +12,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>12</AttemptCount>
+  <AttemptCount>14</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="01/05/2024 01:50:12" isStartedSynced="True" ended="01/05/2024 08:04:58" isEndedSynced="True">
       <RealTime>06:14:45.0680664</RealTime>
@@ -50,6 +50,12 @@
     <Attempt id="12" started="07/31/2024 19:45:48" isStartedSynced="True" ended="08/01/2024 00:21:57" isEndedSynced="True">
       <RealTime>04:36:08.3786625</RealTime>
     </Attempt>
+    <Attempt id="13" started="11/16/2024 23:34:16" isStartedSynced="True" ended="11/17/2024 02:19:02" isEndedSynced="True">
+      <RealTime>02:44:45.6946533</RealTime>
+    </Attempt>
+    <Attempt id="14" started="11/17/2024 02:29:45" isStartedSynced="True" ended="11/17/2024 04:22:15" isEndedSynced="True">
+      <RealTime>01:52:30.2604889</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -57,11 +63,11 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>02:27:53.5829810</RealTime>
+          <RealTime>01:52:30.2604889</RealTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>02:27:53.5829810</RealTime>
+        <RealTime>01:52:30.2604889</RealTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -99,6 +105,12 @@
         </Time>
         <Time id="12">
           <RealTime>04:36:08.3786625</RealTime>
+        </Time>
+        <Time id="13">
+          <RealTime>02:44:45.6946533</RealTime>
+        </Time>
+        <Time id="14">
+          <RealTime>01:52:30.2604889</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

@@ -4,7 +4,7 @@
   <X>73</X>
   <Y>95</Y>
   <VerticalWidth>1120</VerticalWidth>
-  <VerticalHeight>282</VerticalHeight>
+  <VerticalHeight>272</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -140,53 +140,18 @@
       <Settings />
     </Component>
     <Component>
-      <Path>LiveSplit.Splits.dll</Path>
+      <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
-        <Version>1.6</Version>
-        <CurrentSplitTopColor>003373F4</CurrentSplitTopColor>
-        <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>1</VisualSplitCount>
-        <SplitPreviewCount>0</SplitPreviewCount>
-        <DisplayIcons>True</DisplayIcons>
-        <ShowThinSeparators>True</ShowThinSeparators>
-        <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
-        <SplitWidth>20</SplitWidth>
-        <SplitTimesAccuracy>Seconds</SplitTimesAccuracy>
-        <AutomaticAbbreviations>False</AutomaticAbbreviations>
-        <BeforeNamesColor>FFFFFFFF</BeforeNamesColor>
-        <CurrentNamesColor>FFFFFFFF</CurrentNamesColor>
-        <AfterNamesColor>FFFFFFFF</AfterNamesColor>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <BeforeTimesColor>FFFFFFFF</BeforeTimesColor>
-        <CurrentTimesColor>FFFFFFFF</CurrentTimesColor>
-        <AfterTimesColor>FFFFFFFF</AfterTimesColor>
-        <OverrideTimesColor>False</OverrideTimesColor>
-        <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>True</LockLastSplit>
-        <IconSize>24</IconSize>
-        <IconShadows>True</IconShadows>
-        <SplitHeight>3.6</SplitHeight>
-        <CurrentSplitGradient>Plain</CurrentSplitGradient>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>01FFFFFF</BackgroundColor2>
-        <BackgroundGradient>Alternating</BackgroundGradient>
-        <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <OverrideDeltasColor>False</OverrideDeltasColor>
-        <DeltasColor>FFFFFFFF</DeltasColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
-        <ShowColumnLabels>False</ShowColumnLabels>
-        <LabelsColor>FFFFFFFF</LabelsColor>
-        <Columns>
-          <Settings>
-            <Version>1.5</Version>
-            <Name>Time</Name>
-            <Type>SegmentTime</Type>
-            <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-        </Columns>
       </Settings>
     </Component>
     <Component>

@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Chauncey</Name>
+      <Note>* Go left and up stairs, open double doors in the middle
+* Put out candles
+* Three ghosts (look opposite directions between ghost spawns)
+  * Down
+  * Up
+  * Right
+* Go into next room (back right door) for five more ghosts
+* Go into next room (left door)
+* Grab key after ghosts and head back through double doors
+* Take left door upstairs
+* First door in hallway for Neville
+* Down hallway to the end and take door up
+* Open curtains for Lydia
+* Chauncey room
+  * Suck horse
+  * Shoot Chauncy with ball to start boss fight
+  * Hit him with ball, stop pulling between 50-60 health for a faster second cycle
+* Split on grabbing the key after the fight
+</Note>
+    </Split>
+    <Split>
+      <Name>-Release Boos</Name>
+      <Note>* Re-enter hidden mansion
+* Center double door downstairs
+* Go immediately right and up down the hallway, left and all the way to the end
+* Enter left door for 2 ghosts and a key
+* Go back down hallway, enter right door in vertical hallway for Shy Guys
+* Stand on left spinning disc for The Floating Whirlindas
+* Enter back room and release the boos
+</Note>
+    </Split>
+    <Split>
+      <Name>-Fire</Name>
+      <Note>* Re-enter hidden mansion
+* Upstairs through double doors for first Boo [1]
+* Back room for another [2]
+* Left for a third [3]
+* Use mirror to warp to start
+* Double door and to Shy Guy room
+* Back to storage for Boo [4]
+* Shy Guy room [5]
+* Towards bathroom in back, first door on left side and get key from toilet next to Toad
+* Mirror
+* Double doors and down hall to right
+* First door on bottom after vertical hallway, through Clairvoya’s room to the right
+  * Ghosts and then Boo [6]
+* Grab the coin at the same time as getting the Boo, save and quit (Luigi should have the coin in his hand)
+</Note>
+    </Split>
+    <Split>
+      <Name>-Water</Name>
+      <Note>* Re-enter hidden mansion
+* Through double door
+* Grab fire to the left and then head right
+* Light candles in Clairvoya’s room and get key
+* Light candles on butler on the path towards the bathroom
+* Walk back past where you got fire and enter door on far left of hallway
+* Mario’s hat in laundry with ghosts
+* Down to actually get Shivers
+* Activate mouse hole and try to enter while pulling in the Boo after [7]
+* Open all the chests, fire all the ice ghosts
+* Activate mouse hole and suck Boo through it like before [8]
+* Laundry Boo on the way back [9]
+* Get more fire
+* Walk back towards bathroom, enter door up before the hallway turns for music room and Melody Pianissima
+  * Quiz answer is the first option if underwater theme
+  * Second option otherwise
+  * Burn paper and suck
+* Grab key and Boo [10]
+* Leave and enter room across from Shy Guy room
+* All the way through to the kitchen
+  * Ghost in fridge
+* Grab coin
+</Note>
+    </Split>
+    <Split>
+      <Name>{Area 2}Bogmire</Name>
+      <Note>* Water from faucet
+* Boo in kitchen [11]
+* Backyard
+* Bait dog three times towards bottom right and get hit for skeleton ghost
+* Catch Spooky after
+* Camera on doghouse to enter graveyard
+  * Three skeleton ghosts to activate tombstone
+* Bogmire fight
+  * Suck one of the dark ghosts and shoot him with it
+  * Don’t reset neutral, just keep pulling
+* Split on grabbing the Tubba’s Castle Key
+</Note>
+    </Split>
+    <Split>
+      <Name>-Ice</Name>
+      <Note>* Down hall towards bathroom to open new door
+* Get water from fountain
+* Down well while sucking for Mario cutscene
+* Get ghost immediately for key and climb out
+* Go right, get paper from birdhouse by watering it
+* Go all the way right to enter gym
+* All the way left, walk on treadmill for key
+* Leave on the bottom door
+* Spray water up through the floor to put out the door on the floor above
+* Walk upstairs and enter door
+* Suck up ghosts on right and left side of room
+* Open chest on table
+* Get coin and split
+</Note>
+    </Split>
+    <Split>
+      <Name>-Moonshot</Name>
+      <Note>* Get Boo [12]
+* Get ice from bucket and leave room
+* Go left and down all to the end, go up and enter right door for Nana
+  * Suck up balls and shoot her to make her vulnerable
+* Get key from chest and Boo [13]
+* Go across the hall, open bath curtain and spray Petunia with * ice to make her vulnerable
+* Get key and leave
+* Get fire from candle on the way
+* Go down hall and enter right door
+* Light all candles
+* Get all the ghosts and then the Boo [14]
+* Go to the right
+* Look in telescope to find moon
+* Get a shooting star and shoot the moon
+</Note>
+    </Split>
+    <Split>
+      <Name>-Enter Clairvoya</Name>
+      <Note>* Get power star and leave the room
+* Go up and to the right, back downstairs
+* All the way left and enter room directly south of the club door
+* Immediately right into the projector room
+* Turn on projector by sucking it
+* Get all ghosts
+* Open chest for glove, get Boo [15]
+* Go back to previous room and use mirror
+* Upstairs and to the left
+* Boo from first room [16]
+* Next room on the bottom
+* Use the mobile on the ceiling, first answer to twins, leave and re-enter room
+* Fight twins
+  * Suck up car first so he doesn’t just drive into you
+* Get Boo [17] and Mario’s shoe
+* Leave room and left to Chauncey’s room for Boo [18]
+* End of hall for Boo [19]
+* Use mirror to leave
+* Through double doors, right and enter first door on bottom
+</Note>
+    </Split>
+    <Split>
+      <Name>{Area 3}Boolossus</Name>
+      <Note>* Flashlight on crystal ball, talk to Clairvoya forever until she becomes vulnerable
+* Get key and Boo [20]
+* Up hall and to the right to go back upstairs
+* Get ice from bucket and keep going left
+* Down hall and right to go further upstairs
+* Enter bottom door
+* Freeze water ghosts and suck them
+* Key and Boo [21]
+* Left door and up to rooftop for Boolossus fight [36]
+  * Suck and walk straight right towards statue to pop the giant Boo
+  * Get ice along the way to the statue
+  * Suck towards the right while walking left to lure Boos
+  * Spray them all at once and suck the frozen Boos
+  * Cleanup any stragglers
+* Get key and split
+</Note>
+    </Split>
+    <Split>
+      <Name>-Breaker Room</Name>
+      <Note>* Double doors, down hall, get fire
+* Right and upstairs towards rooftop
+* Strafe walk left to the new door while facing forward
+* Go back downstairs, use mirror in first room on roof
+* Upstairs through double doors, back through two more rooms for Grimmly
+* Get key and use mirror
+* Through double doors all the way right to go downstairs
+* Top door and flip switch
+</Note>
+    </Split>
+    <Split>
+      <Name>-Armory Boo</Name>
+      <Note>* Grab key and leave room
+* Across hall, get two ghosts and open chest
+* Key and Boo [37]
+* Back upstairs to roof
+* Get fire along the way
+* Rooftop left door and down hall to right door
+* Go to back for Clockwork Soldiers
+  * Activate all clocks and then suck up each one
+* Take elevator in Toy room
+* Burn shy guy ghosts -&gt; two ice ghosts
+* Grab chest for key and go back to elevator
+* Back and across hall to armory
+* All ghosts
+* Key and Boo [38]
+* Save and quit
+</Note>
+    </Split>
+    <Split>
+      <Name>{Area 4}Van Gore</Name>
+      <Note>* Double doors and back downstairs
+* Through dust pile storage room
+* Up hallway to door on left
+* Get ice from barrel and freeze slime
+* Turn off water
+* Get key to the right and leave room
+* Down to other door on left
+* Get fire and melt Weston to make him vulnerable
+* Get key and Boo [39]
+* Save and quit
+* Back upstairs to roof, get fire along the way
+* Right door before rooftop for Van Gore
+  * Each ghost in order
+  * Use fire on ceiling ghosts
+* Key and Boo [40]
+* Save and quit (split on re-enter mansion)
+</Note>
+    </Split>
+    <Split>
+      <Name>King Boo</Name>
+      <Note>* Downstairs to basement, door at very end of hallway for fight
+  * Hide behind pillar during fire
+  * Shoot bomb back
+  * Dodge Bowser attacks while R pumping King Boo
+</Note>
+    </Split>
+  </Splits>
+  <Name>Luigi's Mansion</Name>
+  <Category>Any% (No OoB)</Category>
+</Guide>

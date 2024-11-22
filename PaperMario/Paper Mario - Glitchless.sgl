@@ -20,7 +20,7 @@
 * Grab POW
 
 ### Shop
- - 3 POW
+ - 4 POW
  - 1 Fire Flower
 
 ### Fuzzies
@@ -58,8 +58,7 @@ Level Up FP (10/10/3)
       <Note>* Heart Block
 
 ### Jail
- 1. Untimed Power Jump (Bomb) / Bomb (Koopa)
- 2. Untimed Power Jump (Bomb)
+ 1. POW / Power Shell
 
 ### Cannons
 0. First Strike Bomb
@@ -228,7 +227,7 @@ Level Up FP (10/20/6)</Note>
 ### Putrid Piranha (Jungle)
  1. Untimed Power Quake / Power Bomb
 
-Level Up BP if you level early</Note>
+Level Up BP (10/20/9)</Note>
     </Split>
     <Split>
       <Name>Chapter 5</Name>
@@ -236,10 +235,8 @@ Level Up BP if you level early</Note>
 # Upgrade Parakarry (Down 3)
 
 ## EQUIPS
-- Unequip Power Quake (Down 2)
-- Equip Ice Power (R, Up 2)
-
-* Heart Block
+- Equip Power Jump (Mash A)
+- Equip Ice Power (Down 6)
 
 ### Lava Piranha (Block 1/2)
  1. Thunder Rage (Down 2) / Air Raid
@@ -260,19 +257,15 @@ if four capped:
 if three capped:
 
  4. Bounce x3 / Sky Dive
- 5. Bounce x3
-
-Level Up BP (10/20/9)</Note>
+ 5. Bounce x3</Note>
     </Split>
     <Split>
       <Name>-Moles</Name>
       <Note>* JAMMIN JELLY
 
 ## EQUIPS
-* Equip Power Jump (A)
-* Equip Power Quake (Down 2)
-* Unequip Ice Power (Down 4)
-* Equip Spike Shiel (Down 1)
+* Unequip Ice Power (Down 6)
+* Equip Spike Shield (Down 1)
 
 - Switch to Parakarry (Down 1)
 
@@ -331,6 +324,9 @@ Level Up FP (10/25/9)</Note>
 ### Machine Fight
  1. Shooting Star / Air Raid
 
+Level Up HP (15/25/9)
+
+* Upgrade Laki
 * Grab S. Jump Charge
 
 ## Equips
@@ -386,10 +382,8 @@ Level up FP (15/30/9)
     <Split>
       <Name>-Door 1</Name>
       <Note>## EQUIPS
-* Unequip S. Jump Charge (Down 1)
 * Unequip Power Bounce (Down 1)
 * Equip Power Quake (Down 1)
-* Equip Dizzy Attack (R, Down 3)
 
 ### Koopatrol (Key)
  1. Untimed Power Quake / Power Bomb
@@ -409,9 +403,7 @@ Level Up BP (15/30/12)</Note>
  1. Switch to Lakilester / Hurricane
 
 ## EQUIPS
- * Unequip Dizzy Attack (R, Down 3)
- * Equip Power Jump (Z)
- * Equip S. Jump Charge (Down 1)
+ * Equip Power Jump (Mash A)
  * Equip Power Bounce (Down 1)
  * Unequip Power Quake (Down 1)
  * Equip P-Up D-Down (Down ?)
@@ -489,7 +481,7 @@ If shield after first bounce -&gt; game over
 | 4 + 4 | 3 | 4
 |  | 4 | 3 (kills)
 |  | 5 | 3 (kills)
-| 4 + 5 | 3 | 3
+| 4 + 5 | 3 | 3 (4 kills)
 |  | 4 | 3 (kills)
 |  | 5 | jump x2</Note>
     </Split>
