@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Paper Mario - Segments</GameName>
+  <CategoryName>Chapter 4 RTA</CategoryName>
+  <LayoutPath>C:\Git\Splits\PaperMario\Pape64.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">Nintendo 64</Platform>
+    <Region>JPN / NTSC</Region>
+    <Variables>
+      <Variable name="Console">N64</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="12/28/2024 03:34:13" isStartedSynced="True" ended="12/28/2024 03:35:40" isEndedSynced="True" />
+    <Attempt id="2" started="12/28/2024 03:35:53" isStartedSynced="True" ended="12/28/2024 03:54:49" isEndedSynced="True">
+      <RealTime>00:18:56.2891528</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Gourmet Guy</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:14.2129551</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:14.2129551</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:10:14.2129551</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Chapter 4</Name>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAHwMAAAKJUE5HDQoaCgAAAA1JSERSAAAALgAAADEIBgAAAKU5m3kAAAAEZ0FNQQAAsY8L/GEFAAAC1klEQVRoQ8WWMXLcMAwAnR+kTHtlvpHSpcu0eULKtHlCSleeuSe4dJtST8hXlAETaKAlQIKU7lysZw4igQWF4/nh5cP6cAafPn9ds3DvDFUgC2WOwNwZqkAPFlUuTz/X79dlvb4u67LUSFyeyzrunWmiCkSwQE+0hexpNcLaHlXAIyOsMi3YgN0rOUfkqwCxySJhiY/CPJrrFHFKswhlZrFNHBaPpM8U9jhNXJLdS9p+UelDqoCVlkRZ6cdfbwXZ00PWcb+Qld6J20087Ujak9VYC6+BkdPexHWDRRLpNdYTplgW2/CIdBG3ojaBinvSkbAVaWH38MAoGLET1+KM2dfJwpSiiMfly9M/sJ5yLcofinoN6GeKsvjj8/P64/db4br82aFxWaPyM9KbuJUvxR15C4W/vV4ryRaUJ5T0qAKUbGGFL5ePBUpauKYl32tk94EbiBQSWY5BEfgvFcnb57LePpN8krfXSCXOBS3JFrJexDg6UTyi10gRPypLVNLGRqRJ1MQmrrcBN87giXPNKPxCb+KzJ3JPytuk+Fkn7o2KFxslPPGzTl1vGJvLi41iT7uI21vljFP3JL3YCDxt9zo8eqt4kl4si94q1nH3A2RPfUSe88vPUSyDdxVWv5y2o+zIiMzsSWbgiLjilO+dugrfSjwaEVd8VF44Mr8RPWlX3JNnYqLy2kBmT4uedChu5bMS25cI/wUKXNvDitMrLd4blVsgNafE7Wti0nsxNSq6YeY1n4V3d6fFs/N9C3pzXgWs+HvMt9Kb8ypgZ4vJ7o11oWco/p7zrbTmPBQ/Mt/ymi18nqU156H4TEEV1R8j+5/mbL5hcSbpQWk7ckfkbyZuhSlN+ZkGhsV7yTPCZLSBqVHR5ExkZVvCzBc1EDWhdZivK87klO0JE67TGr06Ud5mAU1sYfEocQT3ZWsxT5W4ldyDe7MwTwvuFapAJjHXHoX5M7X+Ak7mpVAUyPzZAAAAAElFTkSuQmCCCw==]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:56.2891528</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:08:42.0761977</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:08:42.0761977</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

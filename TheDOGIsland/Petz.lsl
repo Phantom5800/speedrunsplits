@@ -4,7 +4,7 @@
   <X>122</X>
   <Y>155</Y>
   <VerticalWidth>810</VerticalWidth>
-  <VerticalHeight>954</VerticalHeight>
+  <VerticalHeight>955</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,27 +63,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Counter.dll</Path>
-      <Settings>
-        <Version>1.0</Version>
-        <GlobalHotkeysEnabled>False</GlobalHotkeysEnabled>
-        <OverrideCounterFont>False</OverrideCounterFont>
-        <OverrideTextColor>False</OverrideTextColor>
-        <CounterFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></CounterFont>
-        <CounterTextColor>FFFFFFFF</CounterTextColor>
-        <CounterValueColor>FFFFFFFF</CounterValueColor>
-        <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>40000000</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <CounterText>Extra Scents (25):</CounterText>
-        <InitialValue>0</InitialValue>
-        <Increment>1</Increment>
-        <IncrementKey>ControlKey</IncrementKey>
-        <DecrementKey>Subtract</DecrementKey>
-        <ResetKey>H</ResetKey>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
@@ -109,7 +88,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>1.6</SplitHeight>
+        <SplitHeight>3.8</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
@@ -347,7 +326,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>1</OutputDevice>
+        <OutputDevice>0</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>

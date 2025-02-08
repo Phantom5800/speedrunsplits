@@ -322,7 +322,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>6</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -363,9 +363,8 @@
           </Settings>
           <Settings>
             <SplitsName>The Legend of Zelda The Minish Cap - Glitchless</SplitsName>
-            <SecondaryName>
-            </SecondaryName>
-            <Target>02:24:00.000</Target>
+            <SecondaryName>2:30:00</SecondaryName>
+            <Target>02:30:00.000</Target>
           </Settings>
         </Comparisons>
       </Settings>

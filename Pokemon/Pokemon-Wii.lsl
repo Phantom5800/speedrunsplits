@@ -147,7 +147,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Gold</Name>
-            <Type>SegmentDelta</Type>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
@@ -302,7 +302,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>6</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>

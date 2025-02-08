@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>139</X>
-  <Y>47</Y>
+  <X>30</X>
+  <Y>52</Y>
   <VerticalWidth>790</VerticalWidth>
   <VerticalHeight>1289</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -323,7 +323,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>6</OutputDevice>
+        <OutputDevice>1</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -363,8 +363,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>951</WindowPos.X>
-        <WindowPos.Y>46</WindowPos.Y>
+        <WindowPos.X>825</WindowPos.X>
+        <WindowPos.Y>49</WindowPos.Y>
         <WindowSize.Width>666</WindowSize.Width>
         <WindowSize.Height>1276</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>

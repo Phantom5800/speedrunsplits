@@ -129,7 +129,7 @@ Level Up FP (10/15/3)
  3. Power Jump / Shell Shot</Note>
     </Split>
     <Split>
-      <Name>-Bow</Name>
+      <Name>-Enter Mansion</Name>
       <Note>* Thunder Rage in desert
 * Magical Seed
 
@@ -141,6 +141,10 @@ Forest Movement:
  - Left 1
  - Right 1
  - Right 1</Note>
+    </Split>
+    <Split>
+      <Name>-Bow</Name>
+      <Note />
     </Split>
     <Split>
       <Name>Chapter 3</Name>
@@ -453,37 +457,26 @@ If shield after first bounce -&gt; game over
 
 - Need 4+4 or 4+5 for Parakarry to be worth it over Watt
 
-### Parakarry Fight
-| Phase 1 Caps | Turn 4 Cap | Turn 5 Needed Cap
-|-- | - | - | -
-| 3 + 5 | 3 | 6
-|  | 4 | 3
-|  | 5 | 3 (kills)
-| 4 + 4 | 3 | 5
-|  | 4 | 3
-|  | 5 | 3 (kills)
-| 4 + 5 | 3 | 4
-|  | 4 | 3
-|  | 5 | 3 (kills)
-
-### Watt Fight
-| Phase 1 Caps | Turn 4 Cap | Turn 5 Needed Cap
-| -- | - | - | -
-| 3 + 3 | 3 | 6
-|  | 4 | 4 (untimed edash)
-|  | 5 | 3 (kills)
-| 3 + 4 | 3 | 5
-|  | 4 | 4 (kills or 3 with e-dash)
-|  | 5 | 3 (kills)
-| 3 + 5 | 3 | 4
-|  | 4 | 3 (kills)
-|  | 5 | 3 (kills)
-| 4 + 4 | 3 | 4
-|  | 4 | 3 (kills)
-|  | 5 | 3 (kills)
-| 4 + 5 | 3 | 3 (4 kills)
-|  | 4 | 3 (kills)
-|  | 5 | jump x2</Note>
+| Phase 1 Extra Damage | Turn 4 Bounce | Turn 5
+| -- | - | - 
+[Watt] 0 | 3 | 6
+| | 4 | 5 / 4 + ED
+| | 5 (Skip ED) | 4 / 3 + ED
+[Watt] 3 (3+4) | 3 | 6 / 5 + ED
+| | 4 | 4 / 3 + ED
+| | 5 (Skip ED) | 4
+[Watt] 5 (3+5) | 3 | 5 / 4 + ED
+| | 4 (Skip ED) | 4 / 3 + ED
+| | 5 (Skip ED) | 3
+[Watt] 6 (4+4) | 3 | 5 / 4 + ED
+| | 4 (Skip ED) | 4 / 3 + ED
+| | 5 (Skip ED) | 3
+[Parakarry] 8 (4+5) | 3 | 7 / 4 + SS
+| | 4 | 4 / 3 + SS
+| | 5 (Skip SS) | 4 / 3 + SS
+[Parakarry] 10 (5+5) | 3 | 5 / 3 + SS
+| | 4 (Skip SS) | 5 / 3 + SS
+| | 5 (Skip SS) | 3</Note>
     </Split>
     <Split>
       <Name>Holding B for 6 Minutes</Name>

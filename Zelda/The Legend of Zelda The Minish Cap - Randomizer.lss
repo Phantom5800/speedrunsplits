@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
-  <GameIcon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAKAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH2gkTEwguOqKVBwAAALdJREFUOE+tkcENgCAMRRnDo0fHcATH8egIjODRETw6gmMwAjfkF9oYAgrGn/xQwf9KVXm5xM1yxpxkredPEApba8lfIBRiwG+Q49hKkCK8CjJPyp/pMgQhBuDbZCCPAIhC/GcSiLNmIMfnogSCmo0gRjB7/wqApDOuzGGs+9JVAaAA8KFz7N06dNXdWdIZYRg19sNxXvLS/drojBrr2whh5jh3EpAaZ3EvKwnczBIw6rDVrhhW6gIMHhTXZUtRAQAAAABJRU5ErkJgggs=]]></GameIcon>
+  <GameIcon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAIwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIBgAAAB/z/2EAAAAEZ0FNQQAAsY8L/GEFAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH2gkTEwguOqKVBwAAALJJREFUOE+tkcENgzAMRT0GR46M0RE6DseOkBE4dgSOjMAYGcE3V9/UVpSWOEX90hdR4D/nEyIiqfyzJOddndJ8CaJhZlZfgWjIAH+DbNvzDHK23weZ7yTM6WPfpCED4N98gTQBkIbsZiqIcJ7ULQDkkKKzBlEhr2MIgHwyjmxhPNfH0AWAfPJ+G2WZhu7pJp+MMIx1BPCPymNjsvWPKhyd372rgK+jm/BAYX9n4BYgkodfDB4U1wv09OgAAAAASUVORK5CYIIL]]></GameIcon>
   <GameName>The Legend of Zelda: The Minish Cap</GameName>
   <CategoryName>Randomizer</CategoryName>
   <LayoutPath>C:\Git\Splits\Zelda\ZeldaGBARando.lsl</LayoutPath>
@@ -11,7 +11,7 @@
     <Variables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>50</AttemptCount>
+  <AttemptCount>51</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/12/2023 01:23:20" isStartedSynced="True" ended="03/12/2023 02:53:56" isEndedSynced="True" />
     <Attempt id="2" started="03/13/2023 00:45:50" isStartedSynced="True" ended="03/13/2023 03:15:13" isEndedSynced="True">
@@ -143,6 +143,9 @@
     <Attempt id="50" started="09/10/2024 02:27:04" isStartedSynced="True" ended="09/10/2024 05:29:06" isEndedSynced="True">
       <RealTime>03:02:01.8264565</RealTime>
     </Attempt>
+    <Attempt id="51" started="12/21/2024 20:48:05" isStartedSynced="True" ended="12/22/2024 00:29:16" isEndedSynced="True">
+      <RealTime>03:41:11.3735433</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -273,6 +276,9 @@
         </Time>
         <Time id="50">
           <RealTime>03:02:01.8264565</RealTime>
+        </Time>
+        <Time id="51">
+          <RealTime>03:41:11.3735433</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

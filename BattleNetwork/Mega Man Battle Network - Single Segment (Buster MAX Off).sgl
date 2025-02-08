@@ -12,10 +12,10 @@
     <Split>
       <Name>NumberMan</Name>
       <Note># RNG Doors
-* First digit is correct: 一ノクライ
-* Second digit is correct: 十ノクライ
-* Too High: 大
-* Too Low: 小
+* First digit is correct: **一ノクライ**
+* Second digit is correct: **十ノクライ**
+* Too High: **大**
+* Too Low: **&lt;span style="color:red"&gt;小&lt;/span&gt;**
 
 # Doors
 1. 09
@@ -129,10 +129,22 @@
 * Metro to Chaud cutscene by Miyu
 * Metro home (waterworks)
 * Hig Memo
+  * FastGauge A (3000Z, down 8) [37]
+  * Geddon1 H (3000Z, down 1) [38]
+  * Interupt L (8000Z, down 1) [39]
+  * SloGauge Q (5000Z, down 2) [40]
 
 - Internet revist after shop
 - 40+ chips after shop
 - FireMan if short on chips!!!
+
+* Internet 1
+  * Buy Power Up (down 1)
+  * Buy Hammer A (2000Z, down 3)
+* Internet 4
+  * IceCube I (3000Z, down 2) [43]
+  * Cloudier A (5000Z, down 1)
+
 
 ![](C:/Git/Splits/BattleNetwork/images/bn1/26_Internet2.png)
 

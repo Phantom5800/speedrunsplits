@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Petz: Dogz 2/Catz 2</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>C:\Git\Splits\TheDOGIsland\Petz.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>USA / NTSC</Region>
+    <Variables>
+      <Variable name="Version">Dogz</Variable>
+    </Variables>
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Tutorial</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rush and Beat</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Crawl Like Baby</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Aquarium</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Water Wheel</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bugs (Mad)</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Swordfish LMAO</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Sky Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Set Sail</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Bubble Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Inferno Cave</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Ice Crystal</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Finale</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Dragon</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Wizard Wolf</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Goodbye Forever</Name>
+      <Icon><![CDATA[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]]></Icon>
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

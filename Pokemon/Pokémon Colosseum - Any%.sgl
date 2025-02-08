@@ -311,7 +311,7 @@ _Geodude/Clamperl_
 3. _(FW Baltoy + attack Ty into Blaze)_
 
 ### ╢Rider Kimit
-1. FW Sandshrew + Confusion Geodude (Psybeam over **REFLECT** in slot 3)
+1. FW Sandshrew + Confusion Geodude (Psybeam over **CONFUSION** in slot 1)
 2. FW + Psybeam Numel
 
 * Heal Espeon if dead to Bite
@@ -353,15 +353,10 @@ _Barboach/Trapinch_
 * Heal Espy if dead to Bite
 
 ### ╢Cipher Peon Kison
-_Duskull 40% Psybeam at Lv38_
 
-_Torment AI (should always be this with aggressive healing)_
-
-Koffing Lead | Duskull Lead
---|-
-1: FW Houndour + Confusion Koffing | 1: FW Duskull + Return Houndour
-2: FW Duskull + Return Houndour | 2: FW Houndour + Confusion Koffing
-3: FW Kirlia + Call | 3: FW Kirlia + Call
+1. Dig Houndour + Psybeam Other _(FW Houndour if not dead to Bite)_
+2. Psybeam Other _(FW other + Return Houndour)_
+3. FW Kirlia + Psybeam Other
 
 ### ╢Cipher Peon Berin
 1. FW Bottom + Confusion Top
@@ -429,7 +424,7 @@ _Marshtomp Lead_
   * Teach Hidden Power over Return (slot 2)
   * Teach Protect over Helping Hand (slot 4)
   * Teach Protect over Smokescreen (slot 2)
-  * Teach Fire Blast over Sunny Day (mash A)
+  * Teach Fire Blast over Sunny Day (slot 4)
   * Use R-Disk
 * Get 3 Rare Candies in Venus' room
 
@@ -671,42 +666,21 @@ _Loudred/Seviper_
 
 ### ╢Researcher Kotan
 1. Psychic Electrode + FW Magneton
-2. Psychic (or Psybeam) Ty + FB Ampharos
-  a. If you &lt;16 Speed IV: FW + Psychic Ampharos
+2. Psychic Ampharos + FW
 
 ------
 ### ╢Cipher Peon Remil
 _Vibrava / Kadabra_
 
-No Blaze | Blaze
---|-
-1: Psybeam Vibrava + X Special (Ty) | 1: X Spec Ty + Protect
-2: Psybeam Swellow + FB Kadabra | 2: Psychic Vibrava + FW Kadabra
-3: Hit Ty to Blaze + FB Kecleon | 3: Psybeam Swellow + FB Kecleon
+1. Psybeam Vibrava + X Spec Espeon
+2. Psybeam Swellow + FB Kadabra
+3. Psychic Kecleon + FW
 
-_Vibrava / Kecleon_ (Kecleon targets Espeon)
+_Vibrava/Swellow_ or _Vibrava / Kecleon_
 
-No Blaze | Blaze
---|-
-1: Psychic Vibrava + X Special (Ty) | 1: X Spec Ty + Protect
-2: Psybeam + FB Swellow | 2: Psychic Vibrava + FB Kecleon (Super Potion if Dig)
-3: Hit Ty to Blaze + FB Kecleon | 3: Psybeam Swellow + FW Kadabra
-
-_Vibrava / Kecleon_ (Kecleon targets Typhlosion)
-
-No Blaze | Blaze
---|-
-1: Psybeam Vibrava + X Special (Espeon) | 1: Psybeam Vibrava + X Spec Espeon
-2: Psybeam Swellow + FB Swellow (Call if Dig) | 2: Psybeam Swellow + Protect
-3: Psychic Kecleon + FB Kadabra | 3: Psychic Kecleon + FB Kadabra
-
-_Vibrava/Swellow_
-
-No Blaze | Blaze
---|-
-1: Psybeam Vibrava + X Spec Espeon | 1: Psychic + FB Vibrava
-2: Psychic + FB Kecleon | 2: Psychic Kecleon + Protect
-3: Psybeam Swellow | 3: Psybeam Swellow + FB Kadabra
+1. Psychic Kecleon + X Spec Espeon
+2. Psybeam Swellow (Psychic if Kecleon) + FB
+3. Psybeam Vibrava + FB
 
 ---------
 
@@ -1305,8 +1279,397 @@ _Doesn't change with turn 1 x specials_
    5. FW + Psychic Metagross</Note>
     </Split>
     <Split>
-      <Name>Santa Claus</Name>
-      <Note />
+      <Name>Evice</Name>
+      <Note>### ╢Machamp / Slaking
+1. X Spec Espeon + Psychic Machamp (send in Ty)
+2. X Spec Espeon + Psychic Mence (loaf)
+
+ _**If Slowking**_
+
+3. EQ + Psychic Slaking
+4. FW Scizor + HP Slowking
+5. FW + HP Tyranitar
+
+_**If Scizor**_
+
+3. FW Scizor + Psychic Slaking
+4. Protect + HP Tyranitar (range)
+5. X Spec / EQ + HP Tyranitar
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + Psychic Mence (send in Ty)
+3. X Spec Espeon + Psychic Slaking
+4. FW Scizor + HP Slowking
+5. EQ + HP Tyranitar
+
+---
+### ╢Slaking / Slowking
+1. X Spec Espeon + Psychic Slowking (send in Ty)
+2. X Spec Espeon + Psychic Slaking (loaf)
+
+_**If Scizor**_
+
+3. FW Scizor + HP Slowking
+4. Protect + Psychic Mence (see below for X Attacks)
+5. EQ + Psychic Machamp
+6. FW + Bite Ttar if still alive
+
+_**If Machamp**_
+
+3. Protect +  Psychic Machamp (X Spec Espeon if Slowking is +1 and shifted to Espeon)
+4. FW Scizor + HP Slowking
+5. Protect + Psychic Mence
+6. FW + HP Tyranitar
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + HP Slowking
+3. X Spec Espeon + Psychic Slaking
+4. FW Scizor + Psychic Mence
+5. Protect + Psychic Machamp
+6. EQ + HP Tyranitar
+
+_**Turn 4 X Attack**_
+
+5. Protect (may fail) + Psychic Machamp
+6. FW + HP Tyranitar
+
+---
+### ╢Salamence / Machamp
+
+1. X Spec Espeon + Psychic Machamp (Plusle)
+
+_**If Scizor**_
+
+2. X Spec Espeon + Psychic Mence
+3. FW Scizor + HP Slowking
+4. EQ (Full Heal if confused) + Psychic Slaking
+5. EQ + HP Tyranitar
+
+_**If Slowking**_
+
+2. X Spec Espeon + HP Slowking
+3. EQ / FB Slowking + Psychic Mence
+4. FW Scizor + Psychic Slaking
+5. FW + HP Tyranitar
+
+_**If Slaking**_
+
+2. X Spec Espeon + Psychic Slaking
+3. FW Scizor + Psychic Mence
+4. Protect + HP Tyranitar
+5. X Spec Espeon / EQ + HP Slowking
+
+_**Turn 1 X Attack (Slowking)**_
+
+2. X Spec Espeon + HP Slowking
+3. EQ (KO Slowking) + Psychic Mence
+4. FW Scizor + Psychic Slaking
+5. FW + HP Tyranitar
+
+_**Turn 1 X Attack (Slaking)**_
+
+2. X Spec Espeon + Psychic Slaking
+
+    _**If Slowking**_
+
+    3. EQ + Psychic Mence (Water Pulse)
+    4. FW Scizor + HP Slowking (full heal Ty if confuse)
+    5. FW + HP Tyranitar
+
+    _**If Scizor**_
+
+    3. FW Scizor + Psychic Mence
+    4. Protect + HP Tyranitar
+    5. X Spec Espeon / EQ + HP Slowking
+
+_**Turn 1 X Attack (Scizor)**_
+
+2. X Spec Espeon + Psychic Mence (Protect Espeon if Scizor targets it)
+3. FW Scizor + HP Slowking (Water Pulse)
+4. EQ (or full heal) + Psychic Slaking
+5. EQ + HP Tyranitar
+
+---
+### ╢Machamp / Slowking
+
+1. X Spec Espeon + Psychic Machamp (Ty)
+2. X Spec Espeon + Psychic Mence (Water Pulse)
+
+_**If Scizor**_
+
+3. FW Scizor + Heal Ty
+4. X Spec Espeon + Psychic Slaking
+5. Protect + HP Tyranitar
+6. EQ + HP Slowking
+
+_**If Slaking**_
+
+3. X Spec Espeon + Psychic Slaking (Skill Swap)
+4. FW Scizor + HP Slowking
+5. FW + HP Tyranitar
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + HP Slowking (Ty damaged)
+3. EQ (finish Slowking) + Psychic Mence
+4. FW Scizor + Psychic Slaking
+5. FW + HP Tyranitar
+
+---
+### ╢Salamence / Slaking
+
+1. X Spec Espeon + Protect (plusle then Ty)
+2. X Spec Espeon + Psychic Mence (loaf)
+
+_**If Scizor (most common)**_
+
+3. FW Scizor + Psychic Slaking
+4. Protect + Psychic Machamp
+5. X Spec Espeon + HP Slowking
+6. FW + HP Tyranitar
+
+_**If Machamp**_
+
+3. Protect + Psychic Machamp (EQ hits Slowking)
+4. Call + HP Slowking (loaf)
+5. FW Scizor + Psychic Slaking
+6. FW + HP Tyranitar
+
+_**If Slowking**_
+
+3. X Spec Espeon + Psychic Slaking
+4. FW Scizor + HP Slowking
+5. Protect + Psychic Machamp
+6. FW + HP Tyranitar
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + Psychic Slaking
+3. FW Scizor + Psychic Mence
+4. Protect + Psychic Machamp
+5. X Spec Espeon + HP Slowking
+6. FW + HP Tyranitar
+
+---
+### ╢Salamence / Slowking
+
+1. X Spec Espeon + Psychic Slowking (plusle then medi)
+2. X Spec Espeon + HP Slowking (Mence kills Medi)
+3. FW Scizor + Psychic Mence
+4. Protect + Psychic Machamp (EQ hits Tyranitar)
+5. EQ / FW (if below 10%) + Psychic Slaking
+    * X Spec Espeon + HP Ttar if he used X Attacks
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + HP Slowking (send in Ty)
+
+    _**If Scizor**_
+
+    3. FW Scizor + Psychic Mence
+    4. Protect + Psychic Machamp
+    5. EQ / FW (finish Tyranitar) + Psychic Slaking
+
+    _**If Slaking**_
+
+    3. Protect + Psychic Mence (EQ)
+    4. FW Scizor + Psychic other
+    5. Protect + Psychic non-tyranitar
+    6. FW + HP Tyranitar
+
+_**Turn 2 X Attack**_
+
+3. X Spec Espeon + Psychic Mence (Silver Wind)
+4. FW Scizor + Psychic other
+5. Protect + Psychic non-Tyranitar
+6. FW + HP Tyranitar
+
+---
+### ╢Machamp / Scizor
+
+1. X Spec Espeon + Psychic Machamp (plusle)
+2. X Spec Espeon + Psychic Mence (ty)
+
+_**If Slowking (Umbreon case?)**_
+
+3. FW Scizor + HP Slowking
+    * FB Scizor + Protect if SW boosted and not very fast Ty
+4. EQ (full heal if confused) + Psychic Slaking
+5. EQ + HP Tyranitar
+
+_**If Slaking (50% chance with plusle)**_
+
+3. FW Scizor + Psychic Slaking
+4. Protect + HP Tyranitar (range)
+5. X Spec / EQ + HP Slowking
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + Psychic Mence
+3. FW Scizor + HP Slowking (Water Pulse)
+    * FB Scizor + Protect if SW boosted and not fast Ty
+4. EQ (full heal if confused) + Psychic Slaking
+5. EQ + HP Tyranitar
+
+_**Turn 2 X Attack**_
+
+3. X Spec Espeon + HP Slowking (get the range)
+    * Send in Plusle if SW boost and not fast Ty; otherwise straight to Ty
+4. FW Scizor + Psychic Slaking
+5. FW + HP Tyranitar
+
+---
+### ╢Salamence / Scizor
+
+1. X Spec Espeon + X Special (plusle first, then Ty)
+2. FW Scizor + Psychic Mence
+3. X Spec Espeon + Psychic Machamp
+4. Protect + HP Slowking (EQ hits Tyranitar)
+    * Protect + Full Heal if Water Pulse confused
+5. EQ + Psychic Slaking (HP Ttar if no Slowking OHKO)
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + Psychic Mence
+
+    _**If Slowking**_
+
+    3. FW Scizor + HP Slowking (range)
+
+        _**got range**_
+
+        4. Protect + Psychic Machamp
+        5. EQ (finish Tyranitar) + Psychic Slaking
+
+        _**didn't get range**_
+
+        4. Protect + Psychic Machamp / Slaking
+        5. FW Slowking + Psychic Slaking / Machamp
+        6. FW + HP Tyranitar
+
+    _**If Slaking**_
+
+    3. FW Scizor + Psychic Slaking
+    4. Protect + HP Slowking (range)
+
+        _**got range**_
+
+        5. EQ (heal Espeon if bad roll) + Psychic Machamp
+
+        _**didn't get range**_
+
+        5. Heal Espeon + Psychic Machamp
+        6. EQ + HP Tyranitar
+
+---
+### ╢Slaking / Scizor
+
+1. X Spec Espeon + X Special (Medi then Plusle)
+2. X Spec Espeon + Psychic Slaking (Ty)
+3. FW Scizor + Psychic Mence
+4. Protect + HP Slowking (good range)
+5. EQ / Heal Espeon + Psychic Machamp
+
+_**Turn 1 X Attack**_
+
+2. X Spec Espeon + Psychic Slaking
+3. FW Scizor + Psychic Mence
+4. Protect + HP Slowking (range)
+
+    _**got range**_
+
+    5. EQ (range) + Psychic Machamp
+
+    _**didn't get range**_
+
+    5. Heal Espeon + Psychic Machamp
+    6. FW + HP Tyranitar
+
+_**Turn 1 SW Boost backup (not-fast Ty)**_
+
+2. FB Scizor + Protect (loaf)
+
+    _**If Salamence**_
+
+    3. Protect + Psychic Mence (EQ hits Machamp)
+    4. FB Machamp (KO) + Psychic Slaking
+    5. Heal Espeon + HP Tyranitar (range)
+    6. X Spec Espeon + HP Slowking
+
+    _**If Machamp**_
+
+    3. Protect + Psychic Machamp (EQ hits Slowking)
+    4. Heal Espeon + HP Slowking (loaf)
+    5. Protect (may fail) + Psychic Mence (Ttar EQ'd)
+    6. _Finish if protect worked, 1 more turn otherwise_
+
+    _**If Slowking**_
+
+    3. Protect + HP Slowking (EQ finishes)
+    4. Heal Espeon + Psychic Machamp / Mence (loaf)
+    5. Protect + Psychic Mence / Machamp (EQ on Ttar)
+    6. _finish if protect worked, 1 more turn otherwise_
+
+_**Turn 2 SW Boost backup (very scary)**_
+
+3. FB Scizor + Protect (pray no DDance)
+4. Protect + Psychic Mence (assumes no DD or shifted AI)
+5. _normal strats_
+
+---
+### ╢Slowking / Scizor
+
+1. X Spec Espeon + Psychic Slowking (Medi then Plusle)
+    * Turn 1 X Attacks, skip Medi
+2. X Spec Espeon + HP Slowking (Ty)
+3. FW Scizor + Psychic Mence
+    * Boost Espeon if Turn 2 X Attacks
+4. Protect + Psychic Machamp
+5. EQ + Psychic Slaking
+    * X Spec + HP if Ttar X Attacks last turn
+
+_**Turn 1 SW Boost backup (not fast Ty)**_
+
+2. FB Scizor + Protect (loaf)
+
+    _**If Salamence**_
+
+    3. Protect + Psychic Salamence (range)
+    4. Let Ty faint, solo rest with Espeon + heals
+
+    _**If Machamp**_
+
+    3. Protect + Psychic Machamp
+    4. X Spec Espeon + Psychic Slaking
+        * If Mence instead, let Ty faint
+
+    _**If Slaking**_
+
+    3. X Spec Espeon + Psychic Slaking (Skill Swap)
+    4. Protect + X Spec Ty (EQ)
+    5. FB Machamp + HP Slowking
+    6. Protec (Ttar should SR) + Psychic Mence
+    7. FW + HP Ttar
+
+_**Turn 2 SW Boost backup (if not fast Ty)**_
+
+3. Plusle (Revive Meditite) + Psychic Mence
+
+    _**If Slaking**_
+
+    4. (Meditite) X Spec Espeon + HP Scizor (safety)
+    5. FW Scizor + Protect (loaf)
+    6. Protect + Psychic Machamp (Ttar EQ'd)
+    7. EQ + Psychic Slaking
+
+    _**If Machamp**_
+
+    4. FB Scizor + Protect (Ty dies)
+    5. (Meditite) X Spec Espeon + Psychic Machamp
+    6. HP Ttar
+    7. Psychic Slaking</Note>
     </Split>
   </Splits>
   <Name>Pokémon Colosseum</Name>
