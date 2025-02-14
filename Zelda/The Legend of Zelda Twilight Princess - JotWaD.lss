@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>The Legend of Zelda: Twilight Princess</GameName>
+  <CategoryName>JotWaD</CategoryName>
+  <LayoutPath>C:\Git\Splits\Zelda\Zelda-4-3-Layout.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">GameCube</Platform>
+    <Region>USA / NTSC</Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>8</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="02/08/2025 23:56:38" isStartedSynced="True" ended="02/09/2025 00:04:09" isEndedSynced="True">
+      <RealTime>00:07:31.0715026</RealTime>
+    </Attempt>
+    <Attempt id="2" started="02/09/2025 00:04:43" isStartedSynced="True" ended="02/09/2025 00:05:48" isEndedSynced="True" />
+    <Attempt id="3" started="02/09/2025 00:06:04" isStartedSynced="True" ended="02/09/2025 00:06:53" isEndedSynced="True" />
+    <Attempt id="4" started="02/09/2025 00:07:05" isStartedSynced="True" ended="02/09/2025 00:14:31" isEndedSynced="True">
+      <RealTime>00:07:26.0915345</RealTime>
+    </Attempt>
+    <Attempt id="5" started="02/09/2025 00:15:41" isStartedSynced="True" ended="02/09/2025 00:16:25" isEndedSynced="True" />
+    <Attempt id="6" started="02/09/2025 00:16:37" isStartedSynced="True" ended="02/09/2025 00:18:32" isEndedSynced="True" />
+    <Attempt id="7" started="02/09/2025 00:18:44" isStartedSynced="True" ended="02/09/2025 00:20:11" isEndedSynced="True" />
+    <Attempt id="8" started="02/09/2025 00:20:24" isStartedSynced="True" ended="02/09/2025 00:26:14" isEndedSynced="True">
+      <RealTime>00:05:50.6518209</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>JotWaD</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:50.6518209</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:05:50.6518209</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:07:31.0715026</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:07:26.0915345</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:05:50.6518209</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

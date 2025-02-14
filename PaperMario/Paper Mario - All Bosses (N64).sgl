@@ -2,7 +2,7 @@
 <Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Splits>
     <Split>
-      <Name>Prologue</Name>
+      <Name>Green Toad</Name>
       <Note>* Hammer for 10 coins [10]
 ### Jr. Troopa
 * Jump x5
@@ -287,7 +287,7 @@
 </Note>
     </Split>
     <Split>
-      <Name>-Super Blooper</Name>
+      <Name>Super Blooper</Name>
       <Note>* Equips:
   * Equip Speed Spin [R]
   * Equip Spike Shield [Up 1]
