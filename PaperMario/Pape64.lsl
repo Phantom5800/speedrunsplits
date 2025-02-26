@@ -254,6 +254,12 @@
         <Comparison>Best Split Times</Comparison>
         <Display2Rows>False</Display2Rows>
         <DropDecimals>True</DropDecimals>
+        <OverrideText>False</OverrideText>
+        <DifferentialText>False</DifferentialText>
+        <CustomText>
+        </CustomText>
+        <CustomTextAhead>
+        </CustomTextAhead>
       </Settings>
     </Component>
     <Component>
@@ -289,6 +295,7 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+        <CustomVariable>False</CustomVariable>
       </Settings>
     </Component>
     <Component>
@@ -353,7 +360,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
+        <FontSize>19</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>

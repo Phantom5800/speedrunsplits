@@ -350,11 +350,15 @@
 - Darknut</Note>
     </Split>
     <Split>
-      <Name>Temple of Time</Name>
+      <Name>-Door of Time Skipped</Name>
       <Note>- Savewarp
   - Dominion Rod / Bow
 - Door of Time skip
-- Armogohma</Note>
+</Note>
+    </Split>
+    <Split>
+      <Name>Temple of Time</Name>
+      <Note>- Armogohma</Note>
     </Split>
     <Split>
       <Name>-Enter City</Name>

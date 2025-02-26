@@ -291,8 +291,7 @@ Level Up HP (15/20/9)
     </Split>
     <Split>
       <Name>-Enter Palace</Name>
-      <Note>* Quick Change
-* Laki clip into blue house
+      <Note>* Laki clip into blue house
 * Ultra Boots
 * Shooting Star in sewer
 
@@ -353,7 +352,10 @@ Level Up BP (15/25/12)</Note>
 1. Up and Away
 
 ## Equips
-* Unequip P-Up, D-Down (R, Up 3)
+* Equip Power Jump (A)
+* Unequip Power Quake
+* Equip Damage Dodge
+* Equip P-Up, D-Down
 
 - Swap to Bow
 
@@ -368,12 +370,6 @@ Level Up BP (15/25/12)</Note>
       <Name>-Hallway Bowser</Name>
       <Note>* Eat Jammin'
 
-## Equips
-* Equip Power Jump (A)
-* Unequip Power Quake
-* Equip Damage Dodge
-* Equp P-Up D-Down
-
 ### Bowser
 1. Bounce x5 / Outta Sight
 2. Bounce x5
@@ -382,29 +378,22 @@ Level Up BP (15/25/12)</Note>
     </Split>
     <Split>
       <Name>Star Rod</Name>
-      <Note>## Equips
-* Unequip Speedy (R)
-* Equip Fire Shield (Up 1)
-
-### Phase 1 (go for max bounces)
+      <Note>### Phase 1 (go for max bounces)
 1. Bounce / Outta Sight
-2. Bounce
+2. Bounce 
+3. Z Swap to Watt / Star Beam
 
 ### Phase 2
-1. Peach Beam / Water Block
-2. Power Jump / Shell Shot
-3. Bounce / Outta Sight
-4. Repel
-5. Turbo Charge / Peach Beam or Bounce
-6. Bounce or Peach Beam / Outta Sight (if he has used shield at all) or Electro Dash
-7. Bounce or Peach Beam / Electro Dash</Note>
+1. Charge / Turbo Charge
+2. Peach Beam / Electro Dash
+3. Repel Gel / Electro Dash
+4. Bounce / Electro Dash
+5. Bounce / Electro Dash
+</Note>
     </Split>
     <Split>
       <Name>The End</Name>
-      <Note>## Equips
-* Unequip Power Jump (A)
-* Equip Speedy (R)
-</Note>
+      <Note />
     </Split>
   </Splits>
   <Name>Paper Mario</Name>
