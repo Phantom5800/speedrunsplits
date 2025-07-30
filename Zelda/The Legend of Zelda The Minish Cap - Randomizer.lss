@@ -9,9 +9,10 @@
     <Platform usesEmulator="False">Game Boy Interface</Platform>
     <Region>EUR / PAL</Region>
     <Variables />
+    <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>51</AttemptCount>
+  <AttemptCount>53</AttemptCount>
   <AttemptHistory>
     <Attempt id="1" started="03/12/2023 01:23:20" isStartedSynced="True" ended="03/12/2023 02:53:56" isEndedSynced="True" />
     <Attempt id="2" started="03/13/2023 00:45:50" isStartedSynced="True" ended="03/13/2023 03:15:13" isEndedSynced="True">
@@ -146,6 +147,12 @@
     <Attempt id="51" started="12/21/2024 20:48:05" isStartedSynced="True" ended="12/22/2024 00:29:16" isEndedSynced="True">
       <RealTime>03:41:11.3735433</RealTime>
     </Attempt>
+    <Attempt id="52" started="05/26/2025 17:29:40" isStartedSynced="True" ended="05/26/2025 20:59:50" isEndedSynced="True">
+      <RealTime>03:30:10.5229815</RealTime>
+    </Attempt>
+    <Attempt id="53" started="07/21/2025 01:07:50" isStartedSynced="True" ended="07/21/2025 04:13:41" isEndedSynced="True">
+      <RealTime>03:05:51.1803005</RealTime>
+    </Attempt>
   </AttemptHistory>
   <Segments>
     <Segment>
@@ -279,6 +286,12 @@
         </Time>
         <Time id="51">
           <RealTime>03:41:11.3735433</RealTime>
+        </Time>
+        <Time id="52">
+          <RealTime>03:30:10.5229815</RealTime>
+        </Time>
+        <Time id="53">
+          <RealTime>03:05:51.1803005</RealTime>
         </Time>
       </SegmentHistory>
     </Segment>

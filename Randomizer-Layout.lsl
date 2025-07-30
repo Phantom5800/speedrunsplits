@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>235</X>
-  <Y>161</Y>
+  <X>52</X>
+  <Y>168</Y>
   <VerticalWidth>800</VerticalWidth>
   <VerticalHeight>425</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -170,8 +170,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>233</WindowPos.X>
-        <WindowPos.Y>593</WindowPos.Y>
+        <WindowPos.X>54</WindowPos.X>
+        <WindowPos.Y>602</WindowPos.Y>
         <WindowSize.Width>793</WindowSize.Width>
         <WindowSize.Height>742</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
@@ -200,6 +200,7 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>True</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+        <CustomVariable>False</CustomVariable>
       </Settings>
     </Component>
     <Component>
@@ -220,6 +221,7 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>True</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+        <CustomVariable>False</CustomVariable>
       </Settings>
     </Component>
     <Component>

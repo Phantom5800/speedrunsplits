@@ -2,7 +2,7 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>190</X>
-  <Y>124</Y>
+  <Y>123</Y>
   <VerticalWidth>780</VerticalWidth>
   <VerticalHeight>775</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -195,20 +195,24 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Path>LiveSplit.Delta.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
+        <Accuracy>Tenths</Accuracy>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Split Times</Comparison>
         <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <OverrideText>False</OverrideText>
+        <DifferentialText>False</DifferentialText>
+        <CustomText>
+        </CustomText>
+        <CustomTextAhead>
+        </CustomTextAhead>
       </Settings>
     </Component>
     <Component>
@@ -228,21 +232,6 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Delta.dll</Path>
-      <Settings>
-        <Version>1.4</Version>
-        <TextColor>FFFFFFFF</TextColor>
-        <OverrideTextColor>False</OverrideTextColor>
-        <Accuracy>Tenths</Accuracy>
-        <BackgroundColor>8041197B</BackgroundColor>
-        <BackgroundColor2>80000000</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Split Times</Comparison>
-        <Display2Rows>False</Display2Rows>
-        <DropDecimals>True</DropDecimals>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.SumOfBest.dll</Path>
       <Settings>
         <Version>1.4</Version>
@@ -251,10 +240,25 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Seconds</Accuracy>
-        <BackgroundColor>0041197B</BackgroundColor>
+        <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>80000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.TotalPlaytime.dll</Path>
+      <Settings>
+        <Version>1.6</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+        <ShowTotalHours>True</ShowTotalHours>
       </Settings>
     </Component>
     <Component>
@@ -275,6 +279,7 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+        <CustomVariable>False</CustomVariable>
       </Settings>
     </Component>
     <Component>
@@ -308,7 +313,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>6</OutputDevice>
+        <OutputDevice>3</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -359,7 +364,7 @@
       <Path>LiveSplit.USB2SNESSplitter.dll</Path>
       <Settings>
         <Version>3</Version>
-        <Device>SD2SNES COM6</Device>
+        <Device>SD2SNES COM3</Device>
         <ResetSNES>True</ResetSNES>
         <ShowStatusMessage>False</ShowStatusMessage>
         <Games>
@@ -563,6 +568,10 @@
                 <Name>Third Quest (Map 1)</Name>
                 <Splits>
                   <Split>
+                    <SegmentName>Bow</SegmentName>
+                    <AutosplitName>Bow</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>D1</SegmentName>
                     <AutosplitName>D1</AutosplitName>
                   </Split>
@@ -571,76 +580,72 @@
                     <AutosplitName>D2</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Raft</SegmentName>
+                    <AutosplitName>Raft</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>D3</SegmentName>
                     <AutosplitName>D3</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>D4</SegmentName>
-                    <AutosplitName>D4</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>D5</SegmentName>
-                    <AutosplitName>D5</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>D6</SegmentName>
-                    <AutosplitName>D6</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>D8</SegmentName>
-                    <AutosplitName>D8 (D8 first)</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>D7</SegmentName>
-                    <AutosplitName>D7 (D8 first)</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>Ganon</SegmentName>
-                    <AutosplitName>Ganon</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>Bow</SegmentName>
-                    <AutosplitName>Bow</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>Silvers</SegmentName>
-                    <AutosplitName>Silver Arrows</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>Red Candle</SegmentName>
-                    <AutosplitName>Red Candle</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Blue Flute</SegmentName>
                     <AutosplitName>Blue Flute</AutosplitName>
                   </Split>
                   <Split>
-                    <SegmentName>Magic Rod</SegmentName>
-                    <AutosplitName>Magic Rod</AutosplitName>
-                  </Split>
-                  <Split>
-                    <SegmentName>Raft</SegmentName>
-                    <AutosplitName>Raft</AutosplitName>
+                    <SegmentName>D4</SegmentName>
+                    <AutosplitName>D4</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Ladder</SegmentName>
                     <AutosplitName>Ladder</AutosplitName>
                   </Split>
                   <Split>
-                    <SegmentName>Book</SegmentName>
-                    <AutosplitName>Book</AutosplitName>
+                    <SegmentName>D5</SegmentName>
+                    <AutosplitName>D5</AutosplitName>
                   </Split>
                   <Split>
-                    <SegmentName>Red Flute</SegmentName>
-                    <AutosplitName>Red Flute</AutosplitName>
+                    <SegmentName>Magic Rod</SegmentName>
+                    <AutosplitName>Magic Rod</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>D6</SegmentName>
+                    <AutosplitName>D6</AutosplitName>
                   </Split>
                   <Split>
                     <SegmentName>Master Sword</SegmentName>
                     <AutosplitName>Master Sword</AutosplitName>
                   </Split>
                   <Split>
+                    <SegmentName>Red Flute</SegmentName>
+                    <AutosplitName>Red Flute</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Silvers</SegmentName>
+                    <AutosplitName>Silver Arrows</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Book</SegmentName>
+                    <AutosplitName>Book</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>D8</SegmentName>
+                    <AutosplitName>D8 (D8 first)</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Red Candle</SegmentName>
+                    <AutosplitName>Red Candle</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>D7</SegmentName>
+                    <AutosplitName>D7 (D8 first)</AutosplitName>
+                  </Split>
+                  <Split>
                     <SegmentName>Red Ring</SegmentName>
                     <AutosplitName>Red Ring</AutosplitName>
+                  </Split>
+                  <Split>
+                    <SegmentName>Ganon</SegmentName>
+                    <AutosplitName>Ganon</AutosplitName>
                   </Split>
                 </Splits>
               </Category>
