@@ -257,7 +257,7 @@
 </Note>
     </Split>
     <Split>
-      <Name>Snow Field</Name>
+      <Name>Enter Chilly Field</Name>
       <Note>#### Boris to Pupsville [Mash A]
 ---
 * Go to Noble’s house and talk to Alice for quest and Chiro Key (54)
@@ -291,7 +291,7 @@
 * Split when screen is black</Note>
     </Split>
     <Split>
-      <Name>Sniff Master</Name>
+      <Name>Get Jeremy's Stick Wet</Name>
       <Note>## West Chilly Fields
 * Scare the southernmost polar bear for Golden Watch (59)
 * Get the Smelly Potato (60) scent from the stump
@@ -316,17 +316,21 @@
   * Go to a bulge in the river near the Gola Bridge
   * Go to Zoomy Lake and follow path to Zoomy Village for another scene
 ---
-### Boris to West Chilly Field [Up 3]
----
+#### Boris to West Chilly Field [Up 3]</Note>
+    </Split>
+    <Split>
+      <Name>Henry</Name>
+      <Note>* Talk to Henry
+* Get Henry's Bag
 * Go to the cliff area near the water for the final Jeremy cutscene
+* Deliver Henry's Bag
 ---
-#### Boris to Chiro Village [Down 2] (use WCF Boris, not Snow Village)
----
-* Give cough drops to the guitar dog immediately behind you
----
-### Boris to Gola [Up 4]
----
-* Talk to Tao for the First Book of the Sniff Master (64) scent, just mash through all the dialog
+### Boris to Gola [Up 3]
+</Note>
+    </Split>
+    <Split>
+      <Name>Sniff Master</Name>
+      <Note>* Talk to Tao for the First Book of the Sniff Master (64) scent, just mash through all the dialog
 ---
 #### Boris to Snow Village [Down 4] &gt; East Chilly Fields
 ---
@@ -342,7 +346,7 @@
 * Split when talking to Tao</Note>
     </Split>
     <Split>
-      <Name>Gang Leader</Name>
+      <Name>Race</Name>
       <Note>#### Boris to Pupsville [Mash A]
 ---
 * Anc Tree scene
@@ -354,8 +358,11 @@
 #### Boris to Gigili Village [Down 3]
 ---
 * Walk towards mailbox and challenge for Will’s VG Badge (66)
-  * Pause and exit tutorial immediately
-* Go to North Sandy Desert and get Quicksand Cane (67) scent from Sayir
+  * Pause and exit tutorial immediately</Note>
+    </Split>
+    <Split>
+      <Name>Soccer</Name>
+      <Note>* Go to North Sandy Desert and get Quicksand Cane (67) scent from Sayir
 * Far west side, get the cane and return it to Sayir
 ---
 #### Boris to Pupsville [Mash A]
@@ -370,14 +377,16 @@
   * Center of triangle rock formation near vulture for burning water
 * Go forward to Rune Village
   * Buy all items from shop (70-74)
-* Go to center of village and play Soccer for McCoy’s VG Badge (75)
----
-#### Boris to Pupsville [Mash A]
+* Go to center of village and play Soccer for McCoy’s VG Badge (75)</Note>
+    </Split>
+    <Split>
+      <Name>Gang Leader</Name>
+      <Note>#### Boris to Pupsville [Mash A]
 ---
 * Talk to Wilbur
 * Talk to Peter
 * Go to Malshige’s Shop
-  * Talk to Malshige for Beautiful Feather (76) scent
+  * Talk to Malshige for Beautiful Feather (77) scent
 ---
 #### Boris to Gigili Village [Down 2] &gt; North Sandy Desert
 ---
@@ -390,16 +399,16 @@
   * Split when entering the door to the hideout</Note>
     </Split>
     <Split>
-      <Name>Sniff Master Medal</Name>
+      <Name>Enter Kunka Ruins</Name>
       <Note>#### Boris to Rune Village [Down 4]
 ---
-* Talk to Tancredi by Rune Caverns for Hat (77) scent
+* Talk to Tancredi by Rune Caverns for Hat (78) scent
 * Go to Rune Caverns and scare cobra for Hat, return to Tancredi
-  * There is very often Star Fruit in this room as well
+  * Star Fruit in this room as well (79)
 ---
 #### Boris to Gola [Up 4] 
 ---
-* Talk to Tao for Second Book of the Sniff Master (78) scent
+* Talk to Tao for Second Book of the Sniff Master (80) scent
 ---
 #### Boris to Rune Village [Up 4]
 ---
@@ -417,7 +426,11 @@
 #### Boris to Rune Village [Up 4] &gt; Rune Canyon
 ---
 * Hug left wall and go forward, stop at fishing spot
-* Fish for Ancient Fish
+* Fish for Ancient Fish</Note>
+    </Split>
+    <Split>
+      <Name>Sniff Master Medal</Name>
+      <Note>
 ## Ruins
 * Enter ruins and follow path, place Ancient Fish on pedestal when prompted
 * Door opens in the same room to the left, go inside and down stairs
@@ -432,7 +445,7 @@
 </Note>
     </Split>
     <Split>
-      <Name>Zombie T-Rex</Name>
+      <Name>Enter Boss</Name>
       <Note>## Run Caverns
 ---
 #### Boris to Rune Village [Up 4] &gt; Rune Caverns
@@ -474,10 +487,12 @@
 * Fish for Ancient Fish
 * Place fish on pedestal at end of hall (watch out for cobra in blindspot around corner)
 * Continue downstairs
+</Note>
+    </Split>
+    <Split>
+      <Name>Zombie T-Rex</Name>
+      <Note>## T-Rex
 
-## T-Rex
-
-* Jump on the center platform to open the door
 * Sniff to find the correct button each time and jump on each of them
 * After all four buttons, dig in the middle of the room
 * Split on fade to black</Note>

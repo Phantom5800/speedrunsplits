@@ -4,7 +4,7 @@
   <X>122</X>
   <Y>155</Y>
   <VerticalWidth>810</VerticalWidth>
-  <VerticalHeight>954</VerticalHeight>
+  <VerticalHeight>858</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -75,7 +75,7 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <CounterText>Extra Scents (25):</CounterText>
+        <CounterText>Extra Scents (20):</CounterText>
         <InitialValue>0</InitialValue>
         <Increment>1</Increment>
         <IncrementKey>ControlKey</IncrementKey>
@@ -230,20 +230,24 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.PreviousSegment.dll</Path>
+      <Path>LiveSplit.Delta.dll</Path>
       <Settings>
-        <Version>1.6</Version>
+        <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
+        <Accuracy>Tenths</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>800D0D0D</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
-        <DropDecimals>True</DropDecimals>
-        <Comparison>Current Comparison</Comparison>
+        <Comparison>Best Split Times</Comparison>
         <Display2Rows>False</Display2Rows>
-        <ShowPossibleTimeSave>False</ShowPossibleTimeSave>
-        <TimeSaveAccuracy>Tenths</TimeSaveAccuracy>
+        <DropDecimals>True</DropDecimals>
+        <OverrideText>False</OverrideText>
+        <DifferentialText>False</DifferentialText>
+        <CustomText>
+        </CustomText>
+        <CustomTextAhead>
+        </CustomTextAhead>
       </Settings>
     </Component>
     <Component>
@@ -262,18 +266,19 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.Delta.dll</Path>
+      <Path>LiveSplit.RunPrediction.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
         <OverrideTextColor>False</OverrideTextColor>
-        <Accuracy>Tenths</Accuracy>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
         <BackgroundColor>00FFFFFF</BackgroundColor>
-        <BackgroundColor2>800D0D0D</BackgroundColor2>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <Comparison>Best Split Times</Comparison>
+        <Comparison>Best Segments</Comparison>
         <Display2Rows>False</Display2Rows>
-        <DropDecimals>True</DropDecimals>
       </Settings>
     </Component>
     <Component>
@@ -294,6 +299,7 @@
         <FilterVariables>True</FilterVariables>
         <FilterSubcategories>True</FilterSubcategories>
         <TimingMethod>Default for Leaderboard</TimingMethod>
+        <PrecisionType>FromLeaderboard</PrecisionType>
       </Settings>
     </Component>
     <Component>
@@ -314,6 +320,7 @@
         <OverrideFont1>False</OverrideFont1>
         <OverrideFont2>False</OverrideFont2>
         <Display2Rows>False</Display2Rows>
+        <CustomVariable>False</CustomVariable>
       </Settings>
     </Component>
     <Component>
