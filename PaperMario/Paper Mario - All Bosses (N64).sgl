@@ -27,7 +27,7 @@
 </Note>
     </Split>
     <Split>
-      <Name>Koopa Bros.</Name>
+      <Name>-Pit</Name>
       <Note>* Coin block [17]
 * Fright Jar
 * POW
@@ -64,7 +64,11 @@
 0. First Strike Bomb
 1. Bomb
     1. Power Jump / Untimed Body Slam if Fright Jar Fail
-
+</Note>
+    </Split>
+    <Split>
+      <Name>Koopa Bros.</Name>
+      <Note>
 * Fire Bar coins [45]
 * Fortress Key
 * Fortress Key behind bomb wall
@@ -432,6 +436,7 @@
       <Note>* Repel gel behind tree
 * Upgrade Kooper when leaving 7 [Down 1]
 * Swap to Laki [Up 2]
+* Sewers Shooting Star
 * Go to volcano
 * Fire bar peril
 * LPOOB
@@ -536,6 +541,8 @@
 4. Bounce x4 on tail / Do Nothing (Swap to Bombette if double 4 cap)
 5. Jump x1 if double 4 capped
 
+If you stunned with Dizzy Shell always swap to Bombette on T3, on double 4 cap, Bomb
+
 ### Koopatrol Key Fight
 1. Untimed Power Quake / Power Bomb
 
@@ -584,7 +591,7 @@
       <Note>* Get and Eat Maple [Mash A]
 * Switch to Bombette before duplighosts
 ### Duplighosts
-1. Power Quake / Power Bomb
+1. Power Quake / Power Bomb (5 damage saves 4.5 frames)
 
 * Level Up: BP
   * 15 / 30 / 18
