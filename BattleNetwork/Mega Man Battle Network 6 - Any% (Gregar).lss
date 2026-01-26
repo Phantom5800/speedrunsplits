@@ -3,7 +3,7 @@
   <GameIcon />
   <GameName>Mega Man Battle Network 6</GameName>
   <CategoryName>Any%</CategoryName>
-  <LayoutPath>C:\Git\Splits\WiiU-GBA-Layout.lsl</LayoutPath>
+  <LayoutPath>C:\Git\Splits\BattleNetwork\BN6-Layout.lsl</LayoutPath>
   <Metadata>
     <Run id="" />
     <Platform usesEmulator="False">Game Boy Interface</Platform>

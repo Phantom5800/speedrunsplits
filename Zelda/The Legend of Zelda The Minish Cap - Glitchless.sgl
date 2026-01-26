@@ -7,10 +7,6 @@
 - Split when entering dungeon</Note>
     </Split>
     <Split>
-      <Name>-Gust Jar</Name>
-      <Note />
-    </Split>
-    <Split>
       <Name>{Earth Element}Big Green Chu</Name>
       <Note />
     </Split>
@@ -20,40 +16,28 @@
 - 20 rupee with sword after green water</Note>
     </Split>
     <Split>
-      <Name>-Cane of Pacci</Name>
-      <Note />
-    </Split>
-    <Split>
       <Name>{Fire Element}Gleerok</Name>
       <Note>- 50 rupee chest
 - Try to leave with 60 rupees</Note>
-    </Split>
-    <Split>
-      <Name>-Pegasus Boots</Name>
-      <Note />
     </Split>
     <Split>
       <Name>-Enter Castor Wilds</Name>
       <Note />
     </Split>
     <Split>
-      <Name>Castor Wilds</Name>
+      <Name>{Castor Wilds}Enter Fortress of Winds</Name>
       <Note />
     </Split>
     <Split>
-      <Name>-Mole Mitts</Name>
+      <Name>-Enter Mazaal</Name>
       <Note />
     </Split>
     <Split>
-      <Name>-Fortress of Winds</Name>
+      <Name>{Fortress of Winds}Ocarina</Name>
       <Note />
     </Split>
     <Split>
-      <Name>Ocarina</Name>
-      <Note />
-    </Split>
-    <Split>
-      <Name>-Power Bracelets</Name>
+      <Name>Power Bracelets</Name>
       <Note />
     </Split>
     <Split>
@@ -77,24 +61,11 @@
 ![](C:/Git/Splits/Zelda/images/tmc/Octo1Roll.png)</Note>
     </Split>
     <Split>
-      <Name>-Graveyard</Name>
-      <Note>* Haunted Woods:
-  * Up
-  * Left x2
-  * Up
-  * Right
-  * Up</Note>
-    </Split>
-    <Split>
-      <Name>-Enter Cloudtops</Name>
-      <Note />
+      <Name>Enter Cloudtops</Name>
+      <Note>Path: ULLURU</Note>
     </Split>
     <Split>
       <Name>Enter Palace of Winds</Name>
-      <Note />
-    </Split>
-    <Split>
-      <Name>-Cape</Name>
       <Note />
     </Split>
     <Split>
@@ -106,7 +77,7 @@
       <Note />
     </Split>
     <Split>
-      <Name>Wind Element</Name>
+      <Name>{Wind Element}Gyorg</Name>
       <Note />
     </Split>
     <Split>

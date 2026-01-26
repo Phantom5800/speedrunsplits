@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>31</X>
-  <Y>64</Y>
+  <X>40</X>
+  <Y>66</Y>
   <VerticalWidth>800</VerticalWidth>
   <VerticalHeight>1231</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -358,7 +358,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>19</FontSize>
+        <FontSize>12</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -367,10 +367,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>837</WindowPos.X>
-        <WindowPos.Y>72</WindowPos.Y>
-        <WindowSize.Width>830</WindowSize.Width>
-        <WindowSize.Height>1227</WindowSize.Height>
+        <WindowPos.X>846</WindowPos.X>
+        <WindowPos.Y>67</WindowPos.Y>
+        <WindowSize.Width>746</WindowSize.Width>
+        <WindowSize.Height>1232</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
