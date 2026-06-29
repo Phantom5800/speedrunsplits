@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>122</X>
-  <Y>155</Y>
+  <X>6</X>
+  <Y>11</Y>
   <VerticalWidth>810</VerticalWidth>
-  <VerticalHeight>858</VerticalHeight>
+  <VerticalHeight>960</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -66,7 +66,7 @@
       <Path>LiveSplit.Counter.dll</Path>
       <Settings>
         <Version>1.0</Version>
-        <GlobalHotkeysEnabled>False</GlobalHotkeysEnabled>
+        <GlobalHotkeysEnabled>True</GlobalHotkeysEnabled>
         <OverrideCounterFont>False</OverrideCounterFont>
         <OverrideTextColor>False</OverrideTextColor>
         <CounterFont><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0uRHJhd2luZy5Gb250BAAAAAROYW1lBFNpemUFU3R5bGUEVW5pdAEABAQLGFN5c3RlbS5EcmF3aW5nLkZvbnRTdHlsZQIAAAAbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AgAAAAIAAAAGAwAAAAhTZWdvZSBVSQAAUEEF/P///xhTeXN0ZW0uRHJhd2luZy5Gb250U3R5bGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAABfv///8bU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NVbml0AQAAAAd2YWx1ZV9fAAgCAAAAAgAAAAs=]]></CounterFont>
@@ -75,12 +75,12 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>40000000</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <CounterText>Extra Scents (20):</CounterText>
+        <CounterText>Extra Scents (23):</CounterText>
         <InitialValue>0</InitialValue>
         <Increment>1</Increment>
-        <IncrementKey>ControlKey</IncrementKey>
-        <DecrementKey>Subtract</DecrementKey>
-        <ResetKey>H</ResetKey>
+        <IncrementKey>NumPad1</IncrementKey>
+        <DecrementKey>NumPad2</DecrementKey>
+        <ResetKey>NumPad7</ResetKey>
       </Settings>
     </Component>
     <Component>
@@ -90,7 +90,7 @@
         <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>E1A005B0</CurrentSplitTopColor>
         <CurrentSplitBottomColor>DD5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>8</VisualSplitCount>
+        <VisualSplitCount>10</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -354,7 +354,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>1</OutputDevice>
+        <OutputDevice>3</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -377,7 +377,10 @@
       <Settings>
         <Version>1.0.0</Version>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+        <IsToastEnabled>True</IsToastEnabled>
+        <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>
     <Component>
@@ -385,7 +388,7 @@
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>12</FontSize>
+        <FontSize>20</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -394,10 +397,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>939</WindowPos.X>
-        <WindowPos.Y>156</WindowPos.Y>
-        <WindowSize.Width>816</WindowSize.Width>
-        <WindowSize.Height>1169</WindowSize.Height>
+        <WindowPos.X>819</WindowPos.X>
+        <WindowPos.Y>16</WindowPos.Y>
+        <WindowSize.Width>807</WindowSize.Width>
+        <WindowSize.Height>1347</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
