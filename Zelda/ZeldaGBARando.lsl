@@ -112,7 +112,7 @@
       <Settings />
     </Component>
     <Component>
-      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Path>LiveSplit.ComparisonTime.dll</Path>
       <Settings>
         <Version>1.4</Version>
         <TextColor>FFFFFFFF</TextColor>
@@ -123,7 +123,10 @@
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Personal Best</Comparison>
+        <TimingMethod>Current Timing Method</TimingMethod>
         <Display2Rows>False</Display2Rows>
+        <Type>FinalTime</Type>
       </Settings>
     </Component>
     <Component>

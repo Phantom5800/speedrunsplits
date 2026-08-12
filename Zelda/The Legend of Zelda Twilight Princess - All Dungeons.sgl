@@ -192,7 +192,9 @@
 * Open small key door on west side
 * Ladder Freeezard Cancel
 * Bedroom key
-* Blizzeta</Note>
+* Blizzeta
+
+- 70R at this point is exactly 300 with no extras</Note>
     </Split>
     <Split>
       <Name>-Enter Goron Mines</Name>
@@ -269,40 +271,8 @@
 - Enter Arbiter's</Note>
     </Split>
     <Split>
-      <Name>-Poe Door</Name>
-      <Note>- Pull chain
-- Small key
-  - Lantern / Boomerang
-- Torch room
-- Enter left room
-- LJA through room
-- Stalfos with Ball &amp; Chain
-- Front and left torches
-- Poe 4
-- Poe Scent
-- Leave room
-- Jump to other side using chandelier
-- Push metal box 4 times and open rupee chest (65+)
-- Main room
-- Dig and pull chain
-- Small key
-- Redead rupee drop (85+)
-  - Clawshot / Ball &amp; Chain
-- Poe 2
-- Main room
-- Left room again
-- Destroyed stairs near metal box
-- Cross main room over chandelier
-- Poe 3 room backwards
-- Back to main room and big door</Note>
-    </Split>
-    <Split>
-      <Name>-Spinny</Name>
-      <Note>- Boss Key early
-- Backwards spinner room
-- Bomb chest before door
-- Kill 3 stalfos
-- Death Sword</Note>
+      <Name>-Enter Stallord</Name>
+      <Note />
     </Split>
     <Split>
       <Name>Arbiter's Grounds</Name>
@@ -348,13 +318,6 @@
 - BA both Armos
   - Ball &amp; Chain / Bomb Arrows
 - Darknut</Note>
-    </Split>
-    <Split>
-      <Name>-Door of Time Skipped</Name>
-      <Note>- Savewarp
-  - Dominion Rod / Bow
-- Door of Time skip
-</Note>
     </Split>
     <Split>
       <Name>Temple of Time</Name>

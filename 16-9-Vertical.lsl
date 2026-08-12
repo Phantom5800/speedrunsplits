@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>67</X>
   <Y>161</Y>
-  <VerticalWidth>345</VerticalWidth>
-  <VerticalHeight>1044</VerticalHeight>
+  <VerticalWidth>347</VerticalWidth>
+  <VerticalHeight>1069</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -88,7 +88,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>47</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>17.8</SplitHeight>
+        <SplitHeight>19.6</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -350,7 +350,10 @@
       <Settings>
         <Version>1.0.0</Version>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+        <IsToastEnabled>True</IsToastEnabled>
+        <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>
   </Components>

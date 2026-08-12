@@ -4,7 +4,7 @@
   <X>40</X>
   <Y>66</Y>
   <VerticalWidth>800</VerticalWidth>
-  <VerticalHeight>1231</VerticalHeight>
+  <VerticalHeight>1229</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -63,13 +63,18 @@
       </Settings>
     </Component>
     <Component>
+      <Path>
+      </Path>
+      <Settings />
+    </Component>
+    <Component>
       <Path>LiveSplit.Subsplits.dll</Path>
       <Settings>
         <Version>1.7</Version>
         <AutomaticAbbreviation>False</AutomaticAbbreviation>
         <CurrentSplitTopColor>C86E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF5C0066</CurrentSplitBottomColor>
-        <VisualSplitCount>11</VisualSplitCount>
+        <VisualSplitCount>12</VisualSplitCount>
         <SplitPreviewCount>3</SplitPreviewCount>
         <MinimumMajorSplits>0</MinimumMajorSplits>
         <DisplayIcons>True</DisplayIcons>
@@ -88,7 +93,7 @@
         <LockLastSplit>True</LockLastSplit>
         <IconSize>28</IconSize>
         <IconShadows>True</IconShadows>
-        <SplitHeight>4.4</SplitHeight>
+        <SplitHeight>3.8</SplitHeight>
         <CurrentSplitGradient>Plain</CurrentSplitGradient>
         <BackgroundColor>8041197B</BackgroundColor>
         <BackgroundColor2>0041177B</BackgroundColor2>
@@ -127,7 +132,7 @@
         <HeaderTextColor>FFFFFFFF</HeaderTextColor>
         <HeaderTimesColor>FFFFFFFF</HeaderTimesColor>
         <SectionTimerColor>FF777777</SectionTimerColor>
-        <ShowColumnLabels>True</ShowColumnLabels>
+        <ShowColumnLabels>False</ShowColumnLabels>
         <LabelsColor>FFFFFFFF</LabelsColor>
         <Columns>
           <Settings>
@@ -142,13 +147,6 @@
             <Name>Time</Name>
             <Type>SplitTime</Type>
             <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
-          </Settings>
-          <Settings>
-            <Version>1.5</Version>
-            <Name>Gold</Name>
-            <Type>SegmentDeltaorSegmentTime</Type>
-            <Comparison>Best Segments</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
@@ -350,7 +348,10 @@
       <Settings>
         <Version>1.0.0</Version>
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+        <IsToastEnabled>True</IsToastEnabled>
+        <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>
     <Component>

@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<Guide xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Splits>
+    <Split>
+      <Name>Become Dog</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>S&amp;S Skip Skip</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Faron Twilight</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ending Blow</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Boomerang</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Forest Temple</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Eldin Vessel</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Eldin Twilight</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Iron Boots</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Goron Mines</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Bow</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Goron Mines</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Lanayru Vessel</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Lanayru Twilight</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Zora Armor</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Lakebed Temple</Name>
+      <Note>* Buy 10 water bombs
+   * 15 if &gt;90R</Note>
+    </Split>
+    <Split>
+      <Name>-Clawshot</Name>
+      <Note>* Water Bomb chest at start if bought less than 15 bombs
+* Bomb arrow stalactites
+* Downstairs and left to 2nd lever
+* Upstairs and left to first lever
+* Downstairs to small key 1
+* Back up and right to locked door
+* Shoot stalactite and climb vines
+* Bomb arrow rock
+* Deku Toad</Note>
+    </Split>
+    <Split>
+      <Name>Lakebed</Name>
+      <Note>* Small key outside Deku Toad
+* Central room clawshot over fence with vines
+* Right to clawshot switch
+* East water level
+* Central room and down stairs
+* First chest is 10 water bombs
+* Clawshot across to maze room
+* Boss key and save warp
+* Clawshot chandelier and drop down to boss door</Note>
+    </Split>
+    <Split>
+      <Name>Midna's Desperate Hour</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Master Sword</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Arbiter's Grounds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Poe Door</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Spinny</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Arbiter's Grounds</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter Snowpeak</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Ball &amp; Chain</Name>
+      <Note>* Yeta
+* Yeto
+* Pumpkin
+* Yeto
+* Yeta
+* Snow small key
+* Canon to kill Freezard
+* Darkhammer</Note>
+    </Split>
+    <Split>
+      <Name>Snowpeak Ruins</Name>
+      <Note>* Save Warp
+* Early 2F B&amp;C
+* Door past chilfos
+* Door to puzzle room
+* Enter pumpkin room
+* Early 2F B&amp;C
+* Get small key
+* Back to mini freezard room and open locked door
+* Kill Freezards and move blocks
+* Kill other Freezards
+* Bring canon ball from outside all the way up and over and around to kill LFC Freezard outside
+* Drop all water bombs
+* Boss Key</Note>
+    </Split>
+    <Split>
+      <Name>Enter Temple of Time</Name>
+      <Note>* Grove bomb chest (empty bomb bag first)</Note>
+    </Split>
+    <Split>
+      <Name>-Dominion Rod</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Door of Time Opened Normally</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Temple of Time</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Wooden Statue</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Sky Book</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Enter City</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Double Clawshot</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>City in the Sky</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Light Sword</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>-Enter Zant</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Palace of Twilight</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Hyrule Castle</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Zelda</Name>
+      <Note />
+    </Split>
+    <Split>
+      <Name>Ganondorf</Name>
+      <Note />
+    </Split>
+  </Splits>
+  <Name>The Legend of Zelda: Twilight Princess</Name>
+  <Category>Glitchless</Category>
+</Guide>
