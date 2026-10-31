@@ -7,32 +7,29 @@
     </Split>
     <Split>
       <Name>Meadow Zone</Name>
-      <Note>* **Chikorita**
-* **Bulbasaur** - Use Pikachu
+      <Note>* **Bulbasaur's Daring Dash** - Use Pikachu
 
 - Talk to Treecko on bridge
 - **Munchlax** (Big Berry)
+- **Turtwig**
+- **Pachirisu**
 
-* **Turtwig**
-* **Pachirisu**
-* **Buneary**
+* **Bulbasaur's Daring Dash** - Use Turtwig
 
-- Bulbasaur - Use Turtwig
+- **Mankey**
+- **Oddish**
 
-* **Lotad** (near river for quick kill)
-* **Mankey**
-* **Oddish**
+* Talk to Croagunk, enter gate
+* Talk to Venusar and leave
 
-- Talk to **Croagunk**, enter gate
-- Talk to Venusar and leave
+- Towards Obstacle Hop
+  - Fast **Treecko**
+  - **Spearow**
+  - **Treecko** if not earlier
 - **Croagunk**
 
-* Towards Obstacle Hop
-  * **Treecko** if in the way
-  * **Spearow**
-
-- Vensaur - Use Mankey
-- Go to Meeting Place</Note>
+* **Vensaur's Vine Swing** - Use Mankey
+* Go to Meeting Place</Note>
     </Split>
     <Split>
       <Name>Meeting Place</Name>
@@ -50,16 +47,18 @@
       <Note># Beach Zone
 
 - **Psyduck** or **Buizel** immediately
-- Get 6 of the following at some point (7 if no Treecko):
-  * **Azurill**
-  * **Wingull**
-  * **Pidgeotto**
-  * **Staravia**
-  * **Starly**
-  * **Totodile**
-  * Slowpoke
-  * Taillow
-  * Mudkip
+- Get 6 of the following at some point (need 100 berries):
+  * **Azurill** (20)
+  * **Pidgeotto** (20)
+  * **Staravia** (20)
+  * **Starly** (10)
+  * **Totodile** (20)
+  * Slowpoke (10)
+  * Mudkip [in Iceberg] (10)
+  * Taillow (20)
+  * Wingull (20)
+  * Bibarel (30)
+  * Piloswine [iceberg] (20)
 
 * Corsola quiz
 * TALK TO FERALIGATR
@@ -70,8 +69,6 @@
 # Meadow Zone
 * Bidoof lumber
 * **Chimchar**
-* **Shinx**
-* **Bibarel**
 
 - Talk to Bidoof after Bibarel shows up
 - Back to Beach Zone
@@ -88,10 +85,14 @@
     <Split>
       <Name>Iceberg Zone</Name>
       <Note>- Go mid all the way to Piloswine
+  - If got Slowpoke, get **Mudkip** if on the way (unless at 8 already)
 - Turn around, go right path
 - Get 3 Ice Blocks for Glalie
+  - Back wall (to activate cutscene and give)
+  - Right
+  - Left
 
-* **Teddiursa** (must be the chase game)
+* **Teddiursa** (chase or quiz)
 * **Ursaring**
 
 - Take middle path towards ice tree
@@ -106,12 +107,27 @@
 - **Glalie**
 - **Mamoswine**
 - Empoleon - Use Glalie
+  - 1370-1375 berries after minigame
+  - Backups:
+    - 10 = crate by Drifblim
+    - 20 = Piloswine
 - Take Drifblim to Meeting Place</Note>
     </Split>
     <Split>
       <Name>Burmy + Dash</Name>
       <Note># Meeting Place
-* Go up treehouse to get **Burmy** on the second floor
+* Optional: Go up treehouse to get **Burmy** on the second floor
+
+| "Optional" Friends | Burmy |
+|-|-|
+| 5 | Required |
+| 6 | Skip = All 4 optionals + Bonsly + Sudowoodo |
+|    | Get = 3 wandering optionals + Bonsly + Sudowoodo |
+| 7 | Skip = 3 optionals + Bonsly + Sudowoodo |
+|    | Get = 4 optionals or 2 + Bonsly + Sudowoodo |
+| 8 | Skip = 4 optionals or 2 + Bonsly + Sudowoodo |
+|    | Get = 3 optionals or 1 + Bonsly + Sudowoodo |
+
 * Ponyta upgrade Dash twice
 * Cavern Zone (Cranidos)
 </Note>
@@ -120,17 +136,22 @@
       <Name>Cavern Zone</Name>
       <Note># Cavern Zone
 * Mr. Mime
-* Right path towards Mawile
-* Take second left, break crate far back and give iron to **Aron**
+* Towards Mawile
+* Immediate left
+  * _Meowth or Geodude (wandering, Meowth first if both)_
+* Curve right past Bastiodon
+* _Bonsly + Sudowoodo before tunnel to Cranidos_
+* **Aron**
 * **Mawile** chase
 * Turn around for **Dugtrio**
-* Break crate with **Magnemite** inside (far left)
+* Break crate with **Magnemite** inside (dash up+left after dugtrio)
 
 - Take the far back path around
   - **Magnemite**
   - **Cranidos**
+    - Can replace with **Scizor** IF you have Meowth, Geodude, Bonsly AND Sudowoodo
 - **Marowak**
-- **Diglett** in right crate
+- Diglett in right crate
 - big berry in left crate
   - bring berry towards snorlax, fall off ramp to drop it
   - thunderbolt snorlax, give berry
@@ -139,12 +160,11 @@
 
 * **Gible**
 * Run through and around towards Bastiodon
-  * **Torchic**
-  * **Raichu**
   * **Drifblim** (do not take, just talk)
   * **Diglett**
-  * Can skip one of these because of Burmy
-* Bastiodon - Use Raichu (4k)
+  * _Raichu and/or Torchic if needed_
+* **Bastiodon's Block Barrage** - Use Pikachu or Sudowoodo (4k)
+  * Need 50 total friends
 
 - Talk to **Dugtrio**
 - Minecart to Lava Zone</Note>
@@ -152,7 +172,6 @@
     <Split>
       <Name>Lava Zone</Name>
       <Note>* Go down hill to Camerupt
-* **Magby** (chase minigame by drill)
 * **Hitmontop**
 
 - Get iron from drill -&gt; Straight
@@ -162,10 +181,10 @@
 
 * Charmander on spiral path
 * Meditite quiz
-* Ponyta chase
 * Farfetch'd
 
-- Blaziken - Use Pikachu (8k)
+- Blaziken - Use Pikachu (5-5.9k)
+- Dash down+left after minigame
 - Save &amp; Quit after leaving Blaziken's room
 - Drifblim -&gt; Meeting Place</Note>
     </Split>
@@ -173,17 +192,18 @@
       <Name>Haunted Zone</Name>
       <Note># Meeting Place
 * Ponyta -&gt; Double Dash
+* Mime Jr. + Burmy
 * Duskull
 
 # Haunted Zone
-- Tangrowth - Use Raichu
+- Tangrowth - Use Raichu or Pikachu
 - Talk to Drifloon, enter mansion
 
 * Follow Duskull
 * Follow Gastly
-  * Chase **Gastly**
-* Gengar painting in next room
-* Dusknoir - Use Cranidos
+  * Chase **Gastly** (if Burmy was before Cavern Zone)
+* Gengar cutscene in next room
+* Dusknoir - Use Cranidos / Scizor
 
 - Turn around and talk to Dusknull
 - Go to Piano
@@ -199,9 +219,10 @@
 - Put book on shelf
 - Rotom - Use Abra (5k)
 
-* Electrode if he's in your way out of the mansion
-* Kakuna and Metapod in trees outside (skip one if Electrode)
-* Drifloon
+* **Electrode** if he's in your way out of the mansion
+  * Run upstairs to **Spinarak** otherwise
+* **Drifloon**
+* **Kakuna** and **Metapod** in trees outside
 
 - Leave</Note>
     </Split>
@@ -212,7 +233,8 @@
 * Talk to Skorupi and enter Granite Zone
 
 # Granite Zone
-* Absol -&gt; Use Ponyta
+* **Lopunny**
+* Absol -&gt; Use Lopunny
 * Hit switch to rotate bridge
   * Cross bridge and HIT SWITCH AGAIN
 
@@ -227,6 +249,7 @@
 - Hit switch
 - Take zipline to Togekiss
 - Do Togekiss and zipline back
+- **Skorupi** on the way back
 
 * Drifblim back by Flygon
 
@@ -238,6 +261,7 @@
 # Granite Zone
 * Talk to Flygon
 * Salamence -&gt; Use Togekiss
+  * 80 friend gate
 * Go to Flower Zone</Note>
     </Split>
     <Split>

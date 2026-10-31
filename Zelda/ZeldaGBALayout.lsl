@@ -2,9 +2,9 @@
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
   <X>101</X>
-  <Y>48</Y>
-  <VerticalWidth>765</VerticalWidth>
-  <VerticalHeight>1252</VerticalHeight>
+  <Y>47</Y>
+  <VerticalWidth>772</VerticalWidth>
+  <VerticalHeight>1248</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -350,7 +350,6 @@
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-        <IsToastEnabled>True</IsToastEnabled>
         <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>

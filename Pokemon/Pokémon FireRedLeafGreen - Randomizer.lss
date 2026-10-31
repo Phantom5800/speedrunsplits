@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Pokémon FireRed/LeafGreen</GameName>
+  <CategoryName>Randomizer</CategoryName>
+  <LayoutPath>C:\Git\Splits\Zelda\ZeldaGBARando.lsl</LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">Game Boy Interface</Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>2</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="10/10/2026 18:03:24" isStartedSynced="True" ended="10/10/2026 21:38:29" isEndedSynced="True">
+      <RealTime>03:35:04.8347921</RealTime>
+    </Attempt>
+    <Attempt id="2" started="10/10/2026 21:45:26" isStartedSynced="True" ended="10/11/2026 00:21:30" isEndedSynced="True">
+      <RealTime>02:36:03.5478299</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Personal Best</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>02:36:03.5478299</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>02:36:03.5478299</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>03:35:04.8347921</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>02:36:03.5478299</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -371,7 +371,6 @@
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-        <IsToastEnabled>True</IsToastEnabled>
         <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>

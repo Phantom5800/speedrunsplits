@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>-3414</X>
-  <Y>82</Y>
+  <X>39</X>
+  <Y>25</Y>
   <VerticalWidth>905</VerticalWidth>
   <VerticalHeight>897</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -239,7 +239,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>1</OutputDevice>
+        <OutputDevice>3</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -331,11 +331,21 @@
       </Settings>
     </Component>
     <Component>
+      <Path>LiveSplit.TheRun.dll</Path>
+      <Settings>
+        <Version>1.0.0</Version>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
+        <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
+      </Settings>
+    </Component>
+    <Component>
       <Path>SpeedGuidesLive.dll</Path>
       <Settings>
         <Version>1.3.1</Version>
         <FontName>Consolas</FontName>
-        <FontSize>22</FontSize>
+        <FontSize>12</FontSize>
         <BGColor.R>16</BGColor.R>
         <BGColor.G>16</BGColor.G>
         <BGColor.B>16</BGColor.B>
@@ -344,19 +354,11 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>-2501</WindowPos.X>
-        <WindowPos.Y>77</WindowPos.Y>
-        <WindowSize.Width>1021</WindowSize.Width>
-        <WindowSize.Height>1182</WindowSize.Height>
+        <WindowPos.X>949</WindowPos.X>
+        <WindowPos.Y>44</WindowPos.Y>
+        <WindowSize.Width>807</WindowSize.Width>
+        <WindowSize.Height>1288</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
-      </Settings>
-    </Component>
-    <Component>
-      <Path>LiveSplit.TheRun.dll</Path>
-      <Settings>
-        <Version>1.0.0</Version>
-        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
-        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>

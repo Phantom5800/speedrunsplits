@@ -336,10 +336,10 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>899</WindowPos.X>
-        <WindowPos.Y>122</WindowPos.Y>
-        <WindowSize.Width>681</WindowSize.Width>
-        <WindowSize.Height>867</WindowSize.Height>
+        <WindowPos.X>909</WindowPos.X>
+        <WindowPos.Y>105</WindowPos.Y>
+        <WindowSize.Width>691</WindowSize.Width>
+        <WindowSize.Height>874</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
       </Settings>
     </Component>
@@ -371,7 +371,6 @@
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-        <IsToastEnabled>True</IsToastEnabled>
         <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>

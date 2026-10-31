@@ -3,7 +3,7 @@
   <Mode>Vertical</Mode>
   <X>27</X>
   <Y>34</Y>
-  <VerticalWidth>790</VerticalWidth>
+  <VerticalWidth>803</VerticalWidth>
   <VerticalHeight>1296</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
@@ -350,7 +350,6 @@
         <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
         <IsUploadOnResetEnabled>True</IsUploadOnResetEnabled>
         <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
-        <IsToastEnabled>True</IsToastEnabled>
         <IsLayoutPathUploadEnabled>False</IsLayoutPathUploadEnabled>
       </Settings>
     </Component>
@@ -368,8 +367,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>822</WindowPos.X>
-        <WindowPos.Y>35</WindowPos.Y>
+        <WindowPos.X>833</WindowPos.X>
+        <WindowPos.Y>40</WindowPos.Y>
         <WindowSize.Width>749</WindowSize.Width>
         <WindowSize.Height>1293</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
