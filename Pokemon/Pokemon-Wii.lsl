@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>161</X>
-  <Y>120</Y>
+  <X>23</X>
+  <Y>170</Y>
   <VerticalWidth>730</VerticalWidth>
   <VerticalHeight>868</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -72,7 +72,7 @@
       <Settings>
         <Version>1.7</Version>
         <AutomaticAbbreviation>False</AutomaticAbbreviation>
-        <CurrentSplitTopColor>E1A005B0</CurrentSplitTopColor>
+        <CurrentSplitTopColor>E16E1F76</CurrentSplitTopColor>
         <CurrentSplitBottomColor>DD5C0066</CurrentSplitBottomColor>
         <VisualSplitCount>7</VisualSplitCount>
         <SplitPreviewCount>2</SplitPreviewCount>
@@ -289,7 +289,7 @@
         </Resume>
         <StartTimer>
         </StartTimer>
-        <OutputDevice>1</OutputDevice>
+        <OutputDevice>3</OutputDevice>
         <SplitVolume>100</SplitVolume>
         <SplitAheadGainingVolume>100</SplitAheadGainingVolume>
         <SplitAheadLosingVolume>100</SplitAheadLosingVolume>
@@ -336,8 +336,8 @@
         <TXTColor.B>255</TXTColor.B>
         <ActiveSplitTxtPath>
         </ActiveSplitTxtPath>
-        <WindowPos.X>909</WindowPos.X>
-        <WindowPos.Y>105</WindowPos.Y>
+        <WindowPos.X>758</WindowPos.X>
+        <WindowPos.Y>170</WindowPos.Y>
         <WindowSize.Width>691</WindowSize.Width>
         <WindowSize.Height>874</WindowSize.Height>
         <MarkdownEnabled>True</MarkdownEnabled>
